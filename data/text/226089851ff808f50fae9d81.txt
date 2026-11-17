@@ -1,0 +1,61 @@
+juli
+ma 1 Cie BOEG 1 1 Cie BOEG ma
+di 2 Cie SFB 2 1 Cie SFB 2 Cie SFB di
+wo 3 3 RRB 2 SED-raden 1 3 1 RRB wo
+do 4 4 1 3 1 2 4 2 do
+vr 1 5 5 2 4 2 3 1 5 3 vr
+za 2 6 6 3 1 5 3 4 2 6 4 za
+zo 3 7 7 4 2 6 4 1 5 3 7 5 zo
+ma 4 8 8 Cie BOEG 5 Cie BOEG 3 7 Auditcommissie 5 2 6 Cie BOEG 4 Cie BOEG 8 6 Klankbord ma
+di 5 9 Thema-avond 9 Cie SFB 6 Cie SFB 4 8 Presidium 6 Raad-Kadernota 3 7 Cie SFB 5 Cie SFB 9 Raad Begroting 7 Thema-avond di
+wo 6 10 Auditcommissie 10 7 5 Bevrijdingsdag 9 7 4 8 6 10 8 wo
+do 7 Nieuwjaarsreceptie 11 11 8 6 Hemelvaart 10 8 5 9 7 11 9 do
+vr 8 12 12 9 7 11 9 6 10 8 12 10 vr
+za 9 13 13 10 8 12 10 7 11 9 13 11 za
+zo 10 14 14 11 9 13 11 8 12 10 14 12 zo
+ma 11 Cie BOEG 15 15 Presidium 12 10 Cie BOEG 14 12 9 13 Presidium 11 15 Auditcommissie 13 ma
+di 12 Cie SFB 16 A.C. / Raad 16 Thema-avond 13 Thema-avond 11 Cie SFB 15 TV KN / Raad 13 10 14 Thema-avond 12 Thema-avond 16 A.C. / Presidium 14 A.C. / Raad di
+wo 13 17 17 Verkiezing PS 14 RRB 12 16 14 11 15 13 RRB 17 SED-raden 15 wo
+do 14 18 18 15 13 17 15 12 16 Harddraverij 14 18 16 do
+vr 15 19 19 16 14 18 16 13 17 15 19 17 vr
+za 16 20 20 17 15 19 17 14 18 16 20 18 za
+zo 17 21 21 18 16 Pinksteren 20 18 15 19 17 21 19 zo
+ma 18 22 22 19 17 Pinksteren 21 19 16 20 18 22 20 ma
+di 19 A.C. / Presidium 23 23 A.C. / Raad 20 A.C. / Raad 18 A.C. /Thema-avond22 VNG Congres 20 17 21 A.C. / Raad 19 23 Raad 21 di
+wo 20 SED-raden 24 24 21 19 23 VNG Congres 21 18 22 RRB 20 24 22 wo
+do 21 25 25 22 20 24 22 19 23 21 25 23 do
+vr 22 26 26 Goede vrijdag 23 21 25 23 20 24 22 26 24 vr
+za 23 27 27 24 22 26 24 21 25 23 27 25 1e Kerstdag za
+zo 24 28 28 Pasen 25 23 27 25 22 26 24 28 26 2e Kerstdag zo
+ma 25 29 Pasen 26 24 28 26 23 27 25 29 Cie BOEG 27 ma
+di 26 Raad 30 27 Koningsdag 25 Raad 29 Raad 27 24 A.C.
+28 Auditcommissie 26 Raad 30 Cie SFB 28 di
+wo 27 RRB 31 28 26 RRB 30 28 25 29 SED-Raden 27 29 wo
+do 28 27 29 26 30 28 30 do
+vr 29 28 30 27 29 31 vr
+za 30 29 31 28 30 za
+zo 31 30 29 31 zo
+ma 31 Cie BOEG 30 ma
+di 31 Opleiding di
+Raad Commissie Boeg Commissie SFB A.C.
+Presidium Auditcie SED-Raden RRB Thema-avond Klankbordgesprek
+26-jan 11-jan 12-jan 19-jan 19-jan 10-feb 20-jan 27-jan 9-feb 6-dec Voorjaarsvakantie 20-02 t/m 28-02
+16-feb 1-feb 2-feb 16-feb 15-mrt 7-jun 2-jun 3-mrt 16-mrt Goede Vrijdag 26 maart
+23-mrt 8-mrt 9-mrt 23-mrt 8-jun 28-sep 29-sep 14-apr 13-apr Pasen 28 en 29 maart
+20-apr 5-apr 6-apr 20-apr 13-sep 15-nov 17-nov 26-mei 18-mei Koningsdag 27 april
+25-mei 10-mei 11-mei 18-mei 16-nov 22-sep 14-sep Meivakantie 24-04 t/m 02-05
+15-jun 31-mei 1-jun 24-aug 13-okt 12-okt Hemelvaart 6 mei
+29-jun 6-sep 7-sep 21-sep 1-dec 7-dec Pinksteren 16 en 17 mei
+6-jul 4-okt 5-okt 16-nov Zomervakantie 10-07 t/m 22-08
+21-sep 1-nov 2-nov 14-dec Herfstvakantie 16-10 t/m 24-10
+26-okt 29-nov 30-nov Kerstvakantie 25-12 t/m 9 januari
+9-nov
+23-nov VNG Congres
+14-dec
+Vakanties
+januari februari maart
+Vergaderschema 2027 Enkhuizen
+januari februari maart april mei juni augustus september oktober
+december
+november december
+april mei september oktober novemberjuni juli augustus
