@@ -1,0 +1,85 @@
+Bijlage 2 Afschrijvingstermijnen Activanota 2026
+termijnen
+onderdeel nut oud nieuw
+Gronden en terreinen E geen afschrijving
+Bedrijfsgebouwen en woonruimten
+Nieuwbouw E 40 50
+Verbouwingen en renovatie tot € 50.000 E 15 15
+Verbouwingen en renovatie boven € 50.000 25 25
+Semi-permanente nieuwbouw E 15 15
+Grond- weg- en waterbouwkundige werken
+(Sport)velden en recreatie
+E 15
+E 30
+E 25 12
+E 25 25
+Tennisbanen (gravel en kunstgras) E 10
+Betonvelden E 50
+Recreatieterreinen E 10
+Inrichting (sport)terreinen E 10
+Speelobjecten E 15 12
+Groen (bomen en beplantingen) M 20
+Straatmeubilair E 10 15
+Hekwerken E 25
+Civiele kunstwerken
+Betonconstructie bruggen M 80
+Staalconstructie/composiet van bruggen M 50
+Houtconstructie van bruggen M 25
+Reconstructie en verbetering M 10
+Grond-, weg- en waterbouwkundige werken infrastructuur M 40
+Grond-, weg- en waterbouwkundige werken M 15
+Kademuur M 80
+Damwand
+- Hout M 30 25
+- Kunststof M 50
+- Staal M 60
+- Beton M 90 80
+Riolering
+Riolen en putten E 40
+kolken 0
+Persleidingen E 40
+Technische installaties gemalen E 0
+Bouwkundige voorzieningen gemalen E 40
+Technische installaties drukriolering E 0
+Bouwkundige voorzieningen drukriolering E 40
+Natuurgrasvelden: toplaag vervangen
+Natuurgrasvelden: volledige renovatie
+Kunstgrasvelden: toplaag vervangen
+Kunstgrasvelden: onderlaag vervangen
+Weg- en waterbouw
+Wegen M
+Asfalt M 40
+Elementenverharding M 40
+Water
+Beschoeiing (hout) M 15 25
+Beschoeiing (kunststof) M 50
+Duikers M 60
+Vervoermiddelen
+Auto’s E 8
+Materieel E 10
+Boot E 15
+Machines, apparaten en installaties
+Automatisering E 3 t/m 5
+Openbare verlichting
+- Masten M 40
+- Armaturen M 20
+- Kabel 40
+- Schakelsysteem 40
+Centrale verwarming (ketel) E 15
+Warmtepomp E 15
+Warmwatervoorzieningen E 20
+Klimaatbeheersingsysteem E 10
+(Brand)beveiligingsysteem E 15
+Zonnepanelen E 20
+(Overige) machines, apparaten, installaties E 15
+Inrichting, meubilair en overige activa E 10
+Eerste inrichting (onderwijsaccommodaties) E 15 10
+Bewegwijzering/verkeersmaatregelen M 10 10
+Ondergrondse afvalcontainers E
+- Container (binnenwerk) M 15
+- Betonput M 25
+- Toegangssystemen M 10
+Overige vaste activa E/M economische levensduur
+E = Economisch nut ;
+M = maatschappelijk nut
+Overige materiële vaste activa
