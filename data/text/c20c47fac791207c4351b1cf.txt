@@ -1,0 +1,343 @@
+Pagina 1 van 9 Paraaf:
+Aansluitovereenkomst Coöperatie
+Servicehuis Parkeer- en Verblijfsrechten
+(SHPV)
+en de gemeente Enkhuizen
+Format vastgesteld door het bestuur van SHPV op 25 april 2019
+Pagina 2 van 9 Paraaf:
+Overeenkomst tot dienstverlening door SHPV
+1.
+De Coöperatie Servicehuis Parkeer- en Verblijfsrechten U.A., statutair gevestigd in
+Voorschoten, ingeschreven in het handelsregister onder nummer 50371371,
+postadres: Postbus 346, 3500 AH Utrecht, in deze vertegenwoordigd door haar
+directeur-bestuurder, de heer M.A.
+Van den Berg, hierna te noemen “SHPV";
+en
+2. de publiekrechtelijke rechtspersoon gemeente, gevestigd te Breedstraat 53,
+Enkhuizen, in deze rechtsgeldig vertegenwoordigd door E.C. van Marle, wethouder
+Mobiliteit, daartoe gevolmachtigd op grond van artikel 171a & 171b van de
+Gemeentewet, hierna: “de Gemeente”;
+hierna afzonderlijk te noemen: Partij en gezamenlijk te noemen: Partijen;
+Overwegende dat:
+a.
+SHPV volgens haar statuten ondersteunende en bemiddelende diensten
+verleent met betrekking tot het verlenen van parkeer- en verblijfsrechten
+waaronder begrepen, het sluiten van contracten, het verzorgen en beheren van
+geld- en informatiestromen en al hetgeen daarmee verband houdt of bevorderlijk
+voor kan zijn;
+b.
+SHPV aan Gemeenten onder andere een centrale administratieve voorziening
+(hierna voorziening) aanbiedt ten behoeve van het vastleggen en raadplegen
+van rechten, voorwaarden en andere informatie ten aanzien van het verblijven
+en/of parkeren binnen bepaalde gebieden, op bepaalde terreinen of in
+parkeergarages;
+c.
+SHPV deze voorziening en diensten aanbiedt aan Gemeenten zowel bij de
+uitoefening van hun publiekrechtelijke taken en bevoegdheden (ex art.
+225
+Gemeentewet of andere gemeentelijke regulering) als bij het verrichten van
+activiteiten daarbuiten;
+d.
+SHPV door middel van de voorziening het transactieverkeer vereenvoudigt ten
+aanzien van het verkrijgen van parkeer- en verblijfsrechten en/of de financiële
+transacties die daarmee gepaard gaan, hetgeen efficiency oplevert voor zowel
+Gemeenten en Providers
+ voor Gemeenten omdat SHPV de afstemming met meer Providers regelt en
+omdat de parkeercontrole uit één database kan plaatsvinden;
+ voor Providers omdat SHPV de afstemming met aangesloten Gemeenten
+regelt;
+e. de Gemeente vanaf 1 december 2026 (livegang NPR) gebruik maakt/gebruik
+gaat maken van de voorziening en diensten van SHPV;
+f. deze overeenkomst alle voorgaande overeenkomsten tussen Partijen op dit
+gebied vervangt.
+Pagina 3 van 9 Paraaf:
+Verklaren te zijn overeengekomen als volgt:
+Artikel 1 – Bijlagen en definities
+1.1.
+Van deze overeenkomst maken de volgende bijlagen integraal onderdeel uit
+ Bijlage 1 – Akte van oprichting/statuten Coöperatie SHPV
+ Bijlage 2 – Afspraken en procedures SHPV en RDW
+ Bijlage 3 – Tarieven voor aangesloten gemeenten
+ Bijlage 4 – Geschillenreglement SHPV
+ Bijlage 5 – Processchema settlement Vergoedingen
+ Bijlage 6- Factureringsproces garageparkeren
+ Bijlage 7 – Verwerkersovereenkomst SHPV-RDW
+Door het ondertekenen van deze overeenkomst verklaren partijen bekend te zijn met
+de bijlagen.
+In geval van strijdigheid prevaleert het in deze overeenkomst bepaalde,
+tenzij uitdrukkelijk anders is aangegeven.
+1.2.
+In deze overeenkomst hebben de hierna genoemde woorden de volgende betekenis:
+Aansluiting: de Aansluiting van Provider op de Registratie ten behoeve van
+het
+uitwisselen van Meldingen;
+Aanvangstijd: de datum en tijd, afgerond op een hele minuut, waarop het
+Recht aanvangt;
+Abonnement: het bedrag dat Provider jaarlijks aan SHPV verschuldigd is voor
+de Aansluiting;
+Betalingskorting: het percentage van de verschuldigde Vergoedingen dat de
+Gemeente in mindering brengt indien de Provider binnen de
+gestelde betalingstermijn de verschuldigde Vergoedingen via
+SHPV voldoet.;
+Eindgebruiker: een gebruiker en/of eigenaar van een voertuig
+1. namens en ten behoeve van wie de Provider een Recht
+registreert en/of
+2. die de betaling van een Recht via een Provider wil voldoen;
+Gebied: het Gebied bestaande uit wegdelen, terreinen en/of gebouwen,
+waar sprake is van parkeer- of verblijfsregulering door een
+Gebiedsbeheerder waarbij een Recht nodig is voor parkeren of
+verblijven van het voertuig in het Gebied;
+Gebiedsbeheerder: een Gemeente die voor een of meer Gebieden het parkeren of
+verblijven reguleert en de daaraan gerelateerde Rechten in de
+Registratie administreert of laat administreren;
+Handhaver: een door de Gebiedsbeheerder geautoriseerde uitvoerder die
+toeziet op de naleving van wetten, verordeningen of
+reglementen met betrekking tot parkeer- en verblijfsrechten in
+het Gebied;
+Melding: het over en weer versturen van een elektronisch bericht tussen
+het SHPV en Gebiedsbeheerder of Provider, volgens in de
+NPR Interface Description op te nemen standaarden;
+NPR Interface Description: de technische beschrijving van de wijze waarop de Aansluiting
+op de Registratie tot stand wordt gebracht en Meldingen
+worden uitgewisseld;
+Provider: de organisatie die het registreren van parkeer- of
+Pagina 4 van 9 Paraaf:
+verblijfsrechten en/of financiële transacties die daarmee
+gepaard gaan voor Eindgebruikers en Gebiedsbeheerders
+faciliteert;
+Recht: het Recht om een voertuig op een bepaald tijdstip of
+gedurende een bepaalde periode op een bepaalde plaats of in
+een bepaald Gebied, gebouw of terrein te parkeren dan wel
+aldaar te verblijven, veelal tegen Vergoeding verkrijgbaar;
+Registratie: de centrale Registratie Parkeer- en Verblijfsrechten, (ook
+Nationaal Parkeer Register, NPR, genoemd,) zijnde de
+administratie waarin Rechten centraal worden geregistreerd en
+waarmee verschuldigde Vergoedingen worden berekend;
+Tarief: het bedrag dat de Gemeente jaarlijks aan het SHPV betaalt
+voor afgenomen diensten en voor gebruikmaking van de
+voorziening;
+Vergoeding: het bedrag dat de Eindgebruiker voor het Recht verschuldigd is
+aan de Gemeente en via Provider en SHPV aan de Gemeente
+voldoet;
+Verzorgingsgebied: Gebied(en) waarbinnen de Gebiedsbeheerder parkeer- en
+verblijfsrechten uitgeeft.
+Artikel 2– Dienstverlening door SHPV
+2.1.
+SHPV verleent diensten aan de Gemeente.
+SHPV heeft voor het beheer van de
+Registratie een overeenkomst gesloten met de Rijksdienst Wegverkeer (RDW) voor
+het technische en functioneel beheer en het in opdracht van SHPV verder ontwikkelen
+van de voorziening.
+In bijlage 2 treft u de afspraken en procedures aan.
+2.2.
+SHPV verleent ten behoeve van het vastleggen en raadplegen van parkeer- en
+verblijfsrechten de volgende diensten:
+ de infrastructuur om parkeerrechten en verblijfsrechten in de Registratie op
+kenteken of andere voertuigidentificatie vast te leggen en uit te wisselen;
+ een in de Registratie te raadplegen actuele verzameling van Gebieden,
+Gebiedscoderingen en voor elk van de Gebieden beschikbare Rechten en
+Tarieven;
+ de mogelijkheid voor de Handhaver om informatie over Rechten op te vragen;
+ de mogelijkheid om voor de afhandeling van klachten en bezwaren informatie
+over transacties op te vragen;
+ het beheer van de infrastructuur, inclusief beveiliging;
+ het beschikbaar stellen van rapportages en informatie over de afhandeling van
+transacties rond Rechten voor onder andere de verrekening van Vergoedingen;
+ de levering van parkeer-, verblijfs- en beleidsinformatie met inachtneming van de
+vigerende privacywetgeving;
+ de rapportages op grond waarvan SHPV de facturering, clearing en settlement
+van Tarieven, Abonnementen en Vergoedingen, zoals bedoeld in bijlagen 5 en 6,
+verricht.
+2.3.
+SHPV aanvaardt geen verantwoordelijkheid voor de werking van systemen van de
+Gemeente en derden, waaronder telecomleveranciers en Providers.
+SHPV is niet
+aansprakelijk voor schade ten gevolge van het niet afdragen door Providers van
+verschuldigde Vergoedingen.
+2.4.
+SHPV draagt er zorg voor dat de handhaving-gegevens, die in de Registratie (NPR)
+worden vastgelegd, alleen aan een Handhaver die informatie opvraagt ter beschikking
+Pagina 5 van 9 Paraaf:
+staan.
+2.5.
+SHPV zal voorts en uitsluitend de navolgende analyses mogen maken, waarbij de
+vigerende privacywetgeving in acht wordt genomen:
+- een analyse van collectieve gegevens ten behoeve van eigen bedrijfsvoering
+van SHPV, en
+- een analyse van geaggregeerde anonieme gegevens, eventueel inclusief
+informatie over parkeer- en betaalgedrag, ten behoeve van de collectiviteit van
+Gemeenten.
+2.6.
+Ten minste eenmaal per jaar vindt overleg plaats tussen SHPV en de Gemeenten over
+de dienstverlening.
+2.7.
+Gemeente garandeert dat:
+a. zij SHPV de benodigde informatie over zijn bedrijfsvoering zal verschaffen ten
+behoeve van de dienstverlening;
+b. zij bij Aansluiting minimaal zes weken voor de ingangsdatum zorgt dat de in het
+Gebied geldende parkeer- en overige relevante verordeningen, inclusief
+bijbehorende Gebiedsindelingen en Tariefstructuren correct zijn opgenomen in
+de Registratie;
+c. zij mutaties in de Registratie verwerkt volgens de afspraken die hierover met de
+RDW zijn gemaakt.
+2.8 Verantwoording over de bedrijfsvoering van het SHPV vindt binnen haar Algemene
+ledenvergadering plaats.
+2.9 SHPV accepteert geen aansprakelijkheid voor het correct Aan-, Afmelden en
+Annuleren door Providers en Eindgebruikers.
+2.10 Door het ondertekenen van deze overeenkomst verklaart de gemeente in te stemmen
+met het lidmaatschap van de coöperatie SHPV.
+Artikel 3 – Providers
+3.1 SHPV sluit Provider(s) aan tegen een Abonnement op de Aansluiting.
+Met Providers
+wordt daartoe een overeenkomst afgesloten.
+3.2 SHPV bepaalt jaarlijks de hoogte van het percentage van de verschuldigde
+Vergoedingen dat de Gemeente in mindering brengt (betalingskorting) indien de
+Provider binnen de gestelde betalingstermijn de verschuldigde Vergoedingen via
+SHPV voldoet, een en ander zoals vastgelegd in bijlage 3.
+3.3 Het staat SHPV vrij om contracten met nieuwe Providers aan te gaan, mits Provider
+aan de aansluitvoorwaarden voldoet, waaronder een certificering door de RDW van
+die nieuwe Provider.
+3.4 Gemeente stemt ermee in dat elke Provider via de Aansluiting Eindgebruikers kan
+faciliteren in het Rechten aanschaffen en/of afhandelen van financiële transacties die
+daarmee gepaard gaan binnen het Verzorgingsgebied.
+3.5 SHPV biedt ondersteuning aan de Gebiedsbeheerder om lopende contracten met
+Pagina 6 van 9 Paraaf:
+Providers over te dragen aan SHPV.
+Pagina 7 van 9 Paraaf:
+Artikel 4 – Prijzen en betaling
+4.1 De Gemeente betaalt aan SHPV voor de afgenomen diensten en gebruikmaking van
+de voorziening de Tarieven, jaarlijks vastgesteld door SHPV.
+De Tarieven zijn
+opgenomen in Bijlage 3 en wijze van factureren in Bijlagen 5 en 6.
+4.2 De Tarieven kunnen door SHPV worden gewijzigd op basis van de opbrengsten en
+kosten van SHPV.
+Wijzigingen kunnen per kalenderjaar worden doorgevoerd en zullen
+voorafgaand aan de inwerkingtreding schriftelijk aan Gemeente worden medegedeeld.
+SHPV beoogt de Tarieven kostendekkend te laten zijn.
+Het resultaat van het
+voorgaande boekjaar kan worden meegewogen bij de bepaling van de nieuwe
+Tarieven.
+4.3 SHPV verleent namens Gemeente, voor rekening van Gemeente, Betalingskorting aan
+Providers waarvan de hoogte wordt vastgesteld door SHPV en uiterlijk 1 oktober,
+voorafgaand aan de inwerkingtreding per 1 januari van het nieuwe kalenderjaar,
+schriftelijk aan Providers worden medegedeeld.
+4.4 SPHV stuurt maandelijks een specificatie aan aangesloten Providers voor de door hen
+verschuldigde Vergoedingen.
+Providers dienen deze Vergoedingen binnen de
+daarvoor gestelde betaaltermijn aan SHPV te voldoen.
+Betalen ze na die datum dan
+wordt hen door SHPV wettelijke rente in rekening gebracht.
+4.5 De specificatie voor Provider vermeldt het bedrag aan verschuldigde Vergoedingen en
+daarnaast de Betalingskorting van Gemeente die Provider met dat bedrag mag
+verrekenen als hij binnen de vastgestelde betalingstermijn (zie art.4.3.) de
+verschuldigde Vergoedingen aan SHPV betaalt.
+4.6 De Gemeente ontvangt maandelijks van SHPV een specificatie van de afdracht van de
+door alle aangesloten Providers verschuldigde Vergoedingen aan Gemeente behorend
+bij de daaraan voorafgaande maand.
+4.7 De Rijksbelastingdienst heeft aangegeven dat de Betalingskorting een met btw belaste
+vergoeding voor een prestatie in de zin van de Wet op de omzetbelasting 1968 is en
+als een doorlopende post in de zin van onderdeel 4.1 van het Beleidsbesluit Maatstaf
+van heffing d.d.
+29 juni 2018 aangemerkt kan worden.
+In het geval Provider een btw-factuur over het bedrag van de verkregen
+Betalingskorting op naam van SHPV stuurt, zal SHPV overeenkomstig de goedkeuring
+in onderdeel 4.1. van genoemd Besluit de in naam en voor rekening van Gemeente
+betaalde of verrekende Betalingskorting als zijn eigen kosten aanmerken en daarover
+aan hem berekende btw als voorbelasting in aftrek brengen.
+SHPV berekent de
+Betalingskorting voor hetzelfde bedrag en onder hetzelfde btw-regime door aan
+Gemeente.
+SHPV vermeldt de Betalingskorting op een factuur die voldoet aan de
+voorwaarden van artikel 35a Wet op de omzetbelasting 1968 en stuurt deze met het
+maandelijks overzicht uit art.
+5.5 aan de Gemeente.
+Ziet de Vergoeding op een transactie die BTW belast is, dan zal SHPV bevorderen dat
+Provider namens de betreffende Gemeente op de transactie betrekking hebbende btw
+in rekening brengt aan Eindgebruiker.
+4.8 SHPV betaalt de aan de Gemeente toebehorende gelden die door de Provider aan
+SHPV zijn voldaan volgens het ‘processchema settlement Vergoedingen’ in bijlage 5.
+Indien Providers te laat de gelden over de betreffende periode aan SHPV voldoen,
+Pagina 8 van 9 Paraaf:
+betaalt SHPV aan Gemeente deze gelden op een later moment, te weten op de
+tweede werkdag na de daadwerkelijke ontvangst.
+4.9 SHPV stuurt jaarlijks, in maart een overzicht voorzien van accountantsverklaring van
+de via SHPV verrekende Vergoedingen over het voorgaande kalenderjaar.
+Artikel 5 - Duur en Beëindiging
+5.1 Deze overeenkomst wordt aangegaan voor onbepaalde tijd.
+De overeenkomst kan
+door elk der Partijen worden opgezegd per aangetekende brief of
+deurwaardersexploot met inachtneming van een termijn van 12 maanden tegen het
+einde van een kalendermaand.
+5.2 Ieder der Partijen is gerechtigd deze overeenkomst te beëindigen in het geval de
+andere Partij toerekenbaar tekortschiet in haar verplichtingen uit deze overeenkomst
+nadat de tekortschietende Partij na schriftelijke ingebrekestelling alsnog niet aan haar
+verplichtingen voldoet.
+5.3 Een Partij kan deze overeenkomst met onmiddellijke ingang en zonder
+ingebrekestelling beëindigen indien:
+a.
+SHPV door een besluit van de Algemene Ledenvergadering mocht worden
+ontbonden;
+b. het faillissement van de andere Partij wordt aangevraagd of is uitgesproken;
+c. aan de andere Partij surseance van betaling wordt verleend of daartoe een
+verzoek wordt ingediend;
+d. op een aanmerkelijk deel van het vermogen van SHPV executoriaal beslag
+wordt gelegd;
+e. een Rechterlijke uitspraak de Gemeente verbiedt uitvoering te geven aan de
+Overeenkomst;
+f.
+Artikel 12 van de Financiële-verhoudingswet op de Gemeente van toepassing is.
+Artikel 6 – Wijzigingen
+Wijzigingen van deze overeenkomst zijn slechts geldig indien deze schriftelijk zijn
+overeengekomen en door beide Partijen zijn ondertekend.
+Artikel 7 – Toepasselijk recht
+Op deze overeenkomst is Nederlands recht van toepassing.
+Artikel 8– Geschillen
+Indien er sprake is van een geschil voortvloeiend uit deze overeenkomst of daarmee
+verband houdend, zal conform het door de Algemene Ledenvergadering van SHPV
+vastgestelde geschillenreglement worden gehandeld.
+Het huidige Geschillenreglement is als
+Bijlage 4 aan deze overeenkomst gehecht.
+Mocht de Geschillencommissie volgens het
+reglement niet bevoegd zijn dan leggen partijen hun geschil voor aan de Rechtbank
+Amsterdam
+Artikel 9 – Wettelijke bevoegdheden en verplichtingen
+SHPV voldoet bij de uitvoering van deze overeenkomst aan alle wettelijke verplichtingen.
+Gemeente draagt hierbij aan SHPV op Gemeente als verwerkingsverantwoordelijke toe te
+Pagina 9 van 9 Paraaf:
+laten treden tot de reeds bestaande verwerkersovereenkomst van SHPV met RDW.
+Artikel 10- Overdracht
+SHPV is niet bevoegd om de uitvoering van deze overeenkomst over te dragen aan derden,
+tenzij met voorafgaande schriftelijke toestemming van de Gemeente.
+De samenwerking
+tussen SHPV en RDW is voorafgaand aan de ondertekening van deze overeenkomst aan de
+Gemeente bekend gemaakt en door deze akkoord bevonden, hetgeen door ondertekening
+van deze overeenkomst wordt bevestigd.
+Artikel 11- Schadevergoeding
+Bij opzegging van deze overeenkomst ontstaat daardoor voor geen van Partijen een recht
+op enige vorm van vergoeding.
+Beëindiging van deze overeenkomst wegens het
+toerekenbaar tekortschieten door de wederpartij sluit vergoeding van schade veroorzaakt
+door dat tekortschieten niet uit.
+Dit gaat ook op voor het geval dat de beëindiging juridisch
+geen standhoudt.
+Artikel 12 – Geheimhouding
+Behoudens voor zover wettelijk dan wel in het kader van een gerechtelijke procedure
+vereist, maakt geen van de Partijen informatie die betrekking heeft op een (mogelijk)
+vertrouwelijk aspect van de uitvoering van deze overeenkomst voor derden toegankelijk of
+openbaar.
+Artikel 13 – Vernietigbare en/of nietige bepalingen
+Indien een bepaling in deze overeenkomst nietig is of door een (scheids)rechterlijke
+uitspraak (dan wel een bindend advies) wordt vernietigd, zullen de overige bepalingen in
+deze overeenkomst van kracht blijven.
+Partijen komen in een dergelijk geval een
+aanvullende regeling overeen, die qua aard en inhoud zoveel mogelijk gelijk is aan de
+nietige of vernietigde bepaling.
+Aldus overeengekomen en ondertekend,
+(datum) (datum)_____________
+-------------------------- ----------------------------
+(Handtekening) (Handtekening)
+Servicehuis Parkeer- en Verblijfsrechten U.A.
+Gemeente Enkhuizen
+M.A.
+Van den Berg E.C. van Marle
+Directeur-Bestuurder Wethouder Mobiliteit
