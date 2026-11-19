@@ -1,0 +1,69 @@
+JGZ
+Drechterland
+Relatieschema
+Centralisatie
+20 april 2026
+Voorbeeld - JGZ Grootebroek
+Ruimtestaat
+Type ruimte Soort ruimte Aantal NO (m2) Totaal NO (m2)
+Praktijkruimte Spreekkamer 0-4 jaar 3 24 72
+Spreekkamer 4+ jaar 2 24 48
+Boxenkamer 1 50 50
+Wachtruimte 4+ jaar 1 6 6
+Ondersteunende ruimte Pantry 1 8 8
+Vergaderruimte 1 28 28
+Kantoorruimte(n) 1 42 42
+Bijzondere ruimte Entree Consultatiebureau 1 4 4
+Hoofdentree 0 4 0
+Kinderwagenstalling 1 8 8
+Berging (vaccin koelkast(en), medische
+artikelen)
+1 8 8
+Server ruimte (patchkast, printer) 1 5 5
+Werkkast met uitstortgootsteen 1 4 4
+Toiletten (MIVA, personeel,
+genderneutraal)
+1 7 7
+Toilet boxenkamer 1 2 2
+Totaal NO ca.
+292
+Totaal BVO (NO*1,4) 408,8
+Afvalcontainers (kan gedeeld) 1 3 3
+Afsluitbare fietsenstalling personeel 1 7,2 7,2
+Fietsenstalling voor bezoekers 1 7,2 7,2
+Relatieschema
+292 m2 (NO)
+Spreekkamer
+0 – 4 jaar
+24 m2
+Boxenkamer
+50 m2
+Toilet
+2 m2
+Spreekkamer
+0 – 4 jaar
+24 m2
+ENTREE
+Kinderwagen-
+Stalling
+8 m2
+Werkkast
+4 m2
+Spreekkamer
+4+ jaar
+24 m2 Vergaderruimte
+28 m2
+Berging
+8 m2Toiletten
+7 m2
+Server-
+ruimte
+5 m2
+Spreekkamer
+4+ jaar
+24 m2
+Spreekkamer
+4+ jaar
+24 m2
+Wachtruimte 4+
+6 m2

@@ -1,0 +1,597 @@
+Programma van Eisen Jeugdgezondheidszorg Ruimtelijk/Functioneel/Technisch Datum: 26 maart 2025 Status: definitief Versie: 1.0
+Blad 2 van 33 Versie 1.0, 26 maart 2025
+1.
+INLEIDING ..................................................................................................................................................................................
+3 1.1 Programma van Eisen huisvesting GGD HN ..................................................................................................................................
+3 1.2 Doel ..........................................................................................................................................................................................
+3 1.3 Leeswijzer .................................................................................................................................................................................
+3 1.4 Externe toetsing en procedure herijking PvE ...............................................................................................................................
+3 1.5 Toepassing PvE ..........................................................................................................................................................................
+3 1.6 Advies met betrekking tot het ontwerpproces en realisatie ..........................................................................................................
+4 2.
+AANBEVOLEN VOORZIENINGEN ...................................................................................................................................................
+4 2.1 Aanbevolen voorzieningen in het gebouw ...................................................................................................................................
+4 2.2 Aanbevolen voorzieningen in de directe omgeving ......................................................................................................................
+4 3.
+FUNCTIONEEL EN RUIMTELIJK PROGRAMMA VAN EISEN .................................................................................................................
+5 3.1 Algemene eisen en uitgangspunten ............................................................................................................................................
+5 3.1.1 Wetgeving en richtlijnen ................................................................................................................................................................
+5 3.1.2 Gemeentelijke verordeningen ........................................................................................................................................................
+5 3.1.3 Duurzaamheid en onderhoud ........................................................................................................................................................
+6 3.2 Ruimtestaat ...............................................................................................................................................................................
+6 3.2.1 Algemeen ......................................................................................................................................................................................
+7 3.2.2 Bereikbaarheid en toegankelijkheid ...............................................................................................................................................
+7 3.2.3 ICT ................................................................................................................................................................................................
+8 3.3 Relatieschema ...........................................................................................................................................................................
+8 3.4 Functionele en ruimtelijke specificaties per ruimte ......................................................................................................................
+8 3.4.1 Praktijkruimte ...............................................................................................................................................................................
+8 3.4.2 Ondersteunende ruimte ..............................................................................................................................................................
+10 3.4.3 Bijzondere ruimte ........................................................................................................................................................................
+11 3.4.4 Gangen en verkeersruimte ..........................................................................................................................................................
+12 3.4.5 Buitenruimte ...............................................................................................................................................................................
+12 3.5 Afwerking per ruimte ...............................................................................................................................................................
+12 3.5.1 Algemeen ....................................................................................................................................................................................
+12 3.5.2 Praktijkruimte .............................................................................................................................................................................
+12 3.5.3 Ondersteunende ruimte ..............................................................................................................................................................
+13 3.5.4 Bijzondere ruimte ........................................................................................................................................................................
+14 3.5.5 Gangen en verkeersruimte ..........................................................................................................................................................
+15 4.
+TECHNISCH PROGRAMMA VAN EISEN .........................................................................................................................................
+15 4.1 Bouwfysica en brandveiligheid ..................................................................................................................................................
+15 4.1.1 Binnenklimaat .............................................................................................................................................................................
+15 4.1.2 Akoestisch comfort .....................................................................................................................................................................
+16 4.1.3 Visueel comfort ...........................................................................................................................................................................
+17 4.1.4 Brandveiligheid ...........................................................................................................................................................................
+17 4.2 Bouwtechnische eisen ..............................................................................................................................................................
+18 4.2.1 Eisen op ruimteniveau .................................................................................................................................................................
+18 4.2.2 Eisen op elementniveau ...............................................................................................................................................................
+18 4.3 Technische eisen gebouwinstallaties ........................................................................................................................................
+21 4.3.1 Algemeen ....................................................................................................................................................................................
+21 4.3.2 Elektrotechnische installaties ......................................................................................................................................................
+21 4.3.3 Werktuigbouwkundige installaties ...............................................................................................................................................
+26 5.
+INRICHTINGSEISEN ...................................................................................................................................................................
+31 5.1 Vaste inrichting .......................................................................................................................................................................
+31 5.2 Losse inrichting toevoegen .......................................................................................................................................................
+32 5.2.1 Sleutelkluis .................................................................................................................................................................................
+32 6.
+BIJLAGENLIJST ..........................................................................................................................................................................
+33 A Tabel Technische eisen JGZ GGD HN .........................................................................................................................................
+33 B Tabel Ventilatie eisen JGZ GGD HN ............................................................................................................................................
+33 C Signing en bewegwijzering .......................................................................................................................................................
+33
+Blad 3 van 33 Versie 1.0, 26 maart 2025
+1.
+INLEIDING 1.1 Programma van Eisen huisvesting GGD HN Elke gemeente heeft één of meerdere uitvoeringslocaties ten behoeve van de uitvoering van taken door de Jeugdgezondheidszorg (JGZ) vanuit de Wet publieke gezondheid (artikel 2 en 5).
+Binnen uitvoeringslocaties is vaak sprake van een bepaalde vorm van samenwerking met andere netwerkpartners gerelateerd aan JGZ.
+Deze integrale samenwerking heeft als doel een gezonde en evenwichtige ontwikkeling te realiseren voor alle jeugdigen in een gemeente.
+De doelgroep is de preconceptie fase tot 18+ jaar.
+Het aanbod van de JGZ bestaat globaal uit: ondersteuning bij het bewust keuzes maken in geval van een kinderwens, prenatale voorlichting voor aanstaande ouders, uitvoeren van preventieve basistaken JGZ (o.a. persoonlijke momenten van contact op consultatiebureau c.q.
+JGZ-locatie), uitvoeren van het Rijksvaccinatieprogramma, uitvoeren van opvoed- en opgroei-ondersteunende preventieprogramma’s, geven van themabijeenkomsten en groepsvoorlichting (cursussen) en samenwerkings- en casusoverleg met netwerkpartners.
+1.2 Doel Het Programma van Eisen (verder te noemen PvE) biedt een handvat aan gemeenten om een nieuwe JGZ-uitvoeringslocatie te realiseren binnen bestaande gebouwen of nieuwbouw.
+Het PvE is minimaal gebaseerd op de geldende wettelijke normen / eisen en de landelijke richtlijnen die in dit kader relevant zijn.
+Daarnaast zijn er specifieke eisen geformuleerd die voor de GGD HN-uitvoeringslocatie (JGZ) relevant zijn.
+Het PvE dient tevens als uitgangspunt voor de planontwikkeling en als toetsingskader voor de kwaliteitsbeheersing in de diverse stadia van het ontwerpproces inclusief de uitvoeringsfasen.
+Aan de hand van het PvE worden tussen- en eindresultaten tijdens de ontwerp- en uitvoeringsfasen getoetst.
+Het PvE zal ook dienst doen als communicatie-instrument tussen opdrachtgever (gemeente), GGD HN en de ontwerpende en bouwende partij.
+1.3 Leeswijzer Dit PvE is als volgt opgebouwd: in de inleiding in hoofdstuk 1 zijn de algemene uitgangspunten benoemd zoals status en doel van het PvE, toelichting op de externe toetsing en procedure en de wijze waarop dit PvE wordt toegepast.
+Hoofdstuk 2 geeft inzicht in de aanbevolen voorzieningen in en rond het gebouw.
+In hoofdstuk 3 worden de (wettelijke) eisen en richtlijnen op basis waarmee dit PvE is opgesteld en functionele eisen benoemd en worden de ruimtelijke eisen per ruimte geformuleerd, waarin per type ruimte de minimale omvang en de onderlinge relaties zijn aangegeven.
+In hoofdstuk 4 zijn de technische eisen als de bouwfysische eisen zoals thermisch, visueel, akoestisch comfort en eisen ten aanzien van emissies en brandveiligheid omschreven.
+Hoofdstuk 5 geeft de bouwtechnische eisen aan en hoofdstuk 6 de eisen aan de installaties.
+1.4 Externe toetsing en procedure herijking PvE Dit PvE is getoetst door twee externe partijen met relevante en actuele expertise op het vlak van PvE’s, (wettelijke) eisen en richtlijnen die relevant zijn in dit kader.
+Het PvE wordt 1 x per 5 jaar herijkt en wederom getoetst door externe partijen met de relevante en actuele expertise.
+1.5 Toepassing PvE Het merendeel van de huisvestingsprojecten betreft (ver)bouw in bestaande (huur en eigendom) locaties.
+In bestaande bouw kunnen de eisen niet altijd worden toegepast, bijvoorbeeld wanneer het gaat om plafondhoogte en doorgangbreedte.
+Afwijken kan echter alleen na overeenstemming tussen gemeente (opdrachtgever) en GGD HN.
+Dit wordt in een mondeling overleg besproken tijdens de jaarlijkse huisvesting accountgesprekken of tijdens andere relevante overlegmomenten, en schriftelijk vastgelegd.
+De verslaglegging van deze gesprekken wordt door beide partijen gecontroleerd voordat het vastgelegd wordt.
+Blad 4 van 33 Versie 1.0, 26 maart 2025
+1.6 Advies met betrekking tot het ontwerpproces en realisatie Het PvE heeft als doel om de eisen voor een bouwlocatie vast te leggen en te kunnen toetsen.
+De uiteindelijke kwaliteit van het gebouw met de hierin ondergebrachte installaties wordt mede bepaald door de controle over het bouw- en ontwerpproces.
+De ervaring leert dat door een onafhankelijke bouwkundige- en installatieadviseur te betrekken in de initiatiefase, de kwaliteit van het eindresultaat omhooggaat en de tijdbesteding van alle betrokken partijen in de nazorgfase wordt geminimaliseerd en dus de kosten zo laag mogelijk blijven.
+Taken van de bouwkundige- en installatieadviseurs kunnen per fase het volgende zijn: • Initiatie- en definitiefase: haalbaarheid toetsen, beoordelen mogelijkheden en vaststellen (specifieke) eisen; • Ontwerpfase: uitwerken voorlopig ontwerp inclusief basisberekening, definitief ontwerp en bestek, aanbesteding van de uitvoerende partijen en offertebeoordeling; • Voorbereidingsfase: controle voorstel installateur en aannemer, werktekeningen en berekeningen; • Uitvoeringsfase: uitvoeringscontrole in het werk, bijwonen werk-/bouwvergaderingen, oplevering.
+2.
+AANBEVOLEN VOORZIENINGEN In dit hoofdstuk worden voorzieningen vermeld die niet wettelijk verplicht zijn, maar wel aanbevolen worden.
+Gemeenten zijn vrij om al dan niet voor deze aanbevolen voorzieningen te kiezen.
+Er wordt onderscheid gemaakt in: - Aanbevolen voorzieningen in het gebouw; - Aanbevolen voorzieningen in de directe omgeving.
+2.1 Aanbevolen voorzieningen in het gebouw - Duurzaamheidsbeleid: ledverlichting, zonnepanelen, minimaal energielabel A+++ voor nieuwbouw en C voor bestaande bouw.
+Waar mogelijk aardgasvrij, zie voor specificatie gas paragraaf 4.3.3.
+Onderzoek kan worden gedaan naar welke maatregelen toegepast kunnen worden aan het gebouw; - De wettelijke voorschriften van rookverbod zijn mogelijk niet van toepassing als de JGZ-locatie onderdeel is van een bedrijfsverzamelpand.
+Dan is het aanbevolen om het rookverbod alsnog zo ver mogelijk te hanteren in de nabijheid van de entree en JGZ-ruimtes; - Gebouw aansluiten op het glasvezel datanetwerk op de locatie; - Bij de afsluitbare fietsenstalling mogelijkheid creëren voor het opladen van elektrische fietsen. - Digitaal toegangscontrolesysteem implementeren in plaats van een cilindersloten heeft de volgende voordelen: • Verbeterde beveiliging; flexibele toegangsrechten, bevoegdheden beheer en automatische logregistratie; • Gebruiksgemak; snelle en eenvoudige toegang voor gebruikers; o Toegang voor gebruikers eenvoudig en snel; • Kostenbesparing; vermindering fysieke sleutels en efficiënter beheer; • Schaalbaarheid en integratiemogelijkheden; eenvoudig uit te breiden en te integreren met andere systemen; • Milieuvriendelijkheid; verminderd gebruik en aanmaak van fysieke sleutels.
+2.2 Aanbevolen voorzieningen in de directe omgeving - De JGZ-locatie is goed bereikbaar met openbaar vervoer; - Om de aanloop naar JGZ-faciliteiten en diensten op de uitvoeringslocatie te stimuleren zijn de volgende voorzieningen in de omgeving wenselijk: • Gezondheidscentrum; • Bibliotheek; • Kinderopvang; • School;
+Blad 5 van 33 Versie 1.0, 26 maart 2025
+• Speelotheek; • Lunchroom/café; • Winkel. - Een rookvrije zone rondom het gebouw als stimuleringsmaatregel om roken te ontmoedigen. - Het is wenselijk als de directe buitenruimte: • Ingericht is in samenwerking met de gebruikers; • Uitnodigt tot bewegen (spelen, sporten, wandelen) en ontmoeten; • Schoon, in goede staat (onbeschadigd) en veilig is; • Groen is; • Toegankelijk voor iedereen is.
+3.
+FUNCTIONEEL EN RUIMTELIJK PROGRAMMA VAN EISEN 3.1 Algemene eisen en uitgangspunten 3.1.1 Wetgeving en richtlijnen Van toepassing zijn onder andere de actuele versies van: - Besluit Bouwwerken Leefomgeving (BBL); - Aan de wetgeving gekoppelde NEN-normen; - Milieuwetgeving; - NEN-EN-ISO 7730; - NEN 5077; - NEN-7510 - Brandweervoorschriften; - Eisen Nutsbedrijven; - Veiligheidsbesluit Restgroepen (VBR) (voorschriften voor veiligheid, gezondheid en welzijn; deze voorschriften hebben o.a. betrekking op het voorkomen van ongelukken, vluchtwegen, verlichting en uitzicht naar buiten); - Arbowetgeving, inclusief resultaten van de RIE (Risico Inventarisatie en Evaluatie) 1 x per 4 jaar; - Wet publieke gezondheid, artikel 2 en 5 (wetten.nl - Regeling - Wet publieke gezondheid - BWBR0024705); - Landelijke, wetenschappelijk onderbouwde richtlijnen JGZ van het NCJ (Nederlands Centrum Jeugdgezondheid), https://www.ncj.nl/richtlijnen/alle-richtlijnen/; - Rijksvaccinatieprogramma (RVP)-richtlijn Uitvoering (RIVM) https://rijksvaccinatieprogramma.nl/professionals/richtlijnen/rvp-richtlijn-uitvoering; - Hygiënerichtlijnen voor de Jeugdgezondheidszorg van het Landelijk Centrum Hygiëne en Veiligheid (LCHV-RIVM) Hygiënerichtlijn voor de jeugdgezondheidszorg | RIVM Tabaks- en rookwarenwet, paragraaf 5 (rookverboden), artikel 10 (wetten.nl - Regeling - Tabaks- en rookwarenwet - BWBR0004302); - De Bouwstenen / Bouwadvies van de Landelijke Huisartsen Vereniging. - Voldoen aan de Integrale Toegankelijkheidsstandaard, ITS Totaal) - Er dient een scheiding plaats te vinden in de afvalcontainerruimte naar soorten afval in verband met milieuaspecten.
+3.1.2 Gemeentelijke verordeningen Afstemming vindt plaats met gemeente over: - Bestemmingsplan; - Omgevingsvergunning; - Milieuvergunningen; - Overige vergunningen en procedures.
+Blad 6 van 33 Versie 1.0, 26 maart 2025
+3.1.3 Duurzaamheid en onderhoud - Het gebouw dient zodanig te zijn gedetailleerd en afgewerkt, dat onderhoudskosten tot een minimum beperkt blijven. - Duurzame warmtevoorziening. - Het gebruik van FSC gecertificeerd hout. - Gebouwfunctie- specifieke maatregelen ter voorkoming van legionella.
+3.2 Ruimtestaat Onderstaande ruimtestaat geeft de afmetingen van alle voor de JGZ vereiste ruimtes, wet- en regelgeving zijn leidend.
+De omschrijving van het globale ruimteprogramma leidt tot de volgende Nuttige Oppervlakte (NO volgens NEN 2580).
+De GGD HN werkt met een rekenmodel gebaseerd op de CBS-cijfers.
+Tijdens de initiatiefase van een nieuw JGZ-huisvesting project wordt een project specifieke ruimtestaat opgesteld.
+De berekening van de project specifieke ruimtestaat (de aantal en grootte van de verschillende type ruimtes) is gebaseerd op de regionale geboortecijfers en populatiegroepen.
+Op deze manier wordt per project de totale benodigde NO (nuttige vloeroppervlakte) berekend.
+Type ruimte Soort ruimte NO (m2) Praktijkruimte Spreekkamer 0-4 jaar 24 Spreekkamer 4+ jaar 24 Boxenkamer 50 Wachtruimte 4+ jaar 6 Ondersteunende ruimte Pantry 20 Vergaderruimte 25 Kantoorruimte 28 Bijzondere ruimte Entree 4 Kinderwagenstalling (per 6 kinderwagens) 8 Berging 6 Serverruimte 5 Werkkast met uitstortgootsteen 4 Personeelstoilet, MIVA-toilet, bezoekerstoilet 7 Toilet boxenkamer 2 Totaal NO ca.
+Totaal VVO (NO*1,2) Totaal BVO (NO*1,4) Buitenruimte Afvalcontainer 2 Fietsenstalling personeel (per 6 fietsen) 7,2 Fietsenstalling bezoekers (per 6 fietsen) 7,2
+Tabel 1: Definities vloeroppervlakten en verdeling volgens NEN 2580
+Blad 7 van 33 Versie 1.0, 26 maart 2025
+3.2.1 Algemeen De maten en verhoudingen van het beschikbaar oppervlak moeten een logische indeling van de ruimtes mogelijk maken.
+Er dient te worden voorzien in buitenzonwering in alle verblijfsruimten, uitgevoerd als screens, met uitzondering van de noordkant.
+3.2.2 Bereikbaarheid en toegankelijkheid De uitvoeringslocatie moet toegankelijk zijn voor mindervaliden en voldoen aan de Integrale toegankelijkheid standaard.
+Er is een lift voor mindervalide personen als de JGZ-locatie zich niet alleen op de begane grond bevindt.
+Het gebouw is aan de buitenkant herkenbaar als locatie waar de jeugdgezondheidszorg is gehuisvest.
+De bezoeker kan buiten het gebouw en eenmaal binnen de jeugdgezondheidszorg gemakkelijk vinden door zichtbare bewegwijzering.
+Ten behoeve van de publiekstoegankelijkheid is de hoofdentree van de JGZ-uitvoeringslocatie op een logische en aantrekkelijke plek gesitueerd, gelet op de normen voor Geboden Toegang conform NEN 9120.
+Tevens dient bij de keuze van plaats en aantal toegangen gelet te worden op de beheersbaarheid van de beveiliging.
+Met betrekking tot de vluchtwegen/nooduitgangen dient de huisvesting te voldoen aan de eisen van het vigerende BBL.
+Voor alle publiekstoegankelijke ruimten geldt dat deze toegankelijk dienen te zijn voor mindervaliden.
+Indien deze ruimten niet op de begane grond zijn gesitueerd dienen deze te worden ontsloten met behulp van een lift, met minimale kooiafmetingen van tenminste 1,05m x 1,5m.
+Dicht bij de entree is gelegenheid om fietsen te stallen (binnen of buiten). - In het algemeen geldt dat het gebouw veilig en overzichtelijk is te benaderen en dat het een eenduidige eigen entree heeft.
+Goed bereikbaar betekent onder andere: - Logische ligging van entree en veilige routing, geen hoogteverschillen bij de entree en verdiepingen (< 20 mm); - Kinderwagen en rolstoel-toegankelijk; - Vrije doorgang van verkeersruimte afgestemd op gebruik en intensiteit van gebruik (> 1800 mm bij intensief gebruik en in de andere gevallen > 1200 mm); - Vrije doorgang van toegangen van tenminste 850 mm breed en deur minimaal 90 graden te openen; - Er zijn voldoende parkeermogelijkheden voor medewerkers en bezoekers inclusief een Mindervalide-parkeerplek met voldoende verlichting.
+Het aantal parkeerplekken wordt per locatie gespecificeerd door de GGD HN en afgestemd met de gemeente - Voor bezoekers die met de auto komen moet in de nabijheid parkeergelegenheid zijn met een veilige looproute naar de entree.
+Aantal parkeerplekken bepalen in afstemming met de GGD HN; - Dicht bij de entree is gelegenheid om fietsen te stallen binnen of buiten met stevige fietsenstandaard in verband met gemakkelijk en veilig in- en uittillen van kinderen uit kinderzitjes op de fietsen; - De entree van het gebouw, die toegang biedt tot de ruimtes van GGD HN, is voorzien van een automatische deuropener of sensor.
+Dit maakt het voor ouders eenvoudig om zelfstandig naar binnen te komen met kinderwagens, autostoeltjes en kinderen aan de hand.
+Uit ervaring heeft een automatische schuifdeur de voorkeur; - Het gebouw bestaat uit een deel welke toegankelijk is voor personeel en een deel welke toegankelijk is voor personeel en bezoekers.
+De routing voor personeel, bezoekers en de diverse processen zijn logisch en helder en zoveel mogelijk gescheiden van elkaar.
+Goed bruikbaar betekent onder andere: - Voldoende gebruiksruimte bij entree (> 2000 x 2000 mm voor en achter entree); - Voldoende gebruiksruimte bij binnendeuren, voor de lift en voor andere faciliteiten (> 1500 x 1500 mm);
+Blad 8 van 33 Versie 1.0, 26 maart 2025
+- Aanwezigheid van tenminste één integraal toegankelijk toiletblok (toilet voor mindervaliden opgenomen in een algemeen toiletblok).
+De loopafstand tussen een verblijfsruimte en het dichtstbijzijnde integraal toegankelijk toilet mag nooit meer dan 75 meter bedragen; - Bij detaillering en afwerking rekening houden met inrichting van liften, entree en andere faciliteiten (o.a. bedieningsknoppen tussen 900 en 1200 mm boven vloerpeil); - Rekening houden met de toegangsmogelijkheden en bijbehorende controle op toegang buiten kantooruren.
+3.2.3 ICT In de hele voorziening is wifi aanwezig.
+Er is geen gescheiden netwerk voor bezoekers.
+3.3 Relatieschema
+Figuur 1: Relatieschema JGZ-uitvoeringslocatie 3.4 Functionele en ruimtelijke specificaties per ruimte 3.4.1 Praktijkruimte Spreekkamer 24 m2 Spreekkamers 0-4 zijn verbonden via een deur met elkaar en de boxenruimte.
+Spreekkamers 4+ zijn verbonden via een deur met elkaar en de wachtruimte van 4+.
+Er wordt zowel in 0-4 als 4+ spreekkamers de visustest van 4 en 5 meter uitgevoerd.
+De kinderen staan of zitten op een stoel tijdens deze test.
+Hier is minimaal 6 meter lengte voor nodig parallel met de wand van de spreekkamer.
+Voorzien van de volgende (inbouw)apparatuur/meubels: • Bureautafel met afgeronde hoeken (zit/sta); • Bureaustoel; • Ladeblok met afgeronde hoeken; • Jaloeziekast; • Behandelbank; • Wastafel met prullenbak en spatscherm; • Vaccin koelkast; • Kastromp (indien van toepassing); • Tafel; • Bezoekersstoelen; • Visuskaart op 1100 mm hoogte.
+Blad 9 van 33 Versie 1.0, 26 maart 2025
+Figuur 2: Spreekkamer 4+ Boxenkamer De boxenruimte voor de kinderen van 0-4 jaar is gescheiden van de wachtruimte voor de kinderen 4-18 jaar.
+De boxenruimte fungeert tevens als wachtruimte voor de kinderen en ouders/verzorgers van 0-4 jaar.
+De werkplek van de CB-assistente (0-4 jaar) is zodanig gesitueerd dat deze zicht heeft op (de entree van) de boxenruimte, op het aankleedmeubel en de deuren van de spreekkamers.
+Boxenkamer en de spreekkamers 0-4 zijn direct verbonden met elkaar en in nabijheid van de kinderwagenstalling.
+Toegang tot de boxenkamer is middels een schuifdeur voorzien van een automatische deuropener bediend door middel van een drukknop zowel aan de buitenzijde als aan de binnenzijde op volwassenhoogte ca.
+1,4 m, wel bereikbaar voor mindervaliden (dit voor de veiligheid dat kinderen niet steeds op de knop drukken en ook niet weglopen).
+De schuifdeur kan ook op slot i.v.m. het gebruik van de ruimtes door externe partijen/onderhuurders.
+De kinderwagenstalling bevindt zich buiten de boxenkamer in de nabijheid van de schuifdeur dit vanwege de hygiëne.
+Dit heeft tot gevolg dat zuigelingen in de arm naar binnen worden gedragen, vaak met nog een peuter of kleuter aan de hand waardoor het openen van een gewone deur hier geen werkbare optie is.
+Voorzien van de volgende (inbouw)apparatuur/meubels: • Aankleedmeubel voor het omkleden van min.
+6 kinderen met ingebouwde prullenbakken.
+De vorm en de maatvoering is afhankelijk van de beschikbare ruimte en wordt op maat gemaakt; • Wastafel met prullenbak en spatscherm; • Bureautafel met afgeronde hoeken; • Bureaustoel; • Ladeblok met afgeronde hoeken; • Ronde bezoekerstafel; • Bezoekersstoelen; • Voeding stoel; • Speelhoek elementen; • Boekenkast; • Beweegstimulerende inrichting; • Box.
+Blad 10 van 33 Versie 1.0, 26 maart 2025
+• Wachtruimte In de nabijheid van de spreekkamers 4-18 jaar.
+Voorzien van de volgende (inbouw)apparatuur/meubels: • Wachtkamer tafel; • Bezoekersstoelen; • Plantenbak; • Beweegstimulerende inrichting; • Speelhoek.
+3.4.2 Ondersteunende ruimte Pantry Een pantry bevindt zich in de nabijheid van het kantoor.
+Voorzien van een keukenblok met de volgende (inbouw)apparatuur/meubels: Inbouw apparatuur • Onder- en bovenkasten; • Aanrechtblad; • Koelkast; • Vriezer; • Combimagnetron; • Vaatwasser; • Spoelbak met mengkraan.
+Apparatuur GGD • Waterkoker en koffiezetapparaat; • Tosti-ijzer.
+Meubels • Lunchtafel; • Stoelen.
+Figuur 3: Boxenkamer
+Figuur 4: Pantry
+Blad 11 van 33 Versie 1.0, 26 maart 2025
+Vergaderruimte Ruimte voor overleggen (intern en extern) 2 m2 per persoon.
+In sommige gevallen kan de pantry samengevoegd worden met de vergaderruimte en wordt derhalve opgenomen in de specifieke ruimtestaat.
+Voorzien van de volgende (inbouw)apparatuur/meubels: • Vergadertafel; • Stoelen; • Kast; • Verrijdbaar scherm; • Plantenbak. • Kapstok Kantoorruimte Minimaal 3 ARBO-werkplekken en een overleg- / aanlandplek.
+Grootte en aantal werkplekken afhankelijk van het aantal medewerkers.
+Voorzien van de volgende (inbouw)apparatuur/meubels: • Bureautafel; • Bureaustoel; • Ladeblok; • Lockers; • Kast; • Plantenbak. • Kapstok 3.4.3 Bijzondere ruimte Entree De entree is voldoende ruim en toegankelijk voor families met kleine kinderen en kinderwagens.
+In de nabijheid van de boxenkamer wordt een weggeefhoek ingericht met een ruilhuisje voor tweedehands kleren en speelgoed en een folderbord voor informatievoorziening van ouders.
+Kinderwagenstalling Wanneer de bezoekers het gebouw betreden, kunnen de kinderwagens worden gestald in een daarvoor aangewezen kinderwagenstalling voor min.
+6 kinderwagens van elk ca.
+75 x 100 cm.
+In de buurt van, maar altijd buiten, de boxenruimte in verband met de hygiëne.
+Berging Plaatsing vaccinkoelkast met alarmering voorzien van voldoende ventilatie.
+In combinatie met opslag van verpleegkundige artikelen.
+Voorzien van de volgende (inbouw)apparatuur/meubels: • Stellingen/kasten; • Grote vaccinkoelkast: het aantal en de grootte is afhankelijk van het aantal spreekkamers, ca.
+699 x 1039 x 1988 mm (BxDxH).
+Serverruimte Er is een serverruimte t.b.v. de printer en de patchkast.
+Dit is exclusief de cv-/gebouwinstallaties.
+Kwaliteit deuren conform brand- en inbraakwerendheid.
+Toegangsdeur conform BBL.
+Werkkast met uitstortgootsteen Opslag schoonmaakmiddelen en materialen, stofzuiger, schoonmaakkar en uitstortgootsteen.
+Voorzien van de volgende (inbouw)apparatuur/meubels: • Stellingen/kasten;
+Figuur 5: Kantoorruimte
+Blad 12 van 33 Versie 1.0, 26 maart 2025
+• Schoonmaakkar; • Uitstortgootsteen.
+Toiletten Het aantal toiletten is afhankelijk van het aantal gebruikers.
+Minimaal 1 personeelstoilet en 1 bezoekerstoilet.
+Er is minimaal 1 MIVA-toilet (midervalidentoilet) met verschoonmogelijkheid.
+Het MIVA-toilet kan mogelijk gecombineerd worden met het personeelstoilet.
+Voorzien van de volgende (inbouw)apparatuur/meubels: • Wastafel; • Spiegel.
+Toilet boxenkamer Direct verbonden aan de boxenkamer voor gebruik door bezoekers van het 0-4 jaar spreekuur.
+Geen voorruimte.
+Volwassen toilet met kinderbril.
+Voorzien van de volgende (inbouw)apparatuur/meubels: • Wastafel 3.4.4 Gangen en verkeersruimte Gangen hebben een minimale breedte van 1,5 m en bij voorkeur een minimale breedte van 1,8 m.
+De gangen/ verkeersruimten aantrekkelijk vormgeven (lange rechte gangen voorkomen).
+Gangen/verkeersruimten waar mogelijk voorzien van daglicht.
+3.4.5 Buitenruimte Fietsenstalling personeel Afsluitbare fietsenstalling, eventueel binnen een plek voor de GGD HN fiets.
+In de ruimtestaat is rekening gehouden met zes personeelsfietsen (ca.
+1,2 m2 per fiets).
+Het specifieke aantal wordt per locatie vastgelegd in de project specifieke ruimtestaat.
+Fietsenstalling bezoeker Bewoners verplaatsen zich per fiets.
+Fietsenstalling nabij de entree voor bezoekers met stevige fietsenstandaard in verband met gemakkelijk en veilig in- en uittillen van kinderen uit kinderzitjes op de fietsen.
+Voldoende ruimte voor bakfietsen.
+In de ruimtestaat is rekening gehouden met zes bezoekersfietsen (ca.
+1,2 m2 per fiets).
+Het specifieke aantal wordt per locatie vastgelegd in de project specifieke ruimtestaat.
+Afvalcontainer Afvalcontainers worden veelal gedeeld met andere gebruikers van het pand.
+De containers dienen achter een afsluitbaar hek te staan.
+Specificaties worden locatieafhankelijk vastgelegd in de ruimtestaat.
+Beveiliging Er dient buitenverlichting rondom het pand aan de gevel te worden aangebracht, zodanig dat deze zorgt voor verlichting van de entree en paden naar de entree toe en dat er geen donkere, sociaal onveilige plekken ontstaan rondom het pand.
+3.5 Afwerking per ruimte 3.5.1 Algemeen - Minimum een raam per verblijfsruimte dient open te kunnen, draai/kiepstand; - Zonwering, gebouwinstallatie aan buitenzijde gebouw, afhankelijk van positionering; - Afwerking vloer bij harde materiaal zware kwaliteit.
+Toepassing allergie vriendelijke materialen.
+3.5.2 Praktijkruimte Spreekkamer 24 m2 - Vloerafwerking: Gladde vloerafwerking zoals Tarkett waarbij geen mogelijkheid is tot bacteriegroei;
+Blad 13 van 33 Versie 1.0, 26 maart 2025
+- Wandafwerking: Scanbehang met afneembare gladde coating kleur n.t.b.; - Raamafwerking: Plissés (duurzaam, onderhoudsvrij en veilig) en privacy folie; - Plafondafwerking: Akoestisch plafond waarmee aan eisen voor nagalmtijd wordt voldaan. o Brandklasse A1 o Kleur: wit Boxenkamer - Vloerafwerking: Gladde vloerafwerking zoals Tarkett waarbij geen mogelijkheid is tot bacteriegroei; - Wandafwerking: Scanbehang met afneembare gladde coating kleur n.t.b.; - Raamafwerking: Plissés (duurzaam, onderhoudsvrij en veilig) en privacy folie; - Plafondafwerking: Akoestisch plafond waarmee aan eisen voor nagalmtijd wordt voldaan; o Brandklasse A1 o Kleur: wit - Geen plint achter het aankleedmeubel in verband met aansluiting van het meubel op de wand.
+Wachtruimte 4+ - Vloerafwerking: Gladde vloerafwerking zoals Tarkett; - Wandafwerking: Scanbehang met afneembare gladde coating kleur n.t.b.; - Raamafwerking: n.v.t.; - Plafondafwerking: Standaard systeemplafond. o Kleur wit 3.5.3 Ondersteunende ruimte Pantry - Vloerafwerking: Gladde vloerafwerking zoals gietvloer of Tarkett; - Wandafwerking: Scanbehang met afneembare gladde coating kleur n.t.b.; - Raamafwerking: Afhankelijk van locatie; - Plafondafwerking: Akoestisch plafond waarmee aan eisen voor nagalmtijd wordt voldaan; o Brandklasse A1 o Kleur: wit - Wandtegels spatblad;
+Vergaderruimte - Vloerafwerking: Vloertapijt of -tegels met hoge NRC-waarde, bestand tegen stoelgebruik, vlekbestendig en eenvoudig reinigbaar; - Wandafwerking: Scanbehang kleur n.t.b.; - Raamafwerking: Plissés (duurzaam, onderhoudsvrij en veilig); - Plafondafwerking: Akoestisch plafond waarmee aan eisen voor nagalmtijd wordt voldaan. o Brandklasse A1 o Kleur: wit Kantoorruimte - Vloerafwerking: Vloertapijt met hoge NRC-waarde, bestand tegen stoelgebruik, vlekbestendig en eenvoudig reinigbaar; - Wandafwerking: Scanbehang kleur n.t.b.; - Raamafwerking: Plissés (duurzaam, onderhoudsvrij en veilig); - Plafondafwerking: Plafondafwerking: akoestisch plafond waarmee aan eisen voor nagalmtijd wordt voldaan. o Brandklasse A1 o Kleur: wit
+Blad 14 van 33 Versie 1.0, 26 maart 2025
+3.5.4 Bijzondere ruimte Entree - Vloerafwerking: Schoonloopmat; - Wandafwerking: Stoot- en slijtvast kleur n.t.b. - Raamafwerking: Plissés (duurzaam, onderhoudsvrij en veilig) - Plafondafwerking: akoestisch plafond waarmee aan eisen voor nagalmtijd wordt voldaan; o Brandklasse A1 o Kleur: wit - De entree dient te zijn voorzien van een automatische deuropener, bij voorkeur een schuifdeur en een tochtsluis met voldoende tussenruimte voor kinderwagens en mindervalide; - Naast de entree dient een brievenbus aanwezig te zijn; - In de gevel zijn voorzieningen (lege buisleiding) aanwezig voor belinstallatie (bel/intercom).
+Kinderwagenstalling - Vloerafwerking: Gladde vloerafwerking; - Wandafwerking: Scanbehang met afneembare gladde coating kleur n.t.b.
+Minimum tot 1,20m krasbesteding, slijtvaste en goed te reinigen afwerking zoals wandpanelen; - Raamafwerking: n.v.t.; - Plafondafwerking: Standaard systeemplafond. o Kleur wit Berging - Vloerafwerking: Gietvloer of gladde vloerafwerking zoals Tarkett waarbij geen mogelijkheid is tot bacteriegroei; - Wandafwerking: Stoot- en slijtvast, goed te reinigen; - Raamafwerking: n.v.t.; - Plafondafwerking: Standaard systeemplafond. o Kleur wit Serverruimte - Vloerafwerking: Gietvloer of gladde vloerafwerking zoals Tarkett; - Wandafwerking: Stoot- en slijtvast, goed te reinigen; - Raamafwerking: n.v.t.; - Plafondafwerking: Standaard systeemplafond. o Kleur wit Werkkast met uitstortgootsteen - Vloerafwerking: Tegelwerk of gietvloer; - Wandafwerking: Tegelwerk tot min.
+1.30 m, daarboven fijn spuitwerk; - Raamafwerking: n.v.t.; - Plafondafwerking: Plafondafwerking: Standaard systeemplafond. o Kleur wit Toiletten - Vloerafwerking: Gietvloer; - Wandafwerking: Tegelwerk tot het plafond of PVC wandpanelen met ingewerkte spiegel; - Raamafwerking: n.v.t.; - Plafondafwerking: Standaard systeemplafond; o Kleur wit - Hangend toilet en voorruimte voorzien van wastafel.
+Blad 15 van 33 Versie 1.0, 26 maart 2025
+Toilet bij boxenruimte - Vloerafwerking: Gietvloer; - Wandafwerking: Tegelwerk of PVC wandpanelen tot het plafond; - Raamafwerking: n.v.t.; - Plafondafwerking: Standaard systeemplafond; o Kleur wit - Hangend toilet.
+Afvalcontainer - Vloerafwerking: vloeistofdichte vloer met een opstand van 200mm; - Wandafwerking: Coating, HPL of kunststof (nat reinigbaar); - Raamafwerking: n.v.t.; - Plafondafwerking: geen plafond vereist, constructieve vloer bovengelegen verdieping aan onderzijde voorzien van spuitstucwerk.
+3.5.5 Gangen en verkeersruimte - Vloerafwerking: Gladde vloerafwerking zoals Tarkett; - Wandafwerking: Scanbehang met afneembare gladde coating; - Raamafwerking: Geen; - Plafondafwerking: Standaard systeemplafond. o Kleur wit
+4.
+TECHNISCH PROGRAMMA VAN EISEN 4.1 Bouwfysica en brandveiligheid 4.1.1 Binnenklimaat Uit oogpunt van gezondheid, welzijn en bruikbaarheid worden de volgende eisen gesteld aan het klimaat dat in het gebouw heerst en aan het binnenmilieu (bouwfysische prestaties).
+Luchtbeweging De maximale luchtsnelheid moet voldoen aan de maximale grenswaarden conform klasse B volgens ISSO 74.
+Waarbij in alle verblijfsruimten, kantoor en boxenruimte de mogelijkheid bestaat om per ruimte 1 raam te kunnen openen of een bovenlicht aanwezig is.
+Ventilatie Alle ruimten in het gebouw zijn in voldoende mate geventileerd.
+De ventilatieluchthoeveelheden dienen te voldoen aan de waarden volgens bijlage B.
+Voor de systeemopzet van de ventilatie inrichting zie paragraaf 4.3.3 (Luchtbehandeling).
+Speciale aandacht verdient de ventilatie van opbergruimtes voor schoonmaakmaterialen en berging of werkkast waar de vaccinatiekoelkast staat.
+Deze zijn voorzien van separate afzuiging.
+De toe- en afvoer van verse lucht dient zodanig plaats te vinden, dat er geen kans bestaat op door luchttransport veroorzaakte geluidsproductie.
+Thermisch comfort In de tabel van technische eisen, bijlage A, zijn voor de verschillende ruimten de vereiste operatieve temperaturen weergegeven.
+Voor zover niet vermeld moeten de temperaturen voldoen aan klasse B conform ISSO publicatie 74.
+Voor de spreekruimten en de boxenruimte geldt dat de temperatuur te allen tijde tussen de 22° C en 24° C moet liggen (dit is 23 +/- 1° C).
+Geen temperatuuroverschrijding >24°C (operatieve temperatuur) toegestaan.
+Het luchttemperatuurverschil tussen 0,1 en 1,8 m boven de vloer (niveau van het hoofd en niveau van de enkels in zittende toestand) moet kleiner zijn dan 4° C.
+Blad 16 van 33 Versie 1.0, 26 maart 2025
+De gemiddelde luchtsnelheid moet kleiner zijn dan 0,15 m/s.
+De stralingsasymmetrie ten gevolge van ramen of andere koude verticale oppervlakken moet kleiner zijn dan 10° C (ten opzichte van een klein verticaal vlak per persoon in comfortzone, 0,6 m boven vloer).
+Voor de overige verblijfsruimten geldt een adaptief klimaat.
+De serverruimte respectievelijk tussen 15°C en 32°C en voldoende ventilatie.
+De thermische behaaglijkheid in kantoorruimten e.d. moet voldoen aan de aanbevelingen uit bijlage A van NEN-ISO 7730, klimaatklasse B, t.w.: - 0,5 < PMV < + 0,5.
+In die situatie zal - zo is uit onderzoek gebleken - meer dan 90% van de aanwezigen zich thermisch behaaglijk voelen.
+Bij de genoemde PMV hoort het activiteitenniveau voor kantoorwerk (lichte, hoofdzakelijk zittende activiteit) van 1,2 met de thermische weerstand van de kleding kan worden gesteld op 1 clo in de wintersituatie en 0,5 clo in de zomersituatie.
+Geen temperatuuroverschrijding >24°C (operatieve temperatuur) toegestaan.
+Bediening Ruimtethermostaten in elke verblijfsruimte te bedienen door medewerkers.
+In een spreekkamer bevindt de ruimtethermostaat zich nabij het bureau.
+De ventilatie wordt per verblijfsruimte op basis van CO2 geregeld met behulp van een CO2 sensor.
+Deze CO2 sensoren dienen te zijn voorzien van een mogelijkheid om de ventilatie handmatig te kunnen overrulen (bijvoorbeeld ingeval van hinderlijke geuren).
+4.1.2 Akoestisch comfort In de tabel van technische eisen, bijlage A, zijn voor de verschillende ruimten de volgende zaken aangegeven: • De nagalmtijd, voor de ingerichte ruimte; • Het maximaal toegestane geluidsniveau ten gevolge van de installaties; • Het maximaal toegestane geluidsniveau ten gevolge van omgevingsgeluid; • De luchtgeluidsisolatie naar aangrenzende verblijfsruimten; • De luchtgeluidsisolatie naar aangrenzende verkeersruimten; • De contactgeluidsisolatie, uitgedrukt in het toegestane niveau bij meting met een genormeerd hamerapparaat.
+Nagalmtijd Ten behoeve van een goede spraakverstaanbaarheid zijn de maximale nagalmtijden (in ingerichte ruimten) in het middenfrequentiegebied (125 t/m 2000 Hz) voor de verschillende ruimten in de tabel van technische eisen, bijlage A weergegeven.
+De voorgeschreven nagalmtijd kan worden gerealiseerd met bouwkundige afwerkingen zoals plafonds baffles maar ook met grotere (vaste) inrichtingselementen zoals tapijt.
+Installatiegeluid Het maximaal toelaatbare achtergrondniveau in dB(A) ten gevolge van installatiegeluid is voor alle ruimten weergegeven in de tabel van technische eisen, bijlage A.
+Het achtergrondgeluidniveau dat in een verblijfsruimte heerst wordt (mede) veroorzaakt door de installaties in de betreffende ruimte en/of aangrenzende ruimten.
+Bij het ontwerp van de locatie dient rekening te worden gehouden met de nodige bouwkundige en installatietechnische voorzieningen om het geluidniveau onder de maximumwaarden te houden.
+In het ontwerpproces dient er goede afstemming te zijn tussen de installatietechnische voorzieningen en bouwkundige voorzieningen.
+In de uitvoering is de installateur verantwoordelijk voor voldoende geluiddempende voorzieningen om het installatiegeluid te beperken.
+De bouwkundige aannemer is daarentegen verantwoordelijk om voldoende bouwkundige voorzieningen mee te nemen opdat er voldoende geluiddemping plaatsvindt daar waar geluid producerende installatieonderdelen worden gescheiden door een (noodzakelijke) bouwkundige constructie.
+Een goede afstemming/controle op dit gebied tussen de verschillende disciplines is daarom noodzakelijk.
+Omgevingsgeluid Voor wat betreft geluidsoverlast naar de omliggende percelen dient te worden voldaan aan geldende eisen uit de Wet Milieubeheer.
+Blad 17 van 33 Versie 1.0, 26 maart 2025
+Geluidsisolatie Algemene aandachtspunten: - Bij detaillering rekening houden met kruip van beton en doorbuiging van vloeren; - Zorgvuldige detaillering van aansluitingen van wanden, gevels, vloeren, kolommen, enz.; - De geluidsisolatie naar andere percelen bedraagt minimaal Dnta > 52 dB(A); - Geluidisolatie van de boxenkamer naar de gang in verband met schuifdeur geen waarde opgenomen; - Bij overstroomvoorzieningen en doorvoeringen dient er rekening te worden gehouden dat er voldoende geluiddempende voorzieningen worden meegenomen zodat er geen hinderlijke overspraak kan plaatsvinden.
+Contactgeluid De Lnta waarden conform BBL.
+Lnta bepaald volgens NEN 5077.
+De contactgeluidsisolatie is voor alle ruimten weergegeven in de tabel van technische eisen, bijlage A.
+4.1.3 Visueel comfort Kunstlicht Kunstlicht conform NEN-EN 12464 en NEN 3087 in het kader van de Arbowetgeving.
+In de tabel van technische eisen, bijlage A, zijn voor de verschillende ruimten de verlichtingsniveaus als benodigde basisverlichting weergegeven.
+Hieronder wordt aangegeven of aanvullende verlichting, afgestemd op de functie van de ruimte noodzakelijk is.
+Gebruik van ledverlichting is vereiste ten behoeve van de duurzaamheid.
+Voor alle lichtbronnen/armaturen gelden de volgende eisen: • Kleurtemperatuur 3.000 K; • Kleurweergave Ra = 90 of 80 met R9 waarde > 50%; • UGR-waarde conform tabel van technische eisen, bijlage A.
+In de tabel van technische eisen, bijlage A, is tevens voor elke ruimte aangegeven of de verlichting dimbaar dient te zijn en hoe deze dient te worden geschakeld.
+Verlichting werkplek Volgens het Veiligheidsbesluit Restgroepen (VBR) moet in ruimten waar mensen meer dan 2 uur aaneengesloten werken daglichttoetreding aanwezig zijn.
+Het gezamenlijke oppervlak waardoor daglicht kan toetreden, moet tenminste 1/20 van het vloeroppervlak zijn.
+Daarom is daglicht voor de spreekruimten, boxenkamer en kantoor een eis.
+In ruimten waar met beeldschermen wordt gewerkt, moeten de ramen zijn uitgerust met een passende en traploos instelbare helderheidswering om de intensiteit van het licht, dat op de werkplek valt, te verminderen in verband met hinderlijke reflecties op het beeldscherm, minimaal conform glare control klasse 3 van EN 14501.
+Indien buitenzonwering voor deze functie wordt gebruikt, dan dienen dit screens te zijn die voldoen aan de vereiste glare control klasse, welke traploos en vanuit de ruimte te bedienen zijn.
+In verblijfsruimten voor beeldschermwerk waar geen zonwering aanwezig is dient de vereiste lichtwering separaat te worden aangebracht.
+Het combineren van buitenzonwering en lichtwering is mogelijk.
+Het heeft echter niet de voorkeur, omdat buitenzonwering bij harde wind niet altijd bruikbaar is (ook screens niet).
+Uitzichtbepalingen Volgens het Veiligheidsbesluit Restgroepen (VBR) moet in ruimten waar mensen meer dan 2 uur aaneengesloten werken uitzicht op de omgeving mogelijk zijn.
+De gezamenlijke breedte van de lichtopeningen moet tenminste 1/10 van de totale omtrek van de ruimte bedragen.
+4.1.4 Brandveiligheid De brandveiligheid van het gebouw voldoet aan de geldende regelgeving en richtlijnen (Nen-norm 2535).
+Dit betekent dat het gebouw wordt gecompartimenteerd volgens de eisen van het BBL.
+Blusvoorzieningen worden aangebracht conform de eisen van de brandweer.
+Daarbij wordt de publicatie "Een brandveilig gebouw
+Blad 18 van 33 Versie 1.0, 26 maart 2025
+installeren" als richtlijn gehanteerd.
+Het gebouw wordt voorzien van een automatische brandmeld- en ontruimingsinstallatie conform de eisen van het bevoegd gezag.
+Zie hiervoor paragraaf 4.3.2.
+4.2 Bouwtechnische eisen In deze paragraaf zijn de bouwtechnische eisen vastgelegd waaraan bouwdelen voldoen.
+Uitgangspunt is dat de bestaande bruikbare gebouwdelen zoveel mogelijk worden ingepast in de nieuwe situatie.
+Als er sprake is van semipermanente bouw, is een goed geïsoleerde betonnen ondervloer uitgangspunt.
+Minimale vrije hoogte afgewerkte vloer en plafond bedraagt 2.60 m en ter plaatse van doorgangen 2.30 m (BBL).
+4.2.1 Eisen op ruimteniveau In de ruimtestaat is het nuttig oppervlak per ruimte vastgesteld.
+De tabel van technische eisen, bijlage A en B, tonen de eisen op hoofdlijnen op het niveau van ruimtesoorten t.a.v.: - Ventilatie; - Thermisch comfort; - Akoestiek; - Visueel comfort; - W-installaties; - E-installaties.
+De architect en installatieadviseurs dienen binnen de kaders van dit document in overleg met GGD HN de eisen op ruimte niveau vast stellen ten aanzien van: - Eventueel benodigde extra data-aansluitingen; - Afwerking vloer, wanden, plafonds; - Eventuele transparantie van wanden; - Vaste inrichting, zoals keukenblokken, wastafels, werkbladen, enz.
+4.2.2 Eisen op elementniveau In deze paragraaf zijn de specifieke eisen voor de verschillende gebouwelementen weergegeven.
+Buitenwanden (21) Aan de buitenwanden worden de volgende eisen gesteld: - De buitenwanden dienen stoot- en slijtvast te zijn; - Voor buitengevels en wanden dienen onderhoudsarme materialen te worden toegepast; - De buitenwanden dienen een Rc-waarde van minimaal 6,3 m2K/W te hebben; - De lichtdoorlatende delen in de gevel dienen voor verwarmde ruimten een U-waarde < 1,0 te hebben.
+Binnenwanden (22) Aan de binnenwanden worden de volgende eisen gesteld: - De binnenwanden, met uitzondering van eventuele stabiliteitswanden zoals een liftkern of trappenhuis, dienen zodanig te worden uitgevoerd dat de ruimte-indeling kan worden gewijzigd zonder aanpassing van de draagconstructie van het gebouw; - De binnenwanden dienen aan te sluiten tegen de vloerconstructie van de bovengelegen verdieping boven verlaagde plafonds; eventuele leidingdoorvoeren moeten worden afgedicht; - Bij toepassing van metal-stud of houtskeletbouw binnenwanden moeten deze op gewaarmerkte plekken geschikt zijn voor ophanging van wastafels, uitstortgootstenen, wastafels, white-boards, wandkasten, t.v./videoapparatuur en andere inrichtingselementen.
+Daarvoor dient het benodigde achterhout in de wanden te worden opgenomen.
+In bergingen dienen de wanden volledig geschikt te zijn voor het ophangen van schappen, waarmee voor metal-stud wanden geldt dat deze over de volledige oppervlakte moeten worden voorzien van achterhout; - Binnenwanden dienen geschikt te zijn voor de bevestiging van platen/schilderijen en waar nodig andere voorzieningen; afhankelijk van de functie kan er gekozen worden voor een railsysteem aan het plafond; - De wanden van de toiletten dienen geschikt te zijn voor toepassing/bevestiging van vrij hangende toiletpotten.
+Blad 19 van 33 Versie 1.0, 26 maart 2025
+Vloeren (23) De vloeren dienen aan de volgende eisen te voldoen: - Vanwege de geluidsisolatie en ten behoeve van warmteaccumulatie dienen de vloeren inclusief de dakvloer in steenachtig materiaal uitgevoerd te worden; - De begane grond vloer dient een Rc-waarde van minimaal 4,7 m2K/W te hebben.
+Voor bestaande gebouwen geld een minimale RC-waarde van 2,5 m2K/W.
+Trappen en hellingen (24) Trappen uitvoeren overeenkomstig NEN 3509-1.
+Buitentrappen dienen in natte toestand een stroefheid te hebben van µ = 0,45 bepaald conform NEN 7909.
+In verband met geluidsoverlast dienen trappen niet in staal te worden uitgevoerd, evt. vluchttrappen buiten wel.
+Locatie en uitvoering van de trappen vaststellen in overleg met de plaatselijke brandweer.
+De trappen worden benut als vluchtwegen.
+Hellingbanen dienen te voldoen aan de eisen voor toegankelijkheid (ITS totaal), conform de ITstandaard, onderdeel 3-H4.06.
+Hoofddraagconstructies (28) Aan de hoofddraagconstructies worden de volgende eisen gesteld: - In verband met flexibiliteit dienen de hoofddraagconstructies een vrije indeelbaarheid van het gebouw zo min mogelijk te belemmeren; - Nieuw te plaatsen binnenwanden dienen niet dragend te zijn.
+Afbouw Buitenwandopeningen (31) Ten aanzien van de gevelopeningen gelden de volgende eisen: - In alle verblijfsruimten dient minimaal één raam te kunnen worden geopend; - De gevelopeningen dienen (behoudens die aan de noordzijde) te worden voorzien van een beweegbare buitenzonwering met screens; - In ruimten op de verdiepingen dienen de ramen te worden vastgezet op een kiepstand ter voorkoming van doorklimmen; - Er dient blank isolerend glas toegepast te worden (LTA > 0,55 / U < 1,0 W/m2K) of glas met een hogere isolatiewaarde; - Glas in en naast deuren moet worden uitgevoerd in veiligheidsglas conform NEN 3569; - Er dienen meerpuntssluitingen met verbeterde kierdichting in draaiende delen toegepast te worden, overeenkomstig de water- en wind dichtheidseisen conform NEN-EN 12207 en NEN-EN 12208; - Hang- en sluitwerk uit te voeren met keur SKG** zonder scherpe randen ter voorkoming van verwondingen; - Mogelijke geluidsoverlast van buitenzonwering bij hogere windsnelheden dient te worden voorkomen; - Indien houten buitenkozijnen dan in hardhout met duurzaamheidsklasse II en duurzaam geproduceerd, voorzien van door SKH erkend keurmerk; - Bij aluminium of kunststof kozijnen dient te worden gekozen voor materialen met een zo laag mogelijke milieubelasting volgens de Nationale Milieu Database versie 3.0; - Buitendeuren: uitsluitend veiligheidsscharnieren en inbraakwerende sloten toepassen.
+Binnenwandopeningen (32) Voor binnenwandopeningen gelden de volgende eisen: - De vrije doorgang van deuren dient minimaal 900 mm te zijn; de hoogte 2300 mm; - De deuren uit te voeren in stootvast materiaal met een onderhoudsvrije afwerking; - Glas in deuren dient te bestaan uit veiligheidsbeglazing conform NEN 3569; - Zo min mogelijk deuren toepassen in wanden waaraan eisen worden gesteld voor geluidsisolatie (zoals ruimten onderling); - Hang- en sluitwerk uit te voeren zonder scherpe randen ter voorkoming van het risico op verwondingen;
+Blad 20 van 33 Versie 1.0, 26 maart 2025
+- Een eventuele glasopening in binnenwanden dient tot een hoogte van 1,5 m te worden uitgevoerd in veiligheidsglas; - In brandcompartimentering wanden dienen brandwerende deuren/kozijnen te worden toegepast, passend bij de vereiste brandwerendheidsklasse; - In natte ruimten de sloten volledig uitvoeren in RVS; - Alle toegangsdeuren bij de ingang en toiletruimten voorzien van deurdrangers.
+De deurdrangers bij de ingang en technische ruimte moeten voorzien zijn van een vastzetinrichting; - Toegangsdeuren entree binnenzijde voorzien van schopplaten; - Deurkozijnen in natte ruimten zodanig uitvoeren dat deze bestand zijn tegen inwerking van vocht nabij de vloer.
+Vloeropeningen (33) Aan de vloeropeningen worden de volgende eisen gesteld: - Vloeropeningen in de begane grondvloer (kruipluiken) dienen zodanig te zijn uitgevoerd dat aan de eisen voor luchtdichtheid in het BBL wordt voldaan; - De locatie van de kruipluiken dient zodanig te zijn dat eventuele werkzaamheden onder de begane grondvloer volgens de geldende arbo-richtlijnen kunnen plaatsvinden.
+Balustrades en leuningen (34) Balustrades en leuningen dienen te worden uitgevoerd overeenkomstig de daarvoor geldende eisen in het BBL.
+Dakopeningen (37) Eventuele dakopeningen dienen te voldoen aan de volgende eisen: - Bij platte daken inbraakwerende lichtkoepels toepassen; - Lichtkoepels dienen doorvalveilig te zijn; - Eventuele dakopeningen dienen te voldoen aan de eisen op het gebied van brandoverslag in het BBL/de lokale bouwverordening; - Warmtedoorgangscoëfficiënt U < 1,0 m2K/W.
+Afwerkingen Buitenwandafwerkingen (41) De buitenwandafwerking dient aan de volgende eisen te voldoen: - De gevels dienen eenvoudig te kunnen worden gereinigd i.v.m. graffiti; - De gevels dienen bestand te zijn tegen mechanische invloeden (slag- en stootvast).
+Binnenwandafwerkingen (42) Voor de wandafwerking gelden de volgende eisen: - Wandafwerkingen dienen functioneel, onderhoudsvrij en eenvoudig reinigbaar te zijn; - De afwerking van de wanden dient i.v.m. gelijkmatigheid van de verlichting en ter voorkoming van hinderlijke helderheidverschillen licht van kleur te zijn; - De diffuse lichtreflectiefactor (r) van de afwerking van de binnenwanden dient bij een vervuilingsfactor van 10% tenminste 0,7 te zijn; - De wanden en de afwerking dienen bestand te zijn tegen mechanische beschadigingen (slag- en stootvast); - De binnenwanden dienen geen scherpe hoeken of randen te hebben, in verband met het voorkomen van verwondingen.
+Vloerafwerkingen (43) Voor de vloerenafwerking gelden de volgende eisen: - Ter plaatse van publieksruimten dient gekozen te worden voor een vloerafwerking.
+Met een hoge slijtvastheid, goede stroefheid (minimaal antislipwaarde R10), antistatisch en dient geschikt te zijn voor het berijden met kleine wagentjes (koffie, magazijngoederen, schoonmaak); - De vloerafwerking dient vochtbestendig te zijn in verband met het eventueel nat reinigen.
+Inwerking van vocht op de wanden door natte schoonmaak van de vloer dient vermeden te worden, bijvoorbeeld door toepassing van een plint;
+Blad 21 van 33 Versie 1.0, 26 maart 2025
+- Bij de keuze van vloerafwerkingen dient aandacht geschonken te worden aan reinigbaarheid, krasvastheid en duurzaamheid in relatie tot de functie van de ruimte; - Ter plaatse van de entree dienen schoon- en droogloop matten te worden voorzien.
+Trap en hellingafwerkingen (44) Vooralsnog wordt ervan uitgegaan dat het gebouw volledig op de begane grond is gesitueerd.
+Indien er zich toch ruimten op hoger gelegen bouwlagen bevinden gelden voor de trappen en hellingbanen de volgende eisen: De afwerking van trappen en hellingbanen dient te beschikken over een hoge slijtvastheid en een goede stroefheid (in natte toestand minimaal µ =0,35 conform NEN 7909, antislipwaarde R11).
+Er dient een goed reinigbare vloerafwerking te worden gebruikt.
+Tapijt mag niet worden toegepast op trappen en hellingbanen.
+Plafondafwerkingen (45) Algemene eisen t.a.v. plafonds: - Systeemplafonds moeten eenvoudig uitneembaar zijn; - Bij de keuze van het type plafond moet rekening worden gehouden met de gewenste/vereiste akoestiek in de betreffende ruimte; het behalen van de juiste akoestiek moet zo worden ingevuld dat de toepassing van losse akoestiek panelen niet nodig is; - De lichtreflectiefactor van de afwerking van de plafonds dient tenminste ≥ 0,7 te zijn; - In natte ruimten dienen de plafonds vochtbestendig te zijn.
+Dakafwerkingen (47) Platte daken dienen te worden afgewerkt met een EPDM of (APP) dakbedekking, beloopbaar en geschikt voor het aanbrengen van zonne-energiesystemen.
+4.3 Technische eisen gebouwinstallaties 4.3.1 Algemeen Specifieke eisen die samenhangen met de inrichting van ruimten (zoals bijvoorbeeld de exacte plaats van aansluitpunten elektra) worden niet in dit PvE beschreven.
+Deze worden bepaald op het moment dat het definitieve ontwerp gereed is, dan levert GGD HN/gemeente dit aan bij de aannemer.
+Bij oplevering van het gebouw wordt een complete set bijgewerkte revisietekeningen verstrekt.
+Ook worden de desbetreffende onderhouds- en bedieningsvoorschriften, garantiecertificaten, KOMO-keur-certificaten, enz. verstrekt.
+4.3.2 Elektrotechnische installaties In deze paragraaf worden de elektrotechnische installaties omschreven.
+Tevens worden de ontwerpcondities benoemd.
+De installaties zijn gebaseerd op een levensduur van minimaal 20 jaar.
+De volgende Nen-normen zijn voor de Elektrotechnische-installaties van toepassing (geldende en recente wet- en regelgeving van toepassing): - NEN 1010 (laagspanningsinstallaties); - NEN 3140 (veiligheid laagspanningsinstallaties, vooral voor uitbreiding, aanpassing en onderhoud aan bestaande installaties); - NEN-EN 12464 (binnenverlichting); - NEN-EN-IEC 62561 (bliksembeveiliging); - NEN-EN 1838 (noodverlichting); - NEN 2535 (brandmeldinstallaties); - NEN 2654 (brandmeldinstallaties) en NEN 2654 (ontruimingsinstallaties); - NEN 2575 (deel 1,2 en 3) brandveiligheid.
+Stroomvoorziening De gehele installatie voldoet aan de vigerende NEN 1010, NEN 1014 en NEN 3140.
+In het gebouw wordt, naast specifieke stroomvoorziening voor ICT, minimaal 1 wandcontactdoos per 10m2 voor algemeen gebruik aangebracht, met een minimum van 1 per ruimte, uitgezonderd de toiletten.
+Blad 22 van 33 Versie 1.0, 26 maart 2025
+Ontwerpgegevens Voor berekening van de voedingskabels gelden de volgende uitgangspunten: - Krachtwandcontactdoos: 1500 VA; - Computer werkplekaansluiting: 450 VA (bekabeling bij voorkeur aanbrengen in een kabelgoot); - Algemene wandcontactdoos : 200 VA; - Omgevingstemperatuur: 30° C; - Type voedingskabel: YMvK; - Reservecapaciteit: 20%.
+Gelijktijdigheidfactoren: - Verlichting: 80%; - Algemene wandcontactdozen: 30%; - Werkplekaansluitingen: 75%; - Overige specifieke apparatuur : 50%; - Meer dan 6 kabels naast elkaar liggend, dan bekabeling in goot/ladderbaan; - De maximale toegestane spanningsverliezen alsmede de warmteontwikkeling en kortsluitvastheid (een en ander overeenkomstig NEN 1010).
+Energievoorziening In de DO-fase (Definitief Ontwerpfase) wordt bepaald of de aansluiting kan worden onttrokken vanuit een aanwezige nutsvoorziening op de locatie.
+Energieverdeling in het gebouw vindt plaats vanuit de hoofdverdeler (HKL).
+Vanuit deze hoofdverdeler worden de volgende onderverdeelinrichtingen rechtstreeks gevoed door middel van separate eindgroepen (zekering/lastscheiders): - Verdeelkast LKO; - Verdeelkast LKI.
+Deze onderverdeling is afhankelijk van de grootte van het gebouw en het aantal eindgroepen.
+Verdeelinrichting De verdeelinrichtingen worden compleet uitgevoerd met de benodigde bevestigingen, installatieautomaten of aardlekschakelaars/alarmats, voor de onderverdeelinrichting en zekeringen + schakelaars voor de hoofdverdeelinrichting (30 mA), conform de geldende eisen.
+Iedere verdeelinrichting wordt voorzien van 20% reserveruimte in groepen en een minimale uitbreidingsmogelijkheid van 6 groepen.
+De uitvoering van de verdeelinrichtingen is in staal of kunststof, voorzien van afsluitbare deuren met slot.
+In de verdeelinrichtingen is daar waar nodig tevens ruimte gereserveerd voor eventuele toepassingen van schakelblokken of overige randapparatuur voor specifieke doeleinden.
+Er wordt rekening gehouden met voorkeursgroepen die continu onder spanning blijven en overige, centraal schakelbare groepen zoals verlichting en specifieke voedingen.
+De plaatsing van de verdeelinrichtingen, de selectieve groepsindeling en de benodigde kabellengte is dusdanig van opzet dat: - Een minimum aan kabel- en bedradingslengte benodigd is; - De laagste hoofdzekering van het stroomleverend bedrijf wordt verkregen.
+Voor het bepalen van de nominale stroom van de hoofdschakelaar van de verdeelinrichting HKL wordt rekening gehouden met een maximaal gelijktijdig optredende belasting.
+Deze wordt vastgesteld op basis van de volgende percentages, te weten: Verlichting : 80% van het voor verlichting geïnstalleerde vermogen;
+Contactdozen alg. : 30% van het geïnstalleerd vermogen;
+Kracht : 30% van het voor kracht geïnstalleerd vermogen;
+Warmte : 100% van het voor warmte geïnstalleerd vermogen;
+Computers : 80% van het voor computers geïnstalleerd vermogen.
+Blad 23 van 33 Versie 1.0, 26 maart 2025
+Aansluitpunten Elektra Het aantal aansluitpunten voor energievoeding in het gebouw is van zodanige omvang dat alle vast geïnstalleerde elektronische installaties en machines van stroom van de juiste spanning voorzien worden.
+Het is voor de gebruiker in het hele gebouw mogelijk om elektronische apparaten permanent aan te sluiten en er resteren voldoende aansluitpunten voor incidenteel gebruik.
+Er zijn ook voldoende aansluitpunten aanwezig voor pc's.
+De stroomvoorziening 400 Volt (krachtstroom) dient in voldoende mate aanwezig te zijn voor de permanent aan te sluiten elektronische apparaten en machines op de plaatsen waar dit nodig is.
+De plaats van contactdozen mag geen belemmering vormen bij de inrichting van ruimten en geen gevaar voor kleuters opleveren.
+De wandcontactdozen zijn kindveilig en insteekveilig in de spreekkamer, wachtruimten, boxenruimte en andere ruimten waar peuters en kleuters zich kunnen begeven.
+Wandcontactdozen in de keuken meer dan 50 cm verwijderd van spoelbak i.v.m. kortsluiting door spatwater.
+Kabel- en leidinggoten De in de ruimten aanwezige kabel- en leidinggoten dienen zodanig geplaatst te worden dat een efficiënte inrichting van ruimten niet belemmerd wordt.
+Aansluitingen van apparatuur in op de goten aangebrachte contactpunten moeten eenvoudig te realiseren zijn.
+Ook de geluidsisolatie c.q. brandwerende isolatie van doorgaande leidinggoten ter plaatse van wanddoorvoeringen voldoet aan de gestelde eisen.
+De voorkeur gaat uit naar kabel- en leidinggoten in de kantoren en personeelsruimten.
+In de verkeersgebieden wordt een kabelgoottracé aangebracht om een overzichtelijke bekabelingstructuur te kunnen bewerkstelligen, zowel voor de zwakstroom (brandmelding/ontruiming e.d.), als voor de sterkstroom (verlichting, apparatuur).
+Daar waar door de indeling van de ruimten energiezuilen benodigd zijn, dienen deze te worden uitgevoerd als plafondzuil (m.a.w. voeding vanaf plafond).
+Voor de overige ruimten wandcontactdozen en data-aansluitingen als inbouw uitvoeren.
+De kabel- en wandgoten worden voorzien van scheidingsschotten voor de scheiding tussen zwakstroom en sterkstroom.
+De verschillende compartimenten dienen minimaal 60 mm breed te zijn.
+De koppeling tussen wandgoot en kabelgoot is aaneensluitend, uitgevoerd in goot van hetzelfde fabricaat.
+Daarnaast wordt voorzien in metalen wandgoot van minimaal 170 mm hoog, gescheiden compartimentering en standaardkleur RAL 9010 of RAL 9001 aan de gevel.
+De wandgoot wordt bij het passeren van scheidingswanden voorzien van de benodigde akoestische c.q. brandwerende voorzieningen.
+In de kabelgoten dient na oplevering per compartiment een overcapaciteit aanwezig te zijn van: - Laagspanningsleidingen en licht- en krachtinstallatie: 20%; - Inbraak- en brandbeveiligingsinstallatie: 20%; - Telematica en data: 35%.
+De kabel- en wandgoten worden zodanig geprojecteerd c.q. uitgevoerd dat er, nadat alle kabels ten behoeve van de verschillende installaties zijn aangebracht, een reserveruimte resteert van 25%.
+Verlichtingsinstallatie Voor de basisverlichting in alle ruimten wordt uitgegaan van verlichtingsarmaturen (600x600) in inbouw-uitvoering.
+De verlichtingsarmaturen uitvoeren met spiegeloptiek.
+Daar waar beeldschermen zijn geprojecteerd dienen de armaturen beeldschermvriendelijk uitgevoerd te worden.
+Voor verlichtingssterkte gelden de waarden zoals die omschreven staan in de NEN-EN 12464.
+De hiervoor te hanteren uitgangspunten zijn: - De van toepassing zijnde normen; - Werkplekhoogte: 0,75 m; - In verkeersgebieden wordt een werkvlakhoogte van 0,2 m gehanteerd; - Reflectiefactoren: § Plafonds, maximaal 50%; § Wanden, maximaal 30%;
+Blad 24 van 33 Versie 1.0, 26 maart 2025
+§ Vloeren, maximaal 10%; § Randzones: 0,6 m. - Verlichtingssterkten zijn opgenomen in 4.1.2 visueel comfort; - Verlichtingssterkte (E-standaard): zie paragraaf 4.1.3; - Noodverlichting I resp.
+10 lux, conform NEN-EN 1838; - Gelijkmatigheid index > 0,75; - Kleurweergave index 0,9 voor kantoren, spreek-/behandelkamers.
+De verlichtingsarmaturen moeten worden aangesloten met een beschermingsleiding.
+Ter bevordering van de uniformiteit dient het aantal typen verlichtingsarmaturen te worden beperkt.
+In ruimten met vides wordt rekening gehouden met het verlichten van de betreffende ruimten met pendelarmaturen.
+De kleurtemperatuur van het licht is ongeveer 3000 graden Kelvin (warm wit).
+In kantoor- en vergaderruimten worden afgeschermde armaturen toegepast, waarbij zoveel mogelijk gebruik wordt gemaakt van hoge opbrengst-armaturen.
+De navolgende uitgangspunten worden in acht genomen: - De armaturen worden gelijkmatig over de ruimte verdeeld; - Armaturen nooit boven de bureaus van de spreekkamer en boxenruimte plaatsen in verband met verblinden; - Verblinding voorkomen door de luminantieverschillen tussen de oogtaak en de omgeving maximaal factor 3 te laten zijn; - Armaturen toepassen die eenvoudig te reinigen zijn; - Armaturen bevestigen op plaatsen waar onderhoud eenvoudig is; - Leidingaanleg waar mogelijk 'uit het zicht' door middel van vaste buis pvc en/of Hostalitbuis 16119/25 mm; - Alle bekabeling aanbrengen in de kabelgoot, pvc en/of Hostalitbuis.
+Schakelapparatuur Voor schakelapparatuur in principe uitgegaan van: - Slagvast (thermoplast) inbouwuitvoering, daar waar mogelijk; - Slagvast inbouw in ieder geval in de verkeersruimten, technische ruimten, werkkasten en bergingen; - CEE-FORM uitvoering voor 400 V-aansluitingen (indien benodigd).
+De wijze waarop de verlichting wordt geschakeld is per ruimte aangegeven in de tabel van technische eisen, bijlage A.
+Verkeersruimten worden centraal geschakeld.
+Verlichtingsarmaturen In kantoorruimten, spreekruimten, boxenruimte worden beeldschermvriendelijke inbouwarmaturen gemonteerd.
+De bediening is voor alle ruimten weergegeven in de tabel van technische eisen, bijlage A.
+Zoals is aangegeven in paragraaf 4.1.3 is ook de UGR waarde aangegeven in de tabel van technische eisen.
+Schakelinrichting van de verlichting In ruimten groter dan 50 m² dient de mogelijkheid te bestaan om slechts een deel van de verlichting te schakelen, gerelateerd aan een logisch gebruik van de ruimten (verdeeld in raamzijde/gangzijde).
+De groepsindeling van de verlichting dient een logische relatie te hebben met de functionele hoofdstructuur van het gebouwen met de gebruiksaanwending van de afzonderlijke ruimten.
+Het dient mogelijk te zijn om vanuit een centrale post groepen op een eenvoudige wijze te schakelen ten aanzien van voor dagelijks gebruik bestemde werkzaamheden.
+Blad 25 van 33 Versie 1.0, 26 maart 2025
+Noodverlichting De noodverlichtingsinstallatie treedt in werking bij laagspanningsuitval of een spanningsdaling > 15%.
+De noodverlichting bestaat uit: - Algemene decentrale noodverlichtingsarmaturen in de verkeersruimten en de vluchtwegen, conform NEN-EN 1838; - Algemene decentrale noodverlichtingsarmaturen in technische ruimten en laagspanningsruimten conform NEN-EN 1838; - Decentrale vluchtwegverlichtingsarmaturen (transparant) conform NEN EN 1838.
+Waar mogelijk dient de noodverlichting geïntegreerd te worden in de armaturen voor algemene verlichting.
+Ten behoeve van de vluchtwegaanduiding moeten op de hiervoor in aanmerking komende plaatsen conform NEN-EN 1838 vluchtwegarmaturen worden geplaatst.
+Communicatie-installatie Er zijn analoge lijnen aanwezig voor storing- en doormeldingen van eventueel aanwezige brandmeldinstallatie en inbraakbeveiligingsinstallatie.
+Telefoon- en datacommunicatie-installatie De internetaansluiting mag niet gedeeld worden met andere gebruikers van het pand.
+De exacte aansluiting op de data infrastructuur dient te worden afgestemd met de gebruikers.
+Data-bekabeling In overleg met de gebruikers de precieze aantallen data-aansluitingen bepalen.
+Zie tabel technische eisen, bijlage A.
+De data-bekabeling voldoet aan de volgende componenten, te weten: - Er dient een Cat 7 bekabeling gelegd worden tussen de ISRA punt en de patchkast van de gebruiker; - De bekabeling dient volledig afgemonteerd en genummerd zijn op het patchpanel; - De gebruiker moet toegang tot het ISRA punt hebben; - Minimaal Cat 7 bekabeling gecertificeerd opleveren; - Afwerking van de bekabeling, gescheiden van de stroomkabel (afhankelijk van type bekabeling); - Wifi-acces points dienen te zijn voorbereid op zowel voeding met 230V als power over ethernet; - Eigen aansluiting van de patchkast op een glasvezel-paar.
+Wifi In het gehele gebouw dient er een volledig dekkend wifi netwerk aangelegd te kunnen worden met voldoende capaciteit voor minimaal één apparaat per gebruiker in elke ruimte.
+Hiervoor dienen netwerkaansluitingen boven de plafonds beschikbaar te zijn.
+Wandcontactdozen De genoemde wandcontactdozen in de tabel technische eisen, bijlage A, zijn ten behoeve van data/ICT-apparatuur en komen boven op de vereiste hoeveelheid wandcontactdozen voor algemeen gebruik zoals benoemd bij stroomvoorziening.
+De stroom- en netwerkaansluitingen dienen in de buurt van de bureaus te zijn.
+De posities worden nader afgestemd met de gebruiker.
+Data- en telecomvoorzieningen Voor locaties waarin de entree niet direct zichtbaar is vanuit de werkruimtes, zoals bij locaties waar de JGZ zich op de eerste verdieping bevindt terwijl de entree zich op de begane grond bevindt, wordt een deurbel/intercom gewenst.
+De installatie wordt centraal geplaatst en dient nader afgestemd te worden met GGD HN.
+Bedieningspanelen dienen eenvoudig toegankelijk te zijn voor medewerkers die verantwoordelijk zijn voor de toegang.
+Blad 26 van 33 Versie 1.0, 26 maart 2025
+De patchkast wordt geplaatst in de afsluitbare serverruimte.
+Afmetingen patchkast afhankelijk van benodigde netwerkcomponenten en werkplekken voor deze locatie.
+Voor de patchkast voldoende stroom aansluitingen en lokale koeling (met luchtrecirculatie) opnemen.
+Brandmeldinstallatie Het gebouw wordt voorzien van een installatie waarmee melding gedaan kan worden van brand, conform wettelijke en brandweereisen en NEN 2535 en NEN 2654.
+Er vindt een automatische inschakeling plaats van de ontruimings-installatie.
+Uitgangspunt is het voorzien van handbrandmelders op centrale plaatsen in het gebouw en in de directe nabijheid van brandhaspels.
+Bij melding wordt op één centrale beheerpost in het gebouw een hoorbaar en zichtbaar signaal gegeven.
+Tevens wordt de locatie van de melding op een door de brandweer aan te geven plaats schematisch weergegeven.
+Vanuit deze plek vindt snelle doormelding plaats naar de brandweer.
+Het een en ander voldoet aan de eisen geformuleerd in de NBF leidraad, 'brandveilig gebouw installeren', de voorschriften van de brandweer en het BBL.
+Daar waar ten behoeve van een functioneel gebruik van ruimten vluchtdeuren openstaan, worden deze door middel van kleefmagneten of automatische drangers op de brandmeld- en beveiligingsinstallatie aangesloten.
+Ontruimingsinstallatie Het pand is voorzien van een ontruimingsinstallatie met bewaking van de vluchtwegen (gedeeltelijke bewaking), automatische doormelding via de rookmelders en slow-whoops, in overeenstemming met NEN 2575.
+Er is een ontruimingsinstallatie aanwezig conform de geldende voorschriften en brandweereisen.
+De aannemer realiseert het gebouw/de verbouwing conform het PvE in overeenstemming met NEN 2575 en in overleg met de brandweer.
+De ontruimingsalarminstallatie bestaat uit de volgende hoofdcomponenten, te weten: - Handmelders bij de brandslanghaspels; - Handmelders op centrale plaatsen; - Slow-whoops ten behoeve van het ontruimingssignaal; - Stand alone systemen en kleefmagneten ten behoeve van eventuele branddeuren; - Benodigde aansturingen.
+Storingsignaleringsinstallatie Er wordt een installatie gerealiseerd waarmee storingen/meldingen in installaties voor Miva-toilet, verlichting, ventilatie en verwarming, etc. worden aangegeven in een centrale beheerpost.
+Het bedieningspaneel wordt voorzien van een zoemer en afsteldrukker.
+Overspannings- en bliksemafleiderinstallatie Ten behoeve van de beveiliging van machines en installaties tegen overspanning wordt een centrale overspanningsbeveiliging en een middenbeveiliging aangebracht.
+Door een installateur (of installatie adviseur) dient een risicoanalyse uitgevoerd te worden om te beoordelen of een bliksemafleiderinstallatie vereist is.
+Dit is voorgeschreven door wetgeving.
+De aarding- en potentiaalvereffeninginstallatie voldoet aan de hiervoor geldende norm, welke is opgenomen in NEN 1010.
+4.3.3 Werktuigbouwkundige installaties In deze paragraaf worden de werktuigbouwkundige installaties omschreven.
+Tevens worden de ontwerpcondities benoemd.
+De installaties zijn gebaseerd op een levensduur van 20 jaar.
+De volgende Nen-normen zijn voor de Werktuigbouwkundige-installaties van toepassing (geldende en recente wet- en regelgeving van toepassing): - NEN 1006 leidingwaterinstallaties; - NEN 1078 Aardgasinstallaties; - NEN 1087 Ventilatie woongebouwen; - NEN 3028 Veiligheidseisen voor centrale verwarmingsinstallaties;
+Blad 27 van 33 Versie 1.0, 26 maart 2025
+- NEN 32152022 Binnenriolering; - NEN-EN 12831 Warmtebelasting voor ruimteverwarming; - NEN 5060 referentieklimaatgegevens voor de bepaling van de koelbehoefte in het gebouw; - NEN 1006 Waterwerkbladen; - NPR 5075; - ISSO publicatie 50; - ISSO publicatie 53; - ISSO publicatie 55 en 55.1; - ISSO publicatie 65; - BRL 6010: Legionellapreventie-advies.
+Berekeningen Warmteverliesberekening De warmtebehoefte dient te worden bepaald op basis van ISSO publicatie 53.
+Hierbij dienen de volgende uitgangspunten te worden gehanteerd: - Er dient rekening te worden gehouden met een adaptieve regeling (zelflerende regeling), zodat er géén opwarmtoeslag in rekening gebracht hoeft te worden.
+Dit is niet van toepassing voor situaties waarbij er door omstandigheden geen zelflerende regeling kan worden toegepast; - Interne warmteontwikkeling wordt niet in mindering gebracht op het berekende warmteverlies; - Infiltratie: Voor infiltratie dient bij nieuwbouw te worden uitgegaan van de Qv10spec-waarde volgens de EPG (BENG) berekening.
+Voor bestaande bouw dient (na renovatie) te worden uitgegaan van een Qv10spec van minimaal 0,625; - Ruimtetemperaturen conform de in paragraaf 4.1.1 geformuleerde uitgangspunten.
+Koellast-/temperatuuroverschrijdingsberekening: Om de temperatuuroverschrijding en koellast te kunnen bepalen dient er een koellast-/temperatuur-overschrijdingsberekening te worden gemaakt volgens NEN-EN-ISO 15255/52017 en NEN 5060, uitgevoerd met de rekenprogramma's van VABI/DGMR of gelijkwaardig, laatste uitgave.
+Voor het klimaatbestand (volgens NEN 5060) dient het T1 (1%)- bestand te worden gekozen.
+Voor de capaciteitsbepaling van de koelinstallatie wordt rekening gehouden met de volgende bezetting door personen, interne warmte en verlichting: - Verlichting 10 W/m2; - Personen 80 Watt per persoon (bezetting 50 minuten per uur); - Apparatuur 150 Watt per ICT-werkplek; - Zonbelasting volgens ligging en constructie met inbegrip van zonwerende maatregelen (zonwering).
+Luchtkanalenberekening: Er dient een luchtkanalenberekening te worden gemaakt van de toe te passen luchtkanalen, overeenkomstig ISSO publicatie 17.
+Ten aanzien van de berekening van de luchtkanalen en roosters zijn de volgende maximaal toelaatbare luchtsnelheden in luchttoevoer- en luchtafvoerkanalen van toepassing in respectievelijk ronde en rechthoekige kanalen: In schachten en technische ruimten 5 m/s - 4,5;
+In hoofdkanalen boven het systeemplafond 4 m/s - 3,5;
+In aftakkingen en roosteraansluitingen 3, m/s - 2,5.
+Blad 28 van 33 Versie 1.0, 26 maart 2025
+Roosterselectie en luchtverdeling - De netto doorlaat van overstroomroosters en suppletievoorzieningen (verse lucht via de gevel) baseren op een luchtsnelheid van max.: 0,83 m/s; - Luchtsnelheid in het verblijfsgebied gemeten op 1,80+ vloer max.
+0,15 m/s; - Een en ander afhankelijk van temperatuur in deze luchtbeweging.
+Waterinstallatie Ten aanzien van de berekening van drinkwaterwaterinstallaties moeten de volgende uitgangspunten worden gehanteerd: - Berekeningsmethodiek gebaseerd op de 'q-wortel-n' methode; - Minimale volumestroom conform VEWIN werkblad WB 2.1 A Installaties, toestellen en de bijbehorende aan- en toevoerleidingen produceren maximaal het in paragraaf 4.1.2 aangegeven geluiddrukniveau (La;eq), om geluidsoverlast te voorkomen.
+In de aansluitleidingen van de brandslanghaspels dienen te worden voorzien van keerklep volgens de geldende voorschriften.
+Verwarming/koelinstallatie Voor de warmteproductie en eventuele warmwatervoorziening wordt een separate ruimte gerealiseerd.
+De verwarming wordt uitgevoerd als lage temperatuurverwarming.
+Het ontwerpen van de installatie moet geschieden overeenkomstig de meest recente ISSO-publicatie nr.
+53.
+De leidingen van de technische ruimte, schachten en in de verlaagde plafonds alsmede de verdeler/verzamelaars worden voldoende geïsoleerd, daar waar noodzakelijk dampdicht.
+Leidingen op het dak extra voorzien van stuco-aluminium beplating.
+De ruimten die met regelmaat buiten kantoortijden worden benut, indien mogelijk voorzien van een overwerktimer.
+De temperatuur in een verblijfsruimte moet binnen een beperking van ± -3° C tot +3° C afwijkend van de basistemperatuur instelbaar zijn.
+Dit staat los van de instelling tijdens nachtverlaging/bedrijfsonderbreking.
+Indien nachtverlaging wordt toegepast (wat in de nacht en weekenden van toepassing kan zijn) zal de temperatuur instelling aanzienlijk lager zijn (b.v. -6°C tov basisinstelling).
+Verwarmingslichamen Op basis van de warmteverliesberekening dient het op te stellen verwarmingsvermogen per ruimte te worden bepaald.
+Afhankelijk van de situatie kan vloerverwarming en/of covectoren worden toegepast.
+De vloerverwarming wordt per verblijfsruimte als afzonderlijke zone aangelegd, zodat de temperatuur per ruimte geregeld kan worden.
+Bij het handhaven van aanwezige vloerverwarming die niet per verblijfsruimte is gezoneerd, zullen aanvullende verwarmingselementen (radiatoren/convectoren) moeten worden toegepast als hoofdverwarming, zodat elke verblijfsruimte afzonderlijk geregeld kan worden.
+De vloerverwarming fungeert in dit geval als bijverwarming/basisverwarming.
+Het uitgangspunt is dat alle verwarmingslichamen per verblijfsruimte dienen te worden geregeld op basis van instelbare ruimtetemperatuur.
+Elke convector dient te worden voorzien van een voetventiel, ontluchter en aftapper.
+Verwarmingslichamen in overige ruimten dienen te worden voorzien van instelbare thermostatische radiatorafsluiters met vaste instelmogelijkheid.
+Verwarmingslichamen zijn kindvriendelijk en veilig.
+De leidingen worden tot 1,5 m van de vloer geïsoleerd om verbranding bij aanraking door kinderen te voorkomen.
+Bij kindvriendelijke uitvoering van verwarmingslichamen mag het rendement van de afgifte niet negatief beïnvloed worden.
+Het toepassen van elektrische radiatoren (bijvoorbeeld IR-panelen) is niet toegestaan.
+Hier kan in overleg met GGD HN van worden afgeweken indien dit door de omstandigheden de beste oplossing blijkt.
+Leidingen, convectoren en radiatoren zijn in verband met schoonmaak- en technisch onderhoud eenvoudig bereikbaar.
+Verwarmingslichamen zijn zodanig uitgevoerd dat deze eenvoudig te reinigen zijn.
+Blad 29 van 33 Versie 1.0, 26 maart 2025
+Waterinstallatie Vanaf een watermeter wordt een in groepen afsluitbare koudwaterleiding aangebracht tot op de sanitaire toestellen, diverse tappunten, brandslanghaspels, warmwaterbereider, enz.
+De koudwaterinstallatie hoofdzakelijk aanbrengen in onverwarmde ruimten (kruipruimte).
+Er wordt voorzien in een leidingstelsel dat zorgt voor voldoende koud tapwater op plaatsen waar dit uit het oogpunt van gebruik, hygiëne of veiligheid gewenst is.
+Om een goede doorspoeling van het drinkwaternet te garanderen dienen de pantry’s, gootstenen in serie met een toilet(groep) te worden aangesloten, zodanig dat de toiletten als laatste toestellen zijn aangesloten en de daarvoor aangesloten toestellen stromen zijn aangesloten.
+Elk sanitair toestel dient met behulp van serviceafsluiters separaat afsluitbaar te zijn.
+Alle koudwaterleidingen dienen te worden voorzien van dampdichte isolatie.
+Bij de oplevering van de leidingwater-installatie wordt een beheersplan Legionella overhandigd.
+De tapwatervoorziening voldoet aan de eisen voor legionellapreventie, waarbij het aantal beheersmaatregelen in het legionellabeheersplan tot een minimum beperkt wordt.
+De installatie voldoet aan NEN 1006, NPR 5075, de VEWIN-werkbladen en de plaatselijke voorschriften van het waterleidingbedrijf.
+Warmtapwaterinstallatie In het gebouw is op plaatsen waar dit uit het oogpunt van gebruik of comfort gewenst is een warmdrinkwater-toevoer.
+Warm tapwater wordt beperkt toegepast en warmwatertoestellen worden bij voorkeur centraal opgesteld waarmee alle warmtapwaterpunten bediend kunnen worden.
+Plaatsen waar in ieder geval warm drinkwater getapt kan worden zijn spreekkamers, boxenruimten, keukens/pantry’s, werkkasten, e.d.
+De installatie voldoet voorts aan NEN 1006 waterwerkbladen, NPR 5075 en de voorschriften van het waterleidingbedrijf.
+Waterleiding ten behoeve van blusinstallaties Ten behoeve van de aanvoer van water naar waterblusapparaten is een waterleiding aanwezig voorzien van voldoende capaciteit.
+Deze voldoet tevens aan de wettelijke eisen die de brandweer stelt.
+De waterblusapparaten worden aangesloten met de benodigde voorzieningen conform de NEN 1006 waterwerkbladen.
+Tappunten Koudwatertappunten worden aangebracht ten behoeve van: - Pantryblok; - Vaatwasser; - Toiletten; - Fonteintjes; - Brandslanghaspels; - Wastafelmeubels spreekkamers en boxenruimte; - Werkkasten.
+Sanitaire toestellen Het sanitair wordt uitgevoerd in rimfree, eersteklas kristalporselein en in onderhoudsarme uitvoering (hangende closetpotten, inbouwreservoirs, toiletbrillen met vlakke onderzijde, e.d.).
+Alle sanitaire toestellen worden door middel van afsluitbare aansluitingen aangesloten.
+Alle wastafels, uitstortgootstenen, gootstenen, urinoirs, enz. worden voorzien van tapkranen, mengkranen, drukspoelers, enz.
+Wastafelmeubels in de spreekkamers en boxenruimte worden voorzien van 1-greeps mengkranen.
+Verspreid door het hele gebouw worden toilettoestellen voor bezoekers en voor personeel gerealiseerd.
+Tevens wordt voorzien in een MIVA-toilet.
+Toiletpotten worden gesitueerd in afsluitbare cabines.
+Uitgangspunt is een hangende toiletpot met een handbediend spoelmechanisme voorzien van een waterbesparingsmogelijkheid.
+Installaties, toestellen en de bijbehorende aan- en toevoerleidingen produceren maximaal het in paragraaf 4.1.2
+Blad 30 van 33 Versie 1.0, 26 maart 2025
+aangegeven geluiddrukniveau, om geluidsoverlast te voorkomen.
+In de werkkast een stalen uitstortgootsteen met emmerrooster plaatsen.
+Gasinstallatie Voor nieuwe gebouwen geldt dat deze niet worden voorzien van een gasaansluiting.
+In bestaande gebouwen waarin een gasgestookte verwarming aanwezig is gelden de volgende eisen: Het gebouw wordt voorzien van een installatie waarmee gas vanaf het openbaar stelsel kan worden gedistribueerd naar plaatsen waar vanuit het gebruik gasaanvoer noodzakelijk is, zoals cv-ketel(s) en eventuele gasboiler/geiser keukens e.d.
+De gasinstallatie dient te voldoen aan NEN 1078 en aanvulling NPR 3378.
+Ventilatie-inrichting Nieuwbouw Het gehele gebouw wordt voorzien van een gebalanceerd ventilatiesysteem.
+De warmte die uit de diverse ruimten wordt afgezogen wordt d.m.v. een platenwarmtewisselaar overgedragen aan koude verse buitenlucht.
+Het rendement van de platenwisselaar dient minimaal 75% te zijn.
+De koude verse buitenlucht wordt opgewarmd en ingeblazen in de diverse ruimten.
+Het grote voordeel van het systeem is dat men in de winter volop kan ventileren zonder dat het onaangenaam wordt in de diverse ruimten door koude toevoerlucht.
+De ventilatielucht dient te bestaan uit 100% buitenlucht.
+Dit betekent dat recirculatie van lucht niet is toegestaan.
+Bestaande bouw: Er dient bij voorkeur balansventilatie te worden toegepast conform de nieuwbouweisen.
+Indien door de bouwkundige situatie van het bestaande gebouw het technisch/economisch niet uitvoerbaar is om balansventilatie toe te passen, kan in overleg met opdrachtgever en GGD HN worden uitgeweken naar mechanische ventilatie met natuurlijke luchttoevoer.
+Er dienen in dat geval voldoende suppletievoorzieningen (luchttoevoer aan gevel) te worden aangebracht.
+De ventilatie eisen dienen te voldoen aan de hoeveelheden volgens tabel van ventilatie eisen bijlage B.
+Luchtkoeling Om te voldoen aan de eisen voor thermisch comfort van paragraaf 4.1.1 zal mechanische koeling noodzakelijk zijn.
+De capaciteit van de koeling dient met behulp van de temperatuuroverschrijdings-/koellastberekening te worden bepaald.
+De koelunits dienen per verblijfsruimte individueel te kunnen worden geregeld.
+De ventilatie inrichting en airconditioning dienen onafhankelijk van elkaar te kunnen functioneren.
+De selectie van de luchtroosters/luchtverdeelsystemen dient te zijn gebaseerd op de in paragraaf 4.1.1 geformuleerde comforteisen.
+Binnenriolering Binnenriolering dient te worden uitgevoerd conform de richtlijnen vastgelegd in NEN 3215 en NTR 3216.
+Het gebouw is voorzien van een leidingenstelsel dat geschikt is voor de afvoer van, middels lozingstoestellen afgevoerd, vuil drinkwater en overige stoffen op het openbaar riool.
+Het stelsel is binnen voorzien van de benodigde ontspanningsleidingen, ontstoppings- en expansie-stukken en buiten van controleputten en ontstoppingsstukken.
+Brandblusvoorzieningen Het gebouw beschikt over de brandblusvoorzieningen die noodzakelijk zijn uit oogpunt van brandveiligheid conform wettelijke eisen en brandweereisen.
+Ten behoeve van de brandpreventie worden er brandslanghaspels met plaatstalen inbouwkasten aangebracht, die worden aangesloten op de koudwaterleiding met tussenplaatsing van een keerklep en afsluiter (zie ook waterinstallatie).
+Ook worden er brandblustoestellen opgesteld volgens de voorschriften van de plaatselijke brandweer.
+Blad 31 van 33 Versie 1.0, 26 maart 2025
+5.
+INRICHTINGSEISEN 5.1 Vaste inrichting 5.1.1 Vaste inrichting GGD HN Onder vaste inrichting GGD HN valt binnen het kader van dit PvE het meubelmakerswerk aangeleverd door een vaste leverancier van GGD HN.
+Meubelmakerswerk wordt toegepast waar dit noodzakelijk is en dus niet voor inrichting die ook als kant-en-klaar product leverbaar is via de vaste meubel leverancier van GGD HN.
+De aannemer vraagt de tekening op bij GGD HN.
+Vanuit de bouw vindt de aansluiting van de wastafelmeubels plaats.
+De aannemer levert ook de flexibele bad sifons, éénmengskranen en eventuele boilers.
+(Daalderop type: Close in 5 liter compact).
+Meubelmakerswerk GGD HN is van toepassing op de vaste inrichting, te weten: - Wastafelmeubels in de spreekkamers en de boxenkamer; - Aankleedmeubel; met geïntegreerde prullenbak; - Boekenkast; - Folderbord - Ruilhuisje; - (Ontvangst)balies.
+5.1.2 Overige vaste inrichting Vaste verkeersvoorzieningen In het gebouw dient bewegwijzering te worden aangebracht.
+Speciale aandacht dient uit te gaan naar bewegwijzering naar de entree en de toiletten.
+Tevens dient (overeenkomstig de brandweervoorschriften) een duidelijke bewegwijzering van vluchtwegen, aanwijzingen voor gebruik van brandblusmiddelen en dergelijke te worden aangebracht.
+Er dient te worden voorzien in een evacuatieplan.
+Een en ander moet in overeenstemming zijn met de eisen in de gebruiksvergunning.
+Aan de gevel dient een herkenbaar gevelopschrift met de naam van GGD HN geplaatst te worden.
+Vaste keukenvoorzieningen In overleg met de gebruiker dient de inrichting van de pantry voor personeel nader te worden vastgesteld.
+Daarin dienen de volgende voorzieningen te worden opgenomen: - Aanrechtopstelling met een spoelbak; - Opstelplaats voor 1 koelmeubel (hoge koel- of vrieskast) inclusief aansluitingen; - Een vaatwasser; - Een combimagnetron; - Wandcontactdozen voor het aansluiten van keukenapparatuur.
+Zie in hoofdstuk 3.3.2.
+Voor alle vaste inrichting geldt: - Alle vaste elementen worden zoveel mogelijk geplaatst tegen of opgehangen aan de wanden; - Er wordt uitsluitend gebruik gemaakt van gladde, harde, slijtvaste, robuuste, duurzame en eenvoudig te reinigen materialen; - Onderdelen die geregeld vervangen zullen moeten worden (bijv. ingebouwde verlichting) dienen standaard verkrijgbare producten te zijn die eenvoudig bereikbaar en demonteerbaar zijn; - Geen scherpe randen of punten aanwezig aan de inrichting, installaties en bouwkundige aanpassingen; - Alle scharnieren, deurgrepen en overige toebehoren zijn van een degelijke, zware kwaliteit; - Alle lades en kastdeuren hebben een ‘soft close’ systeem;
+Blad 32 van 33 Versie 1.0, 26 maart 2025
+- Het ‘strak inbouwen’ van apparatuur (zoals koffieautomaten, magnetrons, multifunctioneels, e.d.) dient zo veel mogelijk voorkomen te worden, zodat het op termijn plaatsen van nieuwe apparatuur met afwijkende maatvoering eenvoudig blijft; - Bij toepassing van metal-stud of houtskeletbouw binnenwanden moet het benodigde achterhout voor alle hier beschreven vaste inrichtingsvoorzieningen in de binnenwanden worden opgenomen.
+5.2 Losse inrichting toevoegen Tot losse inrichting behoren o.a. meubilair, afvalbakken en containers, kunst en interieurbeplanting.
+Al deze elementen vragen niet om technische eisen aan een betreffende ruimte.
+Eisen aan deze elementen zijn ruimtelijk-functioneel en zijn derhalve opgenomen in hoofdstuk 3.
+5.2.1 Sleutelkluis Er wordt een sleutelkluis opgehangen aan de gevel in de directe omgeving van de ingang.
+In de kluis zit een set sleutels/tag om toegang te kunnen verlenen aan externe partijen en bij calamiteiten.
+De exacte positie wordt nader afgestemd tussen de gebouweigenaar en GGD HN.
+Voor de veilige opslag van sleutels wordt de Puck Keysafe gebruikt.
+Deze sleutelkluis is: - Voorzien van het SKG keurmerk, wat inbraakwerendheid garandeert; - Gecertificeerd volgens de WDTM Keurmodule Toegang, wat de veiligheid in de gehele keten waarborgt.
+Blad 33 van 33 Versie 1.0, 26 maart 2025
+6.
+BIJLAGENLIJST A Tabel Technische eisen JGZ GGD HN B Tabel Ventilatie eisen JGZ GGD HN C Signing en bewegwijzering
