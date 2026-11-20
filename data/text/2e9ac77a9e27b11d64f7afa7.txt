@@ -1,0 +1,1605 @@
+Nota grondbeleid 2026
+2 / 34
+Inhoudsopgave
+1.
+Inleiding ......................................................................................................................................................
+3
+1.1 Aanleiding: ambities en doelstellingen ............................................................................................
+3
+1.2 Grondbeleid .....................................................................................................................................
+3
+1.3 Beleidslijnen ....................................................................................................................................
+3
+1.4 Evaluatie ..........................................................................................................................................
+3
+1.5 Leeswijzer .......................................................................................................................................
+3
+2.
+Beleidskeuze type grondbeleid ..................................................................................................................
+5
+2.1 Verschillende types grondbeleid .....................................................................................................
+5
+2.2 Beleidskeuze grondbeleid gemeente Drechterland ........................................................................
+5
+2.3 Afwegingscriteria beleidskeuze grondpolitiek .................................................................................
+5
+3.
+Instrumenten bij actieve grondpolitiek ........................................................................................................
+8
+3.1 Actieve grondpolitiek (gemeentelijke grondexploitatie) ...................................................................
+8
+a.
+Verschillende soorten verwerving ..............................................................................................
+9
+b.
+Instrumenten voor verwerving ..................................................................................................
+10
+c.
+Tijdelijk beheer .........................................................................................................................
+11
+d.
+Uitgifte ......................................................................................................................................
+11
+e.
+Aandachtspunten bij beheer en uitgifte van onroerende zaken ..............................................
+12
+3.2 Grondprijsbeleid ............................................................................................................................
+14
+4.
+Instrumenten bij faciliterende grondpolitiek ..............................................................................................
+15
+4.1 Faciliterende grondpolitiek (private grondexploitatie) ...................................................................
+15
+Instrumenten bij faciliterende grondpolitiek ...................................................................................
+16
+4.2 Regels in omgevingsplan of omgevingsvergunning .....................................................................
+16
+4.3 Kostenverhaal en financiële bijdrage ............................................................................................
+17
+5.
+Beleidskeuze instrumenten bij Publieke Private Samenwerking (PPS) ...................................................
+18
+5.1 Publieke Private Samenwerking (gezamenlijke grondexploitatie) ................................................
+18
+5.2 Instrumenten bij Publiek Private Samenwerking ...........................................................................
+19
+6.
+Financiële aspecten: beheersing & verantwoording ................................................................................
+20
+6.1 Waardering en verslaglegging ......................................................................................................
+20
+6.2 Risicomanagement en algemene reserve ....................................................................................
+22
+a.
+Risicomanagement grondexploitaties ......................................................................................
+22
+b. algemene reserve ....................................................................................................................
+22
+7.
+Organisatie en samenwerking ..................................................................................................................
+23
+7.1 Rolverdeling gemeenteraad en college ........................................................................................
+23
+7.2 Ambtelijk apparaat ........................................................................................................................
+24
+A.
+Bijlage wettelijk kader ...................................................................................................................................
+25
+A.1 Omgevingswet ...................................................................................................................................
+25
+A.2 Besluit Begroting en Verantwoording provincies en gemeenten (BBV) ............................................
+25
+A.3 Commissie BADO ..............................................................................................................................
+25
+A.4 Vennootschapsbelasting voor overheidsondernemingen ..................................................................
+25
+A.5 Financiële verordeningen ...................................................................................................................
+26
+A.
+Bijlage toelichting bij afwegingskader .......................................................................................................
+27
+B.
+Bijlage criteria gemeentelijke verantwoordelijkheid bij aanbesteding ......................................................
+29
+C.
+Bijlage meest voorkomende methodes voor grondprijsberekening .........................................................
+30
+D.
+Bijlage belangrijkste artikelen bij verplicht kostenverhaal ........................................................................
+31
+3 / 34
+1.
+Inleiding
+1.1 Aanleiding: ambities en doelstellingen
+De gemeente Drechterland stelt net als de andere SED-gemeenten een Omgevingsvisie op.
+Hiervan is op
+het moment van vaststelling van deze Nota Grondbeleid 2026 een conceptversie beschikbaar.
+In de Omgevingsvisies stellen de SED-gemeenten verschillende doelen, bijvoorbeeld:
+- een compleet, duurzaam en betaalbaar woningaanbod;
+- een gezonde, veilige leefomgeving die klimaatveranderingen aankan;
+- de energietransitie: besparing en opwekking;
+- economische ontwikkeling;
+- veilig verkeer en verbetering Openbaar Vervoer;
+- instandhouding en versterking van het typische karakter van de huidige inrichting.
+Elk van deze thema’s en elk ander thema uit specifieke beleidsstukken brengen belangen en acties met zich
+mee.
+Elk thema vraagt daarbij (een bepaald) grondgebruik met een daarbij behorende vraag om ruimte.
+Met een helder afwegingskader en duidelijk geformuleerde beleidslijnen helpt deze nota om doelstellingen te
+bereiken en ambities te verwezenlijken.
+1.2 Grondbeleid
+Grondbeleid is instrumenteel van aard, dat wil zeggen ondersteunend aan het ruimtelijk-, economisch- en
+financieel beleid van de gemeente Drechterland en in lijn met de gemeentelijke visies en programma’s.
+Dat
+wil zeggen dat het beleid is om ander beleid te kunnen uitvoeren.
+In deze Nota Grondbeleid 2026 wordt
+beschreven binnen welke kaders de gemeente Drechterland uitvoering geeft aan haar grondbeleid.
+Dit geeft
+een goed inzicht in de handelswijze van de gemeente bij de inzet van haar grondbeleid.
+De kaders worden
+vastgesteld door de gemeenteraad en worden middels deze Nota Grondbeleid 202 6 bepaald.
+De uitvoering
+van het grondbeleid is een taak van het college.
+Voortdurend worden nieuwe wetten vastgesteld en wordt door jurisprudentie uitleg gegeven aan wet - en
+regelgeving die voor het gemeentelijk grondbeleid van belang is.
+Voor het wettelijke kader dat van
+toepassing is op het grondbeleid wordt verwezen naar bijlage A.
+De processen en de beleidskeuzes in deze Nota Grondbeleid sluiten aan bij bovenbedoeld wettelijk kader.
+1.3 Beleidslijnen
+Om aan te geven hoe wij omgaan met de uitvoering van ons grondbeleid zijn op verschillende plekken in
+deze nota beleidslijnen omkaderd.
+Voor een nadere toelichting wordt verwezen naar de betreffende
+paragrafen.
+1.4 Evaluatie
+Deze Nota Grondbeleid heeft gezien de aansluiting bij ambities en doelstellingen een beperkte looptijd.
+Periodiek wordt deze nota geëvalueerd en wordt beoordeeld of bijstelling nodig is.
+1.5 Leeswijzer
+Wij gebruiken de termen ‘grondbeleid’ en ‘grondpolitiek’.
+Met ‘grondbeleid’ bedoelen wij de eenmalige
+beleidskeuze voor de komende 4-jaarsperiode.
+Met ‘grondpolitiek’ wordt de project-specifieke keuze
+bedoeld.
+In hoofdstuk 2 wordt de keuze voor het te volgen grondbeleid toegelicht.
+In de hoofdstukken 3, 4 en 5 wordt
+ingegaan op de soorten grondpolitiek die we kennen, te weten:
+- actieve grondpolitiek;
+- faciliterende grondpolitiek; en
+- verschillende ‘tussenvormen’.
+4 / 34
+Ten aanzien van de instrumenten die de gemeente kan inzetten bij de verschillende soorten grondpolitiek
+wordt telkens een beleidslijn geformuleerd.
+In hoofdstuk 6 wordt de gemeentelijke financiële beheersing en verantwoording toegelicht, als gevolg van
+het type grondbeleid dat gevoerd wordt waarna in hoofdstuk 7 de rollen van de gemeenteraad en het college
+van burgemeester en wethouders worden toegelicht.
+5 / 34
+2.
+Beleidskeuze type grondbeleid
+Grondbeleid is geen doel op zich.
+Het voeren van grondbeleid is ondersteunend aan het halen van doelen
+op andere beleidsterreinen zoals bijvoorbeeld wonen, economie, groen en duurzaamheid.
+Het grondbeleid
+zelf legt deze doelen niet vast en bepaalt ook geen prioritering in die beleidsdoelen, maar geeft wel aan hoe
+de gemeente deelneemt aan de grondmarkt, welke instrumenten zij daarbij kan inzetten en hoe
+verantwoording plaatsvindt.
+Het grondbeleid kan op deze manier helpen om de doelen op andere
+beleidsterreinen zo efficiënt mogelijk te halen.
+2.1 Verschillende types grondbeleid
+De gemeente Drechterland kan kiezen voor verschillende types grondbeleid.
+Bij actief grondbeleid verwerft
+de gemeente de benodigde gronden zoveel mogelijk zelf.
+Bij faciliterend grondbeleid laat de gemeente de
+grondverwerving en -uitgifte over aan private partijen; de gemeente legt dan de openbare voorzieningen
+aan.
+Een tussenvorm is het publiek-privaat samenwerkingsmodel (PPS); varianten daarvan worden in
+hoofdstuk 5 toegelicht.
+De twee uiterste types grondbeleid zijn ‘actief grondbeleid’ (de gemeente kent alleen maar eigen
+grondexploitaties) en ‘faciliterend grondbeleid’ (de gemeente kent helemaal geen eigen grondexploitaties).
+Bij actief grondbeleid brengt de gemeente zelf gronden tot ontwikkeling voor bijvoorbeeld woningbouw,
+voorzieningen of bedrijventerreinen.
+Ze verwerft gronden, maakt kosten voor planontwikkeling en draagt
+zorg voor bouw- en woonrijp maken, en bekostigt deze via de verkoop van (bouwrijpe) kavels aan private
+partijen.
+Zowel de bijbehorende kansen als risico’s komen voor rekening van de gemeente.
+Bij faciliterend grondbeleid heeft de gemeente geen eigen grondpositie.
+Ze laat de ruimtelijke ontwikkeling
+over aan private partijen, maar stelt wel kaders daarvoor vast.
+De kosten voor gemeentelijke inspanningen
+worden op de ontwikkelende partijen verhaald via een anterieure overeenkomst (privaatrec ht) of
+kostenverhaalsregels in het Omgevingsplan (publiekrecht).
+Financiële kansen en risico's zijn voor de private
+partijen die binnen de gemeentelijke kaders ontwikkelen.
+In de praktijk zijn er diverse tussenvormen tussen deze uiterste types grondbeleid.
+2.2 Beleidskeuze grondbeleid gemeente Drechterland
+De passende vorm van grondpolitiek voor een specifiek project is afhankelijk van diverse algemene en
+project-specifieke criteria.
+Het uitgangspunt is het voeren van situationeel grondbeleid door de gemeente
+Drechterland.
+Dat betekent dat per gebiedsontwikkeling op grond van een brede afweging (zoals hierna
+omschreven) kan worden gekozen voor een actieve grondpolitiek (al dan niet door risico’s te delen met
+marktpartijen via een vorm van samenwerking) of, daar waar bijvoorbeeld actief handelen niet verantwoord
+is, wordt gekozen voor een faciliterende grondpolitiek.
+Per project wordt op basis van afwegingscriteria de
+afweging gemaakt welke vorm van grondpolitiek het meest effectief is voor het bereiken van de
+gemeentelijke doelen en ambities.
+Dit gebeurt aan de hand van de afwegingscriteria zoals omschreven in
+paragraaf 2.3.
+Beleidslijn: Situationeel grondbeleid
+De gemeente Drechterland voert situationeel grondbeleid.
+2.3 Afwegingscriteria beleidskeuze grondpolitiek
+Bij het situationeel grondbeleid wordt per project een keuze gemaakt voor een bepaalde grondpolitiek, aan
+de hand van onderstaand afwegingskader, waarin de volgende afwegingsfactoren een rol spelen:
+a.
+Maatschappelijk c.q. publiek belang van de ontwikkeling (aan welke doelen wordt bijgedragen
+en wat is de prioriteit daarvan?): wordt bijgedragen aan de prioritaire doelen van de gemeente.
+Ja of nee?
+En heeft de gemeente voor die belangen voldoende sturing via de publiekrechtelijke
+instrumenten?
+6 / 34
+b.
+Eigendomssituatie: is de grond eigendom van de gemeente.
+Ja of nee?
+c.
+Bereidheid markt: is de markt bereid om de ontwikkeling op te pakken.
+Ja of nee?
+d.
+Financiële impact voor de gemeente: is de financiële impact acceptabel te krijgen.
+Ja of nee?
+e.
+(Financiële en maatschappelijke) risico’s voor de gemeente: zijn de risico’s acceptabel.
+Ja of
+nee?
+f.
+Bovenstaande afwegingsfactoren zijn opgenomen in het afwegingskader (zie volgende
+bladzijde) waarmee een concreet kader wordt geboden om per gebiedsontwikkeling een keuze
+tussen een meer actieve of een meer faciliterende rol te maken én die keuze te verant woorden.
+Een dergelijk schema is altijd een vereenvoudiging van de werkelijkheid.
+Het is een gegeven,
+zeker bij gebiedsontwikkeling, dat die werkelijkheid complex en weerbarstig is.
+Niettemin moet
+per gebiedsontwikkeling een keuze worden gemaakt en verantwoord.
+Aan de hand van het
+afwegingskader komen daarbij de belangrijkste aspecten aan de orde.
+Door dit afwegingskader
+vindt besluitvorming bij iedere ontwikkeling op een eenduidige manier plaats.
+We hanteren dit
+kader dan ook bij het maken van een dergelijke keuze.
+Voor een toelichting op de (volgordelijke) afwegingsfactoren behorend bij het afwegingskader wordt
+verwezen naar bijlage B.
+De gemeente laat de keuze voor een te volgen grondpolitiek uitdrukkelijk niet afhangen van aanwezige
+‘kennis, kunde en (ambtelijke) capaciteit’.
+Daar waar aan de hand van voorgaande factoren een besluit tot
+gebiedsontwikkeling is genomen, zorgt de gemeente door middel van prioritering en/of inhuur voor
+voldoende kennis, kunde en capaciteit.
+7 / 34
+Beleidslijn afwegingskader:
+Per project wordt bepaald of er voor een (meer) actieve dan wel een (meer) faciliterende rol wordt gekozen.
+Het afwegingskader is hierbij een hulpmiddel.
+Maatschappelijk
+en/ of publiek belang
+Eigendoms -situatie
+en bereidheid markt Financiële impact Financielerisico's Indicatie grondpolitiek
+Draagt het initiatief
+bij aan het bereiken
+van gemeentelijke
+doelen?
+Welke prioriteit
+hebben de te
+bereiken doelen?
+Is de gemeente
+eigenaar van de
+benodigde
+gronden/ opstallen?
+Is de markt bereid
+de gewenste
+ontwikkeling op te
+pakken conform het
+gemeentelijk kader?
+Zelf verwerven?
+Is de markt bereid
+de gewenste
+ontwikkeling op te
+pakken conform he t
+gemeentelijk kader?
+Is de verwachte
+financiele impact
+van het initiatief
+(voor de gemeente)
+haalbaar (te krijgen)?
+Is de verwachte
+financiele impact
+van het initiatief
+(voor de gemeente)
+haalbaar (te
+krijgen)?
+Is de verwachte
+financiele impact van
+het initiatiefvoor de
+gemeente haalbaar
+(te krijgen)?
+Zijn de te
+verwachten risico's
+voor de gemeente
+acceptabel (te
+krijgen)?
+Zijn de te
+verwachten risico's
+voor de gemeente
+acceptabel (te
+krijgen)?
+Zijn de te
+verwachten risico's
+voor de gemeente
+acceptabel (te
+krijgen)?
+Geen medewerking: initiatief
+gemotiveerd afwijzen
+Samenwerken: bezien of met een
+vorm van samenwerken en
+risicoverdeling de beoogde
+ontwikkeling alsnog te realiseren is
+(Pro-actief) facililteren
+Voorlopig geen gemeentelijke actie
+Actief grondbeleid: ontwikkelingzelf
+oppakken
+actief grondbeleid: ontwikkelingzelf
+oppakken
+Is de gemeente
+eigenaar van de
+benodigde
+gronden/ opstallen?
+Faciliterendgrondbeleid: faciliteren
+en monitoren
+Voorlopig geen gemeentelijke actie
+(Voorlopig) geen medewerking:
+initiatief gemotiveerd afwijzen
+Nee
+Ja
+Nee
+Nee Nee
+Ja Ja
+Nee Nee
+Nee
+Ja
+Nee
+Ja
+Ja Ja
+Nee
+NeeJa Nee
+Ja Ja
+Ja
+Laag
+Hoog
+Ja
+8 / 34
+3.
+Instrumenten bij actieve grondpolitiek
+Als uit het afwegingskader een keuze volgt voor het voeren van een actieve grondpolitiek door de gemeente,
+kan een keuze worden gemaakt voor de inzet van hierbij passende grondbeleidsinstrumenten.
+3.1 Actieve grondpolitiek (gemeentelijke grondexploitatie)
+Bij een actieve grondpolitiek zijn de volgende punten van belang:
+• De gemeente voert geheel zelf de grondexploitatie of doet dat voor een groter of kleiner deel samen
+met een marktpartij;
+• De opbrengsten worden gebruikt voor de dekking van kosten en (eventueel) voor verevening van
+tekorten op andere locaties (middels de algemene reserve);
+• Aan het voeren van een grondexploitatie zijn (financiële) kansen en risico’s verbonden.
+• Het voeren van een actieve grondpolitiek geeft de gemeente in sommige gevallen de kans om winst
+te maken, welke ingezet kan worden voor het realiseren van andere doelstellingen binnen de
+gemeente.
+Van actieve grondpolitiek is ook sprake in geval van samenwerking met een andere publiekrechtelijke
+rechtspersoon.
+Voor een dergelijke samenwerking kan de gemeente Drechterland bijvoorbeeld een
+samenwerkingsovereenkomst aangaan.
+Hieronder worden de voor- en nadelen van een actieve grondpolitiek opgesomd:
+Voordelen actieve grondpolitiek Voorwaarden/nadelen actieve grondpolitiek
+De gemeente kan verdergaand sturen op
+grondgebruik, ruimtelijke ontwikkelingen en
+kwaliteit
+De gemeente dient te (kunnen) beschikken over
+voldoende capaciteit
+Betere sturing op het bepalen van de
+samenwerkingspartners (binnen wettelijke
+kaders)
+De gemeentelijke financiële huishouding dient
+op orde te zijn en blijven om zich te (kunnen)
+committeren aan actief grondbeleid
+Financiële baten komen ten goede aan de
+gemeente
+Financiële risico’s zijn voor rekening gemeente
+De onderhandelingspositie van de gemeente is
+bij uitgifte van grond sterker dan bij faciliterende
+grondpolitiek
+Bestaande grondvoorraad kan aangewend
+worden om ruimtelijke doelen te verwezenlijken
+Stelt de gemeente in staat om initiatieven te
+ontplooien die de markt niet oppakt
+Bij het voeren van een actieve grondpolitiek horen 3 fases met stappen en bijbehorende
+grondbeleidsinstrumenten:
+Fase I II III
+Stap verwerving tijdelijk beheer (voorbereiding) uitgifte
+Instrumenten minnelijke verwerving verhuur uitgifte eigendom
+voorkeursrecht bruikleen erfpacht/opstal
+onteigening pacht
+De instrumenten uit bovenstaand overzicht worden hierna toegelicht in de subparagrafen 3.1.1 tot en met
+3.1.4.
+Per instrument wordt een korte uitleg gegeven en vervolgens een beleidskeuze gemaakt.
+Ten slotte wordt in subparagraaf 3.1.5 nog een aantal aandachtspunten genoemd, waarmee rekening moet
+worden gehouden bij een actieve grondpolitiek.
+9 / 34
+a.
+Verschillende soorten verwerving
+Bij actieve grondpolitiek is het essentieel dat de gemeente in een vroegtijdig stadium de te ontwikkelen
+gronden in bezit krijgt.
+Anders loopt de gemeente het risico dat ontwikkelaars, met wie geen goede
+afspraken over zelfrealisatie te maken zijn, grondposities innemen in het betreffende toekomstige
+ontwikkelingsgebied.
+Dit betekent dat een slagvaardig (strategisch) verwervingsbeleid noodzakelijk is.
+Bij het verwerven van gronden en/of opstallen gelden de volgende gemeentelijke voorwaarden:
+• Aan een verwerving ligt een vertrouwelijke grondstrategie of een aankoopplan, met een
+risicoanalyse ten grondslag.
+• Ten behoeve van marktconformiteit en transparantie wordt de marktwaarde van het te verwerven
+object bepaald en verantwoord.
+Deze waardebepaling vormt voor de gemeente de basis voor de
+verwerving van het object.
+• Onderhandelingen zijn altijd onder voorbehoud van goedkeuring door het college, al dan niet via een
+ambtelijk mandaat.
+• Een verkennend bodemonderzoek vormt onderdeel van de koopovereenkomst.
+De mate van
+eventuele verontreiniging kan invloed hebben op de koopsom en het besluit om al dan niet over te
+gaan tot aankoop.
+De uitkomst van het verkennend bodemonderzoek wordt zo nod ig en zo mogelijk
+verbonden aan een ontbindende en/of opschortende voorwaarde in de koopovereenkomst.
+• Besluiten over het aangaan van een koopovereenkomst worden genomen door (of namens) het
+college conform de aan hem gegeven bevoegdheid in artikel 160 Gemeentewet.
+Afhankelijk van de mate van concreetheid van de toekomstige ruimtelijke planontwikkelingen kunnen
+verschillende soorten verwervingen worden onderscheiden:
+1.
+De planmatige verwervingen:Planmatige verwerving is verwerving die noodzakelijk is voor de
+ontwikkeling van een vooraf vastgesteld plan.
+Deze verwervingen vinden plaats binnen een door
+de gemeenteraad vastgestelde grondexploitatie.
+2.
+De strategische verwervingen:Hiervoor is nog geen grondexploitatie vastgesteld; er kan een
+vastgestelde visie of plan liggen, maar dat is niet per se noodzakelijk.
+Het verschil tussen een
+plan en een visie is dat een plan een beschrijving is van hoe iets concreet moet worden gedaan
+of gebouwd, terwijl een visie een voorstelling is van de toekomst.
+Bij het nemen van de beslissing tot het al dan niet strategisch verwerven wordt rekening gehouden met de
+volgende punten:
+• ruimtelijk belang: is het echt noodzakelijk voor de ruimtelijke ontwikkeling dat de gemeente in een
+vroegtijdig stadium gronden verwerft?
+• de termijn: wanneer is de verwachting dat het te verwerven gebied daadwerkelijk in ontwikkeling
+wordt genomen?
+• afbreukrisico: wat is het risico dat de potentiële ontwikkeling gewijzigd wordt, vertraagd wordt of zelfs
+niet doorgaat?
+• de aankoopprijs en mogelijke (plan)kosten: bij een hoge verwervingsprijs bestaat er al snel een fors
+financieel risico, bij een lagere prijs is dit risico vanzelfsprekend lager.
+Hier wordt ook het risico op
+noodzakelijke afwaardering op grond van het BBV in betrokken.
+Om met succes strategisch te kunnen verwerven kan snelheid geboden zijn.
+In veel gevallen neemt het
+vragen van een voorbereidingskrediet en/of het voorleggen van een verwervingsvoorstel aan de raad te veel
+tijd in beslag.
+De gemeente Drechterland stelt geen budget vast voor strategische verwervingen.
+Ook is er
+geen versnelde procedure om een raadsbesluit te krijgen.
+Beleidslijn: Planmatige verwervingen
+Planmatige verwervingen vinden plaats binnen de vastgestelde grondexploitatie.
+10 / 34
+Beleidslijn: Strategische verwervingen
+Strategische verwervingen vinden weloverwogen plaats, waarbij aan de hand van de inputfactoren uit het
+afwegingskader een strategische verwerving wordt getoetst en verantwoord.
+Beleidslijn: Taxatie
+Bij een verwerving wordt altijd een taxatie uitgevoerd waarbij de getaxeerde waarde het uitgangspunt is bij
+de onderhandelingen.
+b.
+Instrumenten voor verwerving
+Eenmaal besloten tot verwerving kan de gemeente verschillende instrumenten inzetten:
+1.
+Minnelijke verwerving;
+2.
+Toepassen voorkeursrecht;
+3.
+Onteigening.
+Ad 1.
+Minnelijke verwerving
+Er is sprake van het doen van een minnelijke aankoop indien de gemeente met een eigenaar op vrijwillige
+basis overeenstemming bereikt over de voorwaarden voor een eigendomsoverdracht naar de gemeente.
+De
+gemeente streeft altijd naar het bereiken van minnelijke overeenstemming.
+Beleidslijn: Minnelijke verwervingen
+Uitgangspunt is om bij verwerving op minnelijke basis overeenstemming te bereiken over de prijs en overige
+voorwaarden van overdracht van gronden en/of opstallen, ter vermijding van het doorlopen van een
+onteigeningsprocedure.
+Ad 2.
+Toepassen voorkeursrecht
+De Omgevingswet biedt gemeenten de mogelijkheid een voorkeursrecht te vestigen.
+Als een voorkeursrecht
+op een eigendom is gevestigd en een eigenaar wil zijn eigendom vervreemden dan is hij verplicht het
+eigendom eerst aan de gemeente te koop aan te bieden.
+Het instrument van voorkeursrecht is een passief
+instrument: de eigenaar van de grond is immers niet verplicht het perceel te verkopen.
+Met het vestigen van een voorkeursrecht wordt speculatie tegengegaan en kan worden voorkomen dat
+private partijen een grondpositie verwerven in een gebied.
+Dit alles ten einde een grote mate van regie te
+hebben over de voorgenomen ruimtelijke ontwikkeling.
+De gemeente kan dit instrument al inzetten ver
+voordat het toe is aan de wijziging van het omgevingsplan.
+Het vestigen van een voorkeursrecht is
+opportuun als de gemeente een actieve grondpolitiek voor een bepaalde locatie wil voeren en het
+strategisch verwerven van de gronden (nog) niet kansrijk acht.
+Beleidslijn: Voorkeursrecht
+Beleidslijn: Het instrument ‘voorkeursrecht’ wordt ingezet zowel bij actieve grondpolitiek als in andere
+situaties waarin het wenselijk is om regie te houden over ruimtelijke ontwikkelingen, speculatie te voorkomen
+of ongewenste grondposities door private partijen tegen te gaan.
+.
+Ad 3.
+Onteigening
+Een onteigening is de grootste inbreuk op het eigendomsrecht.
+De Omgevingswet biedt de gemeente de
+mogelijkheid om een eigenaar zijn eigendomsrecht te ontnemen.
+Vanwege die vergaande inbreuk is er een
+zeer zorgvuldige procedure in de Omgevingswet vastgelegd.
+Uitgangspunt voor de gemeente is dat het voornemen tot onteigening vooraf wordt getoetst aan de wettelijke
+criteria van de aanwezigheid van:
+• Een belang van het ontwikkelen, gebruiken of beheren van de fysieke leefomgeving;
+• Noodzaak;
+• Urgentie.
+11 / 34
+Eerst wordt geprobeerd het eigendom minnelijk te verwerven.
+Volgens het onteigeningsrecht wordt een
+beroep op zelfrealisatie formeel pas getoetst als de onteigeningsprocedure eenmaal loopt.
+Vooruitlopend
+daarop probeert de gemeente evenwel een inschatting te maken of er in die procedure terecht een beroep
+op zelfrealisatie gedaan kan worden.
+De gemeente beoordeelt dan of een eigenaar bereid is en in staat is de
+nieuwe bestemming zelf te realiseren, alles volgens de door de gemeente bepaalde wijze van
+planuitvoering, die de gemeente in het publieke belang gewenst vindt.
+Het nadeel van onteigening is dat het een langdurig proces kan zijn en dat het de relatie met de eigenaar
+van de te onteigenen grond behoorlijk onder druk kan zetten.
+Daarnaast is het nog maar de vraag of de
+rechter het onteigeningsverzoek accepteert, aangezien de procedure aan strenge wettelijke eisen en
+toetsingscriteria moet voldoen.
+Daarbij komt dat onteigening als een ultiem middel wordt gezien, dat alleen
+wordt ingezet wanneer alle andere mogelijkheden, zoals minnelijke verwerving of het vestigen van een
+voorkeursrecht, zijn uitgeput.
+De inzet van onteigening kan ook leiden tot negatieve publiciteit en een gevoel
+van onzekerheid bij andere grondeigenaren in het gebied.
+Beleidslijn: Onteigening
+De gemeente houdt het instrument ‘onteigening’ achter de hand voor uitzonderingssituaties als minnelijke
+verwerving niet slaagt.
+c.
+Tijdelijk beheer
+Verworven gronden (al dan niet met daarop staande gebouwen) moeten tijdelijk worden beheerd totdat de
+beoogde ontwikkeling daadwerkelijk plaatsvindt.
+Het tijdelijk beheer van aangekochte gronden loopt tot aan het moment waarop een aanvang wordt gemaakt
+met het bouwrijp maken van het desbetreffende gebied.
+Uitgangspunt is om het tijdelijk beheer zoveel
+mogelijk op een commercieel verantwoorde wijze te voeren met als doel financiële risico’s te beperken.
+Sommige percelen kunnen voor verpachting (percelen voor agrarische gebruik) in aanmerking komen.
+Bebouwde percelen kunnen in aanmerking komen voor verhuur of uitgifte in bruikleen .
+Voorwaarde daarbij is
+dat een commercieel tijdelijk beheer in juridisch opzicht geen belemmering mag vormen voor de uitvoering
+van de voorgenomen ontwikkelingen.
+Indien reeds een grondexploitatie is vastgesteld, dan worden de kosten van tijdelijk beheer ten laste
+gebracht van die grondexploitatie en komen de opbrengsten daarvan daaraan ten goede.
+Indien nog geen grondexploitatie is vastgesteld, dan komen kosten en opbrengsten ten laste van de
+gemeentelijke exploitatiebegroting.
+Beleidslijn: Tijdelijk beheer
+Om de risico’s van tijdelijk beheer te beperken wordt per (exploitatie)gebied de in dat geval beste wijze van
+beheer bepaald.
+d.
+Uitgifte
+Een primair instrument voor de uitvoering van actief grondbeleid is de uitgifte van (bouwrijpe) grond.
+D ie
+uitgifte kan op verschillende wijzen plaatsvinden:
+1. uitgifte in eigendom (verkoop);
+2. uitgifte in erfpacht en/of vestigen recht van opstal.
+Ad 1.
+Uitgifte in eigendom (verkoop)
+Het gemeentelijk uitgangspunt bij gronduitgifte is uitgifte in eigendom tegen een marktconforme prijs.
+Bij
+verkoop van kavels wordt de koopprijs bepaald door middel van de comparatieve (op basis van vergelijkbare
+referentietransacties) of residuele methode (bepaling marktwaarde minus stichtingskosten).
+Hierbij wordt,
+gezien de vele variabelen, per situatie (per gebiedsontwikkeling), bepaald welke methode geschikt is.
+12 / 34
+Als de gemeente het eigendom van een perceel overdraagt, kan zij nog maar beperkt invloed houden op het
+gebruik daarvan.
+Als het gaat om uitgifte van een kavel bestemd voor woningbouw, dan kunnen
+privaatrechtelijke afspraken worden gemaakt over bijvoorbeeld een bouwplicht, zelfbewoning en
+antispeculatie.
+Met kopers van kavels met een andere bestemming kunnen op maat privaatrechtelijke
+afspraken worden gemaakt.
+Voor alle categorieën van gebruik gelden overigens de publiekrechtelijke
+instrumenten voor inrichting en bebouwing.
+Beleidslijn: Uitgifte in eigendom
+Bij gronduitgifte is verkoop ervan het uitgangspunt.
+Het volledig eigendom wordt daarmee overgedragen.
+Verkoop van grond vindt plaats tegen marktconforme prijzen, te bepalen door onafhankelijke taxatie of aan
+de hand van de grondprijzenbrief.
+In de koopovereenkomst worden verplichtingen opgenomen die gelden
+voor kopers en hun rechtsopvolgers.
+Ad 2.
+Uitgifte in erfpacht en/of vestigen recht van opstal
+Bij het recht van erfpacht en/of opstal geeft de gemeente het gebruik van de grond uit, al dan niet met
+opstallen.
+Het zogeheten blooteigendom van de grond blijft in handen van de gemeente.
+De
+erfpachter/opstaller heeft het volledige genotsrecht over de onroerende zaak.
+De erfpachter/opstaller betaalt
+hiervoor gedurende de duur van het recht een vergoeding (canon/retributie).
+Uitgifte in erfpacht/opstal biedt meer sturingsmogelijkheden dan uitgifte in eigendom, immers het
+blooteigendom blijft in handen van de gemeente.
+Beleidslijn: Uitgifte in erfpacht en/of vestigen recht van opstal
+Gronden voor gebiedsontwikkelingen worden in beginsel niet in erfpacht en/of opstal uitgegeven.
+Indien zich
+een specifieke situatie voordoet waarin erfpacht wenselijk is dan kan het college gemotiveerd daartoe
+besluiten.
+e.
+Aandachtspunten bij beheer en uitgifte van onroerende zaken
+Wetgeving en jurisprudentie noodzaken tot de inachtneming van in ieder geval de volgende
+aandachtspunten bij onder andere de uitgifte en het in tijdelijk beheer geven van onroerende zaken:
+1.
+Algemene beginselen van behoorlijk bestuur;
+2.
+Staatssteun;
+3.
+Aanbestedingsregels;
+4.
+Integriteit en weerbaarheid tegen ondermijning.
+Ad 1.
+Algemene beginselen van behoorlijk bestuur
+Bij gronduitgifte (zie hiervoor 3.1.4) en het in tijdelijk beheer geven van onroerende zaken (zie hiervoor 3.1.3)
+is de gemeente gebonden aan de algemene beginselen van behoorlijk bestuur.
+Een van die algemene
+beginselen is het gelijkheidsbeginsel.
+Op 26 november 2021 wees de Hoge Raad (met het zogenoemde
+Didamarrest) een arrest waarin duidelijk werd gemaakt dat overheidslichamen (onder andere) bij
+gronduitgifte in beginsel gelegenheid moet bieden tot mededinging.
+Daarop kan een uitzondering worden
+gemaakt als op basis van objectieve, redelijke en toetsbare criteria duidelijk is dat er sprake is van één
+(potentieel) geïnteresseerde partij.
+De uitzondering houdt dan in dat grond één -op-één wordt aangeboden
+aan die ene partij.
+Ook in geval van een één-op-één-transactie dient daarvan een publicatie te worden
+gedaan.
+Beleidslijn: Algemene beginselen van behoorlijk bestuur
+Toepassing van het gelijkheidsbeginsel en het vertrouwensbeginsel bij gronduitgifte wordt vastgelegd in een
+door het college vast te stellen uitgifteprotocol.
+13 / 34
+Ad 2.
+Staatssteun
+Uitgangspunt bij koop/verkoop, huur/verhuur, erfpacht/erfverpachting is dat de gemeente marktconform
+handelt, dat wil zeggen dat zij handelt zoals een marktpartij in vergelijkbare omstandigheden ook zou
+handelen.
+Dat is de gemeente verplicht op grond van Europese regelgeving.
+Doet zij dat niet dan zou sprake
+kunnen zijn van bevoordeling door de gemeente.
+Als een onderneming op deze wijze wordt bevoordeeld
+spreken we van staatssteun.
+De gemeente handelt bijvoorbeeld niet marktconform (en verleent dus
+staatssteun) indien grond tegen een te lage koopprijs wordt verkocht of aankoop geschiedt tegen een te
+hoge koopprijs.
+Er is géén sprake van ongeoorloofde staatssteun indien de transactie plaatsvindt tegen
+marktconforme voorwaarden.
+Dit kan worden aangetoond door bijvoorbeeld een onafhankelijke taxatie door
+een erkend taxateur, een openbare biedprocedure, of door de prijzen en voorwaarden te vergelijken met
+recente, vergelijkbare markttransacties.
+Bij transacties met woningcorporaties en andere maatschappelijke instellingen geldt dat er ruimte is voor
+afspraken die bijdragen aan het algemeen belang.
+Toch blijft het uitgangspunt dat deze partijen niet selectief
+worden bevoordeeld ten opzichte van commerciële marktpartijen, tenzij de afspraken voldoen aan de
+Europese staatssteunregels voor diensten van algemeen economisch belang (DAEB).
+In dat geval moeten
+de compensatie, transparantie en proportionaliteit goed worden vastgelegd.
+Beleidslijn: Staatssteun
+Voorafgaand aan elke voorgenomen transactie zal getoetst worden of deze plaatsvindt overeenkomstig de
+geldende staatssteuncriteria.
+Ad 3.
+Aanbestedingen bij gebiedsontwikkeling
+In het kader van Europese en nationale wet- en regelgeving wordt de gemeente beschouwd als de
+verantwoordelijke partij met betrekking tot inrichting en beheer van de openbare ruimte (reguliere
+overheidstaak).
+In het kader van deze wet- en regelgeving wordt de gemeente daarom gezien als
+verantwoordelijke voor het juist toepassen van aanbestedingsregels en -principes als er opdracht wordt
+gegeven tot (her)inrichting van openbare ruimte.
+Dit geldt ook als marktpartijen optreden als opdrachtgever
+voor (her)inrichting.
+In dit verband gelden aanbestedingsdrempelbedragen.
+Wanneer het gaat om de realisatie van vastgoed kunnen zich ook situaties voordoen dat de gemeente een
+verantwoordelijkheid heeft, met name als zij eisen stelt aan dat vastgoed.
+Het Europese Hof van Justitie
+heeft 3 criteria vastgelegd (waaraan cumulatief moet worden voldaan) in het zogenaamde Müllerarrest (zie
+bijlage D).
+Beleidslijn: Aanbesteding
+Bij de uitvoering van het grondbeleid ziet de gemeente toe op juiste wijze van aanbesteding overeenkomstig
+nationale en Europese wet- en regelgeving.
+Hiervoor heeft de gemeente aanbestedingsbeleid vastgesteld.
+Ad 4.
+Integriteit en weerbaarheid tegen ondermijning
+Gelet op het belang van een weerbare overheid zorgen we ervoor dat we weten met wie we zaken doen ,
+mits de Bibob-wetgeving dit toelaat.
+De gemeente geeft geen onroerende zaken uit aan (vermoedelijk)
+malafide partijen of stromannen.
+Beleidslijn: Integriteit en bescherming tegen ondermijning
+Voorafgaand aan elke voorgenomen transactie zal getoetst worden of deze plaatsvindt overeenkomstig het
+gemeentelijke Bibob-beleid.
+14 / 34
+3.2 Grondprijsbeleid
+In paragraaf 3.1.4 zijn de verschillende vormen van uitgifte toegelicht.
+Als er sprake is van verkoop van
+eigendom, dan wordt in de verkoopovereenkomst de grondprijs vastgesteld.
+De gemeente Drechterland gaat
+uit van een marktconforme grondprijspolitiek.
+Voor de waardebepaling van de bouwgronden zijn veel
+methoden ontwikkeld.
+De drie meest voorkomende methodes zijn:
+- de comparatieve methode;
+- de residuele waarde methode;
+- de grondquote methode.
+Voor een uitgebreidere toelichting op deze methodes wordt verwezen naar bijlage D.
+De gemeente kiest er voor haar grondprijzen zoveel mogelijk vast te stellen aan de hand van residuele
+waarde methode.
+De alsdan bepaalde grondprijs wordt gecheckt door middel van comparatieve methode.
+Grond voor sociale woningbouw die wordt gerealiseerd door woningcorporaties wordt uitgegeven tegen een
+vaste grondprijs die vooraf is overeengekomen met die corporaties.
+Op landelijk niveau worden nationale
+prestatie-afspraken voorbereid, waarbij de grondprijs voor sociale huurwoningen overkoepelend wordt
+vastgesteld.
+Zodra deze afspraken van kracht zijn, zal de gemeente deze hanteren.
+Het college kan afwijken van de genoemde grondprijzen en grondprijsmethodieken indien dit nodig is om de
+marktconformiteit van de gehanteerde grondprijzen te waarborgen.
+Dit kan zich bijvoorbeeld voordoen bij
+bijzondere marktomstandigheden.
+Indien daartoe redenen bestaan kan de gemeente in bijzondere gevallen maatwerk toepassen ter bepaling
+van grondprijzen, als bijvoorbeeld factoren als locatie, kwaliteit van de kavel, bereikbaarheid en bestemming
+een rol spelen bij de bepaling van grondprijzen.
+Beleidslijnen: Grondprijzen
+• Uitgangspunt is dat gemeentelijke grondprijzen jaarlijks worden geactualiseerd en vastgesteld.
+• Voor het berekenen van de grondprijzen wordt aangesloten bij de methodieken als omschreven in
+de dan meest actuele grondprijzenbrief.
+• Het college is bevoegd om jaarlijks de grondprijzenbrief vast te stellen.
+• Het college is wettelijk bevoegd en om privaatrechtelijke overeenkomsten te sluiten.
+15 / 34
+4.
+Instrumenten bij faciliterende grondpolitiek
+Per project wordt bepaald of er voor een actieve dan wel faciliterende grondpolitiek wordt gekozen.
+Zie figuur
+paragraaf 2.3: Afwegingscriteria beleidskeuze grondpolitiek.
+Als sprake is van faciliterende grondpolitiek, dan
+moet een keuze worden gemaakt voor de inzet van hierbij passende grondbeleidsinstrumenten.
+4.1 Faciliterende grondpolitiek (private grondexploitatie)
+Bij faciliterende grondpolitiek laat de gemeente het verwerven van onroerend goed en het produceren en
+uitgeven van (bouwrijpe) grond over aan derden.
+Het faciliteren door de gemeente bestaat hierin dat zij een
+planologisch besluit neemt, bepaalt waar, hoe en met welke kwaliteiten de openbare ruimte wordt ingericht
+of aangepast (en wordt overgedragen aan de gemeente) en bepaalt hoe ander gemeentelijk beleid wordt
+verwezenlijkt.
+Die regie verloopt via de publiekrechtelijke instrumenten die de gemeente ter be schikking
+staan.
+De inzet van deze instrumenten wordt versterkt door privaatrechtelijke afspraken.
+Faciliterende grondpolitiek betekent niet per definitie dat de gemeente ‘wacht’ tot de markt projecten op zal
+pakken.
+Als de gemeente een ontwikkeling als urgent of wenselijk bestempelt, kan het (rekening houdend
+met de algemene beginselen van behoorlijk bestuur) marktpartijen proactief benaderen en uitnodigen
+specifieke ontwikkelingen op te pakken.
+Hierbij worden projecten geïnitieerd zonder over te gaan op actieve
+grondpolitiek (proactief faciliterend).
+De gemeente loopt bij faciliterende grondpolitiek in de regel minder financiële risico’s dan bij een actieve
+grondpolitiek.
+Een nadeel bij faciliterend grondbeleid is dat de gemeente minder regie heeft in het
+ontwikkelproces.
+Hieronder worden de voor- en nadelen van een faciliterende grondpolitiek opgesomd:
+Voordelen faciliterende grondpolitiek Nadelen faciliterende grondpolitiek
+De financiële risico’s liggen met name bij
+marktpartijen en niet bij de gemeente
+Beperkte invloed op het project.
+Gemeente is
+beperkt tot het stellen van kaders via de
+publiekrechtelijke route
+Vereist over het algemeen minder ambtelijke
+capaciteit
+Financiële baten liggen tevens bij de
+marktpartijen
+Gemeente kan eisen stellen door middel van
+een overeenkomst.
+Voor sommige zaken kan de
+gemeente ook eisen stellen in het
+omgevingsplan (locatie-eisen) zodat ze in dat
+opzicht een goede onderhandelingspositie heeft
+Beperkte sturing op het tempo waarop
+ontwikkelingen opgepakt worden, ook als deze
+urgent zijn.
+Deze beperking kan wat verminderd
+worden door faserings- en koppelingsregels in
+het omgevingsplan op te nemen
+Geen zekerheid of locatie überhaupt ontwikkeld
+gaat worden
+16 / 34
+Instrumenten bij faciliterende grondpolitiek
+De instrumenten die kunnen worden ingezet bij faciliterende grondpolitiek zijn de volgende:
+Instrument Toepassing
+regels in omgevingsplan of BOPA-
+vergunning in Omgevingswet geregeld
+ter behoud of bereiken van veilige en gezonde fysieke
+leefomgeving
+doelmatig beheer, gebruik en ontwikkeling van fysieke
+leefomgeving
+kostenverhaal (waaronder ook
+nadeelcompensatie) wettelijk verplicht
+anterieure overeenkomst (privaatrecht)
+Kostenverhaalsregel in omgevingsplan of BOPA-vergunning
+(publiekrecht)
+financiële bijdrage ter keuze
+anterieure overeenkomst (met samenhang kostenvragers en
+kostendragers in visie of programma, privaatrecht)
+bepaling over financiële bijdrage in omgevingsplan (met functionele
+samenhang kostenvragers en kostendragers, publiekrecht)
+Hieronder worden de instrumenten toegelicht.
+Per instrument wordt een uitleg gegeven en vervolgens een
+beleidskeuze gemaakt.
+4.2 Regels in omgevingsplan of omgevingsvergunning
+Per wijziging van het omgevingsplan (of per vergunning tot afwijking daarvan) voor een ontwikkellocatie
+wijzigt de gemeente de toedeling van functies aan locaties (of bij vergunning: de afwijking van toegedeelde
+functies aan locaties) zodanig dat dit op een evenwichtige manier gebeurt in het belang van de fysieke
+leefomgeving.
+De regie op de ontwikkeling van de locatie verloopt via de regels voor de functies die de gemeente in het
+omgevingsplan toedeelt aan de locaties.
+Die regie heeft allereerst betrekking op:
+• de keuze van de functies (alleen woonfuncties, of ook werkfuncties en/of het toestaan van
+detailhandel, horeca en maatschappelijke voorzieningen);
+• bouwen en gebruiken (zoals aantallen, hoogte en omvang van gebouwen).
+Het kan in de tweede plaats ook betrekking hebben op:
+• het klimaat-adaptief, duurzaam en circulair ontwikkelen;
+• de soort openbare voorzieningen, de situering en de kwaliteit van die voorzieningen;
+• de volgorde van ontwikkelen en de periode(n) waarin ontwikkeld mag worden;
+• het bouwrijp maken van gronden (ophogen, egaliseren, drainage, en dergelijke);
+• het stellen van regels over specifieke woningbouwcategorieën, namelijk sociale huur -, middeldure
+huur-, sociale koopwoningen en de uitgifte van kavels in particulier opdrachtgeverschap.
+Beleidslijn: Regels in omgevingsplan
+Per ontwikkellocatie stuurt de gemeente op de invulling van de locatie, waarbij gebruik wordt gemaakt van
+de mogelijkheden via besluiten tot wijziging van het omgevingsplan dan wel via vergunningen voor
+buitenplanse omgevingsplanactiviteiten.
+17 / 34
+4.3 Kostenverhaal en financiële bijdrage
+Kostenverhaal (wettelijk verplicht)
+De gemeente maakt gebruik van de mogelijkheden als opgenomen in de zogenaamde
+kostenverhaalsregeling van afdeling 13.6 van de Omgevingswet.
+Deze regeling bepaalt dat bij de
+kostenverhaalplichtige activiteiten (genoemd artikel 8.13 van het Omgevingsbesluit) kostenverhaal verplicht
+is voor kosten die op de kostensoortenlijsten (artikel 8.15 Omgevingsbesluit) staan .
+Hierbij gaat het (onder
+andere) om ambtelijke kosten (plankosten en kosten van voorbereiding en begeleiding), kosten van
+infrastructuur voor het plan zelf (binnenplanse kosten) en plan-overstijgende kosten (de zogenaamde
+bovenwijkse voorzieningen).
+In een op te stellen Nota Kostenverhaal en financiële bijdragen kan hieraan
+nadere duiding worden gegeven.
+Het reguliere kostenverhaal kan privaatrechtelijk worden geregeld door middel van een anterieure
+overeenkomst of publiekrechtelijk door middel van kostenverhaalsregels in het omgevingsplan of in de
+vergunning voor een buitenplanse omgevingsplanactiviteit.
+Een dergelijke kostenverhaalsregel is verplicht
+als voor de ontwikkellocatie het kostenverhaal niet is verzekerd in een anterieure overeenkomst en/of via
+gemeentelijke gronduitgifte.
+Financiële bijdragen aan de ontwikkeling van gebieden
+Naast het verplichte kostenverhaal heeft ook de Omgevingswet categorieën van kosten in het leven
+geroepen die niet onder het verplichte kostenverhaal vallen, maar die de gemeente toch mag verhalen op
+initiatiefnemers van nieuwbouw ontwikkelingen.
+Dat kan in een anterieure overeenkomst; onder de
+Omgevingswet is nieuw dat er ook een afdwingbare variant in het leven is geroepen.
+Anders dan bij kostenverhaal, waarvoor een wettelijke plicht geldt, is het verhaal van financiële bijdragen
+een aanvullende mogelijkheid.
+Het gaat hierbij om andere type voorzieningen dan bij kostenverhaal,
+voorzieningen die niet op de kostensoortenlijst zijn genoemd.
+Voorbeelden van dergelijke voorzieningen zijn
+aanleg van natuurgebieden, recreatie(voorzieningen), waterberging et cetera.
+Om een bijdrage in die
+ontwikkeling te kunnen overeenkomen is het wettelijk vereist dat hiervoor een samenhang met betalende
+ontwikkellocaties in de omgevingsvisie of in een programma is benoemd.
+Ook moet blijken dat de
+toekomstige exploitaties van derden voldoende ‘opbrengstcapaciteit’ hebben om een dergelijke bijdrage te
+kunnen leveren.
+Nota of Programma kostenverhaal en financiële bijdragen
+Het beleid ten aanzien van kostenverhaal en financiële bijdrage is dusdanig veelomvattend dat de gemeente
+hiervoor een afzonderlijke beleidsnota gaat vaststellen.
+In die afzonderlijke beleidsnota zullen de
+beleidslijnen voor het kostenverhaal en financiële bijdragen worden geformuleerd met de uitwerking ervan in
+een Programma kostenverhaal en financiële bijdragen.
+Nadeelcompensatie
+Door omgevingsplanwijzigingen kunnen omwonenden nadeel ondervinden dat zich vertaalt in financiële
+schade.
+In sommige gevallen bestaat er dan recht op compensatie daarvan.
+De Omgevingswet regelt dit in
+het gedeelte over nadeelcompensatie.
+Dit is een aspect dat dient te worden meegewogen, met name bij
+herontwikkelings- en inbreidingsprojecten.
+De nadeelcompensatie kan op voorhand inzichtelijk (begroot)
+worden gemaakt door het opstellen van een nadeelcompensatie-risicoanalyse.
+Beleidslijn: Nadeelcompensatie
+Schade van derden door een planologische wijziging door de gemeente worden contractueel verhaald op
+degene die om de wijziging verzocht.
+18 / 34
+5.
+Beleidskeuze instrumenten bij Publieke Private
+Samenwerking (PPS)
+5.1 Publieke Private Samenwerking (gezamenlijke grondexploitatie)
+Naast de hoofdvormen actieve en faciliterende grondpolitiek zijn er verschillende tussenvormen mogelijk met
+diverse voor- en nadelen om tot een samenwerkingsconstructie te komen.
+Deze samenwerkingsvormen zijn
+sterk afhankelijk van de situatie in kwestie en neigen meer naar een actieve houding van de gemeente.
+De
+meest voorkomende samenwerkingsvormen zijn:
+• Bouwclaimmodel;
+• Joint Venture;
+• Concessiemodel.
+Bij elk van deze samenwerkingsvormen hoort een mate van gemeentelijke regie en risico’s.
+Gemeentelijke
+regie en risico's zijn hieronder weergegeven in de grijze balk.
+Hoe verder deze regie en risico's voor de
+gemeente afneemt, nemen die toe voor de marktpartij(en).
+Hieronder worden deze modellen toegelicht:
+Ad 1.
+Bouwclaimmodel
+Het bouwclaimmodel kan toegepast worden als de gronden volledig of gedeeltelijk in handen zijn van
+meerdere private partijen (versnipperd eigendom).
+Bij een bouwclaim komen de gemeente en de private
+partijen overeen dat de gronden tegen een vooraf vastgestelde prijs (veelal de prijs voor ruwe bouwgrond)
+overgedragen worden aan de gemeente.
+In ruil hiervoor ontvangen de private partijen in kwestie het recht op
+de afname van bouwrijpe kavels (een claim op te bebouwen kavels).
+Doordat de gemeente bouw - en
+woonrijp maakt en deze uitgaven bekostigt met de opbrengsten uit de uit te geven gronden, ligt het
+financiële risico van de grondexploitatie in dit geval bij de gemeente.
+Bij deze samenwerkingsvorm voert de
+gemeente de grondexploitatie.
+Ad 2.
+Joint venture model
+Bij joint venture voeren de gemeente en een (of meerdere) private partner(s) een gezamenlijke
+grondexploitatie.
+In een overeenkomst wordt geregeld wie welke werkzaamheden voor zijn/haar rekening
+neemt en hoe kosten en risico’s worden verdeeld.
+Hiertoe wordt een aparte rechtspersoon opgericht: een
+grondexploitatiemaatschappij (GEM), vaak in de vorm van een CV/BV.
+De GEM draagt zorg voor het
+19 / 34
+ontwikkelen van de grond, het uitgeven van kavels en het aanleggen van de openbare ruimte.
+De
+zeggenschap binnen de GEM wordt doorgaans evenredig verdeeld tussen de betrokken publieke en private
+partijen.
+Ad 3.
+Concessiemodel
+Als het concessiemodel wordt toegepast, verkoopt de gemeente haar grondpositie in huidige staat (‘as is’)
+aan de ontwikkelende partij.
+Hierbij heeft de gemeente de mogelijkheid om in een privaatrechtelijke
+overeenkomst randvoorwaarden aan de ontwikkeling te stellen.
+Denk aan voorwaarden ten aanzien van het
+te realiseren woningbouwprogramma, de inrichting van de openbare ruimte of het moment van oplevering.
+De marktpartij wordt doorgaans middels een tender geselecteerd.
+De ontwikkelende partij ontwikkelt het
+woningbouwprogramma en draagt zorg voor de aanleg en overdracht van de openbare ruimte.
+De risico’s
+van de grondexploitatie en de woningbouwontwikkeling zijn in dit model voor rekening van de private partij.
+5.2 Instrumenten bij Publiek Private Samenwerking
+Omdat een PPS in feite een afgezwakte vorm is van actieve grondpolitiek kunnen de hiervoor omschreven
+instrumenten elk, afhankelijk van de wijze van samenwerking, worden ingezet.
+De voor- en nadelen van PPS staan hieronder toegelicht.
+Voordelen samenwerkingsvormen Nadelen samenwerkingsvormen
+De risico’s van ontwikkelingen worden met
+partners gedeeld
+Ook de financiële baten worden gedeeld met
+partners.
+De gemeente is een van de grondeigenaren
+waardoor het meer sturing kan uitoefenen in
+vergelijking met facilitair grondbeleid
+Partners kunnen andere belangen hebben dan
+de gemeente.
+Doordat er samengewerkt wordt
+kan besluitvorming complex worden.
+De deelnemende partners kunnen gebruik
+maken van elkaars expertise
+Het maken van heldere afspraken (over o.a.
+besluitvorming) kan een tijdsintensief en
+kostbaar traject zijn.
+Beleidslijn: Samenwerking
+De gemeente maakt een afweging van mate van regie en mate van risico's als factor bij een eventuele
+keuze voor een PPS-vorm.
+20 / 34
+6.
+Financiële aspecten: beheersing & verantwoording
+De gemeente neemt bij haar keuze voor situationeel grondbeleid in verschillende projecten verschillende
+rollen aan.
+Bij elke rol (actief of meer faciliterend) geldt een ander risicoprofiel en daarmee ook andere
+uitgangspunten voor de beheersing en verantwoording.
+Die komen in dit hoofdstuk aan de orde.
+6.1 Waardering en verslaglegging
+De regels omtrent waardering en verslaglegging voor zowel actief als faciliterend grondbeleid zijn vastgelegd
+in de notities van de commissie BBV.
+Onderstaand volgt een korte toelichting op de waarderings - en
+verslagleggingsregels voor:
+1.
+Bouwgronden in exploitatie (BIE);
+2.
+Strategisch verworven gronden voor toekomstige ontwikkelingen;
+3.
+Faciliterend grondbeleid.
+Ad 1.
+Bouwgrond in exploitatie (BIE)
+Voor gebiedsontwikkelingen op gemeentelijke grond wordt door de gemeenteraad een grondexploitatie met
+een grondexploitatiebegroting vastgesteld.
+In de grondexploitatiebegroting worden de te verwachten kosten
+en opbrengsten gefaseerd in de tijd, waarbij eveneens de invloed van rente en inflatie wordt berekend.
+Als onderdeel van de vaststelling wordt door de gemeenteraad het mandaat afgegeven voor de uitvoering
+van de werkzaamheden die in de gehele looptijd van de grondexploitatie zijn begroot.
+Op basis van deze
+grondexploitatie vindt de bewaking en verantwoording van de financiën en fasering plaats.
+Herziening en verantwoording in P&C-cyclus
+In lijn met het Besluit begroting en verantwoording provincies en gemeenten (BBV) om jaarlijks een
+herziening van de grondexploitatiebegroting te laten plaatsvinden informeert het college de gemeenteraad
+via de P&C-cyclus over de stand van zaken van de grondexploitaties.
+Indien sprake is van een majeure
+financiële aanpassing op een lopende grondexploitatie wordt de gemeenteraad hierover terstond
+geïnformeerd.
+Majeure inhoudelijke aanpassingen gaan te allen tijde ter beoordeling en besluitvorming naar
+de gemeenteraad.
+Beleidslijnen: Grondexploitaties
+• Het vaststellen van grondexploitaties en de actualisaties ervan is een bevoegdheid van de Raad.
+Met het vaststellen ervan wordt het mandaat afgegeven voor de uitvoering van de werkzaamheden
+die in de grondexploitatie begroot zijn.
+• Grondexploitaties voldoen aan de regels uit de meest actuele Notitie Grondbeleid van de commissie
+BBV.
+Winstneming
+Op het gebied van tussentijdse winstnemingen wordt gehandeld conform de meest actuele notitie van de
+commissie BBV.
+Op grond daarvan wordt de POC-methodiek (Percentage of Completion) toegepast.
+Op
+grond van de POC-methode is de gemeente verplicht om gedurende de looptijd van een project winst te
+nemen naar rato van de voortgang van het project (realisatie opbrengsten en kosten).
+Indien sprake is van tussentijds te nemen winst, dan wordt dit via het jaarrekeningresultaat van de
+grondexploitaties toegevoegd aan algemene reserve.
+Voor het grondbedrijf geldt een gesloten circuit.
+Feitelijk betekent dit dat resultaten op grondexploitaties (winsten en verliezen) jaarlijks bij de jaarrekening
+automatisch worden verrekend met de algemene reserve.
+Beleidslijn: (Tussentijdse) winstneming
+Wij handelen op het gebied van tussentijds winstnemen bij grondexploitaties conform het BBV (POC-
+methode).
+21 / 34
+Verliesvoorziening
+Voor grondexploitaties met een geraamd negatief saldo zijn gemeenten verplicht direct een voorziening te
+treffen ter hoogte van dit saldo.
+De hoogte van de voorziening wordt vastgesteld op basis van de eindwaarde
+van de grondexploitatie.
+Deze verliesvoorziening wordt jaarlijks bij de actualisaties van de grondexploitaties
+herijkt ten behoeve van de jaarrekening.
+Verschillen ten opzichte van het voorgaande jaar (zowel plussen als
+minnen) worden via het jaarrekeningresultaat van de grondexploitaties verrekend in de algemene reserve.
+Beleidslijn: Verliesvoorziening
+Voor grondexploitaties met een negatief saldo wordt een voorziening getroffen ter hoogte van het contante
+waarde saldo van die grondexploitaties.
+Tijdelijk voorbereidingskrediet
+Het voorbereiden van een grondexploitatie (BIE) vergt tijd en geld.
+Dit betekent dat er voorafgaand aan het
+startmoment van de BIE (voorbereidings-)kosten gemaakt worden, die nog niet op het onderhanden werk
+kunnen worden geactiveerd doordat de betreffende BIE nog niet operationeel is.
+Het beschikbaar stellen van
+een dergelijk tijdelijk voorbereidingskrediet is een bevoegdheid van de Raad.
+De kosten die ten laste van dit
+tijdelijk krediet komen kunnen geactiveerd worden binnen de voorwaarden uit het BBV.
+Mocht onverhoopt
+blijken dat de ontwikkeling niet door kan gaan, dan dienen de kosten te worden afgeboekt ten laste van het
+jaarresultaat van het jaar waarin bekend is dat de ontwikkeling niet doorgaat.
+In het geval dat wél een grondexploitatie wordt vastgesteld naar aanleiding van de voorbereidingskosten,
+kunnen deze kosten worden ingebracht in deze grondexploitatie.
+Alsdan kan het tijdelijk
+voorbereidingskrediet vrijvallen.
+De verantwoording over de tijdelijke voorbereidingskredieten vindt plaats
+door middel van de jaarrekening.
+Beleidslijn: Tijdelijk voorbereidingskrediet
+Tijdelijke voorbereidingskredieten worden, conform de voorwaarden uit de Notitie Grondbeleid in begroting
+en jaarstukken (BBV) geactiveerd.
+Een voorbereidingskrediet wordt aangevraagd bij en verleend door de
+Raad.
+De rentelast wordt gedekt uit het budget voor het productieprogramma voor nieuwe ontwikkelin gen in
+de stad.
+Ad2.
+Strategisch verworven gronden voor toekomstige ontwikkelingen
+Het komt voor dat de gemeentegronden verwerft met het oog op toekomstige ontwikkelingen, maar nog
+geen grondexploitatie (BIE) laat vaststellen door de Raad.
+In dit geval landt de verworven grondpositie op de
+balans.
+Deze gronden worden op de balans gewaardeerd tegen de laagste waarde van:
+• De (historische) verkrijgingsprijs, inclusief bijkomende kosten, of;
+• De marktwaarde op basis van de geldende bestemming.
+Onder voorwaarden mag volgens het BBV voor zogenaamde “warme gronden” bij de waardering van de
+marktwaarde worden uitgegaan van de toekomstige in plaats van de geldende bestemming.
+Indien uit de (periodieke) taxatie ten behoeve van het bepalen van de marktwaarde blijkt dat er sprake is van
+duurzame waardevermindering, dient dit direct te leiden tot afwaardering.
+Beleidslijn: Strategische gronden
+Strategische gronden worden verantwoord onder de post Materiële Vaste Activa (MVA).
+Minimaal eens in de
+2 jaar worden de strategische gronden getaxeerd.
+Ad 3.
+Faciliterend grondbeleid
+Indien anterieur (privaatrechtelijk) geen overeenstemming wordt bereikt met de betreffende private partij,
+dan kan de gemeente haar kosten (publiekrechtelijk) verhalen middels kostenverhaalsregels bij het
+Omgevingsplan, dan wel middels kostenverhaalsvoorschriften in de vergunning.
+22 / 34
+De gemeente schiet in deze gevallen vaak de kosten voor, die later in de vorm van een
+kostenverhaalsbijdrage worden terugbetaald.
+Er is dan sprake van een vordering op de private partij.
+De
+verschillende vorderingen worden verzameld en verantwoord volgens de BBV-voorschriften.
+Beleidslijn: Risicomanagement
+Jaarlijks bij de actualisatie van de grondexploitaties wordt een risicoanalyse uitgevoerd waarbij de risico’s en
+kansen worden geïdentificeerd en geanalyseerd, waarna beheersmaatregelen getroffen worden.
+6.2 Risicomanagement en algemene reserve
+a.
+Risicomanagement grondexploitaties
+Ruimtelijke projecten zijn altijd omgeven met de nodige risico’s, maar ook met kansen.
+Het optreden van
+deze risico’s dan wel kansen heeft invloed op de oorspronkelijk verwachte resultaten van projecten.
+Door
+jaarlijks, bij de herziening van de grondexploitaties, de risico’s en kansen binnen de grondexploitaties te
+identificeren en te analyseren worden de juiste beheersmaatregelen getroffen.
+Hierdoor wordt de kans op
+onverwachte, aanzienlijke financiële tegenvallers tot een minimum beperkt.
+Deze risicoanaly ses zijn
+onderdeel van de jaarlijkse rapportage over de grondexploitaties in de paragraaf weerstandsvermogen in de
+jaarrekening en begroting en vormen één van de inputfactoren voor het bepalen van de noodzakelijke
+omvang van de algemene reserve bouwgrondexploitaties.
+Beleidslijn: Risicomanagement
+Jaarlijks bij de actualisatie van de grondexploitaties wordt een risicoanalyse uitgevoerd waarbij de risico’s en
+kansen worden geïdentificeerd en geanalyseerd, waarna beheersmaatregelen getroffen worden.
+b.
+Algemene reserve bouwgrondexploitaties
+Resultaten (plussen en minnen) op grondexploitaties worden verrekend met de algemene reserve.
+In de
+paragraaf weerstandsvermogen bij de jaarrekening en begroting wordt uitgewerkt hoe de risico’s van het
+grondbedrijf zich verhouden tot de beschikbare algemene reserve en de toekomstige nog te nemen winsten
+op winstgevende grondexploitaties.
+Voor de risico’s van het grondbedrijf wordt geen apart vereist ratio weerstandsvermogen bepaald.
+De
+Algemene reserve bouwgrondexploitatie en de risico’s van het grondbedrijf zijn een integraal onderdeel van
+het totale weerstandsvermogen van de gemeente.
+Beleidslijn: algemene reserve
+Resultaten en risico’s van de grondexploitaties worden opgevangen door de algemene reserve.
+23 / 34
+7.
+Organisatie en samenwerking
+Dit hoofdstuk behandelt de organisatorische kant van het grondbeleid; de rollen, de verantwoordelijkheden
+en de onderlinge verhoudingen tussen de gemeenteraad en het college.
+7.1 Rolverdeling gemeenteraad en college
+Binnen de door de gemeenteraad vastgestelde kaders voor het grondbeleid geeft het college
+uitvoering aan de realisatie van de beleidsambities.
+Voor het functioneren van het grondbeleid is
+het college eindverantwoordelijk.
+De daadwerkelijke uitvoering van het grondbeleid vindt plaats
+door het ambtelijk apparaat.
+Gemeenteraad
+De Nota Grondbeleid is voor de gemeenteraad het toetsingskader voor de uitvoering van het gemeentelijk
+grondbeleid.
+De Raad heeft het budgetrecht, wat inhoudt dat de Raad bevoegd is budget beschikbaar te
+stellen.
+In het kader van het grondbeleid geschiedt dit bijvoorbeeld door het vaststellen van een tijdelijk
+voorbereidingskrediet of bij vaststelling van de grondexploitatie.
+College
+Het college is bevoegd bij de uitvoering van het gemeentelijk grondbeleid privaatrechtelijke overeenkomsten
+te sluiten en zal binnen het kader van de grondexploitatie dienen te handelen.
+Afwijkingen dienen te worden
+verantwoord aan de Raad.
+Dit geschiedt op vaste momenten in de P&C-cyclus (bij de begroting en bij de
+beraps).
+Binnen deze financiële kaders is het college bevoegd om kosten te maken ten behoeve van de
+grondexploitatie en om overeenkomsten te sluiten.
+In onderstaand schema volgt op hoofdlijnen de rolverdeling tussen gemeenteraad en college ten aanzien
+van het grondbeleid.
+Gemeenteraad College van B&W
+Grondbeleid • Vaststellen Nota Grondbeleid • Uitvoering geven aan grondbeleid
+Grondexploitatie • Beschikbaar stellen budget
+• Vaststellen nieuwe
+grondexploitaties
+• Vaststellen geactualiseerde
+grondexploitaties bij majeure
+wijzigingen
+• Financieel afsluiten
+grondexploitaties
+• Aanvragen (voorbereidings-)
+budget
+• Vaststellen en rapporteren over de
+jaarlijkse actualisatie
+grondexploitaties
+• Rapporteren over zwaarwegende
+tussentijdse wijzigingen in
+grondexploitaties
+• Sluiten overeenkomsten
+Kostenverhaal • Vaststellen
+kostenverhaalsregels in
+omgevingsplan
+• Sluiten overeenkomsten over
+kostenverhaal (anterieur en
+posterieur)
+Verwerving • Beschikbaar stellen budget
+voor verwerving
+• Vestigen voorkeursrecht
+• Toepassen onteigening
+• Verwervingsplan / -strategie.
+• Vestigen van voorlopig
+voorkeursrecht
+• Uitvoering geven aan
+onteigeningsprocedures
+• Sluiten van overeenkomsten
+Bouw- en woonrijp
+maken
+• Vaststellen
+aanbestedingsbeleid
+• Aanbesteding en uitvoering werken
+en diensten
+Uitgifte en verkoop • Vaststellen van beleid voor
+uitgiftes en bepaling
+grondprijzen (middels de
+onderhavige Nota
+Grondbeleid)
+• Vaststellen uitgiftecriteria,
+grondprijzen en
+uitgiftevoorwaarden
+• Verkoop van gronden en
+gebouwen
+• Het (ver)huren, (ver)pachten, in
+beheer en of gebruik geven /
+nemen van onroerende zaken
+24 / 34
+• Publicatie voornemen tot uitgifte
+Samenwerking • Intentieovereenkomst
+• Samenwerkingsovereenkomst
+• Keuze voor PPS-vorm
+Sturing en
+verantwoording
+• Controleren voortgang
+projecten
+• Vaststellen begroting en
+jaarrekening
+• Rapporteren over voortgang
+projecten via begroting,
+jaarrekening en toelichting op de
+grondexploitaties
+7.2 Ambtelijk apparaat
+De grondpolitieke keuze van de gemeente is bepalend voor de personele behoefte, zowel
+kwantitatief als kwalitatief.
+Binnen de gemeente is thans geen sprake van een aparte entiteit grondbedrijf.
+De uitvoering van
+de belangen en verantwoordelijkheden is belegd binnen de verschillende afdelingen en
+verschillende personen.
+Die rollen worden uitgevoerd door projectleider, planeconoom,
+stedenbouwkundige, verwerver, RO-jurist/planoloog, grondzakenjurist en openbare ruimte.
+Afhankelijk van de grondpolitieke keuze zijn de roller omvangrijker of minder omvangrijk.
+rol/grondpolitiek actief en samenwerken
+projectleider aansturing en verantwoordelijkheid
+planeconoom grondexploitatie, risicomanagement, marktconforme grondprijzen
+stedenbouwkundige kaders stellen, ontwikkelen plan
+verwerver strategie, verwerving
+RO-jurist/planoloog kaders stellen, schrijven regels
+grondzakenjurist
+strategie, verwerving, beheer , samenwerking, uitgifte, zakelijke
+rechten
+openbare ruimte kaders stellen, uitvoering bouw- en woonrijp maken
+rol/grondpolitiek faciliterend
+projectleider begeleidend
+planeconoom toets haalbaarheid, kostenverhaal
+stedenbouwkundige kaders stellen, toetsen plan
+verwerver
+RO-jurist/planoloog kaders stellen, toetsen regels
+grondzakenjurist voorovereenkomst, anterieure overeenkomst
+openbare ruimte kaders stellen, toetsen uitvoering bouw- en woonrijp maken
+25 / 34
+A.
+Bijlage wettelijk kader
+A.1 Omgevingswet
+De Omgevingswet vormt het wettelijke kader voor de fysieke leefomgeving van Rijk, provincies en
+gemeenten.
+De Omgevingswet faciliteert een meer vraaggericht, uitnodigend en flexibel grondbeleid met
+meer ruimte voor initiatieven uit de markt ten opzichte van de regels uit de Wro.
+Zo wordt het makkelijker om
+ruimtelijke projecten te starten en biedt de Omgevingswet betere mogelijkheden voor zogeheten
+uitnodigingsplanologie.
+De gemeente richt zich op grond van deze wet op het opstellen van een
+omgevingsvisie en een omgevingsplan (grofweg: de vervanger van het bestemmingsplan).
+De
+omgevingsvisie geeft de gemeente meer ruimte om in samenspraak met de samenleving na te denken over
+de gewenste ontwikkelingen.
+Met een besluit tot wijziging van het omgevingsplan kan de gemeente
+vervolgens de juiste randvoorwaarden meegeven en ruimte geven aan (markt)partijen.
+In paragraaf 4.1 werd een toelichting gegeven op het kostenverhaal onder de Omgevingswet.
+Hier worden
+twee routes benoemd in het kader van minnelijk en afdwingbaar kostenverhaal.
+De zelfstandige figuur van
+het exploitatieplan komt te vervallen, maar wordt vervangen door zogeheten kostenverhaalregels waarmee
+in voorkomende gevallen hetzelfde wordt bereikt, namelijk het plegen van afdwingbaar kostenverhaal.
+Een
+relevante aanvulling in die afdwingbare route is een keuze daarbinnen tussen twee modellen: een mod el met
+en zonder tijdvak.
+Het model met tijdvak is grofweg gelijk aan het model onder de Wro.
+Het model zonder
+tijdvak is geïntroduceerd als beter passend bij meer globale, organische ontwikkelingen.
+De Omgevingswet biedt tevens de mogelijkheid om naast het kostenverhaal ook financiële bijdragen af te
+spreken, die bijdragen aan gebiedsontwikkeling of ruimtelijke kwaliteit.
+De wet kent allereerst een vrijwillige
+bijdrage (artikel 13.22 Omgevingswet).
+Daarnaast is er de mogelijkheid van een afdwingbare financiële
+bijdrage (artikel 13.23 Omgevingswet).
+Die loopt via regels in het omgevingsplan.
+Indien de gemeente een
+anterieure overeenkomst sluit dient de verplichte financiële bijdrage daarin te worden afgesproken.
+A.2 Besluit Begroting en Verantwoording provincies en gemeenten (BBV)
+Met name met betrekking tot het financiële deel van het grondbeleid is het zogeheten Besluit begroting en
+verantwoording provincies en gemeenten (BBV) van belang.
+Specifiek is de door de commissie BBV
+uitgebrachte “Notitie Grondbeleid in begroting en jaarstukken (2019 en 2023)” van belang.
+Hierin zijn
+richtlijnen opgenomen waar gemeentelijke grondexploitaties aan moeten voldoen bij gebiedsontwikkelingen
+waar de gemeente zelf financieel verantwoordelijk is en hoe financieel omgegaan moet worden met
+gebiedsontwikkelingen waar de gemeente geen eigenaar is van de grond.
+De grondexploitaties van de gemeente voldoen aan deze richtlijnen en ook op de aspecten van
+verslaglegging handelen wij conform deze richtlijnen.
+Aanpassingen en actualiseringen van BBV richtlijnen
+worden gevolgd en waar nodig geïmplementeerd in het gemeentelijk beleid.
+A.3 Commissie BADO
+In de “Notitie Grondexploitaties” van de commissie Bedrijfsvoering Auditing Decentrale Overheden (BADO -
+d.d.
+3 september 2019) wordt stilgestaan bij het proces van gebiedsontwikkeling en hoe een en ander
+financieel optimaal verantwoord kan worden door het aanleggen van dossiers.
+De processen en de
+beleidskeuzes in deze Nota Grondbeleid sluiten aan bij de procesbeschrijving als opgenomen in de notitie
+van de BADO.
+A.4 Vennootschapsbelasting voor overheidsondernemingen
+Overheidslichamen zijn per 1 januari 2016 verplicht tot het betalen van vennootschapsbelasting voor de
+activiteiten waarmee zij een onderneming drijven en winst behalen.
+Op basis van de daarvoor vastgestelde
+criteria gelden de geclusterde grondexploitaties van de gemeente Drechterland als een dergelijke
+onderneming.
+Daarmee ontstaat de verplichting tot het doen van aangifte.
+26 / 34
+A.5 Financiële verordeningen
+Op basis van artikel 212, eerste lid van de Gemeentewet moeten gemeenten een financiële verordening
+opstellen.
+Met deze verordening regelt de Raad op hoofdlijnen de spelregels voor het financieel beleid, de
+financiële organisatie en het financieel beheer en heeft zo invloed op procedures rondom en vormgeving van
+het financiële proces.
+27 / 34
+B.
+Bijlage toelichting bij afwegingskader
+Onderstaand volgt een nadere toelichting op de afwegingsfactoren behorend bij het afwegingskader van
+paragraaf 2.3:
+• Maatschappelijk c.q. publiek belang van het ruimtelijk initiatief (aan welke doelen wordt bijgedragen en
+wat is de prioriteit daarvan?)
+De eerste afweging die plaatsvindt is of een ruimtelijk initiatief bijdraagt aan de beleidsdoelen die wij
+als gemeente hebben vastgelegd in bijvoorbeeld de Woonvisie of de Omgevingsvisie.
+Dit kan ook
+een ruimtelijk initiatief van de gemeente zelf zijn, de bijdrage aan de realisatie van onze
+beleidsdoelen is dan in feite evident.
+Maar wat zijn die doelen dan?
+Hoe belangrijk zijn ze?
+En hoe
+prioriteren we daarin?
+Dit zijn vragen waar het grondbeleid “niet over gaat”.
+Wat belangrijke doelen
+zijn op onder andere het gebied van wonen, werken, duurzaamheid en landschap bepalen we op
+basis van onderzoek binnen de betreffende beleidsvelden en leggen we vast in daarop toegespitste
+beleidsnota’s en/of programma’s.
+• Eigendomssituatie
+Vervolgens is de eigendomssituatie van belang.
+Daarbij kunnen verschillende startsituaties gelden.
+Sommige ontwikkelingen vinden plaats op gemeentelijk eigendom.
+Staan vervolgens de opvolgende
+inputfactoren “op groen” dan ligt een actieve rol voor de hand en kan de gemeente de ontwikkeling
+zelf oppakken.
+Dit is geen automatisme, de gemeente heeft hierin, gezien de eigendomspositie de
+vrije keuze.
+Indien niet alle opvolgende inputfactoren “op groen” staan kan een keuze bijvoorbeeld
+zijn alsnog een samenwerking te zoeken.
+De tegenhanger van de gemeentelijke eigendomspositie is de situatie waarbij de eigendom volledig
+in handen is van een partij die bereid en in staat is de door de gemeente gewenste ontwikkeling te
+realiseren.
+In die situaties heeft de gemeente automatisch een meer faciliterende rol, omdat die partij
+zich kan beroepen op het recht van zelfrealisatie.
+Diverse tussenvormen zijn mogelijk waarbij gemengde eigendomssituaties zich kunnen voordoen.
+Daaronder kunnen zich ook situaties bevinden waarin zelfrealisatie niet voor de hand ligt.
+Bijvoorbeeld vanwege versnipperd eigendom of omdat private partijen niet bereid zijn de door de
+gemeente bepaalde wijze van planuitvoering (op tijd) te realiseren.
+Ook het type eigenaar kan
+verschillen.
+Van professionele ontwikkelpartij met een wens het gebied te ontwikkelen en bereidheid
+om mee te denken hoe de ontwikkeling zo goed mogelijk kan bijdragen aan het behalen va n
+gemeentelijke beleidsdoelen, tot partijen die hun eigendom het liefst niet ontwikkeld zien worden.
+Indien er een groot belang is het betreffende eigendom te ontwikkelen voor de door de gemeente
+bepaalde wijze van planuitvoering, kan het een strategische keus zijn op enige manier (en zo nodig in een
+vroeg stadium) de eigendommen van de locaties proberen te verkrijgen.
+Daarbij kan het instrument van het
+voorkeursrecht een belangrijke rol spelen.
+Bereidheid markt
+Als private partijen voor een gewenste ontwikkeling bereid en in staat zijn de door de gemeente bepaalde
+wijze van planuitvoering (op tijd) te realiseren dan faciliteren wij waar nodig .
+Pakt de markt de
+ontwikkeling niet op dan kan dit een reden zijn om zelf een actieve(re) rol aan te nemen.
+Dit kan door
+de markt uit te nodigen ontwikkelingen op te pakken dan wel door zelf in een volledig actieve rol
+ontwikkelingen op te pakken mits uiteraard de overige inputfactoren daarbij ook “op groen” staan.
+Hoe actiever de grondpolitiek van de gemeente hoe meer zekerheid dat het beleid van de gemeente
+gerealiseerd kan worden.
+Financiële impact en risico’s
+Als de gemeente een actieve grondpolitiek voert, dan draagt de gemeente zelf de bijbehorende
+(financiële) risico’s en kansen.
+Bij een faciliterende rol vallen die (grotendeels) aan marktpartijen toe.
+Het is dus van belang inzicht te hebben in de financiële impact van een gebiedsontwikkeling en hoe
+groot de bijbehorende risico’s en kansen zijn.
+Om een goed financieel beeld te krijgen van de
+28 / 34
+ontwikkeling van een locatie inventariseren wij welke effecten direct en indirect verband houden met
+die ruimtelijke ontwikkeling.
+Daartoe stelt de gemeente een (eerste) financiële haalbaarheidsanalyse
+op, in de vorm van een grond- of gebiedsexploitatie.
+Vervolgens vindt de afweging plaats of deze
+financiële effecten acceptabel zijn.
+Lijken de financiële risico’s te groot in verhouding tot de te
+behalen doelen, dan kan dit een reden zijn om in die situatie te kiezen voor een meer faciliterende
+rol.
+De gemeente laat de keuze voor een te volgen grondpolitiek uitdrukkelijk niet afhangen van aanwezige
+‘kennis, kunde en (ambtelijke) capaciteit’.
+Daar waar aan de hand van voorgaande factoren een besluit tot
+gebiedsontwikkeling is besloten zorgt de gemeente door middel van prioritering en/of inhuur voor voldoende
+kennis, kunde en capaciteit.
+29 / 34
+C.
+Bijlage criteria gemeentelijke verantwoordelijkheid
+bij aanbesteding
+De gemeente wordt gezien als verantwoordelijke voor het juist toepassen van aanbestedingsregels en -
+principes bij opdrachten tot (her)inrichting van openbare ruimte, ook als marktpartijen zorgen voor die
+(her)inrichting en de openbare ruimte naderhand overdragen aan de gemeente.
+Wanneer het gaat om de realisatie van vastgoed kunnen er zich ook situaties voordoen dat de gemeente
+een verantwoordelijkheid heeft, met name als zij eisen stelt aan dat vastgoed.
+De volgende 3 criteria
+hiervoor zijn vastgelegd in het zogenaamde Müllerarrest van het Europese Hof van Justitie (waaraan
+cumulatief voldaan moet worden):
+1.
+Er moet sprake zijn van een overeenkomst onder bezwarende titel.
+Daarvan is sprake als de
+aanbestedende dienst (de gemeente) een tegenprestatie van de wederpartij ontvangt.
+Het moet
+dan gaan om een tegenprestatie waarover de aanbestedende dienst wil kunnen beschikken.
+Praktisch gezien gaat het, bij verkoop van bouwgrond, dan om het afspreken van een
+bouwplicht.
+2.
+Er moet sprake zijn van een rechtstreeks economisch belang van de gemeente.
+Dat wil zeggen
+dat de gemeente eigenaar wordt van het werk, of dat er sprake is van een werk met een
+openbare bestemming, of dat zij economische voordelen kan halen uit het toekomstig gebruik of
+uit de overdracht ervan (nu of in de toekomst), of als de gemeente financieel aan de
+verwezenlijking van het werk heeft deelgenomen of als de gemeente risico’s loopt bij
+economische mislukking van het werk.
+3.
+De gemeente stelt bij de grondverkoop eisen die verder gaan dan de eisen die zij kan stellen in
+de uitoefening van reguliere publiekrechtelijke bevoegdheden over stedenbouw.
+Concreet valt
+dan te denken aan eisen die verder gaan dan wat de gemeente kan reguleren met een
+omgevingsplan of een vergunning voor het bouwen.
+30 / 34
+D.
+Bijlage meest voorkomende methodes voor
+grondprijsberekening
+De drie meest voorkomende methodes voor grondprijsberekening (zie paragraaf 3.2) zijn:
+• De comparatieve methode
+• De residuele waarde methode
+• De grondquote methode
+Hieronder volgt per methode van grondwaardebepaling een beknopte toelichting:
+• De comparatieve methode
+Deze methode is gebaseerd op het vergelijken van grondprijzen bij vergelijkbare objecten in
+vergelijkbare regio’s (doorgaans omliggende gemeenten).
+De gehanteerde grondprijs wordt
+afgestemd op vergelijkbare gehanteerde grondprijzen in de omgeving.
+• De residuele waarde methode
+Bij de residuele methode is de grondwaarde gelijk aan de commerciële waarde (exclusief btw) van
+het desbetreffende vastgoed minus alle bouw- en bijkomende kosten, algemene kosten en kosten
+voor winst en risico.
+• De grondquote methode
+Deze methode stelt de grondprijs op grond van ervaringsregels gelijk aan een percentage van de
+commerciële waarde van het te realiseren vastgoed.
+31 / 34
+E.
+Bijlage belangrijkste artikelen bij verplicht
+kostenverhaal
+Dat kostenverhaal verplichting volgt uit artikel 13.11 van de Omgevingswet:
+Artikel 13.11 (verhalen van kosten)
+1.
+Op degene die bij algemene maatregel van bestuur aan te wijzen bouwactiviteiten of activiteiten met
+het oog op het gebruik op grond van een nieuw toegedeelde functie verricht, verhaalt het
+bestuursorgaan de kosten die het vanwege bij die maatregel aangewezen kostensoorten maakt,
+voor zover:
+a. de kostensoorten toerekenbaar zijn aan het kostenverhaalsgebied, en
+b. de kosten proportioneel zijn in verhouding tot het profijt dat het kostenverhaalsgebied van
+de kostensoorten heeft.
+2.
+Bij algemene maatregel van bestuur wordt bepaald in welke gevallen het bestuursorgaan kan
+besluiten om de kosten niet te verhalen.
+De kostenverhaalplichtige (bouw)activiteiten zijn opgenomen in artikel 8.13 van het Omgevingsbesluit.
+Dat
+artikel luidt als volgt:
+Artikel 8.13 Omgevingsbesluit definieert een bouwactiviteit als volgt:
+a.
+De bouw van een of meer gebouwen met een woonfunctie;
+b.
+De bouw van een of meer hoofdgebouwen anders dan gebouwen met een woonfunctie;
+c. de uitbreiding van een gebouw met ten minste 1.000 m2 bruto-vloeroppervlakte of met een of meer
+gebouwen met een woonfunctie;
+d. de bouw van een gebouw dat geen hoofdgebouw als bedoeld onder b is, met ten minste 1.000 m2
+bruto-vloeroppervlakte;
+e. de verbouwing van een of meer aaneengesloten gebouwen met andere gebruiksfuncties dan een
+woonfunctie tot gebouwen met een woonfunctie, mits het ten minste tien woonfuncties betreft; of
+f. de verbouwing van een of meer aaneengesloten gebouwen met andere gebruiksfuncties dan een
+kantoorfunctie, winkelfunctie of een bijeenkomstfunctie voor het verstrekken van consumpties voor
+het gebruik ter plaatse tot gebouwen met een of meer van deze gebruiksfuncties, mits de
+cumulatieve bruto-vloeroppervlakte van de nieuwe gebruiksfuncties ten minste 1.500 m2 bedraagt.
+De verhaalbare kostensoorten worden genoemd in artikel 8.15 van het Omgevingsbesluit en de daarbij
+behorende bijlage IV.
+Het artikel luidt als volgt:
+De kostensoorten, bedoeld in artikel 13.11, eerste lid, aanhef, van de wet, zijn:
+a. voor kostenverhaalsgebieden waarvoor geen tijdvak als bedoeld in artikel 13.15, eerste lid, van de
+wet is opgenomen: de in tabel A van bijlage IV aangegeven kostensoorten; en
+b. voor kostenverhaalsgebieden waarvoor wel een tijdvak als bedoeld in artikel 13.15, eerste lid, van de
+wet is opgenomen: de in de tabellen A en B van bijlage IV aangegeven kostensoorten.
+En de tabellen A en B bij bijlage IV als volgt:
+Bijlage IV. bij artikel 8.15 van dit besluit (kostensoorten)
+De kostensoorten, bedoeld in artikel 8.15, zijn de in de tabellen A en B bedoelde kostensoorten.
+32 / 34
+A.
+Kostensoorten bij kostenverhaal met of zonder tijdvak
+A1 De kosten van het vaststellen van een omgevingsplan of een projectbesluit of het verlenen van een
+omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit, inclusief het daarvoor
+benodigde onderzoek
+A2 De waarde van de gronden die worden gebruikt voor de uitvoering van de onder A8 en A9
+bedoelde werken, werkzaamheden en maatregelen, inclusief de waarde van de te slopen
+opstallen, geraamd overeenkomstig artikel 8.17, eerste lid
+A3 De kosten van het vrijmaken van de gronden, bedoeld onder A2, van persoonlijke rechten en
+lasten, eigendom en bezit en beperkte rechten of zakelijke lasten
+A4 Het tijdelijk beheer van de door of vanwege de gemeente, de provincie of de Staat verworven
+percelen, verminderd met de uit het tijdelijk beheer te verwachten opbrengsten
+A5 De kosten van het slopen, verwijderen en verplaatsen van opstallen, obstakels, funderingen,
+kabels en leidingen op de gronden, bedoeld onder A2
+A6 De kosten van bodemsanering, het dempen van oppervlaktewateren en het verrichten van
+grondwerken op de gronden, bedoeld onder A2
+A7 De kosten van de noodzakelijke compensatie van in het kostenverhaalsgebied verloren gegane
+natuurwaarden, groenvoorzieningen en watervoorzieningen
+A8 De kosten van de aanleg of wijziging van:
+1°. wegen, gebouwde en ongebouwde openbare parkeergelegenheden, pleinen, voet - en
+rijwielpaden, gebouwde openbare fietsenstallingen, faciliteiten voor ondergrondse afvalinzameling,
+waterpartijen, watergangen, voorzieningen voor de waterhuishouding, bruggen, tunnels , duikers,
+kades, steigers, en andere rechtstreeks met de aanleg daarvan verband houdende werken en
+bouwwerken;
+2°. infrastructuur voor openbaar-vervoervoorzieningen met bijbehorende werken en bouwwerken;
+3°. groenvoorzieningen, natuurvoorzieningen en openbare niet-commerciële sportvoorzieningen;
+4°. openbare verlichting en brandkranen met aansluitingen;
+5°. straatmeubilair, speeltoestellen, sierende elementen, kunstobjecten en afrasteringen in de
+openbare ruimte;
+6°. distributienetwerken voor elektriciteit, warmte, gas en water, inclusief bijbehorende werken en
+bouwwerken; en
+7°. riolering, inclusief bijbehorende werken en bouwwerken
+A9 De kosten van werken, werkzaamheden en maatregelen die noodzakelijk zijn voor het bereiken en
+in stand houden van een veilige en gezonde fysieke leefomgeving en een goede
+omgevingskwaliteit
+33 / 34
+A10 De kosten van voorbereiding en toezicht op de uitvoering van de onder A3, A5, A6, A8 en A9
+bedoelde werken, werkzaamheden en maatregelen, inclusief het daarvoor benodigde onderzoek
+A11 Nadeelcompensatie aan derden als bedoeld in hoofdstuk 15 van de wet
+A12 Niet-terugvorderbare BTW, niet-gecompenseerde compensabele BTW of andere niet-
+terugvorderbare belastingen, over de kostenelementen, genoemd onder A1 en A3 tot en met A10
+A13 De rente van geïnvesteerde kapitalen en overige lasten, verminderd met renteopbrengsten
+A14 De kosten van andere door of in opdracht van het bestuursorgaan te verrichten werkzaamheden,
+voor zover die werkzaamheden rechtstreeks verband houden met de in deze bijlage bedoelde
+werken, werkzaamheden en maatregelen
+34 / 34
+B.
+Kostensoorten bij kostenverhaal met tijdvak; in aanvulling op tabel A
+B1 De waarde van de gronden waar de bouwactiviteiten, bedoeld in artikel 13.11, eerste lid, van de wet,
+zullen worden verricht, inclusief de waarde van de daar aanwezige, te slopen opstallen, geraamd
+overeenkomstig artikel 8.17, eerste lid
+B2 De kosten om de gronden, bedoeld onder B1, vrij te maken van persoonlijke rechten en lasten,
+eigendom, bezit en beperkte rechten of zakelijke lasten
+B3 De kosten van het slopen, verwijderen en verplaatsen van opstallen, obstakels, funderingen, kabels
+en leidingen op de gronden, bedoeld onder B1
+B4 De kosten van bodemsaneringswerkzaamheden, het dempen van oppervlaktewateren en het
+verrichten van grondwerken op de gronden, bedoeld onder B1
