@@ -5,6 +5,722 @@
     "stedebroec"
   ],
   "items": {
+    "a8cb2b24907c756597f6e1174619a54855bd162f5636d57e649aada539a5f012": {
+      "title": "Koninklijke onderscheiding René Schraa",
+      "url": "https://www.stedebroec.nl/actueel/koninklijke-onderscheiding-tot-lid-in-de-orde-van-oranje-nassau-voor-rene-schraa-uit-bovenkarspel",
+      "source": "Nieuws",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-17T17:53:04+00:00",
+      "updated": "2026-11-21T08:11:13+00:00",
+      "last_change": "2026-11-21T08:11:13+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Op dinsdag 29 werd René Schraa benoemd tot Lid in de Orde van Oranje Naussau, het lintje werd opgespeld door burgemeester Wortelboer. Onmisbare inzet voor skeelergroep Stede Broec René is al lange tijd actief voor de Skeelergroep Stede Broec. Wat in 2010 begon als vrijwilliger bij de jaarlijkse lichtjesavond, groeide…",
+      "doc_date": "2026-09-30",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-09-30T12:34:56+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|6ff6217a94828af62c6472b021fb037bad8c9b96f2b074c36b467d311ca9ab66|Koninklijke onderscheiding René Schraa|Op dinsdag 29 werd René Schraa benoemd tot Lid in de Orde van Oranje Naussau, het lintje werd opgespeld door burgemeester Wortelboer. Onmisbare inzet voor skeelergroep Stede Broec René is al lange tijd actief voor de Skeelergroep Stede Broec. Wat in 2010 begon als vrijwilliger bij de jaarlijkse lichtjesavond, groeide…",
+      "missing_count": 0,
+      "text_hash": "6ff6217a94828af62c6472b021fb037bad8c9b96f2b074c36b467d311ca9ab66",
+      "content_checked": "2026-11-21T08:11:13+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:11:13+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Werkzaamheden Broekerhavenweg in Bovenkarspel",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "47ac03ab5d189a3a462f095eeb0649d619f12a452fbb6746c13580ea14b7df9b": {
+      "title": "Wijziging papierinzameling in een deel van Venhuizen",
+      "url": "https://www.drechterland.nl/actueel/wijziging-papierinzameling-in-een-deel-van-venhuizen",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-21T08:11:11+00:00",
+      "last_change": "2026-11-21T08:11:11+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Per 10 oktober 2026 verandert de inzameling van oud papier en karton voor een deel van de inwoners van Venhuizen. Papier en karton worden voortaan op een andere dag en één keer per vier weken ingezameld. Ook komen er vaste aanbiedplaatsen in de buurt. De betrokken huishoudens hebben hierover een…",
+      "doc_date": "2026-09-30",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-09-30T10:19:17+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|c2f58d2407f0938a9df4de8b3e268dce1f6922ecd19b3f1940583a7595e57988|Wijziging papierinzameling in een deel van Venhuizen|Per 10 oktober 2026 verandert de inzameling van oud papier en karton voor een deel van de inwoners van Venhuizen. Papier en karton worden voortaan op een andere dag en één keer per vier weken ingezameld. Ook komen er vaste aanbiedplaatsen in de buurt. De betrokken huishoudens hebben hierover een…",
+      "missing_count": 0,
+      "text_hash": "c2f58d2407f0938a9df4de8b3e268dce1f6922ecd19b3f1940583a7595e57988",
+      "content_checked": "2026-11-21T08:11:11+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:11:11+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Beheer voormalige vuilstort Westwoud overgedragen",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "3c2c24b9a19b9636c9af116ba84145ccb6ff65f5d1327c026c65f71be23648cc": {
+      "title": "Uitnodiging feestelijke opening MFA Schellinkhout",
+      "url": "https://www.drechterland.nl/actueel/uitnodiging-feestelijke-opening-mfa-schellinkhout",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-21T08:11:09+00:00",
+      "last_change": "2026-11-21T08:11:09+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Eindelijk is het zover! Na een lang, intensief en zorgvuldig traject is vanaf de start van het schooljaar 2026/2027 de Multifunctionele Accommodatie (MFA) Schellinkhout in gebruik genomen. De MFA biedt onderdak aan basisschool Jan Luyken, Kinderopvang Berend Botje en Dorpshuis De Dregt. Sportend Schellinkhout kan voortaan gebruik maken van een geheel…",
+      "doc_date": "2026-09-30",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-09-30T13:13:07+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|de65ae2ab1a1df67a35f92ffbecaf284408226178ec6a16944b7af995a86b045|Uitnodiging feestelijke opening MFA Schellinkhout|Eindelijk is het zover! Na een lang, intensief en zorgvuldig traject is vanaf de start van het schooljaar 2026/2027 de Multifunctionele Accommodatie (MFA) Schellinkhout in gebruik genomen. De MFA biedt onderdak aan basisschool Jan Luyken, Kinderopvang Berend Botje en Dorpshuis De Dregt. Sportend Schellinkhout kan voortaan gebruik maken van een geheel…",
+      "missing_count": 0,
+      "text_hash": "de65ae2ab1a1df67a35f92ffbecaf284408226178ec6a16944b7af995a86b045",
+      "content_checked": "2026-11-21T08:11:09+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:11:09+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Beheer voormalige vuilstort Westwoud overgedragen",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "12e0c7168117f1354f84c703e402c68653597f8affc16294be3f03257f5e92b1": {
+      "title": "Free Your Mindz",
+      "url": "https://www.stedebroec.nl/actueel/free-your-mintz",
+      "source": "Nieuws",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-17T17:53:04+00:00",
+      "updated": "2026-11-21T08:11:08+00:00",
+      "last_change": "2026-11-21T08:11:08+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Ben je bezig met school, studie, werk of de vraag wat je later wilt doen? En wil je meer inzicht krijgen in jezelf, meer zelfvertrouwen opbouwen of beter leren omgaan met druk en verwachtingen? Dan is Free Your Mindz misschien iets voor jou. Gratis programma voor jongeren en jongvolwassenen: ontdek…",
+      "doc_date": "2026-10-05",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-05T10:46:42+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|a578a6123e5e9e6117cba3ad52afe4920e9f496a04c9b246ba9d843252d1270a|Free Your Mindz|Ben je bezig met school, studie, werk of de vraag wat je later wilt doen? En wil je meer inzicht krijgen in jezelf, meer zelfvertrouwen opbouwen of beter leren omgaan met druk en verwachtingen? Dan is Free Your Mindz misschien iets voor jou. Gratis programma voor jongeren en jongvolwassenen: ontdek…",
+      "missing_count": 0,
+      "text_hash": "a578a6123e5e9e6117cba3ad52afe4920e9f496a04c9b246ba9d843252d1270a",
+      "content_checked": "2026-11-21T08:11:08+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:11:08+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Werkzaamheden Broekerhavenweg in Bovenkarspel",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "a154b1eca2e20c1289626ff020be7e49c6a067402e0e18d4801356f21e50b0e1": {
+      "title": "Free Your Mindz",
+      "url": "https://www.enkhuizen.nl/actueel/free-your-mintz",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-21T08:11:06+00:00",
+      "last_change": "2026-11-21T08:11:06+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Ben je bezig met school, studie, werk of de vraag wat je later wilt doen? En wil je meer inzicht krijgen in jezelf, meer zelfvertrouwen opbouwen of beter leren omgaan met druk en verwachtingen? Dan is Free Your Mindz misschien iets voor jou. Gratis programma voor jongeren en jongvolwassenen: ontdek…",
+      "doc_date": "2026-10-05",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-05T10:46:42+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|ff6b51dad4df1ccd24f2eb4587d18b612efa015d0567cfeba2635b147a9c7b0b|Free Your Mindz|Ben je bezig met school, studie, werk of de vraag wat je later wilt doen? En wil je meer inzicht krijgen in jezelf, meer zelfvertrouwen opbouwen of beter leren omgaan met druk en verwachtingen? Dan is Free Your Mindz misschien iets voor jou. Gratis programma voor jongeren en jongvolwassenen: ontdek…",
+      "missing_count": 0,
+      "text_hash": "ff6b51dad4df1ccd24f2eb4587d18b612efa015d0567cfeba2635b147a9c7b0b",
+      "content_checked": "2026-11-21T08:11:06+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:11:06+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Parkeergebieden voor betaald parkeren vastgesteld",
+            "20 november 2026",
+            "Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten"
+          ],
+          "removed": [
+            "Gezocht: stembureauleden en stemmentellers",
+            "5 november 2026",
+            "Groot feest tijdens de Sinterklaasintocht in Enkhuizen"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "b5d31a9fcec70fb7965b25bfb144707b998ac6660ab4b04415d210de81904690": {
+      "title": "Burgemeester sluit twee bedrijfspanden na aantreffen hennepkwekerij",
+      "url": "https://www.enkhuizen.nl/actueel/burgemeester-sluit-twee-bedrijfspanden-na-aantreffen-hennepkwekerij",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-21T08:11:05+00:00",
+      "last_change": "2026-11-21T08:11:05+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Burgemeester Hoekstra-Sikkema van Enkhuizen heeft in september besloten om twee verschillende bedrijfspanden op bedrijventerrein Schepenwijk voor een aantal maanden te sluiten. Dit besluit volgt op de vondst van een hennepkwekerij in beide panden. Gemeente Enkhuizen voert hiermee actief de Wet Damocles uit. Bij twee controles in de afgelopen zomermaanden trof…",
+      "doc_date": "2026-10-05",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-05T14:28:41+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|c3f00e30c1dbd3bafdd00889955d842c2eb8d284d65173ee48535051b7dfc140|Burgemeester sluit twee bedrijfspanden na aantreffen hennepkwekerij|Burgemeester Hoekstra-Sikkema van Enkhuizen heeft in september besloten om twee verschillende bedrijfspanden op bedrijventerrein Schepenwijk voor een aantal maanden te sluiten. Dit besluit volgt op de vondst van een hennepkwekerij in beide panden. Gemeente Enkhuizen voert hiermee actief de Wet Damocles uit. Bij twee controles in de afgelopen zomermaanden trof…",
+      "missing_count": 0,
+      "text_hash": "c3f00e30c1dbd3bafdd00889955d842c2eb8d284d65173ee48535051b7dfc140",
+      "content_checked": "2026-11-21T08:11:05+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:11:05+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Parkeergebieden voor betaald parkeren vastgesteld",
+            "20 november 2026",
+            "Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten"
+          ],
+          "removed": [
+            "Gezocht: stembureauleden en stemmentellers",
+            "5 november 2026",
+            "Groot feest tijdens de Sinterklaasintocht in Enkhuizen"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "f75117bcf6376447a40efb1e4590791da78da53231909a07e96fc51444fb4025": {
+      "title": "Koninklijke onderscheiding voor molenaar Freek Kalf tijdens 50-jarig jubileum",
+      "url": "https://www.drechterland.nl/actueel/koninklijke-onderscheiding-voor-molenaar-freek-kalf-tijdens-50-jarig-jubileum",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-21T08:10:40+00:00",
+      "last_change": "2026-11-21T08:10:40+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Een feestelijke én bijzondere mijlpaal voor de Stofmolen in Wijdenes. Tijdens de viering van zijn 50-jarig jubileum als molenaar ontving Freek Kalf een Koninklijke Onderscheiding als blijk van waardering voor zijn uitzonderlijke inzet voor het behoud van de historische Stofmolen en het West-Friese erfgoed. Burgemeester Diepstraten spelde hem de versierselen…",
+      "doc_date": "2026-10-05",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-05T10:02:40+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|e0fa854fb3f1de40b3bfc19c5d8994daf79e317913f14038323c92056dc93e52|Koninklijke onderscheiding voor molenaar Freek Kalf tijdens 50-jarig jubileum|Een feestelijke én bijzondere mijlpaal voor de Stofmolen in Wijdenes. Tijdens de viering van zijn 50-jarig jubileum als molenaar ontving Freek Kalf een Koninklijke Onderscheiding als blijk van waardering voor zijn uitzonderlijke inzet voor het behoud van de historische Stofmolen en het West-Friese erfgoed. Burgemeester Diepstraten spelde hem de versierselen…",
+      "missing_count": 0,
+      "text_hash": "e0fa854fb3f1de40b3bfc19c5d8994daf79e317913f14038323c92056dc93e52",
+      "content_checked": "2026-11-21T08:10:40+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:10:40+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Beheer voormalige vuilstort Westwoud overgedragen",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "4098d270d88f6ef927a23af75776877788d97da5f5cbc280a0a520f9e8a36dd7": {
+      "title": "Free Your Mindz",
+      "url": "https://www.drechterland.nl/actueel/free-your-mintz",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-21T08:10:38+00:00",
+      "last_change": "2026-11-21T08:10:38+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Ben je bezig met school, studie, werk of de vraag wat je later wilt doen? En wil je meer inzicht krijgen in jezelf, meer zelfvertrouwen opbouwen of beter leren omgaan met druk en verwachtingen? Dan is Free Your Mindz misschien iets voor jou. Gratis programma voor jongeren en jongvolwassenen: ontdek…",
+      "doc_date": "2026-10-05",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-05T10:46:42+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|c9fc72e8ddf44aa114cdd3fa192b6370105aae2949fa37cf2145a753a1ef5a9d|Free Your Mindz|Ben je bezig met school, studie, werk of de vraag wat je later wilt doen? En wil je meer inzicht krijgen in jezelf, meer zelfvertrouwen opbouwen of beter leren omgaan met druk en verwachtingen? Dan is Free Your Mindz misschien iets voor jou. Gratis programma voor jongeren en jongvolwassenen: ontdek…",
+      "missing_count": 0,
+      "text_hash": "c9fc72e8ddf44aa114cdd3fa192b6370105aae2949fa37cf2145a753a1ef5a9d",
+      "content_checked": "2026-11-21T08:10:38+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:10:38+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Beheer voormalige vuilstort Westwoud overgedragen",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "76aa254ca0932d0f6f32cd74a3a772ef79e13d925482d8f44c2188e95c04b2cf": {
+      "title": "Nieuwe duofiets voor bewoners van het Thomashuis",
+      "url": "https://www.drechterland.nl/actueel/nieuwe-duofiets-voor-bewoners-van-het-thomashuis",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-21T08:10:37+00:00",
+      "last_change": "2026-11-21T08:10:37+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Bewoners van het Thomashuis in Drechterland kunnen weer samen op pad met een nieuwe duofiets met aanhanger. Het Thomashuis is een woonvoorziening voor mensen met een verstandelijke beperking. De gemeente heeft de fiets beschikbaar gesteld als vervanging van de oude fiets. Met de fiets kan een begeleider samen met drie…",
+      "doc_date": "2026-10-05",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-05T14:38:28+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|a3f076e28948f3294abbe305122571154c4b5e3e5abf72c4b894cac3caa9af22|Nieuwe duofiets voor bewoners van het Thomashuis|Bewoners van het Thomashuis in Drechterland kunnen weer samen op pad met een nieuwe duofiets met aanhanger. Het Thomashuis is een woonvoorziening voor mensen met een verstandelijke beperking. De gemeente heeft de fiets beschikbaar gesteld als vervanging van de oude fiets. Met de fiets kan een begeleider samen met drie…",
+      "missing_count": 0,
+      "text_hash": "a3f076e28948f3294abbe305122571154c4b5e3e5abf72c4b894cac3caa9af22",
+      "content_checked": "2026-11-21T08:10:37+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:10:37+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Beheer voormalige vuilstort Westwoud overgedragen",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "99f518f784cfc25e73fd619ac6d102484c9ed889b7a213774808074723023166": {
+      "title": "Feestelijke opening vernieuwde atletiekbaan én aftrap 75-jarig SAV",
+      "url": "https://www.stedebroec.nl/actueel/feestelijke-opening-vernieuwde-atletiekbaan-en-aftrap-75-jarig-sav",
+      "source": "Nieuws",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-17T17:53:04+00:00",
+      "updated": "2026-11-21T08:10:35+00:00",
+      "last_change": "2026-11-21T08:10:35+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Op vrijdagavond 2 oktober stond Grootebroek volledig in het teken van sport, sfeer en feest! Na een intensieve renovatie is de vernieuwde atletiekbaan van SAV (Streker Atletiek Vereniging) en SSV (Streker Survivalrun Vereniging) klaar voor gebruik. Dit heuglijke feit werd groots gevierd met een officiële opening door wethouder Anton Wildoer,…",
+      "doc_date": "2026-10-06",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-06T15:05:33+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|d8a582d1d99484ccade7b59ed847bda7a91073f3c42b844d1b690a2000439c16|Feestelijke opening vernieuwde atletiekbaan én aftrap 75-jarig SAV|Op vrijdagavond 2 oktober stond Grootebroek volledig in het teken van sport, sfeer en feest! Na een intensieve renovatie is de vernieuwde atletiekbaan van SAV (Streker Atletiek Vereniging) en SSV (Streker Survivalrun Vereniging) klaar voor gebruik. Dit heuglijke feit werd groots gevierd met een officiële opening door wethouder Anton Wildoer,…",
+      "missing_count": 0,
+      "text_hash": "d8a582d1d99484ccade7b59ed847bda7a91073f3c42b844d1b690a2000439c16",
+      "content_checked": "2026-11-21T08:10:35+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:10:35+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Werkzaamheden Broekerhavenweg in Bovenkarspel",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "3aaa23e96818c3be6514bbb878a5f8c1751c0f2af1b063695c4813452cc253bd": {
+      "title": "Danspaleis voor ouderen",
+      "url": "https://www.enkhuizen.nl/actueel/danspaleis-voor-ouderen",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-21T08:10:09+00:00",
+      "last_change": "2026-11-21T08:10:09+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Afgelopen zondag was het feest voor senioren die van samen dansen houden. Zeventig ouderen gingen de dansvloer op tijdens het Danspaleis in de Bonte Veer. Wat vonden de dansers er zelf van? We hoorden: gezelligheid!, een dagje afleiding, verbinding door de muziek, nieuwe contacten leggen, dansen en bewegen. En: ergens…",
+      "doc_date": "2026-10-06",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-06T14:38:35+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|455edfc2ca1f7b172cfe194e8b4d4ffec84c62d1c617cfa2fc72ac0de23f23d7|Danspaleis voor ouderen|Afgelopen zondag was het feest voor senioren die van samen dansen houden. Zeventig ouderen gingen de dansvloer op tijdens het Danspaleis in de Bonte Veer. Wat vonden de dansers er zelf van? We hoorden: gezelligheid!, een dagje afleiding, verbinding door de muziek, nieuwe contacten leggen, dansen en bewegen. En: ergens…",
+      "missing_count": 0,
+      "text_hash": "455edfc2ca1f7b172cfe194e8b4d4ffec84c62d1c617cfa2fc72ac0de23f23d7",
+      "content_checked": "2026-11-21T08:10:09+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:10:09+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Parkeergebieden voor betaald parkeren vastgesteld",
+            "20 november 2026",
+            "Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten"
+          ],
+          "removed": [
+            "Gezocht: stembureauleden en stemmentellers",
+            "5 november 2026",
+            "Groot feest tijdens de Sinterklaasintocht in Enkhuizen"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "70238a8ca06c3e26387b26fb0d33ee7088857ab765c3c19993653b82b8de6236": {
+      "title": "Basisschool Pancratius ontbeet samen met de burgemeester",
+      "url": "https://www.enkhuizen.nl/actueel/basisschool-pancratius-ontbeet-samen-met-de-burgemeester",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-21T08:10:08+00:00",
+      "last_change": "2026-11-21T08:10:08+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Het belang van een goed en gezond ontbijt staat hoog op de maatschappelijke agenda. Om het belang van een gezond ontbijt te benadrukken heeft de burgemeester van Enkhuizen op 6 oktober samen met de kinderen van basisschool Pancratius ontbeten. Het is namelijk een feit dat veel kinderen niet, niet altijd…",
+      "doc_date": "2026-10-06",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-06T15:35:10+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|3d24bb672afe260312ab929fc5d9aee6158d57bfd662c3cc9dc7dd2a6836e02a|Basisschool Pancratius ontbeet samen met de burgemeester|Het belang van een goed en gezond ontbijt staat hoog op de maatschappelijke agenda. Om het belang van een gezond ontbijt te benadrukken heeft de burgemeester van Enkhuizen op 6 oktober samen met de kinderen van basisschool Pancratius ontbeten. Het is namelijk een feit dat veel kinderen niet, niet altijd…",
+      "missing_count": 0,
+      "text_hash": "3d24bb672afe260312ab929fc5d9aee6158d57bfd662c3cc9dc7dd2a6836e02a",
+      "content_checked": "2026-11-21T08:10:08+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:10:08+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Parkeergebieden voor betaald parkeren vastgesteld",
+            "20 november 2026",
+            "Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten"
+          ],
+          "removed": [
+            "Gezocht: stembureauleden en stemmentellers",
+            "5 november 2026",
+            "Groot feest tijdens de Sinterklaasintocht in Enkhuizen"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "9821f84f01fff00ec7bbc0a0d88af4f74cee30350a3f0224dc7e7ec8ae34e81a": {
+      "title": "Winnaar plantenpakket Tegeltaxi bekend",
+      "url": "https://www.stedebroec.nl/actueel/winnaar-plantenpakket-tegeltaxi-bekend",
+      "source": "Nieuws",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-17T17:53:04+00:00",
+      "updated": "2026-11-21T08:10:06+00:00",
+      "last_change": "2026-11-21T08:10:06+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Een groenere tuin begint met een gewipte tegel: mevrouw Vanessa Hakof uit Bovenkarspel is de gelukkige winnaar van het plantenpakket dat de gemeenten Stede Broec, Enkhuizen en Drechterland verlootten, onder deelnemers van de Tegeltaxi, tijdens het NK Tegelwippen. Wethouder Thijs Visser overhandigde haar het plantenpakket op maandag 5 oktober. Het…",
+      "doc_date": "2026-10-07",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-07T09:30:39+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|6c2adc7b701c1e806cd901c5973d0a6cc26c627e1f79be33da43214402df374d|Winnaar plantenpakket Tegeltaxi bekend|Een groenere tuin begint met een gewipte tegel: mevrouw Vanessa Hakof uit Bovenkarspel is de gelukkige winnaar van het plantenpakket dat de gemeenten Stede Broec, Enkhuizen en Drechterland verlootten, onder deelnemers van de Tegeltaxi, tijdens het NK Tegelwippen. Wethouder Thijs Visser overhandigde haar het plantenpakket op maandag 5 oktober. Het…",
+      "missing_count": 0,
+      "text_hash": "6c2adc7b701c1e806cd901c5973d0a6cc26c627e1f79be33da43214402df374d",
+      "content_checked": "2026-11-21T08:10:06+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:10:06+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Werkzaamheden Broekerhavenweg in Bovenkarspel",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "e96d8ad7bcee5575dd87f2510be164807f508b5047b75764825891e5ebdd97c7": {
+      "title": "Winnaar plantenpakket Tegeltaxi bekend",
+      "url": "https://www.enkhuizen.nl/actueel/winnaar-plantenpakket-tegeltaxi-bekend",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-21T08:10:04+00:00",
+      "last_change": "2026-11-21T08:10:04+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Een groenere tuin begint met een gewipte tegel: mevrouw Vanessa Hakof uit Bovenkarspel is de gelukkige winnaar van het plantenpakket dat de gemeenten Stede Broec, Enkhuizen en Drechterland verlootten, onder deelnemers van de Tegeltaxi, tijdens het NK Tegelwippen. Wethouder Thijs Visser overhandigde haar het plantenpakket op maandag 5 oktober. Het…",
+      "doc_date": "2026-10-07",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-07T09:30:39+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|319ecde959062c35822615125943344b38dea6d06aedf21ca76e63a6dc36aefc|Winnaar plantenpakket Tegeltaxi bekend|Een groenere tuin begint met een gewipte tegel: mevrouw Vanessa Hakof uit Bovenkarspel is de gelukkige winnaar van het plantenpakket dat de gemeenten Stede Broec, Enkhuizen en Drechterland verlootten, onder deelnemers van de Tegeltaxi, tijdens het NK Tegelwippen. Wethouder Thijs Visser overhandigde haar het plantenpakket op maandag 5 oktober. Het…",
+      "missing_count": 0,
+      "text_hash": "319ecde959062c35822615125943344b38dea6d06aedf21ca76e63a6dc36aefc",
+      "content_checked": "2026-11-21T08:10:04+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:10:04+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Parkeergebieden voor betaald parkeren vastgesteld",
+            "20 november 2026",
+            "Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten"
+          ],
+          "removed": [
+            "Gezocht: stembureauleden en stemmentellers",
+            "5 november 2026",
+            "Groot feest tijdens de Sinterklaasintocht in Enkhuizen"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "c17687b4022501638e6b1d0c83c71b328b2dbac164a145f3d2c1a834d89797b3": {
+      "title": "Winnaar plantenpakket Tegeltaxi bekend",
+      "url": "https://www.drechterland.nl/actueel/winnaar-plantenpakket-tegeltaxi-bekend",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-21T08:10:01+00:00",
+      "last_change": "2026-11-21T08:10:01+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Een groenere tuin begint met een gewipte tegel: mevrouw Vanessa Hakof uit Bovenkarspel is de gelukkige winnaar van het plantenpakket dat de gemeenten Stede Broec, Enkhuizen en Drechterland verlootten, onder deelnemers van de Tegeltaxi, tijdens het NK Tegelwippen. Wethouder Thijs Visser overhandigde haar het plantenpakket op maandag 5 oktober. Het…",
+      "doc_date": "2026-10-07",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-07T09:30:39+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|5d93a1a3883e8c42c132e1c8041a81d2cc32c565ee52e60e1ee7cb90764e055f|Winnaar plantenpakket Tegeltaxi bekend|Een groenere tuin begint met een gewipte tegel: mevrouw Vanessa Hakof uit Bovenkarspel is de gelukkige winnaar van het plantenpakket dat de gemeenten Stede Broec, Enkhuizen en Drechterland verlootten, onder deelnemers van de Tegeltaxi, tijdens het NK Tegelwippen. Wethouder Thijs Visser overhandigde haar het plantenpakket op maandag 5 oktober. Het…",
+      "missing_count": 0,
+      "text_hash": "5d93a1a3883e8c42c132e1c8041a81d2cc32c565ee52e60e1ee7cb90764e055f",
+      "content_checked": "2026-11-21T08:10:01+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:10:01+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Beheer voormalige vuilstort Westwoud overgedragen",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "6c490e3c1d32b4c44d65c4bd85029986e6fc2356db9a4a29811b62876d74ede4": {
+      "title": "Expositie over femicide",
+      "url": "https://www.drechterland.nl/actueel/expositie-over-femicide",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-21T08:09:59+00:00",
+      "last_change": "2026-11-21T08:09:59+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Vanaf 22 september is de reizende buitenexpositie FEMICIDE drie weken lang te zien op het Raadhuisplein in Hoogkarspel, naast het gemeentehuis. De expositie vertelt de verhalen van vrouwen die slachtoffer werden van dodelijk partnergeweld. Ook laat de tentoonstelling zien welke signalen kunnen wijzen op ernstig en gevaarlijk relationeel geweld. Gemeente…",
+      "doc_date": "2026-10-07",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-07T10:29:40+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|e3566649d76a40162182ce89b03816ae460c7c6d64d07f62c4c29e815f830a17|Expositie over femicide|Vanaf 22 september is de reizende buitenexpositie FEMICIDE drie weken lang te zien op het Raadhuisplein in Hoogkarspel, naast het gemeentehuis. De expositie vertelt de verhalen van vrouwen die slachtoffer werden van dodelijk partnergeweld. Ook laat de tentoonstelling zien welke signalen kunnen wijzen op ernstig en gevaarlijk relationeel geweld. Gemeente…",
+      "missing_count": 0,
+      "text_hash": "e3566649d76a40162182ce89b03816ae460c7c6d64d07f62c4c29e815f830a17",
+      "content_checked": "2026-11-21T08:09:59+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:09:59+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Beheer voormalige vuilstort Westwoud overgedragen",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "bf8760d6d6192f9c00c5cda4b81c9b156475ea398703c4720b6e581fa8bd6bb1": {
+      "title": "Nieuwe fase in woningbouwproject Molenhof in Oosterblokker",
+      "url": "https://www.drechterland.nl/actueel/nieuwe-fase-in-woningbouwproject-molenhof-in-oosterblokker",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-21T08:09:58+00:00",
+      "last_change": "2026-11-21T08:09:58+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "De onthulling van het bouwbord voor het nieuwe woonbuurtje Molenhof in Oosterblokker luidt de start van een nieuwe fase in. In november start de verkoop. Ondertussen wordt de grond voorbelast ter voorbereiding op het bouwrijp maken van de locatie aan de Noorderdracht en Bangert in Oosterblokker. De aanleg van kabels…",
+      "doc_date": "2026-10-07",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-07T10:53:27+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|c69a00fd93cb73b367020cb7ea83eefd1092215a3debac3c528e80a9228a34f8|Nieuwe fase in woningbouwproject Molenhof in Oosterblokker|De onthulling van het bouwbord voor het nieuwe woonbuurtje Molenhof in Oosterblokker luidt de start van een nieuwe fase in. In november start de verkoop. Ondertussen wordt de grond voorbelast ter voorbereiding op het bouwrijp maken van de locatie aan de Noorderdracht en Bangert in Oosterblokker. De aanleg van kabels…",
+      "missing_count": 0,
+      "text_hash": "c69a00fd93cb73b367020cb7ea83eefd1092215a3debac3c528e80a9228a34f8",
+      "content_checked": "2026-11-21T08:09:58+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:09:58+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Beheer voormalige vuilstort Westwoud overgedragen",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "284bca75aec90fc88637d7ba95e7bbd34e112b4ff5c3763e5629e0bb684371fd": {
+      "title": "Stede Broec maakt werk van hergebruik bij sloopprojecten",
+      "url": "https://www.stedebroec.nl/actueel/stede-broec-maakt-werk-van-hergebruik-bij-sloopprojecten",
+      "source": "Nieuws",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-17T17:53:04+00:00",
+      "updated": "2026-11-21T08:09:56+00:00",
+      "last_change": "2026-11-21T08:09:56+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Gemeente Stede Broec heeft op 7 oktober fase 2 van de Circulaire Deal Secundaire Bouwmaterialen ondertekend. Daarmee kiest de gemeente ervoor om bij eigen sloopprojecten vooraf te kijken welke materialen behouden kunnen blijven en hoe die opnieuw kunnen worden gebruikt. Niet slopen om afval af te voeren, maar materialen oogsten…",
+      "doc_date": "2026-10-08",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-08T15:00:38+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|7852287ec9ed15bf3fd022a7d11f95ca7ac20d6042932f0aef87d29139b6ffce|Stede Broec maakt werk van hergebruik bij sloopprojecten|Gemeente Stede Broec heeft op 7 oktober fase 2 van de Circulaire Deal Secundaire Bouwmaterialen ondertekend. Daarmee kiest de gemeente ervoor om bij eigen sloopprojecten vooraf te kijken welke materialen behouden kunnen blijven en hoe die opnieuw kunnen worden gebruikt. Niet slopen om afval af te voeren, maar materialen oogsten…",
+      "missing_count": 0,
+      "text_hash": "7852287ec9ed15bf3fd022a7d11f95ca7ac20d6042932f0aef87d29139b6ffce",
+      "content_checked": "2026-11-21T08:09:56+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:09:56+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Werkzaamheden Broekerhavenweg in Bovenkarspel",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "6edb2400b835d5085414a072f8164b83013b23d999211456befa19c2e017ddd5": {
+      "title": "Enkhuizen zet volgende stap in circulair slopen en bouwen",
+      "url": "https://www.enkhuizen.nl/actueel/enkhuizen-zet-volgende-stap-in-circulair-slopen-en-bouwen",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-21T08:09:55+00:00",
+      "last_change": "2026-11-21T08:09:55+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Gemeente Enkhuizen heeft op 7 oktober fase 2 van de Circulaire Deal Secundaire Bouwmaterialen ondertekend. Daarmee kiest de gemeente ervoor om bij eigen sloopprojecten vooraf beter in beeld te brengen welke materialen behouden kunnen blijven en hoe die opnieuw kunnen worden gebruikt. Niet slopen om materialen af te voeren, maar…",
+      "doc_date": "2026-10-08",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-08T15:01:57+00:00",
+      "last_seen": "2026-11-21",
+      "kw_sig": "4f53cda18c2b|30edf59085800bab2381d69459906c95e794be301439334d027bda30eeb81646|Enkhuizen zet volgende stap in circulair slopen en bouwen|Gemeente Enkhuizen heeft op 7 oktober fase 2 van de Circulaire Deal Secundaire Bouwmaterialen ondertekend. Daarmee kiest de gemeente ervoor om bij eigen sloopprojecten vooraf beter in beeld te brengen welke materialen behouden kunnen blijven en hoe die opnieuw kunnen worden gebruikt. Niet slopen om materialen af te voeren, maar…",
+      "missing_count": 0,
+      "text_hash": "30edf59085800bab2381d69459906c95e794be301439334d027bda30eeb81646",
+      "content_checked": "2026-11-21T08:09:55+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:09:55+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Parkeergebieden voor betaald parkeren vastgesteld",
+            "20 november 2026",
+            "Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten"
+          ],
+          "removed": [
+            "Gezocht: stembureauleden en stemmentellers",
+            "5 november 2026",
+            "Groot feest tijdens de Sinterklaasintocht in Enkhuizen"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "ac74bf490457a119b38346cc2e7e29e952e7c35095e2c3e8581d3538b4a165e0": {
+      "title": "Hart van Nederland - Late Editie: Persoon gewond na aanrijding met auto in Bovenkarspel",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVEY2YmxXeTE3N3VZeElnWGVrZUNEaUIwRjVTeGtVaWpMU0pPSHV2M20tWnBWc1pXeDRRS3YtRkJwUmxiOW9vcVg4YUUzNXRWQmZmbkNEV1dzRjgzLVVSaGhfc1I5MFdGb3pUYl9GODMweXZ2MWQ5NFVYRmF2QldrYm5n?oc=5",
+      "source": "In de media",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-21T08:08:46+00:00",
+      "updated": "2026-11-21T08:08:46+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "KIJK",
+      "media_match": "kop",
+      "last_seen": "2026-11-21",
+      "doc_date": "2026-11-18",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-18T13:34+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Hart van Nederland - Late Editie: Persoon gewond na aanrijding met auto in Bovenkarspel|"
+    },
     "8de34d046c63dadf6214cd751015c9e39c5d0468bae16bd6f304132b5db99a80": {
       "title": "Drechterland maakt hergebruik onderdeel van sloopaanpak",
       "url": "https://www.drechterland.nl/actueel/drechterland-maakt-hergebruik-onderdeel-van-sloopaanpak",
@@ -39605,7 +40321,7 @@
       "kind": "vergadering",
       "doc_date": "2026-10-01",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "kw_sig": "4f53cda18c2b||Themabijeenkomst 1 oktober 2026 20:00|"
     },
     "784578fe4109605022607846e0475255c1cc6b89e2805ca04a58f336809cfd2c": {
@@ -48893,7 +49609,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 10 november 2026 16:00",
       "agendapunt": "7 Begroting 2027 en meerjarenraming 2028-2030",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Raadsvoorstel",
       "missing_count": 0,
       "text_hash": "89ca2bedd80da5b4776e67a3b96f3606d3d64fb7e89a1f7d813fada973ac5015",
@@ -48924,7 +49640,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 10 november 2026 16:00",
       "agendapunt": "7 Begroting 2027 en meerjarenraming 2028-2030",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Raadsbesluit",
       "missing_count": 0,
       "text_hash": "83c2862b6a3be769fe8db5b3d6bdbb2b9bf029ee027cfe9c7c9fbb8bf8f25e23",
@@ -48955,7 +49671,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 10 november 2026 16:00",
       "agendapunt": "7 Begroting 2027 en meerjarenraming 2028-2030",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Bijlage",
       "missing_count": 0,
       "text_hash": "ce1046c36ea3a2d413c5d9d38cb554629b3f314fe468ddef1c337649a2a87698",
@@ -48986,7 +49702,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 10 november 2026 16:00",
       "agendapunt": "7 Begroting 2027 en meerjarenraming 2028-2030",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Raadsstukken",
       "missing_count": 0,
       "text_hash": "a30d30c4bb3fe37a26eeb329ba2c640b11936ea9b78715b98a95615eb0b1922b",
@@ -49017,7 +49733,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 10 november 2026 16:00",
       "agendapunt": "7 Begroting 2027 en meerjarenraming 2028-2030",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Amendement",
       "missing_count": 0,
       "text_hash": "7908e21c51d5ffdbde2fec1e8d5c142f880d85e8a90bf5f71ed9a12b2bebb724",
@@ -49048,7 +49764,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 10 november 2026 16:00",
       "agendapunt": "7 Begroting 2027 en meerjarenraming 2028-2030",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Motie",
       "missing_count": 0,
       "text_hash": "2fcd9ec3978d411991b69d60654f31d748c75595a1520c4070bf2d2977cdf6fe",
@@ -49079,7 +49795,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 10 november 2026 16:00",
       "agendapunt": "7 Begroting 2027 en meerjarenraming 2028-2030",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Motie",
       "missing_count": 0,
       "text_hash": "f859ec512e56956d4f8f1fa1417fc3a256d6a38581055f1ff6a56958a65f5fd4",
@@ -49100,7 +49816,7 @@
       "kind": "vergadering",
       "doc_date": "2026-11-10",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "kw_sig": "4f53cda18c2b||Raadsvergadering 10 november 2026 16:00|"
     },
     "314d7e855af0735e371cc12ab6a05f2f102e076f28dcaecc33f905ef6a4cecad": {
@@ -49117,7 +49833,7 @@
       "kind": "vergadering",
       "doc_date": "2026-10-06",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "kw_sig": "4f53cda18c2b||Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00|"
     },
     "2ce65ee2b43cdd3dbab7dbb9a9280927f61ba855811431c9f404c68a0002bb37": {
@@ -52008,166 +52724,6 @@
       "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-02-27",
       "kw_sig": "4f53cda18c2b||Verleende evenementenvergunning Bakkie Paasborrel, 4 april 2026|Officiele bekendmaking; publicatiedatum (KOOP): 2026-02-27"
     },
-    "bf8760d6d6192f9c00c5cda4b81c9b156475ea398703c4720b6e581fa8bd6bb1": {
-      "title": "Nieuwe fase in woningbouwproject Molenhof in Oosterblokker",
-      "url": "https://www.drechterland.nl/actueel/nieuwe-fase-in-woningbouwproject-molenhof-in-oosterblokker",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-17T17:53:55+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "De onthulling van het bouwbord voor het nieuwe woonbuurtje Molenhof in Oosterblokker luidt de start van een nieuwe fase in. In november start de verkoop. Ondertussen wordt de grond voorbelast ter voorbereiding op het bouwrijp maken van de locatie aan de Noorderdracht en Bangert in Oosterblokker. De aanleg van kabels…",
-      "doc_date": "2026-10-07",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-07T10:53:27+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|0c7ee77d58de9f0c297d77b3720e5122e98bbecb51b946b5c79b9d5ad1bfbd99|Nieuwe fase in woningbouwproject Molenhof in Oosterblokker|De onthulling van het bouwbord voor het nieuwe woonbuurtje Molenhof in Oosterblokker luidt de start van een nieuwe fase in. In november start de verkoop. Ondertussen wordt de grond voorbelast ter voorbereiding op het bouwrijp maken van de locatie aan de Noorderdracht en Bangert in Oosterblokker. De aanleg van kabels…",
-      "missing_count": 0,
-      "text_hash": "0c7ee77d58de9f0c297d77b3720e5122e98bbecb51b946b5c79b9d5ad1bfbd99",
-      "content_checked": "2026-11-18T17:31:13+00:00"
-    },
-    "6c490e3c1d32b4c44d65c4bd85029986e6fc2356db9a4a29811b62876d74ede4": {
-      "title": "Expositie over femicide",
-      "url": "https://www.drechterland.nl/actueel/expositie-over-femicide",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-17T17:53:55+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Vanaf 22 september is de reizende buitenexpositie FEMICIDE drie weken lang te zien op het Raadhuisplein in Hoogkarspel, naast het gemeentehuis. De expositie vertelt de verhalen van vrouwen die slachtoffer werden van dodelijk partnergeweld. Ook laat de tentoonstelling zien welke signalen kunnen wijzen op ernstig en gevaarlijk relationeel geweld. Gemeente…",
-      "doc_date": "2026-10-07",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-07T10:29:40+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|75b7b22a825f549df1fd54ea0376f529f8c5e71aaf36f4fe96280bfc3b340c59|Expositie over femicide|Vanaf 22 september is de reizende buitenexpositie FEMICIDE drie weken lang te zien op het Raadhuisplein in Hoogkarspel, naast het gemeentehuis. De expositie vertelt de verhalen van vrouwen die slachtoffer werden van dodelijk partnergeweld. Ook laat de tentoonstelling zien welke signalen kunnen wijzen op ernstig en gevaarlijk relationeel geweld. Gemeente…",
-      "missing_count": 0,
-      "text_hash": "75b7b22a825f549df1fd54ea0376f529f8c5e71aaf36f4fe96280bfc3b340c59",
-      "content_checked": "2026-11-18T17:31:15+00:00"
-    },
-    "c17687b4022501638e6b1d0c83c71b328b2dbac164a145f3d2c1a834d89797b3": {
-      "title": "Winnaar plantenpakket Tegeltaxi bekend",
-      "url": "https://www.drechterland.nl/actueel/winnaar-plantenpakket-tegeltaxi-bekend",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-17T17:53:55+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Een groenere tuin begint met een gewipte tegel: mevrouw Vanessa Hakof uit Bovenkarspel is de gelukkige winnaar van het plantenpakket dat de gemeenten Stede Broec, Enkhuizen en Drechterland verlootten, onder deelnemers van de Tegeltaxi, tijdens het NK Tegelwippen. Wethouder Thijs Visser overhandigde haar het plantenpakket op maandag 5 oktober. Het…",
-      "doc_date": "2026-10-07",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-07T09:30:39+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|2c77ff19d781b52d856a52fbdf4391940b871b43b4bd5ad247c91f7feb072daf|Winnaar plantenpakket Tegeltaxi bekend|Een groenere tuin begint met een gewipte tegel: mevrouw Vanessa Hakof uit Bovenkarspel is de gelukkige winnaar van het plantenpakket dat de gemeenten Stede Broec, Enkhuizen en Drechterland verlootten, onder deelnemers van de Tegeltaxi, tijdens het NK Tegelwippen. Wethouder Thijs Visser overhandigde haar het plantenpakket op maandag 5 oktober. Het…",
-      "missing_count": 0,
-      "text_hash": "2c77ff19d781b52d856a52fbdf4391940b871b43b4bd5ad247c91f7feb072daf",
-      "content_checked": "2026-11-18T17:31:17+00:00"
-    },
-    "76aa254ca0932d0f6f32cd74a3a772ef79e13d925482d8f44c2188e95c04b2cf": {
-      "title": "Nieuwe duofiets voor bewoners van het Thomashuis",
-      "url": "https://www.drechterland.nl/actueel/nieuwe-duofiets-voor-bewoners-van-het-thomashuis",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-17T17:53:55+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Bewoners van het Thomashuis in Drechterland kunnen weer samen op pad met een nieuwe duofiets met aanhanger. Het Thomashuis is een woonvoorziening voor mensen met een verstandelijke beperking. De gemeente heeft de fiets beschikbaar gesteld als vervanging van de oude fiets. Met de fiets kan een begeleider samen met drie…",
-      "doc_date": "2026-10-05",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-05T14:38:28+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|bf9b6f1cde91e72b74ea86d8170b69c3d93b61d7ac1c599e0a0b4ed87d4849c7|Nieuwe duofiets voor bewoners van het Thomashuis|Bewoners van het Thomashuis in Drechterland kunnen weer samen op pad met een nieuwe duofiets met aanhanger. Het Thomashuis is een woonvoorziening voor mensen met een verstandelijke beperking. De gemeente heeft de fiets beschikbaar gesteld als vervanging van de oude fiets. Met de fiets kan een begeleider samen met drie…",
-      "missing_count": 0,
-      "text_hash": "bf9b6f1cde91e72b74ea86d8170b69c3d93b61d7ac1c599e0a0b4ed87d4849c7",
-      "content_checked": "2026-11-18T23:32:27+00:00"
-    },
-    "4098d270d88f6ef927a23af75776877788d97da5f5cbc280a0a520f9e8a36dd7": {
-      "title": "Free Your Mindz",
-      "url": "https://www.drechterland.nl/actueel/free-your-mintz",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-17T17:53:55+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Ben je bezig met school, studie, werk of de vraag wat je later wilt doen? En wil je meer inzicht krijgen in jezelf, meer zelfvertrouwen opbouwen of beter leren omgaan met druk en verwachtingen? Dan is Free Your Mindz misschien iets voor jou. Gratis programma voor jongeren en jongvolwassenen: ontdek…",
-      "doc_date": "2026-10-05",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-05T10:46:42+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|e2f521e2a721f36e00d9e8cb9d1dbc699fb2bf750fc41bcc3092ffce4750780d|Free Your Mindz|Ben je bezig met school, studie, werk of de vraag wat je later wilt doen? En wil je meer inzicht krijgen in jezelf, meer zelfvertrouwen opbouwen of beter leren omgaan met druk en verwachtingen? Dan is Free Your Mindz misschien iets voor jou. Gratis programma voor jongeren en jongvolwassenen: ontdek…",
-      "missing_count": 0,
-      "text_hash": "e2f521e2a721f36e00d9e8cb9d1dbc699fb2bf750fc41bcc3092ffce4750780d",
-      "content_checked": "2026-11-18T23:32:28+00:00"
-    },
-    "f75117bcf6376447a40efb1e4590791da78da53231909a07e96fc51444fb4025": {
-      "title": "Koninklijke onderscheiding voor molenaar Freek Kalf tijdens 50-jarig jubileum",
-      "url": "https://www.drechterland.nl/actueel/koninklijke-onderscheiding-voor-molenaar-freek-kalf-tijdens-50-jarig-jubileum",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-17T17:53:55+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Een feestelijke én bijzondere mijlpaal voor de Stofmolen in Wijdenes. Tijdens de viering van zijn 50-jarig jubileum als molenaar ontving Freek Kalf een Koninklijke Onderscheiding als blijk van waardering voor zijn uitzonderlijke inzet voor het behoud van de historische Stofmolen en het West-Friese erfgoed. Burgemeester Diepstraten spelde hem de versierselen…",
-      "doc_date": "2026-10-05",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-05T10:02:40+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|842a13e6ac99abe38e901a54303a84e7233cc646ce54fe1b0e467ae131bbd171|Koninklijke onderscheiding voor molenaar Freek Kalf tijdens 50-jarig jubileum|Een feestelijke én bijzondere mijlpaal voor de Stofmolen in Wijdenes. Tijdens de viering van zijn 50-jarig jubileum als molenaar ontving Freek Kalf een Koninklijke Onderscheiding als blijk van waardering voor zijn uitzonderlijke inzet voor het behoud van de historische Stofmolen en het West-Friese erfgoed. Burgemeester Diepstraten spelde hem de versierselen…",
-      "missing_count": 0,
-      "text_hash": "842a13e6ac99abe38e901a54303a84e7233cc646ce54fe1b0e467ae131bbd171",
-      "content_checked": "2026-11-18T23:32:30+00:00"
-    },
-    "3c2c24b9a19b9636c9af116ba84145ccb6ff65f5d1327c026c65f71be23648cc": {
-      "title": "Uitnodiging feestelijke opening MFA Schellinkhout",
-      "url": "https://www.drechterland.nl/actueel/uitnodiging-feestelijke-opening-mfa-schellinkhout",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-17T17:53:55+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Eindelijk is het zover! Na een lang, intensief en zorgvuldig traject is vanaf de start van het schooljaar 2026/2027 de Multifunctionele Accommodatie (MFA) Schellinkhout in gebruik genomen. De MFA biedt onderdak aan basisschool Jan Luyken, Kinderopvang Berend Botje en Dorpshuis De Dregt. Sportend Schellinkhout kan voortaan gebruik maken van een geheel…",
-      "doc_date": "2026-09-30",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-09-30T13:13:07+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|91755cb7a47ea7c828ac09f2ad223a6984e568207041c8ee280fb1b878d74877|Uitnodiging feestelijke opening MFA Schellinkhout|Eindelijk is het zover! Na een lang, intensief en zorgvuldig traject is vanaf de start van het schooljaar 2026/2027 de Multifunctionele Accommodatie (MFA) Schellinkhout in gebruik genomen. De MFA biedt onderdak aan basisschool Jan Luyken, Kinderopvang Berend Botje en Dorpshuis De Dregt. Sportend Schellinkhout kan voortaan gebruik maken van een geheel…",
-      "missing_count": 0,
-      "text_hash": "91755cb7a47ea7c828ac09f2ad223a6984e568207041c8ee280fb1b878d74877",
-      "content_checked": "2026-11-18T23:32:58+00:00"
-    },
-    "47ac03ab5d189a3a462f095eeb0649d619f12a452fbb6746c13580ea14b7df9b": {
-      "title": "Wijziging papierinzameling in een deel van Venhuizen",
-      "url": "https://www.drechterland.nl/actueel/wijziging-papierinzameling-in-een-deel-van-venhuizen",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-17T17:53:55+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Per 10 oktober 2026 verandert de inzameling van oud papier en karton voor een deel van de inwoners van Venhuizen. Papier en karton worden voortaan op een andere dag en één keer per vier weken ingezameld. Ook komen er vaste aanbiedplaatsen in de buurt. De betrokken huishoudens hebben hierover een…",
-      "doc_date": "2026-09-30",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-09-30T10:19:17+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|f9cfd0eac11cda85b322ee2466eb233f733b9ce83ef04e747fed6cbf543a8509|Wijziging papierinzameling in een deel van Venhuizen|Per 10 oktober 2026 verandert de inzameling van oud papier en karton voor een deel van de inwoners van Venhuizen. Papier en karton worden voortaan op een andere dag en één keer per vier weken ingezameld. Ook komen er vaste aanbiedplaatsen in de buurt. De betrokken huishoudens hebben hierover een…",
-      "missing_count": 0,
-      "text_hash": "f9cfd0eac11cda85b322ee2466eb233f733b9ce83ef04e747fed6cbf543a8509",
-      "content_checked": "2026-11-18T23:32:59+00:00"
-    },
     "4fa97b03ba0fa49ca3c556e2216bf5c2aa063588f36bf5cf47a73c8df9bbb2e3": {
       "title": "Bekendmaking definitieve volgordelijst voor prioriteit transportcapaciteit woningbouw- en onderwijshuisvestingsprojecten",
       "url": "https://www.drechterland.nl/actueel/bekendmaking-definitieve-volgordelijst-voor-prioriteit-transportcapaciteit-woningbouw-en-onderwijshuisvestingsprojecten-3",
@@ -53067,7 +53623,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "2 Vragenkwartiertje",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 2 Vragenkwartiertje · Overige bijlagen",
       "kw_sig": "4f53cda18c2b|8561190f3f63402da4d98507bbacc9a021d1c3dce72eaec0d585739a41e5f6c2|Vragenkwartier 26 oktober 2026 (definitief)|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 2 Vragenkwartiertje · Overige bijlagen",
       "missing_count": 0,
@@ -53098,7 +53654,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "2 Vragenkwartiertje",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 2 Vragenkwartiertje · Overige bijlagen",
       "kw_sig": "4f53cda18c2b||Screentshot 1|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 2 Vragenkwartiertje · Overige bijlagen",
       "missing_count": 0,
@@ -53129,7 +53685,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "2 Vragenkwartiertje",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 2 Vragenkwartiertje · Overige bijlagen",
       "kw_sig": "4f53cda18c2b||Screenshot2|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 2 Vragenkwartiertje · Overige bijlagen",
       "missing_count": 0,
@@ -53160,7 +53716,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "3 Vaststelling besluitenlijst van de openbare raadsvergadering van 21 september 2026",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 3 Vaststelling besluitenlijst van de openbare raadsvergadering van 21 september 2026 · Besluitenlijst",
       "kw_sig": "4f53cda18c2b|d79568ae2173182d8d35b1bba3d3f19c684e8184220056964f3280c6b3af414b|Besluitenlijst openbare raadsvergadering 21 september 2026|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 3 Vaststelling besluitenlijst van de openbare raadsvergadering van 21 september 2026 · Besluitenlijst",
       "missing_count": 0,
@@ -53191,7 +53747,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "4 Vaststelling besluitenlijst Rondetafelgesprekken van 5 oktober 2026",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 4 Vaststelling besluitenlijst Rondetafelgesprekken van 5 oktober 2026 · Besluitenlijst",
       "kw_sig": "4f53cda18c2b|11920958bed5ff605a509d340849ca6c84bf53697a4699983a49b0dc7a936de6|Besluitenlijst Cluster 1 RTG 5 oktober 2026|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 4 Vaststelling besluitenlijst Rondetafelgesprekken van 5 oktober 2026 · Besluitenlijst",
       "missing_count": 0,
@@ -53222,7 +53778,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Raadsvoorstel",
       "kw_sig": "4f53cda18c2b|a290790e785b4c4247b15e82329a2b34679626d2a439a0727940482e82bd7e8e|Raadsvoorstel JGZ-huisvesting GGD HN Drechterland (2026-39)|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Raadsvoorstel",
       "missing_count": 0,
@@ -53253,7 +53809,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Raadsbesluit",
       "kw_sig": "4f53cda18c2b|607a6af45cbeef87c64cd283293596c316c233cd4c6ae8637a03a30d5fa3010c|Raadsbesluit Herhuisvesting GGD-locaties Drechterland (2026-39)|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Raadsbesluit",
       "missing_count": 0,
@@ -53284,7 +53840,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "kw_sig": "4f53cda18c2b|6b17c53c9a40c1798e01a5ccb9f77df55e7b84d6ceeda4e92faec943bf59b306|2. Advies Adviesraad Samenleving Drechterland|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "missing_count": 0,
@@ -53315,7 +53871,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "kw_sig": "4f53cda18c2b|3ad5fc706bcf67e745b84e17b06d11f757fa06d2384856d7a02ecd4c05fa8b66|3. Reactie op Advies van de Adviesraad Samenleving Drechterland|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "missing_count": 0,
@@ -53346,7 +53902,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "kw_sig": "4f53cda18c2b|a0dc050624b934642a4128e6d977a94439ce64c3f0763811ef451ecffd14ff52|4. Rapport peiling inwoners herhuisvesting Drechterland|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "missing_count": 0,
@@ -53377,7 +53933,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "kw_sig": "4f53cda18c2b|0da84baaa10fdc855b7f6043d3abc30b3fb45913c6b44fe7b324476105f9c7ef|5. Programma van Eisen (PvE) GGD HN|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "missing_count": 0,
@@ -53408,7 +53964,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "kw_sig": "4f53cda18c2b|bb86055d149959855f1e41d5617101db397d51f0db671f6aea990684423eb548|6. Memo GGD HN JGZ-Huivesting Vastgoed|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "missing_count": 0,
@@ -53439,7 +53995,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "kw_sig": "4f53cda18c2b|6ebd4197814a833ad57c89939f19735f8534ba4e1740d28301a8cd0cd1ee1c03|7. 20260420 JGZ relatieschema|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "missing_count": 0,
@@ -53470,7 +54026,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "kw_sig": "4f53cda18c2b|7429237133be365b2dd6542124930e2fede45fe62a30453839a032573e48990f|8. Strategisch vastgoedplan|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "missing_count": 0,
@@ -53502,7 +54058,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Amendement",
       "kw_sig": "4f53cda18c2b||Amendement CDA - behoud JGZ binnen Drechterland (VERWORPEN)|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Amendement",
       "missing_count": 0,
@@ -53534,7 +54090,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Amendement",
       "kw_sig": "4f53cda18c2b||Amendement VVD PDL SPD - JGZ locaties (AANGENOMEN)|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Amendement",
       "missing_count": 0,
@@ -53566,7 +54122,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Motie",
       "kw_sig": "4f53cda18c2b||Motie VVD PDL SPD - JGZ locaties (AANGENOMEN)|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Motie",
       "missing_count": 0,
@@ -53598,7 +54154,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Motie",
       "kw_sig": "4f53cda18c2b||Motie GBD - JGZ locaties (VERWORPEN)|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Motie",
       "missing_count": 0,
@@ -53630,7 +54186,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "6 Moties vreemd aan de orde: motie Stikstof",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 6 Moties vreemd aan de orde: motie Stikstof · Motie",
       "kw_sig": "4f53cda18c2b|61c9d247381a0b82adf2fce3e594ba6b0694220a1dd4b33386647aaa4d8b6a72|Definitieve motie Stikstof (INGETROKKEN)|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 6 Moties vreemd aan de orde: motie Stikstof · Motie",
       "missing_count": 0,
@@ -53661,7 +54217,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "6 Moties vreemd aan de orde: motie Stikstof",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 6 Moties vreemd aan de orde: motie Stikstof · Brief",
       "kw_sig": "4f53cda18c2b|1d638e9ecdf7e6796881d4735717f973ab81aa9502fca425ad0d72e85f2dbd1e|Brf_CDA_Landelijke stikstofaanpak ruimte voor landbouw en natuur|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 6 Moties vreemd aan de orde: motie Stikstof · Brief",
       "missing_count": 0,
@@ -53697,12 +54253,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Rondetafelgesprekken 5 oktober 2026 20:00",
       "agendapunt": "1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41)",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41) · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|af3e4a147a0db1ce19fcc7400aeacf8db92315e8da2a9c2071cb7d83b5e68a84|RV TAM-IMRO afwaardering bedrijventerrein de Wijzend (2026-41)|Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41) · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "af3e4a147a0db1ce19fcc7400aeacf8db92315e8da2a9c2071cb7d83b5e68a84",
-      "content_checked": "2026-11-18T23:32:31+00:00"
+      "content_checked": "2026-11-21T08:10:41+00:00"
     },
     "5bd5602b92505ff5e6b69e05f9404ec63a5906b8983398aeaf2060983ac4d1ff": {
       "title": "RB TAM-IMRO afwaardering bedrijventerrein de Wijzend (2026-41)",
@@ -53733,12 +54289,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Rondetafelgesprekken 5 oktober 2026 20:00",
       "agendapunt": "1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41)",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41) · Raadsbesluit · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|9dc0564211df04045daefdf60e954d4eddb54e72a3bddb1fcbcb7356d81fdf22|RB TAM-IMRO afwaardering bedrijventerrein de Wijzend (2026-41)|Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41) · Raadsbesluit · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "9dc0564211df04045daefdf60e954d4eddb54e72a3bddb1fcbcb7356d81fdf22",
-      "content_checked": "2026-11-18T23:32:32+00:00"
+      "content_checked": "2026-11-21T08:10:43+00:00"
     },
     "80f06d6d9dfff1788ca50e991d3036df4605241dd5d5f8991eba10b164b31b46": {
       "title": "B1 Plankaart TAM-IMRO Omgevingsplan De Wijzend",
@@ -53769,12 +54325,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Rondetafelgesprekken 5 oktober 2026 20:00",
       "agendapunt": "1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41)",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|96cb13b07b7d6671fd9bf09715f55de57f93cab3747f8787bcbb0d42acf23ef1|B1 Plankaart TAM-IMRO Omgevingsplan De Wijzend|Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "96cb13b07b7d6671fd9bf09715f55de57f93cab3747f8787bcbb0d42acf23ef1",
-      "content_checked": "2026-11-18T23:32:35+00:00"
+      "content_checked": "2026-11-21T08:10:45+00:00"
     },
     "be6119a157793aaab14a5f58979550bd6601687387dfea0432da5483f59d9f59": {
       "title": "B2 Toelichting-regels TAM-Omgevingsplan De Wijzend",
@@ -53805,12 +54361,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Rondetafelgesprekken 5 oktober 2026 20:00",
       "agendapunt": "1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41)",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|b188eb882e903e4f90842a4e5cd5d2bf83b3f62a1da2cffd12e04ba8c2bb63d4|B2 Toelichting-regels TAM-Omgevingsplan De Wijzend|Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "b188eb882e903e4f90842a4e5cd5d2bf83b3f62a1da2cffd12e04ba8c2bb63d4",
-      "content_checked": "2026-11-18T23:32:41+00:00"
+      "content_checked": "2026-11-21T08:10:51+00:00"
     },
     "0d1844ddf960db1e5c172fd47d872b95b6e5d28fcc9960617ffb3414f5ce0299": {
       "title": "B3 Publicatie TAM-IMRO Omgevingsplan De Wijzend",
@@ -53841,12 +54397,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Rondetafelgesprekken 5 oktober 2026 20:00",
       "agendapunt": "1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41)",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|0e6cd6a1407e97305fae0028c13d68adb635e0f270e08f7b1f29a5570401eeee|B3 Publicatie TAM-IMRO Omgevingsplan De Wijzend|Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "0e6cd6a1407e97305fae0028c13d68adb635e0f270e08f7b1f29a5570401eeee",
-      "content_checked": "2026-11-18T23:32:42+00:00"
+      "content_checked": "2026-11-21T08:10:52+00:00"
     },
     "6a140ff2f5dc4ae49c38eb416ab854e70c3b665f4dbc599acb0b323743ceec87": {
       "title": "B4 Nota van Beantwoording zienswijzen De Wijzend geanonimiseerd",
@@ -53877,12 +54433,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Rondetafelgesprekken 5 oktober 2026 20:00",
       "agendapunt": "1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41)",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|291d96d625ccd06e1f8375f60fe233f744865a791545cfdcdf413c265534a903|B4 Nota van Beantwoording zienswijzen De Wijzend geanonimiseerd|Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 1 Vaststelling TAM-IMRO Omgevingsplan afwaardering bedrijventerrein De Wijzend (2026-41) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "291d96d625ccd06e1f8375f60fe233f744865a791545cfdcdf413c265534a903",
-      "content_checked": "2026-11-18T23:32:43+00:00"
+      "content_checked": "2026-11-21T08:10:53+00:00"
     },
     "437b47fd89782fbc94c37087b17b2467282add2adbbc2a78fa68e7e7a756a230": {
       "title": "Raadsvoorstel vaststellen verordening Computerregeling Drechterland(2026-47)",
@@ -53913,12 +54469,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Rondetafelgesprekken 5 oktober 2026 20:00",
       "agendapunt": "2 Vaststellen verordening Computerregeling gemeente Drechterland (2026-47)",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 2 Vaststellen verordening Computerregeling gemeente Drechterland (2026-47) · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|21b606fecf204c6fd1d5ecef2ac82eb05d8781c8442415859bc7e79f9539e7c5|Raadsvoorstel vaststellen verordening Computerregeling Drechterland(2026-47)|Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 2 Vaststellen verordening Computerregeling gemeente Drechterland (2026-47) · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "21b606fecf204c6fd1d5ecef2ac82eb05d8781c8442415859bc7e79f9539e7c5",
-      "content_checked": "2026-11-18T23:32:44+00:00"
+      "content_checked": "2026-11-21T08:10:54+00:00"
     },
     "86db9ab48504430ffaee36fb6c31b52cb65c39caaca6f6946fc72b1d3be082d2": {
       "title": "Raadsbesluit vaststellen verordening Computerregeling Drechterland (2026-47)",
@@ -53949,12 +54505,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Rondetafelgesprekken 5 oktober 2026 20:00",
       "agendapunt": "2 Vaststellen verordening Computerregeling gemeente Drechterland (2026-47)",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 2 Vaststellen verordening Computerregeling gemeente Drechterland (2026-47) · Raadsbesluit · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|7097f482307f9153eaa59b3c5ceaa705113486babf21c9ebfd7cc8b08537d420|Raadsbesluit vaststellen verordening Computerregeling Drechterland (2026-47)|Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 2 Vaststellen verordening Computerregeling gemeente Drechterland (2026-47) · Raadsbesluit · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "7097f482307f9153eaa59b3c5ceaa705113486babf21c9ebfd7cc8b08537d420",
-      "content_checked": "2026-11-18T23:32:45+00:00"
+      "content_checked": "2026-11-21T08:10:55+00:00"
     },
     "f08b6f26eff7f52af7a1834dd3a32ed1279e2d2660e4231733a4b2a2bc09e20b": {
       "title": "DTL advies Adviesraad Samenleving computerregeling",
@@ -53985,12 +54541,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Rondetafelgesprekken 5 oktober 2026 20:00",
       "agendapunt": "2 Vaststellen verordening Computerregeling gemeente Drechterland (2026-47)",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 2 Vaststellen verordening Computerregeling gemeente Drechterland (2026-47) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|4d7b673681f8e981b07bcd75518c9153688a69bae1b86cde3e079b74ff3967fa|DTL advies Adviesraad Samenleving computerregeling|Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 2 Vaststellen verordening Computerregeling gemeente Drechterland (2026-47) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "4d7b673681f8e981b07bcd75518c9153688a69bae1b86cde3e079b74ff3967fa",
-      "content_checked": "2026-11-18T23:32:45+00:00"
+      "content_checked": "2026-11-21T08:10:56+00:00"
     },
     "8a85e2637a0eac84094e5b2d7aa80019717f4e92c0998c864172fbc324c7097c": {
       "title": "DTL Reactie op advies Adviesraad Samenleving",
@@ -54021,12 +54577,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Rondetafelgesprekken 5 oktober 2026 20:00",
       "agendapunt": "2 Vaststellen verordening Computerregeling gemeente Drechterland (2026-47)",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 2 Vaststellen verordening Computerregeling gemeente Drechterland (2026-47) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|73f2c822115e462b969e5042093fd86da72e68b77a619aa5239212c176972623|DTL Reactie op advies Adviesraad Samenleving|Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 2 Vaststellen verordening Computerregeling gemeente Drechterland (2026-47) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "73f2c822115e462b969e5042093fd86da72e68b77a619aa5239212c176972623",
-      "content_checked": "2026-11-18T23:32:46+00:00"
+      "content_checked": "2026-11-21T08:10:57+00:00"
     },
     "c824178f14e481e1f99c15bacbb8604f16dfef69b3d3cb2a6303eec6ba6c7598": {
       "title": "DTL Beleidsregel Computerregeling 2022 gemeente Drechterland",
@@ -54057,12 +54613,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Rondetafelgesprekken 5 oktober 2026 20:00",
       "agendapunt": "2 Vaststellen verordening Computerregeling gemeente Drechterland (2026-47)",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 2 Vaststellen verordening Computerregeling gemeente Drechterland (2026-47) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|764585dcf47590fd8ba6c252a7c598fb5371e89616d71de62f0868485a51e82d|DTL Beleidsregel Computerregeling 2022 gemeente Drechterland|Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 2 Vaststellen verordening Computerregeling gemeente Drechterland (2026-47) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "764585dcf47590fd8ba6c252a7c598fb5371e89616d71de62f0868485a51e82d",
-      "content_checked": "2026-11-18T23:32:47+00:00"
+      "content_checked": "2026-11-21T08:10:58+00:00"
     },
     "0f37217b0d286f92322a287460af31ebb1fb773f1cb144170acd90f68ad1db49": {
       "title": "RV Benoeming lid RvT Present (2026-46)",
@@ -54093,12 +54649,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Rondetafelgesprekken 5 oktober 2026 20:00",
       "agendapunt": "3 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present (2026-46)",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 3 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present (2026-46) · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|c96e58533e5a417729a847b2145f63c94a30c1402ec73236917142ec9697896e|RV Benoeming lid RvT Present (2026-46)|Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 3 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present (2026-46) · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "c96e58533e5a417729a847b2145f63c94a30c1402ec73236917142ec9697896e",
-      "content_checked": "2026-11-18T23:32:48+00:00"
+      "content_checked": "2026-11-21T08:10:59+00:00"
     },
     "abfa53fbd57d3a8b6b86995e3a915b5a1cdd10a1926dcce04c8cf2712d7660da": {
       "title": "RB Benoeming lid Rvt Present (2026-46)",
@@ -54129,12 +54685,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Rondetafelgesprekken 5 oktober 2026 20:00",
       "agendapunt": "3 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present (2026-46)",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 3 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present (2026-46) · Raadsbesluit · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|35973012e1a74c8fcc3a16c337d4e05dc47c12cbb650fe2026bc3bb973bee734|RB Benoeming lid Rvt Present (2026-46)|Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 3 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present (2026-46) · Raadsbesluit · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "35973012e1a74c8fcc3a16c337d4e05dc47c12cbb650fe2026bc3bb973bee734",
-      "content_checked": "2026-11-18T23:32:49+00:00"
+      "content_checked": "2026-11-21T08:11:01+00:00"
     },
     "5d71a2dc90cdf5730bca99710584997c85123a7100bca070536ec89e46c92a6a": {
       "title": "4.1 Voordracht benoeming lid RvT Present",
@@ -54165,12 +54721,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Rondetafelgesprekken 5 oktober 2026 20:00",
       "agendapunt": "3 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present (2026-46)",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 3 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present (2026-46) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b||4.1 Voordracht benoeming lid RvT Present|Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 3 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present (2026-46) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "file_hash": "5c456f2d2f7c8367d3435ef7100ea60a1ff29ea52d13386210b90ddbf27d102a",
-      "content_checked": "2026-11-18T23:32:50+00:00"
+      "content_checked": "2026-11-21T08:11:02+00:00"
     },
     "975b6301b60c6541d7fe569e17cf152dae582af36237690c2b6410d36732958d": {
       "title": "4.1 Profiel lid Raad van Toezicht Stichting Openbaar Onderwijs Present",
@@ -54201,12 +54757,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Rondetafelgesprekken 5 oktober 2026 20:00",
       "agendapunt": "3 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present (2026-46)",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 3 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present (2026-46) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|8221b46c62e0a394cc748a76b512916b1e7049f37cf0cbe5f9452c8edf6e69d4|4.1 Profiel lid Raad van Toezicht Stichting Openbaar Onderwijs Present|Rondetafelgesprekken 5 oktober 2026 20:00 · agendapunt 3 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present (2026-46) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "8221b46c62e0a394cc748a76b512916b1e7049f37cf0cbe5f9452c8edf6e69d4",
-      "content_checked": "2026-11-18T23:32:51+00:00"
+      "content_checked": "2026-11-21T08:11:03+00:00"
     },
     "d9b47c99b9bb5ea2a42c990bd97e7513b455eecf110daee460fc7677673f83ea": {
       "title": "Themabijeenkomst 1 oktober 2026 21:00",
@@ -54239,7 +54795,7 @@
       "kind": "vergadering",
       "doc_date": "2026-10-26",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "kw_sig": "4f53cda18c2b||Raadsvergadering 26 oktober 2026 20:00|"
     },
     "672e9bcb31a53ecdb1f54f8147dcd98131559ea64fc8b694aa6c49e85e8e0050": {
@@ -58006,126 +58562,6 @@
       "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-10-20",
       "kw_sig": "4f53cda18c2b||Evenementenvergunning Wintermakt Hoogkarspel 28 november 2026|Officiele bekendmaking; publicatiedatum (KOOP): 2026-10-20"
     },
-    "6edb2400b835d5085414a072f8164b83013b23d999211456befa19c2e017ddd5": {
-      "title": "Enkhuizen zet volgende stap in circulair slopen en bouwen",
-      "url": "https://www.enkhuizen.nl/actueel/enkhuizen-zet-volgende-stap-in-circulair-slopen-en-bouwen",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-17T17:53:30+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Gemeente Enkhuizen heeft op 7 oktober fase 2 van de Circulaire Deal Secundaire Bouwmaterialen ondertekend. Daarmee kiest de gemeente ervoor om bij eigen sloopprojecten vooraf beter in beeld te brengen welke materialen behouden kunnen blijven en hoe die opnieuw kunnen worden gebruikt. Niet slopen om materialen af te voeren, maar…",
-      "doc_date": "2026-10-08",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-08T15:01:57+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|1ec2dd485ebb7f52fe5faae002fe7d6a9e29ec248bb5b1e05fffd04d985c6ad4|Enkhuizen zet volgende stap in circulair slopen en bouwen|Gemeente Enkhuizen heeft op 7 oktober fase 2 van de Circulaire Deal Secundaire Bouwmaterialen ondertekend. Daarmee kiest de gemeente ervoor om bij eigen sloopprojecten vooraf beter in beeld te brengen welke materialen behouden kunnen blijven en hoe die opnieuw kunnen worden gebruikt. Niet slopen om materialen af te voeren, maar…",
-      "missing_count": 0,
-      "text_hash": "1ec2dd485ebb7f52fe5faae002fe7d6a9e29ec248bb5b1e05fffd04d985c6ad4",
-      "content_checked": "2026-11-18T17:31:10+00:00"
-    },
-    "e96d8ad7bcee5575dd87f2510be164807f508b5047b75764825891e5ebdd97c7": {
-      "title": "Winnaar plantenpakket Tegeltaxi bekend",
-      "url": "https://www.enkhuizen.nl/actueel/winnaar-plantenpakket-tegeltaxi-bekend",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-17T17:53:30+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Een groenere tuin begint met een gewipte tegel: mevrouw Vanessa Hakof uit Bovenkarspel is de gelukkige winnaar van het plantenpakket dat de gemeenten Stede Broec, Enkhuizen en Drechterland verlootten, onder deelnemers van de Tegeltaxi, tijdens het NK Tegelwippen. Wethouder Thijs Visser overhandigde haar het plantenpakket op maandag 5 oktober. Het…",
-      "doc_date": "2026-10-07",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-07T09:30:39+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|f99878d971f84fc9728925820918df5d273f7688345742dada5ca770712ca929|Winnaar plantenpakket Tegeltaxi bekend|Een groenere tuin begint met een gewipte tegel: mevrouw Vanessa Hakof uit Bovenkarspel is de gelukkige winnaar van het plantenpakket dat de gemeenten Stede Broec, Enkhuizen en Drechterland verlootten, onder deelnemers van de Tegeltaxi, tijdens het NK Tegelwippen. Wethouder Thijs Visser overhandigde haar het plantenpakket op maandag 5 oktober. Het…",
-      "missing_count": 0,
-      "text_hash": "f99878d971f84fc9728925820918df5d273f7688345742dada5ca770712ca929",
-      "content_checked": "2026-11-18T17:31:19+00:00"
-    },
-    "70238a8ca06c3e26387b26fb0d33ee7088857ab765c3c19993653b82b8de6236": {
-      "title": "Basisschool Pancratius ontbeet samen met de burgemeester",
-      "url": "https://www.enkhuizen.nl/actueel/basisschool-pancratius-ontbeet-samen-met-de-burgemeester",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-17T17:53:30+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Het belang van een goed en gezond ontbijt staat hoog op de maatschappelijke agenda. Om het belang van een gezond ontbijt te benadrukken heeft de burgemeester van Enkhuizen op 6 oktober samen met de kinderen van basisschool Pancratius ontbeten. Het is namelijk een feit dat veel kinderen niet, niet altijd…",
-      "doc_date": "2026-10-06",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-06T15:35:10+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|caca1567af4c0875e0b6d2ca1eb531a6c0d08b4147fd92053b68ab9b78b72c6a|Basisschool Pancratius ontbeet samen met de burgemeester|Het belang van een goed en gezond ontbijt staat hoog op de maatschappelijke agenda. Om het belang van een gezond ontbijt te benadrukken heeft de burgemeester van Enkhuizen op 6 oktober samen met de kinderen van basisschool Pancratius ontbeten. Het is namelijk een feit dat veel kinderen niet, niet altijd…",
-      "missing_count": 0,
-      "text_hash": "caca1567af4c0875e0b6d2ca1eb531a6c0d08b4147fd92053b68ab9b78b72c6a",
-      "content_checked": "2026-11-18T17:31:22+00:00"
-    },
-    "3aaa23e96818c3be6514bbb878a5f8c1751c0f2af1b063695c4813452cc253bd": {
-      "title": "Danspaleis voor ouderen",
-      "url": "https://www.enkhuizen.nl/actueel/danspaleis-voor-ouderen",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-17T17:53:30+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Afgelopen zondag was het feest voor senioren die van samen dansen houden. Zeventig ouderen gingen de dansvloer op tijdens het Danspaleis in de Bonte Veer. Wat vonden de dansers er zelf van? We hoorden: gezelligheid!, een dagje afleiding, verbinding door de muziek, nieuwe contacten leggen, dansen en bewegen. En: ergens…",
-      "doc_date": "2026-10-06",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-06T14:38:35+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|6bbf582ca60ab056303bd8384fb7cf8bbeb4b6f15f7c0221fef488ee2801f787|Danspaleis voor ouderen|Afgelopen zondag was het feest voor senioren die van samen dansen houden. Zeventig ouderen gingen de dansvloer op tijdens het Danspaleis in de Bonte Veer. Wat vonden de dansers er zelf van? We hoorden: gezelligheid!, een dagje afleiding, verbinding door de muziek, nieuwe contacten leggen, dansen en bewegen. En: ergens…",
-      "missing_count": 0,
-      "text_hash": "6bbf582ca60ab056303bd8384fb7cf8bbeb4b6f15f7c0221fef488ee2801f787",
-      "content_checked": "2026-11-18T17:31:24+00:00"
-    },
-    "b5d31a9fcec70fb7965b25bfb144707b998ac6660ab4b04415d210de81904690": {
-      "title": "Burgemeester sluit twee bedrijfspanden na aantreffen hennepkwekerij",
-      "url": "https://www.enkhuizen.nl/actueel/burgemeester-sluit-twee-bedrijfspanden-na-aantreffen-hennepkwekerij",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-17T17:53:30+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Burgemeester Hoekstra-Sikkema van Enkhuizen heeft in september besloten om twee verschillende bedrijfspanden op bedrijventerrein Schepenwijk voor een aantal maanden te sluiten. Dit besluit volgt op de vondst van een hennepkwekerij in beide panden. Gemeente Enkhuizen voert hiermee actief de Wet Damocles uit. Bij twee controles in de afgelopen zomermaanden trof…",
-      "doc_date": "2026-10-05",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-05T14:28:41+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|602883bd9b8791670624f48f2df26499d8df83ef796fbb7f82986b7e2ca450eb|Burgemeester sluit twee bedrijfspanden na aantreffen hennepkwekerij|Burgemeester Hoekstra-Sikkema van Enkhuizen heeft in september besloten om twee verschillende bedrijfspanden op bedrijventerrein Schepenwijk voor een aantal maanden te sluiten. Dit besluit volgt op de vondst van een hennepkwekerij in beide panden. Gemeente Enkhuizen voert hiermee actief de Wet Damocles uit. Bij twee controles in de afgelopen zomermaanden trof…",
-      "missing_count": 0,
-      "text_hash": "602883bd9b8791670624f48f2df26499d8df83ef796fbb7f82986b7e2ca450eb",
-      "content_checked": "2026-11-18T23:32:53+00:00"
-    },
-    "a154b1eca2e20c1289626ff020be7e49c6a067402e0e18d4801356f21e50b0e1": {
-      "title": "Free Your Mindz",
-      "url": "https://www.enkhuizen.nl/actueel/free-your-mintz",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-17T17:53:30+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Ben je bezig met school, studie, werk of de vraag wat je later wilt doen? En wil je meer inzicht krijgen in jezelf, meer zelfvertrouwen opbouwen of beter leren omgaan met druk en verwachtingen? Dan is Free Your Mindz misschien iets voor jou. Gratis programma voor jongeren en jongvolwassenen: ontdek…",
-      "doc_date": "2026-10-05",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-05T10:46:42+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|5126331e898512adcedcfbe6530bb64aabe0d5e7f106d4a998139db4b834ac70|Free Your Mindz|Ben je bezig met school, studie, werk of de vraag wat je later wilt doen? En wil je meer inzicht krijgen in jezelf, meer zelfvertrouwen opbouwen of beter leren omgaan met druk en verwachtingen? Dan is Free Your Mindz misschien iets voor jou. Gratis programma voor jongeren en jongvolwassenen: ontdek…",
-      "missing_count": 0,
-      "text_hash": "5126331e898512adcedcfbe6530bb64aabe0d5e7f106d4a998139db4b834ac70",
-      "content_checked": "2026-11-18T23:32:54+00:00"
-    },
     "ca96d95b8649c525f41102f4cde715e1d9c75890d9c67c9739f4ff9dd402e8f3": {
       "title": "Bekendmaking definitieve volgordelijst voor prioriteit transportcapaciteit woningbouw- en onderwijshuisvestingsprojecten",
       "url": "https://www.enkhuizen.nl/actueel/bekendmaking-definitieve-volgordelijst-voor-prioriteit-transportcapaciteit-woningbouw-en-onderwijshuisvestingsprojecten-2",
@@ -59157,7 +59593,7 @@
       "kind": "vergadering",
       "doc_date": "2026-10-27",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "kw_sig": "4f53cda18c2b||Raadsvergadering 27 oktober 2026 20:00|"
     },
     "081918731cd0e2ee86e7c06104717037940a5f9a4fb8ce59e5637db55b7e177f": {
@@ -59184,7 +59620,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "4 Vaststelling van de besluitenlijst gemeenteraad 22 september 2026",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 4 Vaststelling van de besluitenlijst gemeenteraad 22 september 2026 · Besluitenlijst",
       "kw_sig": "4f53cda18c2b|bfef49696c4bb14cb921f77700615fd6a05465c8bd07d6a8c5672a1fe88efe87|2026-09-22 Besluitenlijst raad|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 4 Vaststelling van de besluitenlijst gemeenteraad 22 september 2026 · Besluitenlijst",
       "missing_count": 0,
@@ -59215,7 +59651,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "5 Ingekomen stukken",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 5 Ingekomen stukken · Raadsbesluit",
       "kw_sig": "4f53cda18c2b|0ec76b4bba03bcfb0c0144fcedcdd01912f189992abea31ed4929cb1e2fbc0a8|Ingekomen stukken 27 oktober 2026 - raadsBESLUIT|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 5 Ingekomen stukken · Raadsbesluit",
       "missing_count": 0,
@@ -59251,12 +59687,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|1ed3167d7d750e74fb64b40c3039438e77873eb3119f70e4d8fab1a28b661f62|Woningbouwproject Stadskade Enkhuizen - raadsVOORSTEL.|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "1ed3167d7d750e74fb64b40c3039438e77873eb3119f70e4d8fab1a28b661f62",
-      "content_checked": "2026-11-18T17:31:25+00:00"
+      "content_checked": "2026-11-21T08:10:11+00:00"
     },
     "76daf138a5a2116f6404c65fdf1c40faaa6e8d61dbe204d74d516cee2a92483a": {
       "title": "Woningbouwproject Stadskade Enkhuizen - raadsBESLUIT",
@@ -59287,12 +59723,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Raadsbesluit · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|dbea06b4d08850254d4df2916087500dfbad99819dcde77866b4b4056571b482|Woningbouwproject Stadskade Enkhuizen - raadsBESLUIT|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Raadsbesluit · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "dbea06b4d08850254d4df2916087500dfbad99819dcde77866b4b4056571b482",
-      "content_checked": "2026-11-18T17:31:26+00:00"
+      "content_checked": "2026-11-21T08:10:12+00:00"
     },
     "ec23d42d2de5bafe19470cc79ec5c4e1b1d1b1213ae2fda183637afb929fbb20": {
       "title": "Bijlage 1 TAM-omgevingsplan Hfdst 22a - De Stadskade_vaststelling_3",
@@ -59323,12 +59759,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b||Bijlage 1 TAM-omgevingsplan Hfdst 22a - De Stadskade_vaststelling_3|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "file_hash": "groot|inline; filename=\"B01-TAM-omgevingsplan-Hfdst-22a-De-Stadskade-vaststelling-3.pdf\"|1a2ec941218a2de5a0fc36928fc20dc8a938ac7cd3c04080d51379a2d2ea0a48",
-      "content_checked": "2026-11-18T17:31:28+00:00"
+      "content_checked": "2026-11-21T08:10:15+00:00"
     },
     "4e25c1517c3614e6610a048426ed237ced4a0eb9b05c23f04ec28df510e80141": {
       "title": "Bijlage 2 Zienswijzennota",
@@ -59359,12 +59795,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|fc42f0ba1fb393c919e87d34c89d1eee4a99d2cb2c115749fd64316252c692ca|Bijlage 2 Zienswijzennota|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "fc42f0ba1fb393c919e87d34c89d1eee4a99d2cb2c115749fd64316252c692ca",
-      "content_checked": "2026-11-18T17:31:29+00:00"
+      "content_checked": "2026-11-21T08:10:16+00:00"
     },
     "56ebe60785ab4876c0b42cf512ccc6f76b434172928b9d735bb2ed3918febf39": {
       "title": "Bijlage 3 ambtshalve correcties tov ontwerp",
@@ -59395,12 +59831,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|16f23d14251f3948b2c1d49c4a04032c07cff6ea2c45d920e54c0acf5f4d7bd3|Bijlage 3 ambtshalve correcties tov ontwerp|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "16f23d14251f3948b2c1d49c4a04032c07cff6ea2c45d920e54c0acf5f4d7bd3",
-      "content_checked": "2026-11-18T17:31:30+00:00"
+      "content_checked": "2026-11-21T08:10:17+00:00"
     },
     "aa90f97c6b881044b41629ae0507eee832af784541ba9120450463f28a70158b": {
       "title": "Bijlage 4 Participatierapport",
@@ -59431,12 +59867,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|ab9b64ce7a043a01efe1740bc687fa906890d2aebf21a3546812d78dce880cdd|Bijlage 4 Participatierapport|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "ab9b64ce7a043a01efe1740bc687fa906890d2aebf21a3546812d78dce880cdd",
-      "content_checked": "2026-11-18T17:31:33+00:00"
+      "content_checked": "2026-11-21T08:10:20+00:00"
     },
     "2b0665873c6bf320d943315d6da50f85341a64bb6d54fb4ab885498eadf7ca4a": {
       "title": "Bijlage 5 Bezonningsstudie",
@@ -59467,12 +59903,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|e73386d246d6ecb92b628a3ca4bf58b77099109d9c3c5b957dc9d35bee8435d2|Bijlage 5 Bezonningsstudie|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "e73386d246d6ecb92b628a3ca4bf58b77099109d9c3c5b957dc9d35bee8435d2",
-      "content_checked": "2026-11-18T17:31:37+00:00"
+      "content_checked": "2026-11-21T08:10:24+00:00"
     },
     "4a3d6c1f07a96416217c330ce133366a324cd93928920d3be5b4f38b96f3cfa5": {
       "title": "2026-10-26 Amendement SP - Stadskade",
@@ -59498,7 +59934,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "9 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 9 Woningbouwproject Stadskade · Amendement",
       "kw_sig": "4f53cda18c2b|c2316148580c0f0de6023a21295cbde60ac246cdc82d9ff241c4474589903f82|2026-10-26 Amendement SP - Stadskade|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 9 Woningbouwproject Stadskade · Amendement",
       "missing_count": 0,
@@ -59529,7 +59965,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsvoorstel",
       "kw_sig": "4f53cda18c2b|1358387867857b55c61a963384bdb533cd4516254baf6097a0d373d7a19dbbb3|Benoeming lid RvT Present - raadsVOORSTEL|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsvoorstel",
       "missing_count": 0,
@@ -59560,7 +59996,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsbesluit",
       "kw_sig": "4f53cda18c2b|acea2bf04cd8b1b86da4224d87e4fd0e80f1e296a4aff7b35740cc9bd7b6b40c|Benoeming lid RvT Present - raadsBESLUIT|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsbesluit",
       "missing_count": 0,
@@ -59591,7 +60027,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsstukken",
       "kw_sig": "4f53cda18c2b||Bijlage 1 Voordracht benoeming lid RvT Present|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsstukken",
       "missing_count": 0,
@@ -59622,7 +60058,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsstukken",
       "kw_sig": "4f53cda18c2b|8221b46c62e0a394cc748a76b512916b1e7049f37cf0cbe5f9452c8edf6e69d4|Bijlage 2 Profiel lid Raad van Toezicht Stichting Openbaar Onderwijs Present|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsstukken",
       "missing_count": 0,
@@ -59658,12 +60094,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "7 Financiële verordening",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|ec8896aeb22fa05750855d3ea9c289866d5352684b68ef22545dbb5045157821|Financiële verordening gemeente Enkhuizen 2026 - raadsVOORSTEL|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "ec8896aeb22fa05750855d3ea9c289866d5352684b68ef22545dbb5045157821",
-      "content_checked": "2026-11-18T17:31:38+00:00"
+      "content_checked": "2026-11-21T08:10:25+00:00"
     },
     "1655951e24940ce5757ba53325f95a8dbd516b58fbf53e02bf41632ab6468edd": {
       "title": "Financiële verordening gemeente Enkhuizen 2026 - raadsBESLUIT",
@@ -59694,12 +60130,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "7 Financiële verordening",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Raadsbesluit · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|a171b7b19d81c7a6617d0b9fb8254fbb934f5bd97b79c978b02daa1147cb8065|Financiële verordening gemeente Enkhuizen 2026 - raadsBESLUIT|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Raadsbesluit · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "a171b7b19d81c7a6617d0b9fb8254fbb934f5bd97b79c978b02daa1147cb8065",
-      "content_checked": "2026-11-18T17:31:38+00:00"
+      "content_checked": "2026-11-21T08:10:26+00:00"
     },
     "b45943ec63bcf0a5a0b45a4299dfb2d01247642a1c6085ffcec571172787cae8": {
       "title": "Bijlage 1 Financiële verordening gemeente Enkhuizen 2026",
@@ -59730,12 +60166,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "7 Financiële verordening",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|61327ec31410fe2c1c0f6f23ad6960d0c669bced027efb108534ba81c310485c|Bijlage 1 Financiële verordening gemeente Enkhuizen 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "61327ec31410fe2c1c0f6f23ad6960d0c669bced027efb108534ba81c310485c",
-      "content_checked": "2026-11-18T17:31:39+00:00"
+      "content_checked": "2026-11-21T08:10:27+00:00"
     },
     "8c470c31e3a0c683b4c7b2c77b5cfd747a14012cf1fda82531cb8339df030267": {
       "title": "Raadsvoorstel activabeleid 2026",
@@ -59766,12 +60202,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|e4726185d6d02b8c38680ccc5076b20b4ad77d39162c03be3d00ff4e7098727d|Raadsvoorstel activabeleid 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "e4726185d6d02b8c38680ccc5076b20b4ad77d39162c03be3d00ff4e7098727d",
-      "content_checked": "2026-11-18T17:31:40+00:00"
+      "content_checked": "2026-11-21T08:10:28+00:00"
     },
     "ad6bd73f4a57e7b339a825f1d5dbebdc6a832979b245e2f8ed06a24e27f50051": {
       "title": "Raadsbesluit Activabeleid 2026",
@@ -59802,12 +60238,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsbesluit · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|973cc8d2234f1e3f29cf82f1b366f873ec7e5744a7a7d3d670db9ca9682a5ead|Raadsbesluit Activabeleid 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsbesluit · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "973cc8d2234f1e3f29cf82f1b366f873ec7e5744a7a7d3d670db9ca9682a5ead",
-      "content_checked": "2026-11-18T17:31:41+00:00"
+      "content_checked": "2026-11-21T08:10:29+00:00"
     },
     "533ce9982648447d8d982a128e010d76780b4d42ef2e8ec0ba6ac00aed39ed8c": {
       "title": "Bijlage 1 Nota Activabeleid 2026 Enkhuizen",
@@ -59838,12 +60274,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|d544483898937ef80aebf5f0928dc19db736c6b204f65a6359228bdb9c77d386|Bijlage 1 Nota Activabeleid 2026 Enkhuizen|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "d544483898937ef80aebf5f0928dc19db736c6b204f65a6359228bdb9c77d386",
-      "content_checked": "2026-11-18T17:31:42+00:00"
+      "content_checked": "2026-11-21T08:10:31+00:00"
     },
     "c2338d0d946a3c39fa7a5d6f6ecb0c105476e76f696aebe84367cecf5e4de88e": {
       "title": "Bijlage 2 bij Activanota 2026",
@@ -59874,12 +60310,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|022b14b0620ab1909c40d776ceac83609ccb37f2901f4521b88e7fbce1f7b0b2|Bijlage 2 bij Activanota 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "022b14b0620ab1909c40d776ceac83609ccb37f2901f4521b88e7fbce1f7b0b2",
-      "content_checked": "2026-11-18T17:31:43+00:00"
+      "content_checked": "2026-11-21T08:10:32+00:00"
     },
     "8fa25111f72fca55d2e1e477d73569b4b568f28f4289c21cf5f000f88666a019": {
       "title": "Addendum activabeleid 2026 voor commissie en raadsvergadering 2026",
@@ -59910,12 +60346,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsstukken · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|224716fba0ebbceb9565d8458bda09e24786135edf4857c9dd1b537c45c71906|Addendum activabeleid 2026 voor commissie en raadsvergadering 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsstukken · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "224716fba0ebbceb9565d8458bda09e24786135edf4857c9dd1b537c45c71906",
-      "content_checked": "2026-11-18T17:31:44+00:00"
+      "content_checked": "2026-11-21T08:10:33+00:00"
     },
     "05dc46fc09262c958834e7d1d82c452a4ec4b9af6e81107cdecdb191b2eadaa4": {
       "title": "Addendum Bijlage 2 bij Activanota 2026",
@@ -59946,12 +60382,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsstukken · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|a91a312860405a320322ed30725e1c1ac4199f5a4e5d60796e5f14f2e7c1fe79|Addendum Bijlage 2 bij Activanota 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsstukken · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "a91a312860405a320322ed30725e1c1ac4199f5a4e5d60796e5f14f2e7c1fe79",
-      "content_checked": "2026-11-18T17:31:44+00:00"
+      "content_checked": "2026-11-21T08:10:34+00:00"
     },
     "23f21a21ea1daa165506f6033bebdcf58bbc95c4c3ee527b7f18f213eb74b4d9": {
       "title": "2026-10-26 Motie Vreemd HEA - Herplanting bomen op de Vestingwal",
@@ -59977,7 +60413,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "13 Motie vreemd aan de orde van de dag",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "kw_sig": "4f53cda18c2b|2b401d16069a5e274bb963803ef9c50fee6fdb87bed0593d944e52620b0d042a|2026-10-26 Motie Vreemd HEA - Herplanting bomen op de Vestingwal|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "missing_count": 0,
@@ -60008,7 +60444,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "13 Motie vreemd aan de orde van de dag",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "kw_sig": "4f53cda18c2b|93c86ed0f9e4daed5bc165565b1627cc9c9742c0fa0fb7a5d1112d3daa7347cc|2026-10-26 Motie Vreemd SP - De toog geen parkeervergunning|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "missing_count": 0,
@@ -60039,7 +60475,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "13 Motie vreemd aan de orde van de dag",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "kw_sig": "4f53cda18c2b|90e9d8407f3b1a6b388047805bfffc60bc812d2b6540312ce7154e6fd685271b|2026-10-27 Motie Vreemd SGP - Standpuntbepaling cao-inzet functiewaardering griffie|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "missing_count": 0,
@@ -65195,106 +65631,6 @@
       "plaats": "Enkhuizen",
       "kw_sig": "4f53cda18c2b||Kennisgeving besluit op aanvraag, Westeinde 62, 1601BK Enkhuizen|Betreft: Beschikking op aanvraag op locatie Westeinde 62, 1601BK Enkhuizen"
     },
-    "284bca75aec90fc88637d7ba95e7bbd34e112b4ff5c3763e5629e0bb684371fd": {
-      "title": "Stede Broec maakt werk van hergebruik bij sloopprojecten",
-      "url": "https://www.stedebroec.nl/actueel/stede-broec-maakt-werk-van-hergebruik-bij-sloopprojecten",
-      "source": "Nieuws",
-      "gemeente": "stedebroec",
-      "first_seen": "2026-11-17T17:53:04+00:00",
-      "updated": "2026-11-17T17:53:04+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Gemeente Stede Broec heeft op 7 oktober fase 2 van de Circulaire Deal Secundaire Bouwmaterialen ondertekend. Daarmee kiest de gemeente ervoor om bij eigen sloopprojecten vooraf te kijken welke materialen behouden kunnen blijven en hoe die opnieuw kunnen worden gebruikt. Niet slopen om afval af te voeren, maar materialen oogsten…",
-      "doc_date": "2026-10-08",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-08T15:00:38+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|c052c741a7c62fa292ce80e04251973ec0fcbd3d9314cfd8dd3d4eaabe2b975f|Stede Broec maakt werk van hergebruik bij sloopprojecten|Gemeente Stede Broec heeft op 7 oktober fase 2 van de Circulaire Deal Secundaire Bouwmaterialen ondertekend. Daarmee kiest de gemeente ervoor om bij eigen sloopprojecten vooraf te kijken welke materialen behouden kunnen blijven en hoe die opnieuw kunnen worden gebruikt. Niet slopen om afval af te voeren, maar materialen oogsten…",
-      "missing_count": 0,
-      "text_hash": "c052c741a7c62fa292ce80e04251973ec0fcbd3d9314cfd8dd3d4eaabe2b975f",
-      "content_checked": "2026-11-18T17:31:12+00:00"
-    },
-    "9821f84f01fff00ec7bbc0a0d88af4f74cee30350a3f0224dc7e7ec8ae34e81a": {
-      "title": "Winnaar plantenpakket Tegeltaxi bekend",
-      "url": "https://www.stedebroec.nl/actueel/winnaar-plantenpakket-tegeltaxi-bekend",
-      "source": "Nieuws",
-      "gemeente": "stedebroec",
-      "first_seen": "2026-11-17T17:53:04+00:00",
-      "updated": "2026-11-17T17:53:04+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Een groenere tuin begint met een gewipte tegel: mevrouw Vanessa Hakof uit Bovenkarspel is de gelukkige winnaar van het plantenpakket dat de gemeenten Stede Broec, Enkhuizen en Drechterland verlootten, onder deelnemers van de Tegeltaxi, tijdens het NK Tegelwippen. Wethouder Thijs Visser overhandigde haar het plantenpakket op maandag 5 oktober. Het…",
-      "doc_date": "2026-10-07",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-07T09:30:39+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|afd5347eada1d11f17b85a7f24a79d6b3f4d1be2e0a4a038792c2e71159f96aa|Winnaar plantenpakket Tegeltaxi bekend|Een groenere tuin begint met een gewipte tegel: mevrouw Vanessa Hakof uit Bovenkarspel is de gelukkige winnaar van het plantenpakket dat de gemeenten Stede Broec, Enkhuizen en Drechterland verlootten, onder deelnemers van de Tegeltaxi, tijdens het NK Tegelwippen. Wethouder Thijs Visser overhandigde haar het plantenpakket op maandag 5 oktober. Het…",
-      "missing_count": 0,
-      "text_hash": "afd5347eada1d11f17b85a7f24a79d6b3f4d1be2e0a4a038792c2e71159f96aa",
-      "content_checked": "2026-11-18T17:31:20+00:00"
-    },
-    "99f518f784cfc25e73fd619ac6d102484c9ed889b7a213774808074723023166": {
-      "title": "Feestelijke opening vernieuwde atletiekbaan én aftrap 75-jarig SAV",
-      "url": "https://www.stedebroec.nl/actueel/feestelijke-opening-vernieuwde-atletiekbaan-en-aftrap-75-jarig-sav",
-      "source": "Nieuws",
-      "gemeente": "stedebroec",
-      "first_seen": "2026-11-17T17:53:04+00:00",
-      "updated": "2026-11-17T17:53:04+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Op vrijdagavond 2 oktober stond Grootebroek volledig in het teken van sport, sfeer en feest! Na een intensieve renovatie is de vernieuwde atletiekbaan van SAV (Streker Atletiek Vereniging) en SSV (Streker Survivalrun Vereniging) klaar voor gebruik. Dit heuglijke feit werd groots gevierd met een officiële opening door wethouder Anton Wildoer,…",
-      "doc_date": "2026-10-06",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-06T15:05:33+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|2863e888c46cae81ebdb5da74c595df158f08580ae8611654ac5ba8805f7ae87|Feestelijke opening vernieuwde atletiekbaan én aftrap 75-jarig SAV|Op vrijdagavond 2 oktober stond Grootebroek volledig in het teken van sport, sfeer en feest! Na een intensieve renovatie is de vernieuwde atletiekbaan van SAV (Streker Atletiek Vereniging) en SSV (Streker Survivalrun Vereniging) klaar voor gebruik. Dit heuglijke feit werd groots gevierd met een officiële opening door wethouder Anton Wildoer,…",
-      "missing_count": 0,
-      "text_hash": "2863e888c46cae81ebdb5da74c595df158f08580ae8611654ac5ba8805f7ae87",
-      "content_checked": "2026-11-18T23:32:25+00:00"
-    },
-    "12e0c7168117f1354f84c703e402c68653597f8affc16294be3f03257f5e92b1": {
-      "title": "Free Your Mindz",
-      "url": "https://www.stedebroec.nl/actueel/free-your-mintz",
-      "source": "Nieuws",
-      "gemeente": "stedebroec",
-      "first_seen": "2026-11-17T17:53:04+00:00",
-      "updated": "2026-11-17T17:53:04+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Ben je bezig met school, studie, werk of de vraag wat je later wilt doen? En wil je meer inzicht krijgen in jezelf, meer zelfvertrouwen opbouwen of beter leren omgaan met druk en verwachtingen? Dan is Free Your Mindz misschien iets voor jou. Gratis programma voor jongeren en jongvolwassenen: ontdek…",
-      "doc_date": "2026-10-05",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-05T10:46:42+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|4b5626abbbfcbb063e40634e62fba490d12ac685ebe65be0c56447fa1a209215|Free Your Mindz|Ben je bezig met school, studie, werk of de vraag wat je later wilt doen? En wil je meer inzicht krijgen in jezelf, meer zelfvertrouwen opbouwen of beter leren omgaan met druk en verwachtingen? Dan is Free Your Mindz misschien iets voor jou. Gratis programma voor jongeren en jongvolwassenen: ontdek…",
-      "missing_count": 0,
-      "text_hash": "4b5626abbbfcbb063e40634e62fba490d12ac685ebe65be0c56447fa1a209215",
-      "content_checked": "2026-11-18T23:32:56+00:00"
-    },
-    "a8cb2b24907c756597f6e1174619a54855bd162f5636d57e649aada539a5f012": {
-      "title": "Koninklijke onderscheiding René Schraa",
-      "url": "https://www.stedebroec.nl/actueel/koninklijke-onderscheiding-tot-lid-in-de-orde-van-oranje-nassau-voor-rene-schraa-uit-bovenkarspel",
-      "source": "Nieuws",
-      "gemeente": "stedebroec",
-      "first_seen": "2026-11-17T17:53:04+00:00",
-      "updated": "2026-11-17T17:53:04+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Op dinsdag 29 werd René Schraa benoemd tot Lid in de Orde van Oranje Naussau, het lintje werd opgespeld door burgemeester Wortelboer. Onmisbare inzet voor skeelergroep Stede Broec René is al lange tijd actief voor de Skeelergroep Stede Broec. Wat in 2010 begon als vrijwilliger bij de jaarlijkse lichtjesavond, groeide…",
-      "doc_date": "2026-09-30",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-09-30T12:34:56+00:00",
-      "last_seen": "2026-11-21",
-      "kw_sig": "4f53cda18c2b|209692cd15c39dce5a2be7af5127cc34c2b5e725b732846edb8ea77f3f6291ef|Koninklijke onderscheiding René Schraa|Op dinsdag 29 werd René Schraa benoemd tot Lid in de Orde van Oranje Naussau, het lintje werd opgespeld door burgemeester Wortelboer. Onmisbare inzet voor skeelergroep Stede Broec René is al lange tijd actief voor de Skeelergroep Stede Broec. Wat in 2010 begon als vrijwilliger bij de jaarlijkse lichtjesavond, groeide…",
-      "missing_count": 0,
-      "text_hash": "209692cd15c39dce5a2be7af5127cc34c2b5e725b732846edb8ea77f3f6291ef",
-      "content_checked": "2026-11-18T23:33:01+00:00"
-    },
     "91028bd7a2cee6f7c33fb8d2cb672e391eba093c33dd557db40ecdc6b0bc89f9": {
       "title": "Bekendmaking definitieve volgordelijst voor prioriteit transportcapaciteit woningbouw- en onderwijshuisvestingsprojecten",
       "url": "https://www.stedebroec.nl/actueel/bekendmaking-definitieve-volgordelijst-voor-prioriteit-transportcapaciteit-woningbouw-en-onderwijshuisvestingsprojecten",
@@ -67743,14 +68079,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-21T00:55:01+00:00",
+        "checked": "2026-11-21T08:08:43+00:00",
         "ok": true,
         "count": 26,
         "new": 0,
         "note": "Laatste 30 dagen: 26 van 26 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-21T00:55:04+00:00",
+        "checked": "2026-11-21T08:08:46+00:00",
         "ok": true,
         "count": 64,
         "new": 0,
@@ -67758,23 +68094,23 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-21T00:55:06+00:00",
+        "checked": "2026-11-21T08:08:47+00:00",
         "ok": true,
-        "count": 25,
+        "count": 24,
         "new": 1,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Stede Broec, Bovenkarspel, Grootebroek, Lutjebroek. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-21T00:55:07+00:00",
+        "checked": "2026-11-21T08:08:48+00:00",
         "ok": true,
         "count": 98,
         "new": 0,
         "note": "Laatste 30 dagen: 98 van 98 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-21T00:55:27+00:00",
+        "checked": "2026-11-21T08:09:10+00:00",
         "ok": true,
         "count": 6,
         "new": 0,
@@ -67782,7 +68118,7 @@
         "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 6 vergaderpagina's bijgewerkt, 10 vergaderingen tussen 2026-09-22 en 2027-01-05, 93 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-21T00:55:29+00:00",
+        "checked": "2026-11-21T08:09:12+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -67790,23 +68126,23 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-21T00:55:30+00:00",
+        "checked": "2026-11-21T08:09:13+00:00",
         "ok": true,
-        "count": 26,
-        "new": 1,
+        "count": 25,
+        "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Enkhuizen. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-21T00:55:31+00:00",
+        "checked": "2026-11-21T08:09:15+00:00",
         "ok": true,
         "count": 55,
         "new": 0,
         "note": "Laatste 30 dagen: 55 van 55 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-21T00:55:49+00:00",
+        "checked": "2026-11-21T08:09:37+00:00",
         "ok": true,
         "count": 6,
         "new": 0,
@@ -67814,7 +68150,7 @@
         "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 6 vergaderpagina's bijgewerkt, 15 vergaderingen tussen 2026-09-22 en 2027-01-05, 131 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-21T00:55:51+00:00",
+        "checked": "2026-11-21T08:09:39+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -67822,16 +68158,16 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-21T00:55:54+00:00",
+        "checked": "2026-11-21T08:09:41+00:00",
         "ok": true,
-        "count": 18,
+        "count": 15,
         "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Drechterland, Hem, Hoogkarspel, Oosterblokker, Oosterleek, Schellinkhout, Venhuizen, Westwoud, Wijdenes. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Woo-publicaties": {
-        "checked": "2026-11-21T00:56:01+00:00",
+        "checked": "2026-11-21T08:09:53+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -67839,25 +68175,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-21T00:56:01+00:00",
+        "checked": "2026-11-21T08:09:53+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-21T00:57:11+00:00",
+        "checked": "2026-11-21T08:11:13+00:00",
         "ok": true,
         "count": 50,
         "errors": 0,
-        "note": "50 documenten gecontroleerd (6 pdf), 425 gevolgd (alle gemeenten), 209 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "50 documenten gecontroleerd (30 pdf), 425 gevolgd (alle gemeenten), 173 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer. 1 pdf zonder tekst deze run."
       },
       "Trefwoorden": {
-        "checked": "2026-11-21T00:57:11+00:00",
+        "checked": "2026-11-21T08:11:13+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-21T00:57:12+00:00",
+        "checked": "2026-11-21T08:11:13+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -67922,7 +68258,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/27-oktober/20:00": {
-        "checked": "2026-11-20T11:12:51+00:00",
+        "checked": "2026-11-21T08:09:07+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-10-27",
@@ -67974,7 +68310,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Commissie-Sociaal-Domein-Financien-Bedrijfsvoering-SFB/2026/06-oktober/20:00": {
-        "checked": "2026-11-20T19:14:40+00:00",
+        "checked": "2026-11-21T08:09:09+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB",
         "date": "2026-10-06",
@@ -67993,7 +68329,7 @@
         ]
       },
       "/Vergaderingen/Raadsvergadering/2026/10-november/16:00": {
-        "checked": "2026-11-20T19:14:41+00:00",
+        "checked": "2026-11-21T08:09:10+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-11-10",
@@ -68032,7 +68368,7 @@
         ]
       },
       "/Vergaderingen/Commissie-Bestuur-Openbare-Orde-en-Veiligheid-Erfgoed-Grondgebied-BOEG/2026/30-november/20:00": {
-        "checked": "2026-11-21T00:55:22+00:00",
+        "checked": "2026-11-21T08:09:03+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG",
         "date": "2026-11-30",
@@ -68103,7 +68439,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Commissie-Sociaal-Domein-Financien-Bedrijfsvoering-SFB/2026/01-december/20:00": {
-        "checked": "2026-11-21T00:55:24+00:00",
+        "checked": "2026-11-21T08:09:06+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB",
         "date": "2026-12-01",
@@ -68142,7 +68478,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/24-november/20:00": {
-        "checked": "2026-11-21T00:55:23+00:00",
+        "checked": "2026-11-21T08:09:05+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-11-24",
@@ -68214,7 +68550,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/26-oktober/20:00": {
-        "checked": "2026-11-19T13:46:36+00:00",
+        "checked": "2026-11-21T08:09:37+00:00",
         "gemeente": "drechterland",
         "type": "Raadsvergadering",
         "date": "2026-10-26",
@@ -68296,7 +68632,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/23-november/20:00": {
-        "checked": "2026-11-21T00:55:45+00:00",
+        "checked": "2026-11-21T08:09:31+00:00",
         "gemeente": "drechterland",
         "type": "Raadsvergadering",
         "date": "2026-11-23",
@@ -68368,7 +68704,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Rondetafelgesprekken/2026/30-november/20:00": {
-        "checked": "2026-11-21T00:55:46+00:00",
+        "checked": "2026-11-21T08:09:32+00:00",
         "gemeente": "drechterland",
         "type": "Rondetafelgesprekken",
         "date": "2026-11-30",
@@ -68417,7 +68753,7 @@
         "agenda": []
       },
       "/Vergaderingen/Themabijeenkomst/2026/03-december/20:00": {
-        "checked": "2026-11-21T00:55:49+00:00",
+        "checked": "2026-11-21T08:09:35+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-12-03",
@@ -68478,7 +68814,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Themabijeenkomst/2026/01-oktober/20:00": {
-        "checked": "2026-11-19T13:46:35+00:00",
+        "checked": "2026-11-21T08:09:36+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-10-01",
@@ -68489,7 +68825,7 @@
         ]
       },
       "/Vergaderingen/Verdiepende-sessie/2026/03-december/20:00": {
-        "checked": "2026-11-21T00:55:44+00:00",
+        "checked": "2026-11-21T08:09:29+00:00",
         "gemeente": "drechterland",
         "type": "Verdiepende sessie",
         "date": "2026-12-03",
@@ -68499,11 +68835,11 @@
       }
     },
     "go_listed": {
-      "enkhuizen": "2026-11-21T00:55:21+00:00",
-      "drechterland": "2026-11-21T00:55:43+00:00"
+      "enkhuizen": "2026-11-21T08:09:02+00:00",
+      "drechterland": "2026-11-21T08:09:29+00:00"
     },
     "elders": {
-      "woo": "2026-11-21T00:55:54+00:00"
+      "woo": "2026-11-21T08:09:41+00:00"
     },
     "termijn_v1": true,
     "keywords": {
