@@ -5,6 +5,874 @@
     "stedebroec"
   ],
   "items": {
+    "cb5aeaf555f5bdbc2bfa0a7f665f73f1450e6bc13ade36e58a9185faf3e78fe1": {
+      "title": "Uitnodiging themamiddag over mantelzorg bij Dementie",
+      "url": "https://www.stedebroec.nl/actueel/uitnodiging-themamiddag-over-mantelzorg-bij-dementie",
+      "source": "Nieuws",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-17T17:53:04+00:00",
+      "updated": "2026-11-22T09:36:58+00:00",
+      "last_change": "2026-11-22T09:36:58+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "Stichting Seniorenraad Stede Broec organiseert op de nationale dag van de Mantelzorg een themamiddag over Mantelzorg bij Dementie. Zorgen voor een partner met dementie is emotioneel en fysiek intensief. Naast zorg en ondersteuning thuis, zijn er meer veranderingen in de relatie, zoals veranderd gedrag en last van bijwerking van medicijnen.…",
+      "doc_date": "2026-11-03",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-03T10:04:11+00:00",
+      "last_seen": "2026-11-22",
+      "kw_sig": "4f53cda18c2b|23f19ac21998824e1220fcdfc479018612f4cf4dc566857c4076a9585208b677|Uitnodiging themamiddag over mantelzorg bij Dementie|Stichting Seniorenraad Stede Broec organiseert op de nationale dag van de Mantelzorg een themamiddag over Mantelzorg bij Dementie. Zorgen voor een partner met dementie is emotioneel en fysiek intensief. Naast zorg en ondersteuning thuis, zijn er meer veranderingen in de relatie, zoals veranderd gedrag en last van bijwerking van medicijnen.…",
+      "missing_count": 0,
+      "text_hash": "23f19ac21998824e1220fcdfc479018612f4cf4dc566857c4076a9585208b677",
+      "content_checked": "2026-11-22T09:36:58+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:38+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "8 zin(nen) toegevoegd of aangepast, 8 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 1 en 2 december",
+            "18 november 2026",
+            "Veilig fietsen met de Doorfietsroute"
+          ],
+          "removed": [
+            "Sinterklaasintocht Bovenkarspel en Lutjebroek",
+            "5 november 2026",
+            "Gezocht: stembureauleden en stemmentellers"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:58+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Werkzaamheden Broekerhavenweg in Bovenkarspel",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "27da2db875011e21e5286f20e2bf5967b6442a8fa85343d3c6aa3f937942b3a6": {
+      "title": "Meer kennis, minder risico: senioren leren online oplichting herkennen",
+      "url": "https://www.enkhuizen.nl/actueel/meer-kennis-minder-risico-senioren-leren-online-oplichting-herkennen",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-22T09:36:56+00:00",
+      "last_change": "2026-11-22T09:36:56+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "Ruim 300 senioren meldden zich aan voor de bijeenkomst over online veiligheid op donderdag 29 oktober in café De Paus in Lutjebroek. Een mooie opkomst! Onder leiding van Anita Witzier kregen bezoekers uitleg over verschillende vormen van online oplichting. Zo bekeken zij een video van een slachtoffer van bankhelpdeskfraude en…",
+      "doc_date": "2026-11-03",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-03T09:42:37+00:00",
+      "last_seen": "2026-11-22",
+      "kw_sig": "4f53cda18c2b|b8eaf17589dec13781d15373c2ca1184758575fe0e2f661645164caaa8a3fe9f|Meer kennis, minder risico: senioren leren online oplichting herkennen|Ruim 300 senioren meldden zich aan voor de bijeenkomst over online veiligheid op donderdag 29 oktober in café De Paus in Lutjebroek. Een mooie opkomst! Onder leiding van Anita Witzier kregen bezoekers uitleg over verschillende vormen van online oplichting. Zo bekeken zij een video van een slachtoffer van bankhelpdeskfraude en…",
+      "missing_count": 0,
+      "text_hash": "b8eaf17589dec13781d15373c2ca1184758575fe0e2f661645164caaa8a3fe9f",
+      "content_checked": "2026-11-22T09:36:56+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:36+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 25 en 26 november",
+            "18 november 2026",
+            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
+          ],
+          "removed": [
+            "Leer kijken door de ogen van het kind",
+            "3 november 2026",
+            "Topprestaties gezocht!"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:56+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Parkeergebieden voor betaald parkeren vastgesteld",
+            "20 november 2026",
+            "Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten"
+          ],
+          "removed": [
+            "Gezocht: stembureauleden en stemmentellers",
+            "5 november 2026",
+            "Groot feest tijdens de Sinterklaasintocht in Enkhuizen"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "c17ed26da86b161e6777ada548d09b5826c8001df228830c942f6c53b7373513": {
+      "title": "Leer kijken door de ogen van het kind",
+      "url": "https://www.enkhuizen.nl/actueel/leer-kijken-door-de-ogen-van-het-kind",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-22T09:36:55+00:00",
+      "last_change": "2026-11-22T09:36:55+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "Gaat u scheiden, of bent u al gescheiden? En heeft u kinderen? Kom dan langs bij de inspirerende bijeenkomst voor ouders Leer kijken door de ogen van het kind. Twee jongeren met gescheiden ouders delen deze avond hun persoonlijke verhaal met ouders die eraan denken om uit elkaar te gaan…",
+      "doc_date": "2026-11-03",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-03T09:58:00+00:00",
+      "last_seen": "2026-11-22",
+      "kw_sig": "4f53cda18c2b|d26ec26fccc7ad4ba1083d69217fc502718889db7a20c772cd03c80cc660d579|Leer kijken door de ogen van het kind|Gaat u scheiden, of bent u al gescheiden? En heeft u kinderen? Kom dan langs bij de inspirerende bijeenkomst voor ouders Leer kijken door de ogen van het kind. Twee jongeren met gescheiden ouders delen deze avond hun persoonlijke verhaal met ouders die eraan denken om uit elkaar te gaan…",
+      "missing_count": 0,
+      "text_hash": "d26ec26fccc7ad4ba1083d69217fc502718889db7a20c772cd03c80cc660d579",
+      "content_checked": "2026-11-22T09:36:55+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:34+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 25 en 26 november",
+            "18 november 2026",
+            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
+          ],
+          "removed": [
+            "Meer kennis, minder risico: senioren leren online oplichting herkennen",
+            "3 november 2026",
+            "Topprestaties gezocht!"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:55+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Parkeergebieden voor betaald parkeren vastgesteld",
+            "20 november 2026",
+            "Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten"
+          ],
+          "removed": [
+            "Gezocht: stembureauleden en stemmentellers",
+            "5 november 2026",
+            "Groot feest tijdens de Sinterklaasintocht in Enkhuizen"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "291048c5c9af807aef659df9351b5a064fc3cc4f8ef308a8cae8ecf87bd134fc": {
+      "title": "Meer kennis, minder risico: senioren leren online oplichting herkennen",
+      "url": "https://www.drechterland.nl/actueel/meer-kennis-minder-risico-senioren-leren-online-oplichting-herkennen",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-22T09:36:53+00:00",
+      "last_change": "2026-11-22T09:36:53+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "Ruim 300 senioren meldden zich aan voor de bijeenkomst over online veiligheid op donderdag 29 oktober in café De Paus in Lutjebroek. Een mooie opkomst! Onder leiding van Anita Witzier kregen bezoekers uitleg over verschillende vormen van online oplichting. Zo bekeken zij een video van een slachtoffer van bankhelpdeskfraude en…",
+      "doc_date": "2026-11-03",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-03T09:42:37+00:00",
+      "last_seen": "2026-11-22",
+      "kw_sig": "4f53cda18c2b|19c1ddfd11549f59227332399d71bbd38793cc2592251300fb93e8855cc7a105|Meer kennis, minder risico: senioren leren online oplichting herkennen|Ruim 300 senioren meldden zich aan voor de bijeenkomst over online veiligheid op donderdag 29 oktober in café De Paus in Lutjebroek. Een mooie opkomst! Onder leiding van Anita Witzier kregen bezoekers uitleg over verschillende vormen van online oplichting. Zo bekeken zij een video van een slachtoffer van bankhelpdeskfraude en…",
+      "missing_count": 0,
+      "text_hash": "19c1ddfd11549f59227332399d71bbd38793cc2592251300fb93e8855cc7a105",
+      "content_checked": "2026-11-22T09:36:53+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:33+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 1 en 2 december",
+            "18 november 2026",
+            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
+          ],
+          "removed": [
+            "50 jaar weekmarkt Hoogkarspel",
+            "6 november 2026",
+            "Sloop voormalig dorpshuis De Dregt"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:53+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Beheer voormalige vuilstort Westwoud overgedragen",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "cae03c5def3dabab26a0fd548604fb6238d654743c87be45004d3a2fc55f6010": {
+      "title": "Groot feest tijdens de Sinterklaasintocht in Enkhuizen",
+      "url": "https://www.enkhuizen.nl/actueel/groot-feest-tijdens-de-sinterklaasintocht-in-enkhuizen",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-22T09:36:52+00:00",
+      "last_change": "2026-11-22T09:36:52+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "De dagen worden korter, de wind blaast door de bomen en de spanning begint langzaam op te lopen. Dat kan maar één ding betekenen: Sinterklaas en zijn Pieten komen weer naar Nederland! Ook dit jaar komen Sint en zijn Pieten naar Enkhuizen voor een feestelijke intocht vol muziek, dans en…",
+      "doc_date": "2026-11-04",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-04T11:15:27+00:00",
+      "last_seen": "2026-11-22",
+      "kw_sig": "4f53cda18c2b|f87c474c5606c5b0960ee7d78f865468bf840f2d20db8a3cc2def2026fd6401b|Groot feest tijdens de Sinterklaasintocht in Enkhuizen|De dagen worden korter, de wind blaast door de bomen en de spanning begint langzaam op te lopen. Dat kan maar één ding betekenen: Sinterklaas en zijn Pieten komen weer naar Nederland! Ook dit jaar komen Sint en zijn Pieten naar Enkhuizen voor een feestelijke intocht vol muziek, dans en…",
+      "missing_count": 0,
+      "text_hash": "f87c474c5606c5b0960ee7d78f865468bf840f2d20db8a3cc2def2026fd6401b",
+      "content_checked": "2026-11-22T09:36:52+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:31+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 25 en 26 november",
+            "18 november 2026",
+            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
+          ],
+          "removed": [
+            "Meer kennis, minder risico: senioren leren online oplichting herkennen",
+            "3 november 2026",
+            "Topprestaties gezocht!"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:52+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Parkeergebieden voor betaald parkeren vastgesteld",
+            "20 november 2026",
+            "Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten"
+          ],
+          "removed": [
+            "Gezocht: stembureauleden en stemmentellers",
+            "5 november 2026",
+            "Leer kijken door de ogen van het kind"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "3ceb9f22b929d6440822effd072bef033f84a4117b600cfdc62bb2a61827ad6d": {
+      "title": "Gezocht: stembureauleden en stemmentellers",
+      "url": "https://www.stedebroec.nl/actueel/gezocht-stembureauleden-en-stemmentellers",
+      "source": "Nieuws",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-17T17:53:04+00:00",
+      "updated": "2026-11-22T09:36:50+00:00",
+      "last_change": "2026-11-22T09:36:50+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
+      "doc_date": "2026-11-05",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-05T12:10:09+00:00",
+      "last_seen": "2026-11-22",
+      "kw_sig": "4f53cda18c2b|715170b63a8741907bd729ad4bb7c6005d911e36f2817908a43acd7af66da3ee|Gezocht: stembureauleden en stemmentellers|Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
+      "missing_count": 0,
+      "text_hash": "715170b63a8741907bd729ad4bb7c6005d911e36f2817908a43acd7af66da3ee",
+      "content_checked": "2026-11-22T09:36:50+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:29+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "8 zin(nen) toegevoegd of aangepast, 8 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 1 en 2 december",
+            "18 november 2026",
+            "Veilig fietsen met de Doorfietsroute"
+          ],
+          "removed": [
+            "Sinterklaasintocht Bovenkarspel en Lutjebroek",
+            "5 november 2026",
+            "Uitnodiging themamiddag over mantelzorg bij Dementie"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:50+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Werkzaamheden Broekerhavenweg in Bovenkarspel",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "e8e9307611fd5449d736963e9a655bac15ccfb97bef5f4fefa41a699d3571972": {
+      "title": "Sinterklaasintocht Bovenkarspel en Lutjebroek",
+      "url": "https://www.stedebroec.nl/actueel/sinterklaasintocht-bovenkarspel-en-lutjebroek",
+      "source": "Nieuws",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-17T17:53:04+00:00",
+      "updated": "2026-11-22T09:36:49+00:00",
+      "last_change": "2026-11-22T09:36:49+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "Sinterklaas en zijn Pieten brengen ook dit jaar weer een bezoek aan Stede Broec. Hieronder vindt u een overzicht van de aankomsttijden en activiteiten. Bovenkarspel Zondag 15 november 2026 zal Bovenkarspel weer in het teken staan van de intocht van Sinterklaas. Om 13.00 uur begint het programma bij het gezellige…",
+      "doc_date": "2026-11-05",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-05T20:50:34+00:00",
+      "last_seen": "2026-11-22",
+      "kw_sig": "4f53cda18c2b|e58874b1dcdf8531529e78f54342d095e97cf03d68d28eec2b047e0338ec295c|Sinterklaasintocht Bovenkarspel en Lutjebroek|Sinterklaas en zijn Pieten brengen ook dit jaar weer een bezoek aan Stede Broec. Hieronder vindt u een overzicht van de aankomsttijden en activiteiten. Bovenkarspel Zondag 15 november 2026 zal Bovenkarspel weer in het teken staan van de intocht van Sinterklaas. Om 13.00 uur begint het programma bij het gezellige…",
+      "missing_count": 0,
+      "text_hash": "e58874b1dcdf8531529e78f54342d095e97cf03d68d28eec2b047e0338ec295c",
+      "content_checked": "2026-11-22T09:36:49+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:28+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "8 zin(nen) toegevoegd of aangepast, 8 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 1 en 2 december",
+            "18 november 2026",
+            "Veilig fietsen met de Doorfietsroute"
+          ],
+          "removed": [
+            "Gezocht: stembureauleden en stemmentellers",
+            "5 november 2026",
+            "Uitnodiging themamiddag over mantelzorg bij Dementie"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:49+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Werkzaamheden Broekerhavenweg in Bovenkarspel",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "e005d4255f2c82827ce422770c4228a70780ab59341badb072aee256ed4d1e85": {
+      "title": "Gezocht: stembureauleden en stemmentellers",
+      "url": "https://www.enkhuizen.nl/actueel/gezocht-stembureauleden-en-stemmentellers-2",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-22T09:36:47+00:00",
+      "last_change": "2026-11-22T09:36:47+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
+      "doc_date": "2026-11-05",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-05T12:11:14+00:00",
+      "last_seen": "2026-11-22",
+      "kw_sig": "4f53cda18c2b|1d915d56b369f1107a64c13abcfb43a26193a776a24c7371c75cb65b7a7d22c0|Gezocht: stembureauleden en stemmentellers|Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
+      "missing_count": 0,
+      "text_hash": "1d915d56b369f1107a64c13abcfb43a26193a776a24c7371c75cb65b7a7d22c0",
+      "content_checked": "2026-11-22T09:36:47+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:26+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 25 en 26 november",
+            "18 november 2026",
+            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
+          ],
+          "removed": [
+            "Meer kennis, minder risico: senioren leren online oplichting herkennen",
+            "3 november 2026",
+            "Topprestaties gezocht!"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:47+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Parkeergebieden voor betaald parkeren vastgesteld",
+            "20 november 2026",
+            "Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten"
+          ],
+          "removed": [
+            "Groot feest tijdens de Sinterklaasintocht in Enkhuizen",
+            "4 november 2026",
+            "Leer kijken door de ogen van het kind"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "cf25eb2bc50cdd9d9f8f7e9ed61a420327ccaf9a394fed8b2a3f5a6f643b95dc": {
+      "title": "Gezocht: stembureauleden en stemmentellers",
+      "url": "https://www.drechterland.nl/actueel/gezocht-stembureauleden-en-stemmentellers-3",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-22T09:36:46+00:00",
+      "last_change": "2026-11-22T09:36:46+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
+      "doc_date": "2026-11-05",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-05T12:11:55+00:00",
+      "last_seen": "2026-11-22",
+      "kw_sig": "4f53cda18c2b|92def31d604876ea468f4a3a974971126925c270480fa589b2120c953a08b1b1|Gezocht: stembureauleden en stemmentellers|Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
+      "missing_count": 0,
+      "text_hash": "92def31d604876ea468f4a3a974971126925c270480fa589b2120c953a08b1b1",
+      "content_checked": "2026-11-22T09:36:46+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:24+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 1 en 2 december",
+            "18 november 2026",
+            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
+          ],
+          "removed": [
+            "50 jaar weekmarkt Hoogkarspel",
+            "6 november 2026",
+            "Sloop voormalig dorpshuis De Dregt"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:46+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Beheer voormalige vuilstort Westwoud overgedragen",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "3b8ac54974d46f1764278f164c90a15f48b09cd90d7be48eafd3f282c7157dc5": {
+      "title": "Sinterklaas en zijn Pieten komen naar Drechterland",
+      "url": "https://www.drechterland.nl/actueel/sinterklaas-en-zijn-pieten-komen-naar-drechterland",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-22T09:36:44+00:00",
+      "last_change": "2026-11-22T09:36:44+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "Sinterklaas en zijn Pieten brengen ook dit jaar weer een bezoek aan Drechterland. In verschillende dorpen worden feestelijke intochten georganiseerd. Hieronder vindt u een overzicht van de aankomsttijden en activiteiten. Wijdenes, Oosterleek en Venhuizen Zondag 15 november 2026 Sinterklaas en zijn Pieten arriveren om 10.30 uur per boot in het…",
+      "doc_date": "2026-11-05",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-05T20:36:45+00:00",
+      "last_seen": "2026-11-22",
+      "kw_sig": "4f53cda18c2b|f5e8b8ad91c96232c03632ae93a09242d7fc4813f90e5b5a546d58933233b3b7|Sinterklaas en zijn Pieten komen naar Drechterland|Sinterklaas en zijn Pieten brengen ook dit jaar weer een bezoek aan Drechterland. In verschillende dorpen worden feestelijke intochten georganiseerd. Hieronder vindt u een overzicht van de aankomsttijden en activiteiten. Wijdenes, Oosterleek en Venhuizen Zondag 15 november 2026 Sinterklaas en zijn Pieten arriveren om 10.30 uur per boot in het…",
+      "missing_count": 0,
+      "text_hash": "f5e8b8ad91c96232c03632ae93a09242d7fc4813f90e5b5a546d58933233b3b7",
+      "content_checked": "2026-11-22T09:36:44+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:22+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 1 en 2 december",
+            "18 november 2026",
+            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
+          ],
+          "removed": [
+            "50 jaar weekmarkt Hoogkarspel",
+            "6 november 2026",
+            "Sloop voormalig dorpshuis De Dregt"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:44+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Beheer voormalige vuilstort Westwoud overgedragen",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "b6a482116b3dca11ddff08153cc403ac45038bc766d2f99fdb487060351caa50": {
+      "title": "Sloop voormalig dorpshuis De Dregt",
+      "url": "https://www.drechterland.nl/actueel/sloop-voormalig-dorpshuis-de-dregt",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-22T09:36:43+00:00",
+      "last_change": "2026-11-22T09:36:43+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "Het voormalige dorpshuis de Dregt in Schellinkhout wordt gesloopt. Op maandag 16 november 2026 starten de sloopwerkzaamheden. Daarmee wordt een volgende stap gezet in de ontwikkeling van deze locatie. Inmiddels is de bouw van de MFA in Schellinkhout afgerond en de ruimte in gebruik genomen. Voorbereiding en sloop Aannemer Vriend…",
+      "doc_date": "2026-11-06",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-06T11:54:09+00:00",
+      "last_seen": "2026-11-22",
+      "kw_sig": "4f53cda18c2b|64921ef0d94ec8686599e3cd03c84c2e901044958957f34b223305c580418e07|Sloop voormalig dorpshuis De Dregt|Het voormalige dorpshuis de Dregt in Schellinkhout wordt gesloopt. Op maandag 16 november 2026 starten de sloopwerkzaamheden. Daarmee wordt een volgende stap gezet in de ontwikkeling van deze locatie. Inmiddels is de bouw van de MFA in Schellinkhout afgerond en de ruimte in gebruik genomen. Voorbereiding en sloop Aannemer Vriend…",
+      "missing_count": 0,
+      "text_hash": "64921ef0d94ec8686599e3cd03c84c2e901044958957f34b223305c580418e07",
+      "content_checked": "2026-11-22T09:36:43+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:21+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 1 en 2 december",
+            "18 november 2026",
+            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
+          ],
+          "removed": [
+            "50 jaar weekmarkt Hoogkarspel",
+            "6 november 2026",
+            "Sinterklaas en zijn Pieten komen naar Drechterland"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:43+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Beheer voormalige vuilstort Westwoud overgedragen",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "6dae518e3aa11eb66caf4da95b3d9d0b74ab7ddd2f20a9b94499411105ecb239": {
+      "title": "50 jaar weekmarkt Hoogkarspel",
+      "url": "https://www.drechterland.nl/actueel/50-jaar-weekmarkt-hoogkarspel-2",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-22T09:36:41+00:00",
+      "last_change": "2026-11-22T09:36:41+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "De Weekmarkt in Hoogkarspel viert dit jaar een bijzonder jubileum. In 1976 werd de markt officieel door de gemeente ingesteld. Daarmee bestaat de markt formeel 50 jaar. Tegelijkertijd weten veel inwoners dat er ook vóór 1976 al marktactiviteiten plaatsvonden in Hoogkarspel. De geschiedenis van de markt gaat verder terug dan…",
+      "doc_date": "2026-11-06",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-06T15:08:55+00:00",
+      "last_seen": "2026-11-22",
+      "kw_sig": "4f53cda18c2b|a9c9ec727160f295896081688ed1328596a2cd98024ec6d520a0f9809138cad0|50 jaar weekmarkt Hoogkarspel|De Weekmarkt in Hoogkarspel viert dit jaar een bijzonder jubileum. In 1976 werd de markt officieel door de gemeente ingesteld. Daarmee bestaat de markt formeel 50 jaar. Tegelijkertijd weten veel inwoners dat er ook vóór 1976 al marktactiviteiten plaatsvonden in Hoogkarspel. De geschiedenis van de markt gaat verder terug dan…",
+      "missing_count": 0,
+      "text_hash": "a9c9ec727160f295896081688ed1328596a2cd98024ec6d520a0f9809138cad0",
+      "content_checked": "2026-11-22T09:36:41+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:19+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 1 en 2 december",
+            "18 november 2026",
+            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
+          ],
+          "removed": [
+            "Sloop voormalig dorpshuis De Dregt",
+            "6 november 2026",
+            "Sinterklaas en zijn Pieten komen naar Drechterland"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:41+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Beheer voormalige vuilstort Westwoud overgedragen",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "d514dcbad405aec017e7f66b5d22e9c31f509e98a83365ba0372d136841239ab": {
+      "title": "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+      "url": "https://www.stedebroec.nl/actueel/gratis-kennismakingsclinic-frame-schaatsen-in-hoorn",
+      "source": "Nieuws",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-17T17:53:04+00:00",
+      "updated": "2026-11-22T09:36:40+00:00",
+      "last_change": "2026-11-22T09:36:40+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "Op zondag 15 november organiseert Stichting het Gehandicapte Kind, samen met DuoSport Hoorn, een gratis kennismakingsclinic Frame Schaatsen op schaatsbaan De Westfries in Hoorn. Met een schaatsframe kunnen ook kinderen voor wie schaatsen op gewone schaatsen moeilijk of niet mogelijk is, het ijs op. Zo kunnen kinderen met en zonder…",
+      "doc_date": "2026-11-09",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-09T10:47:30+00:00",
+      "last_seen": "2026-11-22",
+      "kw_sig": "4f53cda18c2b|8b5a0a37374642a7cf6f63f93be79f2a5ac546754cf4a24a1cbf33f2d8e0e736|Gratis kennismakingsclinic Frame Schaatsen in Hoorn|Op zondag 15 november organiseert Stichting het Gehandicapte Kind, samen met DuoSport Hoorn, een gratis kennismakingsclinic Frame Schaatsen op schaatsbaan De Westfries in Hoorn. Met een schaatsframe kunnen ook kinderen voor wie schaatsen op gewone schaatsen moeilijk of niet mogelijk is, het ijs op. Zo kunnen kinderen met en zonder…",
+      "missing_count": 0,
+      "text_hash": "8b5a0a37374642a7cf6f63f93be79f2a5ac546754cf4a24a1cbf33f2d8e0e736",
+      "content_checked": "2026-11-22T09:36:40+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:16+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "8 zin(nen) toegevoegd of aangepast, 8 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 1 en 2 december",
+            "18 november 2026",
+            "Veilig fietsen met de Doorfietsroute"
+          ],
+          "removed": [
+            "Gezocht: stembureauleden en stemmentellers",
+            "5 november 2026",
+            "Uitnodiging themamiddag over mantelzorg bij Dementie"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:40+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Werkzaamheden Broekerhavenweg in Bovenkarspel",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Sinterklaasintocht Bovenkarspel en Lutjebroek",
+            "5 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "7e42d02a1f51310882647f3586138166c40869f22bd2d0c4be8e7a97f5593666": {
+      "title": "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+      "url": "https://www.enkhuizen.nl/actueel/gratis-kennismakingsclinic-frame-schaatsen-in-hoorn",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-22T09:36:38+00:00",
+      "last_change": "2026-11-22T09:36:38+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "Op zondag 15 november organiseert Stichting het Gehandicapte Kind, samen met DuoSport Hoorn, een gratis kennismakingsclinic Frame Schaatsen op schaatsbaan De Westfries in Hoorn. Met een schaatsframe kunnen ook kinderen voor wie schaatsen op gewone schaatsen moeilijk of niet mogelijk is, het ijs op. Zo kunnen kinderen met en zonder…",
+      "doc_date": "2026-11-09",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-09T10:47:30+00:00",
+      "last_seen": "2026-11-22",
+      "kw_sig": "4f53cda18c2b|262edbef57d60ad3b3e7cb086ff2b9970cd71fbda83a205678b798e9d0a11f3a|Gratis kennismakingsclinic Frame Schaatsen in Hoorn|Op zondag 15 november organiseert Stichting het Gehandicapte Kind, samen met DuoSport Hoorn, een gratis kennismakingsclinic Frame Schaatsen op schaatsbaan De Westfries in Hoorn. Met een schaatsframe kunnen ook kinderen voor wie schaatsen op gewone schaatsen moeilijk of niet mogelijk is, het ijs op. Zo kunnen kinderen met en zonder…",
+      "missing_count": 0,
+      "text_hash": "262edbef57d60ad3b3e7cb086ff2b9970cd71fbda83a205678b798e9d0a11f3a",
+      "content_checked": "2026-11-22T09:36:38+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:14+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 25 en 26 november",
+            "18 november 2026",
+            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
+          ],
+          "removed": [
+            "Meer kennis, minder risico: senioren leren online oplichting herkennen",
+            "3 november 2026",
+            "Topprestaties gezocht!"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:38+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Parkeergebieden voor betaald parkeren vastgesteld",
+            "20 november 2026",
+            "Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten"
+          ],
+          "removed": [
+            "Groot feest tijdens de Sinterklaasintocht in Enkhuizen",
+            "4 november 2026",
+            "Leer kijken door de ogen van het kind"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "a52889bb36a01cf2ab948b0dd6f63d68ea409a2c3aa076e608ff012a5133d63b": {
+      "title": "Enkhuizen verlicht tijdens Lichtjesloop",
+      "url": "https://www.enkhuizen.nl/actueel/enkhuizen-verlicht-tijdens-lichtjesloop",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-22T09:36:37+00:00",
+      "last_change": "2026-11-22T09:36:37+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "Honderden lichtjes, vrolijke wandelaars en een sfeervolle binnenstad. De eerste editie van de Lichtjesloop Enkhuizen bracht maar liefst 600 mensen uit heel Noord-Holland in beweging. Het was koud, maar daar was in De Nieuwe Doelen weinig van te merken. De gezelligheid en alle stralende gezichten zorgden voor meer dan genoeg…",
+      "doc_date": "2026-11-09",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-09T11:25:23+00:00",
+      "last_seen": "2026-11-22",
+      "kw_sig": "4f53cda18c2b|7fc5c38d1d45095730be78c5adc67576d24c6caeb81bb6f1f6b037acd14e0725|Enkhuizen verlicht tijdens Lichtjesloop|Honderden lichtjes, vrolijke wandelaars en een sfeervolle binnenstad. De eerste editie van de Lichtjesloop Enkhuizen bracht maar liefst 600 mensen uit heel Noord-Holland in beweging. Het was koud, maar daar was in De Nieuwe Doelen weinig van te merken. De gezelligheid en alle stralende gezichten zorgden voor meer dan genoeg…",
+      "missing_count": 0,
+      "text_hash": "7fc5c38d1d45095730be78c5adc67576d24c6caeb81bb6f1f6b037acd14e0725",
+      "content_checked": "2026-11-22T09:36:37+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:11+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 25 en 26 november",
+            "18 november 2026",
+            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
+          ],
+          "removed": [
+            "Meer kennis, minder risico: senioren leren online oplichting herkennen",
+            "3 november 2026",
+            "Topprestaties gezocht!"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:37+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Parkeergebieden voor betaald parkeren vastgesteld",
+            "20 november 2026",
+            "Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten"
+          ],
+          "removed": [
+            "Groot feest tijdens de Sinterklaasintocht in Enkhuizen",
+            "4 november 2026",
+            "Leer kijken door de ogen van het kind"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "b9c0a71a17f1a579f7158f272cdc151b994c5de79d57aaa7b8c1c2a7d6c19f23": {
+      "title": "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+      "url": "https://www.drechterland.nl/actueel/gratis-kennismakingsclinic-frame-schaatsen-in-hoorn",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-22T09:36:35+00:00",
+      "last_change": "2026-11-22T09:36:35+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "Op zondag 15 november organiseert Stichting het Gehandicapte Kind, samen met DuoSport Hoorn, een gratis kennismakingsclinic Frame Schaatsen op schaatsbaan De Westfries in Hoorn. Met een schaatsframe kunnen ook kinderen voor wie schaatsen op gewone schaatsen moeilijk of niet mogelijk is, het ijs op. Zo kunnen kinderen met en zonder…",
+      "doc_date": "2026-11-09",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-09T10:47:30+00:00",
+      "last_seen": "2026-11-22",
+      "kw_sig": "4f53cda18c2b|202748b545ea77e95c5117fb36f698ba9f2ce57caf7ee877e0f7a368c09e44d8|Gratis kennismakingsclinic Frame Schaatsen in Hoorn|Op zondag 15 november organiseert Stichting het Gehandicapte Kind, samen met DuoSport Hoorn, een gratis kennismakingsclinic Frame Schaatsen op schaatsbaan De Westfries in Hoorn. Met een schaatsframe kunnen ook kinderen voor wie schaatsen op gewone schaatsen moeilijk of niet mogelijk is, het ijs op. Zo kunnen kinderen met en zonder…",
+      "missing_count": 0,
+      "text_hash": "202748b545ea77e95c5117fb36f698ba9f2ce57caf7ee877e0f7a368c09e44d8",
+      "content_checked": "2026-11-22T09:36:35+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:07+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 1 en 2 december",
+            "18 november 2026",
+            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
+          ],
+          "removed": [
+            "Sloop voormalig dorpshuis De Dregt",
+            "6 november 2026",
+            "Sinterklaas en zijn Pieten komen naar Drechterland"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:35+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Beheer voormalige vuilstort Westwoud overgedragen",
+            "20 november 2026"
+          ],
+          "removed": [
+            "50 jaar weekmarkt Hoogkarspel",
+            "6 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "a7ceeb023370adc57c772eb5fdc03a46ab808ff9d9467b24b886f0d303c6f3b8": {
+      "title": "’Goed dat er nu een initiatief in Hoogkarspel is om weer een route te herstellen’, prijst een lezer",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcE4tR3ZTUkQ2YVJEc0xPUUNPejhhS2lMcXBTM3hzTExlTTFJUDI4Ukk2NVJ2NWxYLUJ2YVRNZkxiakQ3UmtDT1lHeEwtR1c1X000enlrSlBYcy1reEs5ZGNmdGFUeE9fOXhjNVk2Yl93cGNRUDQ3M2t0V3RreEtkVnJmZVBESnAwRloycFJYWjMyMWdjWnFPLWIxYUszNVZ1YUxla2F3eTdEVGlwcW5RMDJIdVdRcFBUU3FORk5FaUx6MHRfQUk5NzJIT2RvX1d1UnhOTTBrZFo3ZndhaWljUUVod2NjSnVlZjNYT1d6b2gwWFNoYXJ4ZlJxbGs?oc=5",
+      "source": "In de media",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-22T09:36:15+00:00",
+      "updated": "2026-11-22T09:36:15+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Noordhollands Dagblad",
+      "media_match": "kop",
+      "last_seen": "2026-11-22",
+      "doc_date": "2026-11-22",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-22T10:00+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||’Goed dat er nu een initiatief in Hoogkarspel is om weer een route te herstellen’, prijst een lezer|"
+    },
+    "7caa11b5ba807fc26436615b0a82279554beb9ba8b5f68581528bf13b1456efc": {
+      "title": "’Goed dat er nu een initiatief in Hoogkarspel is om weer een route te herstellen’, prijst een lezer",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcE4tR3ZTUkQ2YVJEc0xPUUNPejhhS2lMcXBTM3hzTExlTTFJUDI4Ukk2NVJ2NWxYLUJ2YVRNZkxiakQ3UmtDT1lHeEwtR1c1X000enlrSlBYcy1reEs5ZGNmdGFUeE9fOXhjNVk2Yl93cGNRUDQ3M2t0V3RreEtkVnJmZVBESnAwRloycFJYWjMyMWdjWnFPLWIxYUszNVZ1YUxla2F3eTdEVGlwcW5RMDJIdVdRcFBUU3FORk5FaUx6MHRfQUk5NzJIT2RvX1d1UnhOTTBrZFo3ZndhaWljUUVod2NjSnVlZjNYT1d6b2gwWFNoYXJ4ZlJxbGs?oc=5",
+      "source": "In de media",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-22T09:35:49+00:00",
+      "updated": "2026-11-22T09:35:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Noordhollands Dagblad",
+      "media_match": "tekst",
+      "last_seen": "2026-11-22",
+      "doc_date": "2026-11-22",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-22T10:00+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||’Goed dat er nu een initiatief in Hoogkarspel is om weer een route te herstellen’, prijst een lezer|"
+    },
     "e61bbfc2395a6e2f88340032d321c835a5338cde5cf3d599a87e31a7bdaff84d": {
       "title": "Vragen over de doorfietsroute? Kom op 14 november naar het Beursplein.",
       "url": "https://www.stedebroec.nl/actueel/vragen-over-de-doorfietsroute-kom-op-14-november-naar-het-beursplein",
@@ -4023,7 +4891,7 @@
       "kind": "vergadering",
       "doc_date": "2027-01-05",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "kw_sig": "4f53cda18c2b||Overige evenementen 5 januari 2027 20:00|"
     },
     "1edd206d494d8a160b8dbc02db863fa9ccdb45582557aeb35a3c3301e2282a86": {
@@ -4084,7 +4952,7 @@
       "kw_sig": "4f53cda18c2b|b2a21f30e53911b304b8b076d9e5715ad2a703c485f467868faee0a21d499660|Allerzielenviering|Op maandag 2 november worden er twee Allerzielenvieringen georganiseerd in Hoogkarspel. Onze overleden dierbaren hebben een speciale plek in ons hart. Hen herdenken hoort daarbij. U bent van harte welkom op de Algemene begraafplaats (Molenwei 62 in Hoogkarspel) en op de Rooms Katholieke begraafplaats (Streekweg 216a in Hoogkarspel). Tijdstip De…",
       "missing_count": 0,
       "text_hash": "b2a21f30e53911b304b8b076d9e5715ad2a703c485f467868faee0a21d499660",
-      "content_checked": "2026-11-20T19:15:55+00:00",
+      "content_checked": "2026-11-22T09:37:27+00:00",
       "changes": [
         {
           "at": "2026-11-20T19:15:55+00:00",
@@ -4122,7 +4990,7 @@
       "kw_sig": "4f53cda18c2b|984a80b7ec3f4740a14375356953fb3c7834835748288f83082f8a6e804165b8|Kappen bomen|Van oktober tot eind december gaan we ruim zestig bomen kappen. De bomen staan verspreid over de gemeente. Gezondheid bomen Elk jaar controleren we of de bomen in de openbare ruimte gezond en veilig zijn. Zo zorgen we ervoor dat er geen gevaarlijke situaties ontstaan. We controleren jaarlijks een derde…",
       "missing_count": 0,
       "text_hash": "984a80b7ec3f4740a14375356953fb3c7834835748288f83082f8a6e804165b8",
-      "content_checked": "2026-11-20T19:15:54+00:00",
+      "content_checked": "2026-11-22T09:37:26+00:00",
       "changes": [
         {
           "at": "2026-11-20T19:15:54+00:00",
@@ -4160,7 +5028,7 @@
       "kw_sig": "4f53cda18c2b|188151669646cdff01beac6e3c96f5fc6d63532facf87c107491d9147f0d2cdd|Kennismaken met reddingsbrigade De Streek|Wethouder Anton Wildöer ging vorige week op bezoek bij reddingsbrigade De Streek om kennis te maken. Reddingsbrigade De Streek heeft meer dan 100 enthousiaste leden. Bij de vereniging kun je verschillende brevetten en diploma’s halen van Reddingsbrigade Nederland (KNBRD). De brigade traint wekelijks in zwembad De Kloet. Naast de trainingen…",
       "missing_count": 0,
       "text_hash": "188151669646cdff01beac6e3c96f5fc6d63532facf87c107491d9147f0d2cdd",
-      "content_checked": "2026-11-20T19:15:52+00:00",
+      "content_checked": "2026-11-22T09:37:25+00:00",
       "changes": [
         {
           "at": "2026-11-20T19:15:52+00:00",
@@ -4198,7 +5066,7 @@
       "kw_sig": "4f53cda18c2b|0a7f46f940ab32a00fd09047570e89df7fed4e724f8e5e97f5f400b9db1298e4|Begroting 2027: Drechterland blijft investeren ondanks krappere financiële ruimte|Drechterland blijft investeren in belangrijke opgaven zoals woningbouw, leefbare dorpen, duurzaamheid en goede voorzieningen voor inwoners. Tegelijkertijd wordt de financiële ruimte voor gemeenten steeds kleiner. Daarom kiest het college ervoor scherp te sturen op de gemeentelijke financiën, terwijl investeringen die belangrijk zijn voor inwoners doorgaan. Voor 2028 en de jaren…",
       "missing_count": 0,
       "text_hash": "0a7f46f940ab32a00fd09047570e89df7fed4e724f8e5e97f5f400b9db1298e4",
-      "content_checked": "2026-11-20T19:15:51+00:00",
+      "content_checked": "2026-11-22T09:37:23+00:00",
       "changes": [
         {
           "at": "2026-11-20T19:15:51+00:00",
@@ -4236,7 +5104,7 @@
       "kw_sig": "4f53cda18c2b|9f79dc24b49df6b1af2ca801ca8b0b664bbf62dea96736aa75f7eae78877d080|De salderingsregeling stopt: ontdek de mogelijkheden van een thuisbatterij|Heeft u zonnepanelen op uw dak? Dan wilt u natuurlijk zo slim mogelijk omgaan met de stroom die u zelf opwekt. Maar wat betekent het stoppen van de salderingsregeling voor uw situatie? En kan een thuisbatterij helpen om uw energiekosten in de hand te houden? Ontdek het tijdens de gratis…",
       "missing_count": 0,
       "text_hash": "9f79dc24b49df6b1af2ca801ca8b0b664bbf62dea96736aa75f7eae78877d080",
-      "content_checked": "2026-11-20T19:15:49+00:00",
+      "content_checked": "2026-11-22T09:37:22+00:00",
       "changes": [
         {
           "at": "2026-11-20T19:15:49+00:00",
@@ -4274,7 +5142,7 @@
       "kw_sig": "4f53cda18c2b|439d85908605776a003f7b520c8e3bbdfdab91e8c3bbaede66ab1e441ef07d65|De salderingsregeling stopt: ontdek de mogelijkheden van een thuisbatterij|Heeft u zonnepanelen op uw dak? Dan wilt u natuurlijk zo slim mogelijk omgaan met de stroom die u zelf opwekt. Maar wat betekent het stoppen van de salderingsregeling voor uw situatie? En kan een thuisbatterij helpen om uw energiekosten in de hand te houden? Ontdek het tijdens de gratis…",
       "missing_count": 0,
       "text_hash": "439d85908605776a003f7b520c8e3bbdfdab91e8c3bbaede66ab1e441ef07d65",
-      "content_checked": "2026-11-20T19:15:48+00:00",
+      "content_checked": "2026-11-22T09:37:20+00:00",
       "changes": [
         {
           "at": "2026-11-20T19:15:48+00:00",
@@ -4312,7 +5180,7 @@
       "kw_sig": "4f53cda18c2b|28544ff253529a334fe655585f57ea70a0e733125e2f900dcf06098ca91300c1|De salderingsregeling stopt: ontdek de mogelijkheden van een thuisbatterij|Heeft u zonnepanelen op uw dak? Dan wilt u natuurlijk zo slim mogelijk omgaan met de stroom die u zelf opwekt. Maar wat betekent het stoppen van de salderingsregeling voor uw situatie? En kan een thuisbatterij helpen om uw energiekosten in de hand te houden? Ontdek het tijdens de gratis…",
       "missing_count": 0,
       "text_hash": "28544ff253529a334fe655585f57ea70a0e733125e2f900dcf06098ca91300c1",
-      "content_checked": "2026-11-20T19:15:46+00:00",
+      "content_checked": "2026-11-22T09:37:19+00:00",
       "changes": [
         {
           "at": "2026-11-20T19:15:46+00:00",
@@ -4350,7 +5218,7 @@
       "kw_sig": "4f53cda18c2b|de0f248309e664d8d287eb1c2fd7a2b796dda6edb0db3a72a8a332fe47e60ba1|Historische wandeling Hem|Op dinsdag 27 oktober maakten de burgemeester en wethouders van Gemeente Drechterland een historische wandeling door Hem. Diana Visser van de Historische Vereniging Suyder Cogge had het college hiervoor uitgenodigd en verzorgde de wandeling. De wandeling De wandeling startte op de Elba, waar eerst de geschiedenis van Westfriesland en…",
       "missing_count": 0,
       "text_hash": "de0f248309e664d8d287eb1c2fd7a2b796dda6edb0db3a72a8a332fe47e60ba1",
-      "content_checked": "2026-11-20T19:15:44+00:00",
+      "content_checked": "2026-11-22T09:37:18+00:00",
       "changes": [
         {
           "at": "2026-11-20T19:15:44+00:00",
@@ -4388,7 +5256,7 @@
       "kw_sig": "4f53cda18c2b|35107f7929c40adc58144623ef5eeb935e5cc5ece112d2552bd6ad0bd3221f8e|Samen de wijk in: inwoners lopen mee met wijkschouw Princenhof|Woensdag 21 oktober liepen inwoners mee met de wijkschouw in een deel van de wijk Princenhof in Bovenkarspel. De gemeente Stede Broec organiseerde de schouw samen met woningcorporatie De Woonschakel en de Huurdersraad. Tijdens de wandeling door de wijk gingen wethouders Anton Wildöer en Joey Leeuwinga en de vertegenwoordigers van…",
       "missing_count": 0,
       "text_hash": "35107f7929c40adc58144623ef5eeb935e5cc5ece112d2552bd6ad0bd3221f8e",
-      "content_checked": "2026-11-20T19:15:43+00:00",
+      "content_checked": "2026-11-22T09:37:16+00:00",
       "changes": [
         {
           "at": "2026-11-20T19:15:43+00:00",
@@ -4426,7 +5294,7 @@
       "kw_sig": "4f53cda18c2b|8676f679b05247c305389735f76cd7cd5960b73686787ff5f5f5da1d979423f9|Een plek om jezelf te zijn: Roze Dromdagen in Enkhuizen|In Enkhuizen vindt iedere vierde donderdag van de maand de Roze Dromdagen plaats. Deze ontmoetingsavond is bedoeld voor mensen uit de regenbooggemeenschap, zoals mensen die lesbisch, homoseksueel, bi+, transgender of queer zijn, én voor iedereen die zich daarbij betrokken voelt. Bezoekers kunnen elkaar ontmoeten, ervaringen delen of gewoon binnenlopen voor…",
       "missing_count": 0,
       "text_hash": "8676f679b05247c305389735f76cd7cd5960b73686787ff5f5f5da1d979423f9",
-      "content_checked": "2026-11-20T19:15:41+00:00",
+      "content_checked": "2026-11-22T09:37:15+00:00",
       "changes": [
         {
           "at": "2026-11-20T19:15:41+00:00",
@@ -4464,7 +5332,7 @@
       "kw_sig": "4f53cda18c2b|c86fd26de382ce08ad799d982f249845c5f77ac01985b12a4cf322cb46de0eb5|Bewoners Wijdenes denken mee over duurzame en betaalbare warmte|Hoe kunnen we de woningen in de Kerkbuurt in Wijdenes in de toekomst duurzaam én betaalbaar verwarmen? Tijdens de bewonersavond op 27 oktober gingen circa 25 bewoners hierover met de gemeente in gesprek. Wethouder Duurzaamheid Sjon Wagenaar opende de avond met een welkomstwoord. Daarna kregen de aanwezigen meer informatie over…",
       "missing_count": 0,
       "text_hash": "c86fd26de382ce08ad799d982f249845c5f77ac01985b12a4cf322cb46de0eb5",
-      "content_checked": "2026-11-20T19:15:40+00:00",
+      "content_checked": "2026-11-22T09:37:13+00:00",
       "changes": [
         {
           "at": "2026-11-20T19:15:40+00:00",
@@ -4502,7 +5370,7 @@
       "kw_sig": "4f53cda18c2b|7f2c30231de78afa1895cec7201dd7b6e97b44730fc2001920f1f2891a4c0f8f|Topprestaties gezocht!|Sporters en teams die een belangrijke prestatie hebben geleverd op hoog niveau, zetten wij graag in het zonnetje. Het kan gaan om persoonlijke sportprestaties of die van een team, maar ook om inspirerende mensen op sportgebied, de ‘Sport(er) op het Podium’. Dit zijn (bijzondere) prestaties, evenementen of nieuwe initiatieven binnen…",
       "missing_count": 0,
       "text_hash": "7f2c30231de78afa1895cec7201dd7b6e97b44730fc2001920f1f2891a4c0f8f",
-      "content_checked": "2026-11-20T19:15:34+00:00",
+      "content_checked": "2026-11-22T09:37:08+00:00",
       "changes": [
         {
           "at": "2026-11-20T19:15:34+00:00",
@@ -4540,7 +5408,7 @@
       "kw_sig": "4f53cda18c2b|dbf96ac2c5ec4cdf383ef965936be03c966517fbf3b4f623fbedd84bd7b254a7|Topprestaties gezocht!|Sporters en teams die een belangrijke prestatie hebben geleverd op hoog niveau, zetten wij graag in het zonnetje. Het kan gaan om persoonlijke sportprestaties of die van een team, maar ook om inspirerende mensen op sportgebied, de ‘Sport(er) op het Podium’. Dit zijn (bijzondere) prestaties, evenementen of nieuwe initiatieven binnen…",
       "missing_count": 0,
       "text_hash": "dbf96ac2c5ec4cdf383ef965936be03c966517fbf3b4f623fbedd84bd7b254a7",
-      "content_checked": "2026-11-20T19:15:33+00:00",
+      "content_checked": "2026-11-22T09:37:07+00:00",
       "changes": [
         {
           "at": "2026-11-20T19:15:33+00:00",
@@ -4578,7 +5446,7 @@
       "kw_sig": "4f53cda18c2b|81436e2b00566dd8db6869bfb52fe8d2db96d8456f9982f0dbd614111325b976|Meer kennis, minder risico: senioren leren online oplichting herkennen|Ruim 300 senioren meldden zich aan voor de bijeenkomst over online veiligheid op donderdag 29 oktober in café De Paus in Lutjebroek. Een mooie opkomst! Onder leiding van Anita Witzier kregen bezoekers uitleg over verschillende vormen van online oplichting. Zo bekeken zij een video van een slachtoffer van bankhelpdeskfraude en…",
       "missing_count": 0,
       "text_hash": "81436e2b00566dd8db6869bfb52fe8d2db96d8456f9982f0dbd614111325b976",
-      "content_checked": "2026-11-20T19:15:31+00:00",
+      "content_checked": "2026-11-22T09:37:06+00:00",
       "changes": [
         {
           "at": "2026-11-20T19:15:31+00:00",
@@ -4735,7 +5603,7 @@
       "last_seen": "2026-11-22",
       "missing_count": 0,
       "text_hash": "89712713adcf1beffc5517cb9b5945160ef688bf86d52ba5af60760e429d2457",
-      "content_checked": "2026-11-20T19:15:30+00:00",
+      "content_checked": "2026-11-22T09:37:04+00:00",
       "kw_sig": "4f53cda18c2b|89712713adcf1beffc5517cb9b5945160ef688bf86d52ba5af60760e429d2457|Beheer voormalige vuilstort Westwoud overgedragen|Jeroen Schilder, voorzitter van Afvalbeheer Westfriesland (ABWF), heeft op 19 november het beheer en de nazorg van de voormalige vuilstortplaats Westwoud symbolisch overgedragen aan Bodemzorg. Overdracht beheer en nazorg De symbolische overdracht vond plaats tijdens een bijeenkomst in de brasserie op de voormalige vuilstort, dat tegenwoordig in gebruik is als…"
     },
     "92a07a564e0a1b06adf2554440061ffa0e10c0e0642fae960cea4b913b190425": {
@@ -4875,7 +5743,7 @@
       "last_seen": "2026-11-22",
       "missing_count": 0,
       "text_hash": "ec2b87c373c0fc2207923b3665d70dd6702a7aa50216b0c0378d5440f2ee9e5f",
-      "content_checked": "2026-11-20T19:15:27+00:00",
+      "content_checked": "2026-11-22T09:37:00+00:00",
       "kw_sig": "4f53cda18c2b|ec2b87c373c0fc2207923b3665d70dd6702a7aa50216b0c0378d5440f2ee9e5f|Parkeergebieden voor betaald parkeren vastgesteld|De volgende stap om de binnenstad aantrekkelijk, bereikbaar en leefbaar te houden is gezet. Het college van burgemeester en wethouders heeft de gebieden vastgesteld waar binnenkort betaald parkeren gaat gelden. Ook heeft het college besloten waar extra plaatsen voor vergunninghouders komen. De verwachting is dat betaald parkeren in het eerste…"
     },
     "f1990837cb52fe198b274f15ba9d64f78e78f79af70fe1ac4f93727339e85158": {
@@ -4895,7 +5763,7 @@
       "last_seen": "2026-11-22",
       "missing_count": 0,
       "text_hash": "0fe4930c6b3dc9df87f479c2efdc0b569f61dcabb5b606fb9926703491083f27",
-      "content_checked": "2026-11-20T19:15:28+00:00",
+      "content_checked": "2026-11-22T09:37:03+00:00",
       "kw_sig": "4f53cda18c2b|0fe4930c6b3dc9df87f479c2efdc0b569f61dcabb5b606fb9926703491083f27|Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten|Van maandag 23 november tot en met woensdag 2 december 2026 voert aannemer KWS Infra werkzaamheden uit aan de Zuider Kadijk. Het gaat om het gedeelte op de brug tussen de kruising met de Barkas en de kruising met Onder Zeil. De klinkervakken op de brug worden opgebroken en opnieuw…"
     },
     "4fa5e9475284b75c2d2524467aac3e3f60944bedcc3b4f4fb749ee6eb342c193": {
@@ -4915,7 +5783,7 @@
       "last_seen": "2026-11-22",
       "missing_count": 0,
       "text_hash": "df50993b8fbdef79de5937ccd02dd5aa403777cd4fdb715b0ea7f445ee541df0",
-      "content_checked": "2026-11-20T19:15:25+00:00",
+      "content_checked": "2026-11-22T09:36:59+00:00",
       "kw_sig": "4f53cda18c2b|df50993b8fbdef79de5937ccd02dd5aa403777cd4fdb715b0ea7f445ee541df0|Werkzaamheden Broekerhavenweg in Bovenkarspel|Van 23 november tot en met 1 december 2026 voert aannemer KWS herstelwerkzaamheden uit aan verschillende klinkervakken in het asfalt van de Broekerhavenweg in Bovenkarspel. Het gaat om de klinkervakken op de Broekerhavenweg tussen huisnummer 163 t/m huisnummer 241. Weg afgesloten voor doorgaand verkeer Tijdens de werkzaamheden is de Broekerhavenweg…"
     },
     "b7d0ad63ac37f01b26a5ae171102e78c815fd8fd1165c8bf84571f10a45fb0c9": {
@@ -4997,614 +5865,6 @@
       "published_at": "2026-11-18T14:23+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||‘Doe es gewoon vrijwillig’: vrijwilligerswerk voor iedereen|"
-    },
-    "cb5aeaf555f5bdbc2bfa0a7f665f73f1450e6bc13ade36e58a9185faf3e78fe1": {
-      "title": "Uitnodiging themamiddag over mantelzorg bij Dementie",
-      "url": "https://www.stedebroec.nl/actueel/uitnodiging-themamiddag-over-mantelzorg-bij-dementie",
-      "source": "Nieuws",
-      "gemeente": "stedebroec",
-      "first_seen": "2026-11-17T17:53:04+00:00",
-      "updated": "2026-11-20T11:15:38+00:00",
-      "last_change": "2026-11-20T11:15:38+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "Stichting Seniorenraad Stede Broec organiseert op de nationale dag van de Mantelzorg een themamiddag over Mantelzorg bij Dementie. Zorgen voor een partner met dementie is emotioneel en fysiek intensief. Naast zorg en ondersteuning thuis, zijn er meer veranderingen in de relatie, zoals veranderd gedrag en last van bijwerking van medicijnen.…",
-      "doc_date": "2026-11-03",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-03T10:04:11+00:00",
-      "last_seen": "2026-11-22",
-      "kw_sig": "4f53cda18c2b|29336b1c56a1a1e1be2580e09d9b8bff2bf241f8235617af613e57529df93cb2|Uitnodiging themamiddag over mantelzorg bij Dementie|Stichting Seniorenraad Stede Broec organiseert op de nationale dag van de Mantelzorg een themamiddag over Mantelzorg bij Dementie. Zorgen voor een partner met dementie is emotioneel en fysiek intensief. Naast zorg en ondersteuning thuis, zijn er meer veranderingen in de relatie, zoals veranderd gedrag en last van bijwerking van medicijnen.…",
-      "missing_count": 0,
-      "text_hash": "29336b1c56a1a1e1be2580e09d9b8bff2bf241f8235617af613e57529df93cb2",
-      "content_checked": "2026-11-20T11:15:38+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:38+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "8 zin(nen) toegevoegd of aangepast, 8 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 1 en 2 december",
-            "18 november 2026",
-            "Veilig fietsen met de Doorfietsroute"
-          ],
-          "removed": [
-            "Sinterklaasintocht Bovenkarspel en Lutjebroek",
-            "5 november 2026",
-            "Gezocht: stembureauleden en stemmentellers"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "27da2db875011e21e5286f20e2bf5967b6442a8fa85343d3c6aa3f937942b3a6": {
-      "title": "Meer kennis, minder risico: senioren leren online oplichting herkennen",
-      "url": "https://www.enkhuizen.nl/actueel/meer-kennis-minder-risico-senioren-leren-online-oplichting-herkennen",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-20T11:15:36+00:00",
-      "last_change": "2026-11-20T11:15:36+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "Ruim 300 senioren meldden zich aan voor de bijeenkomst over online veiligheid op donderdag 29 oktober in café De Paus in Lutjebroek. Een mooie opkomst! Onder leiding van Anita Witzier kregen bezoekers uitleg over verschillende vormen van online oplichting. Zo bekeken zij een video van een slachtoffer van bankhelpdeskfraude en…",
-      "doc_date": "2026-11-03",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-03T09:42:37+00:00",
-      "last_seen": "2026-11-22",
-      "kw_sig": "4f53cda18c2b|160c88bc335146aa75de03dee04b1b2136bc883be42bafa93e3a80cc000a042a|Meer kennis, minder risico: senioren leren online oplichting herkennen|Ruim 300 senioren meldden zich aan voor de bijeenkomst over online veiligheid op donderdag 29 oktober in café De Paus in Lutjebroek. Een mooie opkomst! Onder leiding van Anita Witzier kregen bezoekers uitleg over verschillende vormen van online oplichting. Zo bekeken zij een video van een slachtoffer van bankhelpdeskfraude en…",
-      "missing_count": 0,
-      "text_hash": "160c88bc335146aa75de03dee04b1b2136bc883be42bafa93e3a80cc000a042a",
-      "content_checked": "2026-11-20T11:15:36+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:36+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 25 en 26 november",
-            "18 november 2026",
-            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
-          ],
-          "removed": [
-            "Leer kijken door de ogen van het kind",
-            "3 november 2026",
-            "Topprestaties gezocht!"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "c17ed26da86b161e6777ada548d09b5826c8001df228830c942f6c53b7373513": {
-      "title": "Leer kijken door de ogen van het kind",
-      "url": "https://www.enkhuizen.nl/actueel/leer-kijken-door-de-ogen-van-het-kind",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-20T11:15:34+00:00",
-      "last_change": "2026-11-20T11:15:34+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "Gaat u scheiden, of bent u al gescheiden? En heeft u kinderen? Kom dan langs bij de inspirerende bijeenkomst voor ouders Leer kijken door de ogen van het kind. Twee jongeren met gescheiden ouders delen deze avond hun persoonlijke verhaal met ouders die eraan denken om uit elkaar te gaan…",
-      "doc_date": "2026-11-03",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-03T09:58:00+00:00",
-      "last_seen": "2026-11-22",
-      "kw_sig": "4f53cda18c2b|ad4c430eb9403e8ab2a5a860f0e9061bad12903b140491cf55e8db9e10ebc6ad|Leer kijken door de ogen van het kind|Gaat u scheiden, of bent u al gescheiden? En heeft u kinderen? Kom dan langs bij de inspirerende bijeenkomst voor ouders Leer kijken door de ogen van het kind. Twee jongeren met gescheiden ouders delen deze avond hun persoonlijke verhaal met ouders die eraan denken om uit elkaar te gaan…",
-      "missing_count": 0,
-      "text_hash": "ad4c430eb9403e8ab2a5a860f0e9061bad12903b140491cf55e8db9e10ebc6ad",
-      "content_checked": "2026-11-20T11:15:34+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:34+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 25 en 26 november",
-            "18 november 2026",
-            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
-          ],
-          "removed": [
-            "Meer kennis, minder risico: senioren leren online oplichting herkennen",
-            "3 november 2026",
-            "Topprestaties gezocht!"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "291048c5c9af807aef659df9351b5a064fc3cc4f8ef308a8cae8ecf87bd134fc": {
-      "title": "Meer kennis, minder risico: senioren leren online oplichting herkennen",
-      "url": "https://www.drechterland.nl/actueel/meer-kennis-minder-risico-senioren-leren-online-oplichting-herkennen",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-20T11:15:33+00:00",
-      "last_change": "2026-11-20T11:15:33+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "Ruim 300 senioren meldden zich aan voor de bijeenkomst over online veiligheid op donderdag 29 oktober in café De Paus in Lutjebroek. Een mooie opkomst! Onder leiding van Anita Witzier kregen bezoekers uitleg over verschillende vormen van online oplichting. Zo bekeken zij een video van een slachtoffer van bankhelpdeskfraude en…",
-      "doc_date": "2026-11-03",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-03T09:42:37+00:00",
-      "last_seen": "2026-11-22",
-      "kw_sig": "4f53cda18c2b|d5cf81667ffa1e770c56912659c7efa5f7261b3466dd2e46acbc4d0f4a514a45|Meer kennis, minder risico: senioren leren online oplichting herkennen|Ruim 300 senioren meldden zich aan voor de bijeenkomst over online veiligheid op donderdag 29 oktober in café De Paus in Lutjebroek. Een mooie opkomst! Onder leiding van Anita Witzier kregen bezoekers uitleg over verschillende vormen van online oplichting. Zo bekeken zij een video van een slachtoffer van bankhelpdeskfraude en…",
-      "missing_count": 0,
-      "text_hash": "d5cf81667ffa1e770c56912659c7efa5f7261b3466dd2e46acbc4d0f4a514a45",
-      "content_checked": "2026-11-20T11:15:33+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:33+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 1 en 2 december",
-            "18 november 2026",
-            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
-          ],
-          "removed": [
-            "50 jaar weekmarkt Hoogkarspel",
-            "6 november 2026",
-            "Sloop voormalig dorpshuis De Dregt"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "cae03c5def3dabab26a0fd548604fb6238d654743c87be45004d3a2fc55f6010": {
-      "title": "Groot feest tijdens de Sinterklaasintocht in Enkhuizen",
-      "url": "https://www.enkhuizen.nl/actueel/groot-feest-tijdens-de-sinterklaasintocht-in-enkhuizen",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-20T11:15:31+00:00",
-      "last_change": "2026-11-20T11:15:31+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "De dagen worden korter, de wind blaast door de bomen en de spanning begint langzaam op te lopen. Dat kan maar één ding betekenen: Sinterklaas en zijn Pieten komen weer naar Nederland! Ook dit jaar komen Sint en zijn Pieten naar Enkhuizen voor een feestelijke intocht vol muziek, dans en…",
-      "doc_date": "2026-11-04",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-04T11:15:27+00:00",
-      "last_seen": "2026-11-22",
-      "kw_sig": "4f53cda18c2b|acf84b6cf8308ea94a1ccc7d86c3630b58bf68390c3ecba7557ad82d4841e3d3|Groot feest tijdens de Sinterklaasintocht in Enkhuizen|De dagen worden korter, de wind blaast door de bomen en de spanning begint langzaam op te lopen. Dat kan maar één ding betekenen: Sinterklaas en zijn Pieten komen weer naar Nederland! Ook dit jaar komen Sint en zijn Pieten naar Enkhuizen voor een feestelijke intocht vol muziek, dans en…",
-      "missing_count": 0,
-      "text_hash": "acf84b6cf8308ea94a1ccc7d86c3630b58bf68390c3ecba7557ad82d4841e3d3",
-      "content_checked": "2026-11-20T11:15:31+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:31+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 25 en 26 november",
-            "18 november 2026",
-            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
-          ],
-          "removed": [
-            "Meer kennis, minder risico: senioren leren online oplichting herkennen",
-            "3 november 2026",
-            "Topprestaties gezocht!"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "3ceb9f22b929d6440822effd072bef033f84a4117b600cfdc62bb2a61827ad6d": {
-      "title": "Gezocht: stembureauleden en stemmentellers",
-      "url": "https://www.stedebroec.nl/actueel/gezocht-stembureauleden-en-stemmentellers",
-      "source": "Nieuws",
-      "gemeente": "stedebroec",
-      "first_seen": "2026-11-17T17:53:04+00:00",
-      "updated": "2026-11-20T11:15:29+00:00",
-      "last_change": "2026-11-20T11:15:29+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
-      "doc_date": "2026-11-05",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-05T12:10:09+00:00",
-      "last_seen": "2026-11-22",
-      "kw_sig": "4f53cda18c2b|4681aeb3c01939d66fc1c49be0103865c394e5422df91eb3e1f22144f1814ec5|Gezocht: stembureauleden en stemmentellers|Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
-      "missing_count": 0,
-      "text_hash": "4681aeb3c01939d66fc1c49be0103865c394e5422df91eb3e1f22144f1814ec5",
-      "content_checked": "2026-11-20T11:15:29+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:29+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "8 zin(nen) toegevoegd of aangepast, 8 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 1 en 2 december",
-            "18 november 2026",
-            "Veilig fietsen met de Doorfietsroute"
-          ],
-          "removed": [
-            "Sinterklaasintocht Bovenkarspel en Lutjebroek",
-            "5 november 2026",
-            "Uitnodiging themamiddag over mantelzorg bij Dementie"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "e8e9307611fd5449d736963e9a655bac15ccfb97bef5f4fefa41a699d3571972": {
-      "title": "Sinterklaasintocht Bovenkarspel en Lutjebroek",
-      "url": "https://www.stedebroec.nl/actueel/sinterklaasintocht-bovenkarspel-en-lutjebroek",
-      "source": "Nieuws",
-      "gemeente": "stedebroec",
-      "first_seen": "2026-11-17T17:53:04+00:00",
-      "updated": "2026-11-20T11:15:28+00:00",
-      "last_change": "2026-11-20T11:15:28+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "Sinterklaas en zijn Pieten brengen ook dit jaar weer een bezoek aan Stede Broec. Hieronder vindt u een overzicht van de aankomsttijden en activiteiten. Bovenkarspel Zondag 15 november 2026 zal Bovenkarspel weer in het teken staan van de intocht van Sinterklaas. Om 13.00 uur begint het programma bij het gezellige…",
-      "doc_date": "2026-11-05",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-05T20:50:34+00:00",
-      "last_seen": "2026-11-22",
-      "kw_sig": "4f53cda18c2b|048f018265a2ba239a064b5e63a659194ff3fae4ac017675d38c59d39c369619|Sinterklaasintocht Bovenkarspel en Lutjebroek|Sinterklaas en zijn Pieten brengen ook dit jaar weer een bezoek aan Stede Broec. Hieronder vindt u een overzicht van de aankomsttijden en activiteiten. Bovenkarspel Zondag 15 november 2026 zal Bovenkarspel weer in het teken staan van de intocht van Sinterklaas. Om 13.00 uur begint het programma bij het gezellige…",
-      "missing_count": 0,
-      "text_hash": "048f018265a2ba239a064b5e63a659194ff3fae4ac017675d38c59d39c369619",
-      "content_checked": "2026-11-20T11:15:28+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:28+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "8 zin(nen) toegevoegd of aangepast, 8 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 1 en 2 december",
-            "18 november 2026",
-            "Veilig fietsen met de Doorfietsroute"
-          ],
-          "removed": [
-            "Gezocht: stembureauleden en stemmentellers",
-            "5 november 2026",
-            "Uitnodiging themamiddag over mantelzorg bij Dementie"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "e005d4255f2c82827ce422770c4228a70780ab59341badb072aee256ed4d1e85": {
-      "title": "Gezocht: stembureauleden en stemmentellers",
-      "url": "https://www.enkhuizen.nl/actueel/gezocht-stembureauleden-en-stemmentellers-2",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-20T11:15:26+00:00",
-      "last_change": "2026-11-20T11:15:26+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
-      "doc_date": "2026-11-05",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-05T12:11:14+00:00",
-      "last_seen": "2026-11-22",
-      "kw_sig": "4f53cda18c2b|bc7181e6e077e1462d8684002601367953314226b787cea648a461243a52c5d2|Gezocht: stembureauleden en stemmentellers|Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
-      "missing_count": 0,
-      "text_hash": "bc7181e6e077e1462d8684002601367953314226b787cea648a461243a52c5d2",
-      "content_checked": "2026-11-20T11:15:26+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:26+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 25 en 26 november",
-            "18 november 2026",
-            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
-          ],
-          "removed": [
-            "Meer kennis, minder risico: senioren leren online oplichting herkennen",
-            "3 november 2026",
-            "Topprestaties gezocht!"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "cf25eb2bc50cdd9d9f8f7e9ed61a420327ccaf9a394fed8b2a3f5a6f643b95dc": {
-      "title": "Gezocht: stembureauleden en stemmentellers",
-      "url": "https://www.drechterland.nl/actueel/gezocht-stembureauleden-en-stemmentellers-3",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-20T11:15:24+00:00",
-      "last_change": "2026-11-20T11:15:24+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
-      "doc_date": "2026-11-05",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-05T12:11:55+00:00",
-      "last_seen": "2026-11-22",
-      "kw_sig": "4f53cda18c2b|bef1250f0046b1ea8269f516003a2e55c18a5562816d8e3a4aedf58074df0ef2|Gezocht: stembureauleden en stemmentellers|Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
-      "missing_count": 0,
-      "text_hash": "bef1250f0046b1ea8269f516003a2e55c18a5562816d8e3a4aedf58074df0ef2",
-      "content_checked": "2026-11-20T11:15:24+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:24+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 1 en 2 december",
-            "18 november 2026",
-            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
-          ],
-          "removed": [
-            "50 jaar weekmarkt Hoogkarspel",
-            "6 november 2026",
-            "Sloop voormalig dorpshuis De Dregt"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "3b8ac54974d46f1764278f164c90a15f48b09cd90d7be48eafd3f282c7157dc5": {
-      "title": "Sinterklaas en zijn Pieten komen naar Drechterland",
-      "url": "https://www.drechterland.nl/actueel/sinterklaas-en-zijn-pieten-komen-naar-drechterland",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-20T11:15:22+00:00",
-      "last_change": "2026-11-20T11:15:22+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "Sinterklaas en zijn Pieten brengen ook dit jaar weer een bezoek aan Drechterland. In verschillende dorpen worden feestelijke intochten georganiseerd. Hieronder vindt u een overzicht van de aankomsttijden en activiteiten. Wijdenes, Oosterleek en Venhuizen Zondag 15 november 2026 Sinterklaas en zijn Pieten arriveren om 10.30 uur per boot in het…",
-      "doc_date": "2026-11-05",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-05T20:36:45+00:00",
-      "last_seen": "2026-11-22",
-      "kw_sig": "4f53cda18c2b|9d5cb184eb6a6ecd183fa58863691f35944129d1327d169297efe466e632d75e|Sinterklaas en zijn Pieten komen naar Drechterland|Sinterklaas en zijn Pieten brengen ook dit jaar weer een bezoek aan Drechterland. In verschillende dorpen worden feestelijke intochten georganiseerd. Hieronder vindt u een overzicht van de aankomsttijden en activiteiten. Wijdenes, Oosterleek en Venhuizen Zondag 15 november 2026 Sinterklaas en zijn Pieten arriveren om 10.30 uur per boot in het…",
-      "missing_count": 0,
-      "text_hash": "9d5cb184eb6a6ecd183fa58863691f35944129d1327d169297efe466e632d75e",
-      "content_checked": "2026-11-20T11:15:22+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:22+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 1 en 2 december",
-            "18 november 2026",
-            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
-          ],
-          "removed": [
-            "50 jaar weekmarkt Hoogkarspel",
-            "6 november 2026",
-            "Sloop voormalig dorpshuis De Dregt"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "b6a482116b3dca11ddff08153cc403ac45038bc766d2f99fdb487060351caa50": {
-      "title": "Sloop voormalig dorpshuis De Dregt",
-      "url": "https://www.drechterland.nl/actueel/sloop-voormalig-dorpshuis-de-dregt",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-20T11:15:21+00:00",
-      "last_change": "2026-11-20T11:15:21+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "Het voormalige dorpshuis de Dregt in Schellinkhout wordt gesloopt. Op maandag 16 november 2026 starten de sloopwerkzaamheden. Daarmee wordt een volgende stap gezet in de ontwikkeling van deze locatie. Inmiddels is de bouw van de MFA in Schellinkhout afgerond en de ruimte in gebruik genomen. Voorbereiding en sloop Aannemer Vriend…",
-      "doc_date": "2026-11-06",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-06T11:54:09+00:00",
-      "last_seen": "2026-11-22",
-      "kw_sig": "4f53cda18c2b|a00c162d35e7f82774cb8b0436ac27d886908bc042cc8a97ac3b65b67da21568|Sloop voormalig dorpshuis De Dregt|Het voormalige dorpshuis de Dregt in Schellinkhout wordt gesloopt. Op maandag 16 november 2026 starten de sloopwerkzaamheden. Daarmee wordt een volgende stap gezet in de ontwikkeling van deze locatie. Inmiddels is de bouw van de MFA in Schellinkhout afgerond en de ruimte in gebruik genomen. Voorbereiding en sloop Aannemer Vriend…",
-      "missing_count": 0,
-      "text_hash": "a00c162d35e7f82774cb8b0436ac27d886908bc042cc8a97ac3b65b67da21568",
-      "content_checked": "2026-11-20T11:15:21+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:21+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 1 en 2 december",
-            "18 november 2026",
-            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
-          ],
-          "removed": [
-            "50 jaar weekmarkt Hoogkarspel",
-            "6 november 2026",
-            "Sinterklaas en zijn Pieten komen naar Drechterland"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "6dae518e3aa11eb66caf4da95b3d9d0b74ab7ddd2f20a9b94499411105ecb239": {
-      "title": "50 jaar weekmarkt Hoogkarspel",
-      "url": "https://www.drechterland.nl/actueel/50-jaar-weekmarkt-hoogkarspel-2",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-20T11:15:19+00:00",
-      "last_change": "2026-11-20T11:15:19+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "De Weekmarkt in Hoogkarspel viert dit jaar een bijzonder jubileum. In 1976 werd de markt officieel door de gemeente ingesteld. Daarmee bestaat de markt formeel 50 jaar. Tegelijkertijd weten veel inwoners dat er ook vóór 1976 al marktactiviteiten plaatsvonden in Hoogkarspel. De geschiedenis van de markt gaat verder terug dan…",
-      "doc_date": "2026-11-06",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-06T15:08:55+00:00",
-      "last_seen": "2026-11-22",
-      "kw_sig": "4f53cda18c2b|38b6d895f73936f3eeaf0051ade2e202bb0c95a85a1c4c1c5d973493c23ccef6|50 jaar weekmarkt Hoogkarspel|De Weekmarkt in Hoogkarspel viert dit jaar een bijzonder jubileum. In 1976 werd de markt officieel door de gemeente ingesteld. Daarmee bestaat de markt formeel 50 jaar. Tegelijkertijd weten veel inwoners dat er ook vóór 1976 al marktactiviteiten plaatsvonden in Hoogkarspel. De geschiedenis van de markt gaat verder terug dan…",
-      "missing_count": 0,
-      "text_hash": "38b6d895f73936f3eeaf0051ade2e202bb0c95a85a1c4c1c5d973493c23ccef6",
-      "content_checked": "2026-11-20T11:15:19+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:19+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 1 en 2 december",
-            "18 november 2026",
-            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
-          ],
-          "removed": [
-            "Sloop voormalig dorpshuis De Dregt",
-            "6 november 2026",
-            "Sinterklaas en zijn Pieten komen naar Drechterland"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "d514dcbad405aec017e7f66b5d22e9c31f509e98a83365ba0372d136841239ab": {
-      "title": "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
-      "url": "https://www.stedebroec.nl/actueel/gratis-kennismakingsclinic-frame-schaatsen-in-hoorn",
-      "source": "Nieuws",
-      "gemeente": "stedebroec",
-      "first_seen": "2026-11-17T17:53:04+00:00",
-      "updated": "2026-11-20T11:15:16+00:00",
-      "last_change": "2026-11-20T11:15:16+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "Op zondag 15 november organiseert Stichting het Gehandicapte Kind, samen met DuoSport Hoorn, een gratis kennismakingsclinic Frame Schaatsen op schaatsbaan De Westfries in Hoorn. Met een schaatsframe kunnen ook kinderen voor wie schaatsen op gewone schaatsen moeilijk of niet mogelijk is, het ijs op. Zo kunnen kinderen met en zonder…",
-      "doc_date": "2026-11-09",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-09T10:47:30+00:00",
-      "last_seen": "2026-11-22",
-      "kw_sig": "4f53cda18c2b|4569c6288c17a90a12eab24247a97f9fadf86ba7b4bb5b7341dffcc8144fe73b|Gratis kennismakingsclinic Frame Schaatsen in Hoorn|Op zondag 15 november organiseert Stichting het Gehandicapte Kind, samen met DuoSport Hoorn, een gratis kennismakingsclinic Frame Schaatsen op schaatsbaan De Westfries in Hoorn. Met een schaatsframe kunnen ook kinderen voor wie schaatsen op gewone schaatsen moeilijk of niet mogelijk is, het ijs op. Zo kunnen kinderen met en zonder…",
-      "missing_count": 0,
-      "text_hash": "4569c6288c17a90a12eab24247a97f9fadf86ba7b4bb5b7341dffcc8144fe73b",
-      "content_checked": "2026-11-20T11:15:16+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:16+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "8 zin(nen) toegevoegd of aangepast, 8 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 1 en 2 december",
-            "18 november 2026",
-            "Veilig fietsen met de Doorfietsroute"
-          ],
-          "removed": [
-            "Gezocht: stembureauleden en stemmentellers",
-            "5 november 2026",
-            "Uitnodiging themamiddag over mantelzorg bij Dementie"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "7e42d02a1f51310882647f3586138166c40869f22bd2d0c4be8e7a97f5593666": {
-      "title": "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
-      "url": "https://www.enkhuizen.nl/actueel/gratis-kennismakingsclinic-frame-schaatsen-in-hoorn",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-20T11:15:14+00:00",
-      "last_change": "2026-11-20T11:15:14+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "Op zondag 15 november organiseert Stichting het Gehandicapte Kind, samen met DuoSport Hoorn, een gratis kennismakingsclinic Frame Schaatsen op schaatsbaan De Westfries in Hoorn. Met een schaatsframe kunnen ook kinderen voor wie schaatsen op gewone schaatsen moeilijk of niet mogelijk is, het ijs op. Zo kunnen kinderen met en zonder…",
-      "doc_date": "2026-11-09",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-09T10:47:30+00:00",
-      "last_seen": "2026-11-22",
-      "kw_sig": "4f53cda18c2b|17d76aee1cdc25c8e799896faa87d20582269014531a25dbb80a826098e417e3|Gratis kennismakingsclinic Frame Schaatsen in Hoorn|Op zondag 15 november organiseert Stichting het Gehandicapte Kind, samen met DuoSport Hoorn, een gratis kennismakingsclinic Frame Schaatsen op schaatsbaan De Westfries in Hoorn. Met een schaatsframe kunnen ook kinderen voor wie schaatsen op gewone schaatsen moeilijk of niet mogelijk is, het ijs op. Zo kunnen kinderen met en zonder…",
-      "missing_count": 0,
-      "text_hash": "17d76aee1cdc25c8e799896faa87d20582269014531a25dbb80a826098e417e3",
-      "content_checked": "2026-11-20T11:15:14+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:14+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 25 en 26 november",
-            "18 november 2026",
-            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
-          ],
-          "removed": [
-            "Meer kennis, minder risico: senioren leren online oplichting herkennen",
-            "3 november 2026",
-            "Topprestaties gezocht!"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "a52889bb36a01cf2ab948b0dd6f63d68ea409a2c3aa076e608ff012a5133d63b": {
-      "title": "Enkhuizen verlicht tijdens Lichtjesloop",
-      "url": "https://www.enkhuizen.nl/actueel/enkhuizen-verlicht-tijdens-lichtjesloop",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-20T11:15:11+00:00",
-      "last_change": "2026-11-20T11:15:11+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "Honderden lichtjes, vrolijke wandelaars en een sfeervolle binnenstad. De eerste editie van de Lichtjesloop Enkhuizen bracht maar liefst 600 mensen uit heel Noord-Holland in beweging. Het was koud, maar daar was in De Nieuwe Doelen weinig van te merken. De gezelligheid en alle stralende gezichten zorgden voor meer dan genoeg…",
-      "doc_date": "2026-11-09",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-09T11:25:23+00:00",
-      "last_seen": "2026-11-22",
-      "kw_sig": "4f53cda18c2b|79869b7ed2d0dd03368de3e1611681fc5ed0a83720321e676e09f7ee23454f69|Enkhuizen verlicht tijdens Lichtjesloop|Honderden lichtjes, vrolijke wandelaars en een sfeervolle binnenstad. De eerste editie van de Lichtjesloop Enkhuizen bracht maar liefst 600 mensen uit heel Noord-Holland in beweging. Het was koud, maar daar was in De Nieuwe Doelen weinig van te merken. De gezelligheid en alle stralende gezichten zorgden voor meer dan genoeg…",
-      "missing_count": 0,
-      "text_hash": "79869b7ed2d0dd03368de3e1611681fc5ed0a83720321e676e09f7ee23454f69",
-      "content_checked": "2026-11-20T11:15:11+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:11+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 25 en 26 november",
-            "18 november 2026",
-            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
-          ],
-          "removed": [
-            "Meer kennis, minder risico: senioren leren online oplichting herkennen",
-            "3 november 2026",
-            "Topprestaties gezocht!"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "b9c0a71a17f1a579f7158f272cdc151b994c5de79d57aaa7b8c1c2a7d6c19f23": {
-      "title": "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
-      "url": "https://www.drechterland.nl/actueel/gratis-kennismakingsclinic-frame-schaatsen-in-hoorn",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-20T11:15:07+00:00",
-      "last_change": "2026-11-20T11:15:07+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "Op zondag 15 november organiseert Stichting het Gehandicapte Kind, samen met DuoSport Hoorn, een gratis kennismakingsclinic Frame Schaatsen op schaatsbaan De Westfries in Hoorn. Met een schaatsframe kunnen ook kinderen voor wie schaatsen op gewone schaatsen moeilijk of niet mogelijk is, het ijs op. Zo kunnen kinderen met en zonder…",
-      "doc_date": "2026-11-09",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-09T10:47:30+00:00",
-      "last_seen": "2026-11-22",
-      "kw_sig": "4f53cda18c2b|7e48acd1fee0f1f1536d73d3905180b343138fa06858483abea144834a69894f|Gratis kennismakingsclinic Frame Schaatsen in Hoorn|Op zondag 15 november organiseert Stichting het Gehandicapte Kind, samen met DuoSport Hoorn, een gratis kennismakingsclinic Frame Schaatsen op schaatsbaan De Westfries in Hoorn. Met een schaatsframe kunnen ook kinderen voor wie schaatsen op gewone schaatsen moeilijk of niet mogelijk is, het ijs op. Zo kunnen kinderen met en zonder…",
-      "missing_count": 0,
-      "text_hash": "7e48acd1fee0f1f1536d73d3905180b343138fa06858483abea144834a69894f",
-      "content_checked": "2026-11-20T11:15:07+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:07+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 1 en 2 december",
-            "18 november 2026",
-            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
-          ],
-          "removed": [
-            "Sloop voormalig dorpshuis De Dregt",
-            "6 november 2026",
-            "Sinterklaas en zijn Pieten komen naar Drechterland"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
     },
     "87370879228a4e0c6b77f7efdc790e9374a69c8782eae5947cb64406034c4005": {
       "title": "Griekse en Turkse muziek galmt door Cultureel Centrum Oosterblokker",
@@ -46671,7 +46931,7 @@
       "kind": "vergadering",
       "doc_date": "2026-11-09",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-22",
       "kw_sig": "4f53cda18c2b||Rondetafelgesprekken 9 november 2026 20:00|"
     },
     "7d510b13288751222d86de388c9c361a33c5e496dc5375b7060553efdb8caa46": {
@@ -46753,7 +47013,7 @@
       "excerpt": "Raadsvergadering 2 november 2026 16:30 · agendapunt 1 Opening & vaststelling agenda · Uitnodigingen",
       "missing_count": 0,
       "text_hash": "9f6bff88665b47f79c712960053ceb4c6ba0d5df6f9085486f3b289c3e5385c9",
-      "content_checked": "2026-11-20T19:15:36+00:00",
+      "content_checked": "2026-11-22T09:37:10+00:00",
       "kw_sig": "4f53cda18c2b|9f6bff88665b47f79c712960053ceb4c6ba0d5df6f9085486f3b289c3e5385c9|Uitnodiging raadsvergadering 2 november 2026|Raadsvergadering 2 november 2026 16:30 · agendapunt 1 Opening & vaststelling agenda · Uitnodigingen"
     },
     "b94a304782a6f31bc596957f254c068b48160c421d293143aa48c1ec3ef0ed03": {
@@ -46784,7 +47044,7 @@
       "excerpt": "Raadsvergadering 2 november 2026 16:30 · agendapunt 2 Vaststellen besluitenlijst RTG 19 oktober 2026 · Besluitenlijst",
       "missing_count": 0,
       "text_hash": "8e01dae4efdb87cb171e69a0d974500c58767143d77da6a968c0d1d8ed4d293a",
-      "content_checked": "2026-11-20T19:15:37+00:00",
+      "content_checked": "2026-11-22T09:37:11+00:00",
       "kw_sig": "4f53cda18c2b|8e01dae4efdb87cb171e69a0d974500c58767143d77da6a968c0d1d8ed4d293a|Besluitenlijst Cluster 1 RTG 19 oktober 2026 PB|Raadsvergadering 2 november 2026 16:30 · agendapunt 2 Vaststellen besluitenlijst RTG 19 oktober 2026 · Besluitenlijst"
     },
     "c4c2d96cff066663f5c77b9c3b5432065f4c9cb8bf27106b321749ee3bd64145": {
@@ -46924,7 +47184,7 @@
       "excerpt": "Raadsvergadering 2 november 2026 16:30 · agendapunt 3 Vaststellen Programmabegroting 2027 (2026-50) · Motie",
       "missing_count": 0,
       "file_hash": "f2441a4be93c6df49c2f8e90673c0f383c57b330f18ca3b503aa5364f9b421e5",
-      "content_checked": "2026-11-20T19:15:38+00:00",
+      "content_checked": "2026-11-22T09:37:12+00:00",
       "kw_sig": "4f53cda18c2b||Motie PDL SPD - Versterking van preventie en jongerenwerk binnen de Jeugdzorg (AANGENOMEN)|Raadsvergadering 2 november 2026 16:30 · agendapunt 3 Vaststellen Programmabegroting 2027 (2026-50) · Motie"
     },
     "1070f7c299daafacb05a5d1f3c597fb78e4384c911669ba3af87dee01fcee09e": {
@@ -50715,7 +50975,7 @@
       "excerpt": "Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Bijlage",
       "missing_count": 0,
       "text_hash": "ce1046c36ea3a2d413c5d9d38cb554629b3f314fe468ddef1c337649a2a87698",
-      "content_checked": "2026-11-20T11:14:58+00:00",
+      "content_checked": "2026-11-22T09:36:30+00:00",
       "kw_sig": "4f53cda18c2b|ce1046c36ea3a2d413c5d9d38cb554629b3f314fe468ddef1c337649a2a87698|Bijlage 1 Begroting 2027 Enkhuizen|Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Bijlage"
     },
     "3d328fad75f3c463583c0d528af304ee0098acb2a2a4b480ce14ebc6d6572ac2": {
@@ -50746,7 +51006,7 @@
       "excerpt": "Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Raadsstukken",
       "missing_count": 0,
       "text_hash": "a30d30c4bb3fe37a26eeb329ba2c640b11936ea9b78715b98a95615eb0b1922b",
-      "content_checked": "2026-11-20T11:14:59+00:00",
+      "content_checked": "2026-11-22T09:36:31+00:00",
       "kw_sig": "4f53cda18c2b|a30d30c4bb3fe37a26eeb329ba2c640b11936ea9b78715b98a95615eb0b1922b|Addendum voor begrotingsraadsvergadering 2026|Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Raadsstukken"
     },
     "cbe90d7acaf3f848b94316e3fe909df83536395f43baefc888df3a3479badd7b": {
@@ -50777,7 +51037,7 @@
       "excerpt": "Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Amendement",
       "missing_count": 0,
       "text_hash": "7908e21c51d5ffdbde2fec1e8d5c142f880d85e8a90bf5f71ed9a12b2bebb724",
-      "content_checked": "2026-11-20T11:15:00+00:00",
+      "content_checked": "2026-11-22T09:36:32+00:00",
       "kw_sig": "4f53cda18c2b|7908e21c51d5ffdbde2fec1e8d5c142f880d85e8a90bf5f71ed9a12b2bebb724|7a. Amendement CDA - Beperking extra OZB-verhoging en zorgvuldige inzet Algemene Reserve|Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Amendement"
     },
     "f26901e1ed71c7aebdb505d56735e4e024a2517df4863be3a6bea84003220b42": {
@@ -50808,7 +51068,7 @@
       "excerpt": "Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Motie",
       "missing_count": 0,
       "text_hash": "2fcd9ec3978d411991b69d60654f31d748c75595a1520c4070bf2d2977cdf6fe",
-      "content_checked": "2026-11-20T11:15:01+00:00",
+      "content_checked": "2026-11-22T09:36:33+00:00",
       "kw_sig": "4f53cda18c2b|2fcd9ec3978d411991b69d60654f31d748c75595a1520c4070bf2d2977cdf6fe|7b. Motie - Satéprikker - duidelijker overzicht van alle gemeentelijke projecten|Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Motie"
     },
     "bddcf6ad6d3159de0a9a782cf08216960fb7e90aad4f781c1d19d1c558f028d3": {
@@ -50839,7 +51099,7 @@
       "excerpt": "Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Motie",
       "missing_count": 0,
       "text_hash": "f859ec512e56956d4f8f1fa1417fc3a256d6a38581055f1ff6a56958a65f5fd4",
-      "content_checked": "2026-11-20T11:15:02+00:00",
+      "content_checked": "2026-11-22T09:36:34+00:00",
       "kw_sig": "4f53cda18c2b|f859ec512e56956d4f8f1fa1417fc3a256d6a38581055f1ff6a56958a65f5fd4|7c. Motie EV - Prioriteit voor structurele keuzes|Raadsvergadering 10 november 2026 16:00 · agendapunt 7 Begroting 2027 en meerjarenraming 2028-2030 · Motie"
     },
     "656ca570cabf0df4ebe5d58c2bf6a6057b10572f5602b4094ecb9cfb3023e896": {
@@ -50873,7 +51133,7 @@
       "kind": "vergadering",
       "doc_date": "2026-10-06",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "kw_sig": "4f53cda18c2b||Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00|"
     },
     "2ce65ee2b43cdd3dbab7dbb9a9280927f61ba855811431c9f404c68a0002bb37": {
@@ -60373,7 +60633,7 @@
       "kind": "vergadering",
       "doc_date": "2026-10-27",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "kw_sig": "4f53cda18c2b||Raadsvergadering 27 oktober 2026 20:00|"
     },
     "081918731cd0e2ee86e7c06104717037940a5f9a4fb8ce59e5637db55b7e177f": {
@@ -60400,12 +60660,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "4 Vaststelling van de besluitenlijst gemeenteraad 22 september 2026",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 4 Vaststelling van de besluitenlijst gemeenteraad 22 september 2026 · Besluitenlijst",
       "kw_sig": "4f53cda18c2b|bfef49696c4bb14cb921f77700615fd6a05465c8bd07d6a8c5672a1fe88efe87|2026-09-22 Besluitenlijst raad|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 4 Vaststelling van de besluitenlijst gemeenteraad 22 september 2026 · Besluitenlijst",
       "missing_count": 0,
       "text_hash": "bfef49696c4bb14cb921f77700615fd6a05465c8bd07d6a8c5672a1fe88efe87",
-      "content_checked": "2026-11-20T19:15:57+00:00"
+      "content_checked": "2026-11-22T09:37:28+00:00"
     },
     "4e461d6e5e842262d335e1845f720e98b3547f4364132b969702a789d0a8d63c": {
       "title": "Ingekomen stukken 27 oktober 2026 - raadsBESLUIT",
@@ -60431,12 +60691,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "5 Ingekomen stukken",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 5 Ingekomen stukken · Raadsbesluit",
       "kw_sig": "4f53cda18c2b|0ec76b4bba03bcfb0c0144fcedcdd01912f189992abea31ed4929cb1e2fbc0a8|Ingekomen stukken 27 oktober 2026 - raadsBESLUIT|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 5 Ingekomen stukken · Raadsbesluit",
       "missing_count": 0,
       "text_hash": "0ec76b4bba03bcfb0c0144fcedcdd01912f189992abea31ed4929cb1e2fbc0a8",
-      "content_checked": "2026-11-20T19:15:58+00:00"
+      "content_checked": "2026-11-22T09:37:29+00:00"
     },
     "780c2a127a4282d4b75ad8506d9ed3751576fd4c72ffbcfab556f9c01d752dc7": {
       "title": "Woningbouwproject Stadskade Enkhuizen - raadsVOORSTEL.",
@@ -60467,7 +60727,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|1ed3167d7d750e74fb64b40c3039438e77873eb3119f70e4d8fab1a28b661f62|Woningbouwproject Stadskade Enkhuizen - raadsVOORSTEL.|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -60503,7 +60763,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Raadsbesluit · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|dbea06b4d08850254d4df2916087500dfbad99819dcde77866b4b4056571b482|Woningbouwproject Stadskade Enkhuizen - raadsBESLUIT|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Raadsbesluit · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -60539,7 +60799,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b||Bijlage 1 TAM-omgevingsplan Hfdst 22a - De Stadskade_vaststelling_3|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -60575,7 +60835,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|fc42f0ba1fb393c919e87d34c89d1eee4a99d2cb2c115749fd64316252c692ca|Bijlage 2 Zienswijzennota|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -60611,7 +60871,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|16f23d14251f3948b2c1d49c4a04032c07cff6ea2c45d920e54c0acf5f4d7bd3|Bijlage 3 ambtshalve correcties tov ontwerp|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -60647,7 +60907,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|ab9b64ce7a043a01efe1740bc687fa906890d2aebf21a3546812d78dce880cdd|Bijlage 4 Participatierapport|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -60683,7 +60943,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|e73386d246d6ecb92b628a3ca4bf58b77099109d9c3c5b957dc9d35bee8435d2|Bijlage 5 Bezonningsstudie|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -60714,12 +60974,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "9 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 9 Woningbouwproject Stadskade · Amendement",
       "kw_sig": "4f53cda18c2b|c2316148580c0f0de6023a21295cbde60ac246cdc82d9ff241c4474589903f82|2026-10-26 Amendement SP - Stadskade|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 9 Woningbouwproject Stadskade · Amendement",
       "missing_count": 0,
       "text_hash": "c2316148580c0f0de6023a21295cbde60ac246cdc82d9ff241c4474589903f82",
-      "content_checked": "2026-11-20T19:15:59+00:00"
+      "content_checked": "2026-11-22T09:37:30+00:00"
     },
     "8dc70c8a93cba13b3fecb78b3b89c906f5efe99c520f9f319e924dc25575d749": {
       "title": "Benoeming lid RvT Present - raadsVOORSTEL",
@@ -60745,12 +61005,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsvoorstel",
       "kw_sig": "4f53cda18c2b|1358387867857b55c61a963384bdb533cd4516254baf6097a0d373d7a19dbbb3|Benoeming lid RvT Present - raadsVOORSTEL|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsvoorstel",
       "missing_count": 0,
       "text_hash": "1358387867857b55c61a963384bdb533cd4516254baf6097a0d373d7a19dbbb3",
-      "content_checked": "2026-11-20T19:16:00+00:00"
+      "content_checked": "2026-11-22T09:37:31+00:00"
     },
     "25b544408629a8ca7d144adcf25a397c079d1c5e0192b673ac80307ce17d9840": {
       "title": "Benoeming lid RvT Present - raadsBESLUIT",
@@ -60776,12 +61036,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsbesluit",
       "kw_sig": "4f53cda18c2b|acea2bf04cd8b1b86da4224d87e4fd0e80f1e296a4aff7b35740cc9bd7b6b40c|Benoeming lid RvT Present - raadsBESLUIT|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsbesluit",
       "missing_count": 0,
       "text_hash": "acea2bf04cd8b1b86da4224d87e4fd0e80f1e296a4aff7b35740cc9bd7b6b40c",
-      "content_checked": "2026-11-20T19:16:01+00:00"
+      "content_checked": "2026-11-22T09:37:32+00:00"
     },
     "464221709ee5755fccb76b05c5f9093319993a43e3415019ca5e65ca9a236a34": {
       "title": "Bijlage 1 Voordracht benoeming lid RvT Present",
@@ -60807,12 +61067,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsstukken",
       "kw_sig": "4f53cda18c2b||Bijlage 1 Voordracht benoeming lid RvT Present|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsstukken",
       "missing_count": 0,
       "file_hash": "1283ec6f581bf173abc94232516b06f124a0acc24b14f559b175f10938694b8e",
-      "content_checked": "2026-11-20T19:16:02+00:00"
+      "content_checked": "2026-11-22T09:37:33+00:00"
     },
     "b349fc89cbb043951049adac533acdd2404168984695f72a246e105e5a63cbfc": {
       "title": "Bijlage 2 Profiel lid Raad van Toezicht Stichting Openbaar Onderwijs Present",
@@ -60838,12 +61098,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsstukken",
       "kw_sig": "4f53cda18c2b|8221b46c62e0a394cc748a76b512916b1e7049f37cf0cbe5f9452c8edf6e69d4|Bijlage 2 Profiel lid Raad van Toezicht Stichting Openbaar Onderwijs Present|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsstukken",
       "missing_count": 0,
       "text_hash": "8221b46c62e0a394cc748a76b512916b1e7049f37cf0cbe5f9452c8edf6e69d4",
-      "content_checked": "2026-11-20T19:16:03+00:00"
+      "content_checked": "2026-11-22T09:37:34+00:00"
     },
     "e3736d3f08fe294626e263fde0c029a2d28db8037019b8f4420b6e5fbdc41e62": {
       "title": "Financiële verordening gemeente Enkhuizen 2026 - raadsVOORSTEL",
@@ -60874,7 +61134,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "7 Financiële verordening",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|ec8896aeb22fa05750855d3ea9c289866d5352684b68ef22545dbb5045157821|Financiële verordening gemeente Enkhuizen 2026 - raadsVOORSTEL|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -60910,7 +61170,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "7 Financiële verordening",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Raadsbesluit · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|a171b7b19d81c7a6617d0b9fb8254fbb934f5bd97b79c978b02daa1147cb8065|Financiële verordening gemeente Enkhuizen 2026 - raadsBESLUIT|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Raadsbesluit · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -60946,7 +61206,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "7 Financiële verordening",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|61327ec31410fe2c1c0f6f23ad6960d0c669bced027efb108534ba81c310485c|Bijlage 1 Financiële verordening gemeente Enkhuizen 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -60982,7 +61242,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|e4726185d6d02b8c38680ccc5076b20b4ad77d39162c03be3d00ff4e7098727d|Raadsvoorstel activabeleid 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -61018,7 +61278,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsbesluit · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|973cc8d2234f1e3f29cf82f1b366f873ec7e5744a7a7d3d670db9ca9682a5ead|Raadsbesluit Activabeleid 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsbesluit · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -61054,7 +61314,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|d544483898937ef80aebf5f0928dc19db736c6b204f65a6359228bdb9c77d386|Bijlage 1 Nota Activabeleid 2026 Enkhuizen|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -61090,7 +61350,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|022b14b0620ab1909c40d776ceac83609ccb37f2901f4521b88e7fbce1f7b0b2|Bijlage 2 bij Activanota 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -61126,7 +61386,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsstukken · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|224716fba0ebbceb9565d8458bda09e24786135edf4857c9dd1b537c45c71906|Addendum activabeleid 2026 voor commissie en raadsvergadering 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsstukken · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -61162,7 +61422,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsstukken · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|a91a312860405a320322ed30725e1c1ac4199f5a4e5d60796e5f14f2e7c1fe79|Addendum Bijlage 2 bij Activanota 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsstukken · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -61193,12 +61453,12 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "13 Motie vreemd aan de orde van de dag",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "kw_sig": "4f53cda18c2b|2b401d16069a5e274bb963803ef9c50fee6fdb87bed0593d944e52620b0d042a|2026-10-26 Motie Vreemd HEA - Herplanting bomen op de Vestingwal|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "missing_count": 0,
       "text_hash": "2b401d16069a5e274bb963803ef9c50fee6fdb87bed0593d944e52620b0d042a",
-      "content_checked": "2026-11-20T19:16:05+00:00"
+      "content_checked": "2026-11-22T09:37:35+00:00"
     },
     "ba1134dba880ca9f53f094e0d0402a2da6312e87c811ccfb9f40f6b0d24d36f4": {
       "title": "2026-10-26 Motie Vreemd SP - De toog geen parkeervergunning",
@@ -61224,7 +61484,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "13 Motie vreemd aan de orde van de dag",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "kw_sig": "4f53cda18c2b|93c86ed0f9e4daed5bc165565b1627cc9c9742c0fa0fb7a5d1112d3daa7347cc|2026-10-26 Motie Vreemd SP - De toog geen parkeervergunning|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "missing_count": 0,
@@ -61255,7 +61515,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "13 Motie vreemd aan de orde van de dag",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "kw_sig": "4f53cda18c2b|90e9d8407f3b1a6b388047805bfffc60bc812d2b6540312ce7154e6fd685271b|2026-10-27 Motie Vreemd SGP - Standpuntbepaling cao-inzet functiewaardering griffie|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "missing_count": 0,
@@ -61276,7 +61536,7 @@
       "kind": "vergadering",
       "doc_date": "2026-12-15",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "kw_sig": "4f53cda18c2b||Raadsvergadering 15 december 2026 20:00|"
     },
     "e156f8893c2e1a11d6714d40b6e41c812ee0f9b3c03e42980b0872a09e6c6a7f": {
@@ -68759,14 +69019,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-22T02:00:03+00:00",
+        "checked": "2026-11-22T09:35:24+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "Laatste 30 dagen: 25 van 25 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-22T02:00:07+00:00",
+        "checked": "2026-11-22T09:35:25+00:00",
         "ok": true,
         "count": 63,
         "new": 0,
@@ -68774,23 +69034,23 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-22T02:00:08+00:00",
+        "checked": "2026-11-22T09:35:27+00:00",
         "ok": true,
-        "count": 10,
+        "count": 9,
         "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Stede Broec, Bovenkarspel, Grootebroek, Lutjebroek. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-22T02:00:09+00:00",
+        "checked": "2026-11-22T09:35:28+00:00",
         "ok": true,
         "count": 97,
         "new": 0,
         "note": "Laatste 30 dagen: 97 van 97 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-22T02:02:16+00:00",
+        "checked": "2026-11-22T09:35:47+00:00",
         "ok": true,
         "count": 6,
         "new": 0,
@@ -68798,7 +69058,7 @@
         "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 6 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-23 en 2027-01-06, 93 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-22T02:02:17+00:00",
+        "checked": "2026-11-22T09:35:49+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -68806,23 +69066,23 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-22T02:02:19+00:00",
+        "checked": "2026-11-22T09:35:50+00:00",
         "ok": true,
-        "count": 19,
-        "new": 0,
+        "count": 17,
+        "new": 1,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Enkhuizen. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-22T02:02:20+00:00",
+        "checked": "2026-11-22T09:35:51+00:00",
         "ok": true,
         "count": 51,
         "new": 0,
         "note": "Laatste 30 dagen: 51 van 51 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-22T02:03:10+00:00",
+        "checked": "2026-11-22T09:36:13+00:00",
         "ok": true,
         "count": 6,
         "new": 0,
@@ -68830,7 +69090,7 @@
         "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 6 vergaderpagina's bijgewerkt, 15 vergaderingen tussen 2026-09-23 en 2027-01-06, 131 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-22T02:03:12+00:00",
+        "checked": "2026-11-22T09:36:15+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -68838,16 +69098,16 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-22T02:03:14+00:00",
+        "checked": "2026-11-22T09:36:18+00:00",
         "ok": true,
         "count": 9,
-        "new": 0,
+        "new": 1,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Drechterland, Hem, Hoogkarspel, Oosterblokker, Oosterleek, Schellinkhout, Venhuizen, Westwoud, Wijdenes. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Woo-publicaties": {
-        "checked": "2026-11-22T02:03:22+00:00",
+        "checked": "2026-11-22T09:36:27+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -68855,25 +69115,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-22T02:03:22+00:00",
+        "checked": "2026-11-22T09:36:27+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-22T02:04:46+00:00",
+        "checked": "2026-11-22T09:37:35+00:00",
         "ok": true,
         "count": 50,
         "errors": 0,
-        "note": "50 documenten gecontroleerd (33 pdf), 425 gevolgd (alle gemeenten), 137 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "50 documenten gecontroleerd (16 pdf), 425 gevolgd (alle gemeenten), 237 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer. 2 pdf zonder tekst deze run."
       },
       "Trefwoorden": {
-        "checked": "2026-11-22T02:04:46+00:00",
+        "checked": "2026-11-22T09:37:35+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-22T02:04:46+00:00",
+        "checked": "2026-11-22T09:37:35+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -68908,7 +69168,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/15-december/20:00": {
-        "checked": "2026-11-21T21:50:29+00:00",
+        "checked": "2026-11-22T09:35:45+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-12-15",
@@ -68938,7 +69198,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/27-oktober/20:00": {
-        "checked": "2026-11-21T21:50:30+00:00",
+        "checked": "2026-11-22T09:35:46+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-10-27",
@@ -68990,7 +69250,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Commissie-Sociaal-Domein-Financien-Bedrijfsvoering-SFB/2026/06-oktober/20:00": {
-        "checked": "2026-11-21T21:50:32+00:00",
+        "checked": "2026-11-22T09:35:47+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB",
         "date": "2026-10-06",
@@ -69048,7 +69308,7 @@
         ]
       },
       "/Vergaderingen/Commissie-Bestuur-Openbare-Orde-en-Veiligheid-Erfgoed-Grondgebied-BOEG/2026/30-november/20:00": {
-        "checked": "2026-11-22T02:01:55+00:00",
+        "checked": "2026-11-22T09:35:42+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG",
         "date": "2026-11-30",
@@ -69119,7 +69379,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Commissie-Sociaal-Domein-Financien-Bedrijfsvoering-SFB/2026/01-december/20:00": {
-        "checked": "2026-11-22T02:02:04+00:00",
+        "checked": "2026-11-22T09:35:44+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB",
         "date": "2026-12-01",
@@ -69158,7 +69418,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/24-november/20:00": {
-        "checked": "2026-11-22T02:02:00+00:00",
+        "checked": "2026-11-22T09:35:43+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-11-24",
@@ -69207,7 +69467,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Overige-evenementen/2027/05-januari/20:00": {
-        "checked": "2026-11-21T00:55:43+00:00",
+        "checked": "2026-11-22T09:36:13+00:00",
         "gemeente": "drechterland",
         "type": "Overige evenementen",
         "date": "2027-01-05",
@@ -69312,7 +69572,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/23-november/20:00": {
-        "checked": "2026-11-22T02:02:56+00:00",
+        "checked": "2026-11-22T09:36:07+00:00",
         "gemeente": "drechterland",
         "type": "Raadsvergadering",
         "date": "2026-11-23",
@@ -69384,7 +69644,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Rondetafelgesprekken/2026/30-november/20:00": {
-        "checked": "2026-11-22T02:02:58+00:00",
+        "checked": "2026-11-22T09:36:08+00:00",
         "gemeente": "drechterland",
         "type": "Rondetafelgesprekken",
         "date": "2026-11-30",
@@ -69433,7 +69693,7 @@
         "agenda": []
       },
       "/Vergaderingen/Themabijeenkomst/2026/03-december/20:00": {
-        "checked": "2026-11-22T02:03:08+00:00",
+        "checked": "2026-11-22T09:36:11+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-12-03",
@@ -69463,7 +69723,7 @@
         "tijd": "19:00"
       },
       "/Vergaderingen/Rondetafelgesprekken/2026/09-november/20:00": {
-        "checked": "2026-11-20T19:15:09+00:00",
+        "checked": "2026-11-22T09:36:12+00:00",
         "gemeente": "drechterland",
         "type": "Rondetafelgesprekken",
         "date": "2026-11-09",
@@ -69505,7 +69765,7 @@
         ]
       },
       "/Vergaderingen/Verdiepende-sessie/2026/03-december/20:00": {
-        "checked": "2026-11-22T02:02:52+00:00",
+        "checked": "2026-11-22T09:36:05+00:00",
         "gemeente": "drechterland",
         "type": "Verdiepende sessie",
         "date": "2026-12-03",
@@ -69515,11 +69775,11 @@
       }
     },
     "go_listed": {
-      "enkhuizen": "2026-11-22T02:01:49+00:00",
-      "drechterland": "2026-11-22T02:02:50+00:00"
+      "enkhuizen": "2026-11-22T09:35:41+00:00",
+      "drechterland": "2026-11-22T09:36:05+00:00"
     },
     "elders": {
-      "woo": "2026-11-22T02:03:14+00:00"
+      "woo": "2026-11-22T09:36:18+00:00"
     },
     "termijn_v1": true,
     "keywords": {
