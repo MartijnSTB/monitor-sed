@@ -787,6 +787,8 @@ def collect_go_overzichten(db, gid):
                 if tag:
                     tag.extract()
                 titel = re.sub(r'\s*-\s*$', '', clean(naam.get_text(' ', strip=True)))
+                if re.match(r'format\b', titel, re.I):
+                    continue  # lege sjablonen ('Format MOTIE'), geen stukken
                 url = urllib.parse.urljoin(base, a['href'])
                 meta = {}
                 for mi in li.select('.meta-item'):
@@ -1961,7 +1963,8 @@ def migrate(db):
     db.setdefault('status', {})
     state = db.setdefault('state', {})
     # Nov 2026: bronnen buiten de gemeente uitgezet; hun stukken en status opruimen.
-    for key in [k for k, v in db['items'].items() if v.get('source') in ('Andere overheden', 'Tweede Kamer', 'Rechtspraak')]:
+    for key in [k for k, v in db['items'].items() if v.get('source') in ('Andere overheden', 'Tweede Kamer', 'Rechtspraak')
+                or (v.get('go_seen') and re.match(r'format\b', v.get('title') or '', re.I))]:
         db['items'].pop(key)
     for naam in ('Andere overheden', 'Tweede Kamer', 'Rechtspraak'):
         db['status'].get('algemeen', {}).pop(naam, None)
