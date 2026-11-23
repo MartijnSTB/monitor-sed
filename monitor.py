@@ -801,7 +801,7 @@ def collect_go_overzichten(db, gid):
                 gewijzigd = li.select_one('abbr.date.modified[title]')
                 gewijzigd = nl_datum_titel(gewijzigd['title']) if gewijzigd else None
                 planning = nl_datum_titel(meta.get('Planning'))
-                afgedaan_op = nl_datum_titel(meta.get('Afgedaan')) or (nl_datum_titel(tagtekst.split(':', 1)[1]) if tagtekst.startswith('Afgedaan') else None)
+                afgedaan_op = nl_datum_titel(meta.get('Afgedaan')) or (nl_datum_titel(tagtekst) if tagtekst.startswith('Afgedaan') else None)
                 klassen = li.get('class') or []
                 afgedaan = 'done' in klassen or bool(afgedaan_op)
                 ph = meta.get('Portefeuillehouder(s)')
@@ -842,7 +842,7 @@ def collect_go_overzichten(db, gid):
             errors.append(f'{soort}: {str(exc)[:60]}')
     set_status(db, gid, 'Raadsinstrumenten', ok=not errors, count=total, new=added, error='; '.join(errors)[:250] or None,
                note=f'Overzichten op {base.split("//")[1]}: raadsbrieven (in de kolom College), schriftelijke en technische vragen, '
-                    'moties, amendementen, toezeggingen en ingekomen stukken. Steeds de 20 laatst bijgewerkte per overzicht.')
+                    'moties, amendementen, toezeggingen en ingekomen stukken. Steeds de 10 laatst bijgewerkte per overzicht.')
 
 def collect_go(db, gid):
     cfg = GEMEENTEN[gid]
