@@ -22,6 +22,8 @@ Datum invoer
 2026
 Afzender
 Inwoner Hoorn
+Advies
+Ter afdoening in handen van het college
 Betrokkenen
 Er zijn (nog) geen betrokkenen geselecteerd.
 Documenten
