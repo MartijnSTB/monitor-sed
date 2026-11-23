@@ -5,6 +5,437 @@
     "stedebroec"
   ],
   "items": {
+    "e5de16a13cbf518dd4fdd773b5fffe4471076019acb9d63317f8be673493ce0d": {
+      "title": "Motie \"een aanval op één is een aanval op allen\"",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Motie-een-aanval-op-een-is-een-aanval-op-allen/",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:23+00:00",
+      "updated": "2026-11-23T11:57:23+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Ingekomen stukken",
+      "kind": "raadsinstrument",
+      "afgedaan": false,
+      "rapport": "Ingekomen stukken",
+      "doc_date": "2026-11-18",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "missing_count": 0,
+      "text_hash": "39db2bab7aae45e47a13b8695bd8fa4914cc888b619505bafc74efc76a827f1f",
+      "content_checked": "2026-11-23T11:57:29+00:00",
+      "kw_sig": "4f53cda18c2b|39db2bab7aae45e47a13b8695bd8fa4914cc888b619505bafc74efc76a827f1f|Motie \"een aanval op één is een aanval op allen\"|Ingekomen stukken"
+    },
+    "d69f90faa1f18fc0d196806ca93eab243e789be576fe1ce39eefd30aeec88ea7": {
+      "title": "Mail inzake nieuwbouwplan Zuidereiland Zuiderdracht",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Mail-inzake-nieuwbouwplan-Zuidereiland-Zuiderdracht/",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:23+00:00",
+      "updated": "2026-11-23T11:57:23+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Ingekomen stukken",
+      "kind": "raadsinstrument",
+      "afgedaan": false,
+      "rapport": "Ingekomen stukken",
+      "doc_date": "2026-11-18",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "missing_count": 0,
+      "text_hash": "fbe2df48e21f25938c7de360ed22a11642a82c0934283c65d285c4a2cdedbfc0",
+      "content_checked": "2026-11-23T11:57:29+00:00",
+      "kw_sig": "4f53cda18c2b|fbe2df48e21f25938c7de360ed22a11642a82c0934283c65d285c4a2cdedbfc0|Mail inzake nieuwbouwplan Zuidereiland Zuiderdracht|Ingekomen stukken"
+    },
+    "ec119fe4789aee6a505fb6dcf95da874b88f94e370227d8f9e1ef5cd3784d173": {
+      "title": "Slimme Logistiek - Sterke Gemeente Transport en Logistiek Nederland",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Slimme-Logistiek-Sterke-Gemeente-Transport-en-Logistiek-Nederland/",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:23+00:00",
+      "updated": "2026-11-23T11:57:23+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Ingekomen stukken",
+      "kind": "raadsinstrument",
+      "afgedaan": false,
+      "rapport": "Ingekomen stukken",
+      "doc_date": "2026-11-17",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "missing_count": 0,
+      "text_hash": "1c85512bb02a7164a1627ea9f2a24b2df5a6782dcad222fec4e7bb640d42fa6d",
+      "content_checked": "2026-11-23T11:57:31+00:00",
+      "kw_sig": "4f53cda18c2b|1c85512bb02a7164a1627ea9f2a24b2df5a6782dcad222fec4e7bb640d42fa6d|Slimme Logistiek - Sterke Gemeente Transport en Logistiek Nederland|Ingekomen stukken"
+    },
+    "5fe6c51bf0394071188a28b1732d66737b78ea2680c854ac0c9d07f59f9d12c9": {
+      "title": "Amendement VVD PDL SPD - JGZ locaties (AANGENOMEN)",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Amendement-VVD-PDL-SPD-JGZ-locaties-AANGENOMEN/",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:22+00:00",
+      "updated": "2026-11-23T11:57:22+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Amendement",
+      "kind": "raadsinstrument",
+      "afgedaan": false,
+      "rapport": "Amendement",
+      "doc_date": "2026-11-12",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "motie_status": "Aangenomen",
+      "missing_count": 0,
+      "text_hash": "83ace5dbac802cf08fbcd1327f0b0aaf52139d7a57c37848d0c99c84c869e6dc",
+      "content_checked": "2026-11-23T11:57:36+00:00",
+      "kw_sig": "4f53cda18c2b|83ace5dbac802cf08fbcd1327f0b0aaf52139d7a57c37848d0c99c84c869e6dc|Amendement VVD PDL SPD - JGZ locaties (AANGENOMEN)|Amendement"
+    },
+    "eba910fd9089db5e53e72c0ba17f79795c1d51c64ad3353df3836cd08b9ec814": {
+      "title": "Amendement CDA - behoud JGZ binnen Drechterland (VERWORPEN)",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Amendement-CDA-behoud-JGZ-binnen-Drechterland-VERWORPEN/",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:22+00:00",
+      "updated": "2026-11-23T11:57:22+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Amendement · afgedaan 2026-10-26",
+      "kind": "raadsinstrument",
+      "afgedaan": true,
+      "rapport": "Amendement",
+      "doc_date": "2026-11-12",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "motie_status": "Verworpen",
+      "missing_count": 0,
+      "text_hash": "e3f714a3ff44b1a25c737fb90cdf5bb3782828b24cd6d22902accdd4644cddd6",
+      "content_checked": "2026-11-23T11:57:37+00:00",
+      "kw_sig": "4f53cda18c2b|e3f714a3ff44b1a25c737fb90cdf5bb3782828b24cd6d22902accdd4644cddd6|Amendement CDA - behoud JGZ binnen Drechterland (VERWORPEN)|Amendement · afgedaan 2026-10-26"
+    },
+    "4d233e0c38651780c402223f912b62007a86855f6d6e34605eb0621673a89b66": {
+      "title": "Amendement locatiekeuze JGZ CDA",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Amendement-locatiekeuze-JGZ-CDA/",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:22+00:00",
+      "updated": "2026-11-23T11:57:22+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Amendement · portefeuillehouder Sjon Wagenaar",
+      "kind": "raadsinstrument",
+      "afgedaan": false,
+      "rapport": "Amendement",
+      "doc_date": "2026-10-22",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "missing_count": 0,
+      "text_hash": "060d7b8d198ddb680d30714fcb7e7974e3faa8d6f7ff5be58218bcde8525e9fc",
+      "content_checked": "2026-11-23T11:58:05+00:00",
+      "kw_sig": "4f53cda18c2b|060d7b8d198ddb680d30714fcb7e7974e3faa8d6f7ff5be58218bcde8525e9fc|Amendement locatiekeuze JGZ CDA|Amendement · portefeuillehouder Sjon Wagenaar"
+    },
+    "a9f5fcb7838d105297e1d191b8ecc818eadc114dec969ab77ffe21c3c1655a90": {
+      "title": "Format AMENDEMENT",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Format-AMENDEMENT/",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:22+00:00",
+      "updated": "2026-11-23T11:57:22+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Amendement",
+      "kind": "raadsinstrument",
+      "afgedaan": false,
+      "rapport": "Amendement",
+      "doc_date": "2026-09-02",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "kw_sig": "4f53cda18c2b||Format AMENDEMENT|Amendement"
+    },
+    "739eb40fbbc1aa53ce417a3971e785b382683256ef423ec8c44f225ff6dacf83": {
+      "title": "Test amendement",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Test-amendement/",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:22+00:00",
+      "updated": "2026-11-23T11:57:22+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Amendement",
+      "kind": "raadsinstrument",
+      "afgedaan": false,
+      "rapport": "Amendement",
+      "doc_date": "2026-09-01",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "kw_sig": "4f53cda18c2b||Test amendement|Amendement"
+    },
+    "d85838b3c052bc1ba445679fd8829475eef0f3d41eb7095bdfb14142768d8dfe": {
+      "title": "Motie Vreemd CDA alternatieve huisvesting Jeugdgezondheidszorg binnen Drechterland",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Motie-Vreemd-CDA-alternatieve-huisvesting-Jeugdgezondheidszorg-binnen-Drechterland/",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:21+00:00",
+      "updated": "2026-11-23T11:57:21+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Motie",
+      "kind": "raadsinstrument",
+      "afgedaan": false,
+      "rapport": "Motie",
+      "doc_date": "2026-11-12",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "missing_count": 0,
+      "text_hash": "5469d6116bc8e487997be583e16413381dbc59a7c968b01546430d9f5ce4dd5d",
+      "content_checked": "2026-11-23T11:57:35+00:00",
+      "kw_sig": "4f53cda18c2b|5469d6116bc8e487997be583e16413381dbc59a7c968b01546430d9f5ce4dd5d|Motie Vreemd CDA alternatieve huisvesting Jeugdgezondheidszorg binnen Drechterland|Motie"
+    },
+    "d0abd1095b025647c03e0d2e98053c501abc7a17b441265fe51585fef3be7adb": {
+      "title": "Motie Minder vrachtverkeer door het centrum van Venhuizen2 (PDL, CDA) (AANGENOMEN)",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Motie-Minder-vrachtverkeer-door-het-centrum-van-Venhuizen2-PDL-CDA-AANGENOMEN/",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:21+00:00",
+      "updated": "2026-11-23T11:57:21+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Motie",
+      "kind": "raadsinstrument",
+      "afgedaan": false,
+      "rapport": "Motie",
+      "doc_date": "2026-11-12",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "motie_status": "Aangenomen",
+      "missing_count": 0,
+      "text_hash": "119ce16202d6638df16c3166c97bff31e97654b00feb90e711c390d93e5eac22",
+      "content_checked": "2026-11-23T11:57:35+00:00",
+      "kw_sig": "4f53cda18c2b|119ce16202d6638df16c3166c97bff31e97654b00feb90e711c390d93e5eac22|Motie Minder vrachtverkeer door het centrum van Venhuizen2 (PDL, CDA) (AANGENOMEN)|Motie"
+    },
+    "24e8bb0e417fdfbe06c2e54aaf9aac34bb1c53e93dabd016a6d3f5fa815e61b1": {
+      "title": "Format MOTIE (DL)",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Format-MOTIE-DL/",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:21+00:00",
+      "updated": "2026-11-23T11:57:21+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Motie",
+      "kind": "raadsinstrument",
+      "afgedaan": false,
+      "rapport": "Motie",
+      "doc_date": "2026-09-02",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "kw_sig": "4f53cda18c2b||Format MOTIE (DL)|Motie"
+    },
+    "63ac3ae1e7208f24fb24ca6fb59b13b173b8072aa005517d13524f3e21a9043c": {
+      "title": "Raadsbrief Beantwoording raadsvragen CDA over de Nieuweweg",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Raadsbrief-Beantwoording-raadsvragen-CDA-over-de-Nieuweweg/",
+      "source": "Collegebesluiten",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:18+00:00",
+      "updated": "2026-11-23T11:57:18+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Raadsbrief",
+      "kind": "raadsbrief",
+      "afgedaan": false,
+      "rapport": "Raadsbrief",
+      "doc_date": "2026-11-17",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "missing_count": 0,
+      "text_hash": "65094a5020c33384822747141bef1243868d0677010d855d1560766d4e3a709e",
+      "content_checked": "2026-11-23T11:57:30+00:00",
+      "kw_sig": "4f53cda18c2b|65094a5020c33384822747141bef1243868d0677010d855d1560766d4e3a709e|Raadsbrief Beantwoording raadsvragen CDA over de Nieuweweg|Raadsbrief"
+    },
+    "fc8d0ef85e2caab320d9c99722940b27925791b0cde03963656605657955e155": {
+      "title": "Raadsbrief Haalbaarheidsonderzoek uitbreiding vaarnetwerk Westfriesland",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Raadsbrief-Haalbaarheidsonderzoek-uitbreiding-vaarnetwerk-Westfriesland/",
+      "source": "Collegebesluiten",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:18+00:00",
+      "updated": "2026-11-23T11:57:18+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Raadsbrief · afgedaan 2026-11-12",
+      "kind": "raadsbrief",
+      "afgedaan": true,
+      "rapport": "Raadsbrief",
+      "doc_date": "2026-11-12",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "missing_count": 0,
+      "text_hash": "8ab6caece1250ad5f329f024f0a613e01f71ae014900a686c8321d7f9affdf6a",
+      "content_checked": "2026-11-23T11:57:33+00:00",
+      "kw_sig": "4f53cda18c2b|8ab6caece1250ad5f329f024f0a613e01f71ae014900a686c8321d7f9affdf6a|Raadsbrief Haalbaarheidsonderzoek uitbreiding vaarnetwerk Westfriesland|Raadsbrief · afgedaan 2026-11-12"
+    },
+    "38c929637027af16f29a2703e0c09c131ebf00e1a637b60372d63fd90276763d": {
+      "title": "Raadsbrief vastgesteld Uitvoeringsplan Gladheidsbestrijding",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Raadsbrief-vastgesteld-Uitvoeringsplan-Gladheidsbestrijding/",
+      "source": "Collegebesluiten",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:18+00:00",
+      "updated": "2026-11-23T11:57:18+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Raadsbrief · afgedaan 2026-11-12",
+      "kind": "raadsbrief",
+      "afgedaan": true,
+      "rapport": "Raadsbrief",
+      "doc_date": "2026-11-12",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "missing_count": 0,
+      "text_hash": "576a3669f3fb0f67a7619d8758bb37de1666a16326cc987b46d440d27e83d014",
+      "content_checked": "2026-11-23T11:57:34+00:00",
+      "kw_sig": "4f53cda18c2b|576a3669f3fb0f67a7619d8758bb37de1666a16326cc987b46d440d27e83d014|Raadsbrief vastgesteld Uitvoeringsplan Gladheidsbestrijding|Raadsbrief · afgedaan 2026-11-12"
+    },
+    "d7007e1281bf7bd7c2de926a47cc7857a385aeb055e5d717ba86ddcf061fe685": {
+      "title": "Raadsbrief Energiebesparingsakkoord",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Raadsbrief-Energiebesparingsakkoord/",
+      "source": "Collegebesluiten",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:18+00:00",
+      "updated": "2026-11-23T11:57:18+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Raadsbrief",
+      "kind": "raadsbrief",
+      "afgedaan": false,
+      "rapport": "Raadsbrief",
+      "doc_date": "2026-11-11",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "missing_count": 0,
+      "text_hash": "ee3f0eb92c60fe4f7a2d8f4d7a9d1fbd8f80d0c080c59f82f19b6d23de801950",
+      "content_checked": "2026-11-23T11:57:38+00:00",
+      "kw_sig": "4f53cda18c2b|ee3f0eb92c60fe4f7a2d8f4d7a9d1fbd8f80d0c080c59f82f19b6d23de801950|Raadsbrief Energiebesparingsakkoord|Raadsbrief"
+    },
+    "a07a3496c08282a83274162f079fc4518678f0ef7d650472646622e001ab7752": {
+      "title": "Raadsbrief Stand van zaken aanbevelingen rekenkamercommissie Jeugd",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Raadsbrief-Stand-van-zaken-aanbevelingen-rekenkamercommissie-Jeugd/",
+      "source": "Collegebesluiten",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:18+00:00",
+      "updated": "2026-11-23T11:57:18+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Raadsbrief",
+      "kind": "raadsbrief",
+      "afgedaan": false,
+      "rapport": "Raadsbrief",
+      "doc_date": "2026-11-11",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "missing_count": 0,
+      "text_hash": "f8d7cc8159a4c18cbd9310bfbe07303891f1fb097335a8dce0f04d1d7becb80d",
+      "content_checked": "2026-11-23T11:57:39+00:00",
+      "kw_sig": "4f53cda18c2b|f8d7cc8159a4c18cbd9310bfbe07303891f1fb097335a8dce0f04d1d7becb80d|Raadsbrief Stand van zaken aanbevelingen rekenkamercommissie Jeugd|Raadsbrief"
+    },
+    "aac1cd7a83a9cb358ff3b66e5a99094f51a139ba1b2c77905830322a4dd35e59": {
+      "title": "Raadsbrief CUP-proces",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Raadsbrief-CUP-proces/",
+      "source": "Collegebesluiten",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:18+00:00",
+      "updated": "2026-11-23T11:57:18+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Raadsbrief",
+      "kind": "raadsbrief",
+      "afgedaan": false,
+      "rapport": "Raadsbrief",
+      "doc_date": "2026-11-11",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "missing_count": 0,
+      "text_hash": "f29c8b90f057b581b2bdd182faa5eee2888a13cf9d313a768fa208a97e3a8b71",
+      "content_checked": "2026-11-23T11:57:40+00:00",
+      "kw_sig": "4f53cda18c2b|f29c8b90f057b581b2bdd182faa5eee2888a13cf9d313a768fa208a97e3a8b71|Raadsbrief CUP-proces|Raadsbrief"
+    },
+    "ff0d6d4974cba8b4e6f6037685268551011c6717db3acc3c080d49733c157b92": {
+      "title": "Raadsbrief aanvraag omgevingsvergunning asielopvanglocatie door het COA",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Raadsbrief-aanvraag-omgevingsvergunning-asielopvanglocatie-door-het-COA/",
+      "source": "Collegebesluiten",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T11:57:18+00:00",
+      "updated": "2026-11-23T11:57:18+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Raadsbrief",
+      "kind": "raadsbrief",
+      "afgedaan": false,
+      "rapport": "Raadsbrief",
+      "doc_date": "2026-11-11",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "missing_count": 0,
+      "text_hash": "b39e97fe698ffc806e90919b2366ff77dcf2991e5446a97765fbbaf1efd50f58",
+      "content_checked": "2026-11-23T11:57:40+00:00",
+      "kw_sig": "4f53cda18c2b|b39e97fe698ffc806e90919b2366ff77dcf2991e5446a97765fbbaf1efd50f58|Raadsbrief aanvraag omgevingsvergunning asielopvanglocatie door het COA|Raadsbrief"
+    },
+    "864417715d5fdab7933d2d9bb7f793e1de25bbafd57fcaa552bbc33799c5f6a5": {
+      "title": "Raadsbrief Enkhuizen Stand van Zaken rekenkamercommissie rapport Jeugdhulp in zeven Westfriese gemeenten",
+      "url": "https://gemeenteraad.enkhuizen.nl/Overzichten/stukken/Raadsbrief-Enkhuizen-Stand-van-Zaken-rekenkamercommissie-rapport-Jeugdhulp-in-zeven-Westfriese-gemeenten/",
+      "source": "Collegebesluiten",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-23T11:57:07+00:00",
+      "updated": "2026-11-23T11:57:07+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Raadsbrief",
+      "kind": "raadsbrief",
+      "afgedaan": false,
+      "rapport": "Raadsbrief",
+      "doc_date": "2026-11-12",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-23",
+      "go_seen": true,
+      "missing_count": 0,
+      "text_hash": "e797117456876e3d1d0b151a6b49f7a1730632b1d9695e013c21a73a27d5d18d",
+      "content_checked": "2026-11-23T11:57:32+00:00",
+      "kw_sig": "4f53cda18c2b|e797117456876e3d1d0b151a6b49f7a1730632b1d9695e013c21a73a27d5d18d|Raadsbrief Enkhuizen Stand van Zaken rekenkamercommissie rapport Jeugdhulp in zeven Westfriese gemeenten|Raadsbrief"
+    },
     "d10f456b947e7675d03ab4cc8c3f67ddabc5689dad784626c09e2c8e0c76ee43": {
       "title": "Bezwaar tegen woningbouw op het agrarische perceel Zuiderdracht Oosterblokker",
       "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Bezwaar-tegen-woningbouw-op-het-agrarische-perceel-Zuiderdracht-Oosterblokker/",
@@ -393,7 +824,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Technische vraag PDL Vaststellen Programmabegroting 2027|Technische vragen · portefeuillehouder Idso Brouwer · afgedaan 2026-10-28"
+      "kw_sig": "4f53cda18c2b|e33b7fb08038ce365ac92f358f3bfae4ed386740c37b2d12a8d4cab8946921d4|Technische vraag PDL Vaststellen Programmabegroting 2027|Technische vragen · portefeuillehouder Idso Brouwer · afgedaan 2026-10-28",
+      "missing_count": 0,
+      "text_hash": "e33b7fb08038ce365ac92f358f3bfae4ed386740c37b2d12a8d4cab8946921d4",
+      "content_checked": "2026-11-23T11:57:57+00:00"
     },
     "0d6b5f9ba0b099b5337d532ea61fa7ec4d7eb7d183ff04575fdd303a481b789b": {
       "title": "Technische vragen VVD Begroting 2027",
@@ -413,7 +847,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Technische vragen VVD Begroting 2027|Technische vragen · portefeuillehouder Idso Brouwer · afgedaan 2026-10-28"
+      "kw_sig": "4f53cda18c2b|b32650d5c7ded5df68425b26a7d4d623e71861e16a5871a4bef435edba7e2be8|Technische vragen VVD Begroting 2027|Technische vragen · portefeuillehouder Idso Brouwer · afgedaan 2026-10-28",
+      "missing_count": 0,
+      "text_hash": "b32650d5c7ded5df68425b26a7d4d623e71861e16a5871a4bef435edba7e2be8",
+      "content_checked": "2026-11-23T11:57:58+00:00"
     },
     "d3437e4a479b39cea31b33ad8462f5ba3819feba5e9e801524c62b21c3788049": {
       "title": "Technische vragen PDL Programmabegroting 2027",
@@ -433,7 +870,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Technische vragen PDL Programmabegroting 2027|Technische vragen · portefeuillehouder Idso Brouwer · afgedaan 2026-10-28"
+      "kw_sig": "4f53cda18c2b|d55876f63a0f3f05e404c993ab8da2745b2bf92a95923e4bed6e66ae7506f660|Technische vragen PDL Programmabegroting 2027|Technische vragen · portefeuillehouder Idso Brouwer · afgedaan 2026-10-28",
+      "missing_count": 0,
+      "text_hash": "d55876f63a0f3f05e404c993ab8da2745b2bf92a95923e4bed6e66ae7506f660",
+      "content_checked": "2026-11-23T11:57:59+00:00"
     },
     "33ad6280a8087a28e923f9d7669202ea2832ca47b371e5d920fdce7c434db4ce": {
       "title": "TV JGZ financiering en financiele verwerking herhuisvesting R.Hof",
@@ -453,7 +893,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||TV JGZ financiering en financiele verwerking herhuisvesting R.Hof|Technische vragen · portefeuillehouder Sjon Wagenaar · afgedaan 2026-10-26"
+      "kw_sig": "4f53cda18c2b|a5957cf02d5ea4d7d4d2bef750fcf824488a7390aa7dba948d8ebe26bc53551b|TV JGZ financiering en financiele verwerking herhuisvesting R.Hof|Technische vragen · portefeuillehouder Sjon Wagenaar · afgedaan 2026-10-26",
+      "missing_count": 0,
+      "text_hash": "a5957cf02d5ea4d7d4d2bef750fcf824488a7390aa7dba948d8ebe26bc53551b",
+      "content_checked": "2026-11-23T11:58:00+00:00"
     },
     "8c9b9b8f5d88bfc5096a42ebcafda5336692a426056d9c56e5043d3b5854b3fb": {
       "title": "TV CDA JGZ wettelijke eisen of niet",
@@ -472,7 +915,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||TV CDA JGZ wettelijke eisen of niet|Technische vragen · portefeuillehouder Sjon Wagenaar"
+      "kw_sig": "4f53cda18c2b|be01ecd714933d880cffd5c094126478a071d95bb3196e1901af538472e507a2|TV CDA JGZ wettelijke eisen of niet|Technische vragen · portefeuillehouder Sjon Wagenaar",
+      "missing_count": 0,
+      "text_hash": "be01ecd714933d880cffd5c094126478a071d95bb3196e1901af538472e507a2",
+      "content_checked": "2026-11-23T11:58:05+00:00"
     },
     "dec0ac7b804556624c11eb3d5700084c6fdc67cebfbdd78a4f11797aa72a3e83": {
       "title": "Schriftelijke vragen Progressief Drechterland verkeersveiligheid Hemmerbuurt",
@@ -580,7 +1026,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Schriftelijke vragen CDA – Overlast en vernielingen Hoogkarspel|Schriftelijke vragen · portefeuillehouder Bram Diepstraten"
+      "kw_sig": "4f53cda18c2b|b45ddcf6d2a02ece9fa348a698d7c24145c63dfd1e2e0aad93f90f33ab237c8b|Schriftelijke vragen CDA – Overlast en vernielingen Hoogkarspel|Schriftelijke vragen · portefeuillehouder Bram Diepstraten",
+      "missing_count": 0,
+      "text_hash": "b45ddcf6d2a02ece9fa348a698d7c24145c63dfd1e2e0aad93f90f33ab237c8b",
+      "content_checked": "2026-11-23T11:57:41+00:00"
     },
     "d5f594db4c9ad443d162137095be5f6f12e1d9f484dbd2c524f0417d14010ac8": {
       "title": "PDL Schriftelijke vragen betreffende het rooien van het Voedselbos in Schellinkhout.",
@@ -600,7 +1049,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||PDL Schriftelijke vragen betreffende het rooien van het Voedselbos in Schellinkhout.|Schriftelijke vragen · portefeuillehouder Sjon Wagenaar · afgedaan 2026-11-06"
+      "kw_sig": "4f53cda18c2b|e76b9288126336bff41d6402f6b3a0acc55f92219795e071c6018bc23193696b|PDL Schriftelijke vragen betreffende het rooien van het Voedselbos in Schellinkhout.|Schriftelijke vragen · portefeuillehouder Sjon Wagenaar · afgedaan 2026-11-06",
+      "missing_count": 0,
+      "text_hash": "e76b9288126336bff41d6402f6b3a0acc55f92219795e071c6018bc23193696b",
+      "content_checked": "2026-11-23T11:57:42+00:00"
     },
     "36f14c65a0823398b99add882815e42c0d253cc5449ffa3da73f6055365322e9": {
       "title": "Schriftelijke vragen VVD Verkeerssituatie bij de Westwijzer",
@@ -620,7 +1072,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Schriftelijke vragen VVD Verkeerssituatie bij de Westwijzer|Schriftelijke vragen · portefeuillehouder M.H. Have · afgedaan 2026-11-05"
+      "kw_sig": "4f53cda18c2b|fe33782e67a9961f7799e9f6ecbfc20ab0c644c3cb0ca7ae188b12030b084d08|Schriftelijke vragen VVD Verkeerssituatie bij de Westwijzer|Schriftelijke vragen · portefeuillehouder M.H. Have · afgedaan 2026-11-05",
+      "missing_count": 0,
+      "text_hash": "fe33782e67a9961f7799e9f6ecbfc20ab0c644c3cb0ca7ae188b12030b084d08",
+      "content_checked": "2026-11-23T11:57:46+00:00"
     },
     "80e929d57d7287b8cda916d1a426712bf2fa861db5c5c9f83ca1a45920bcba11": {
       "title": "Schriftelijke vragen CDA gewichtsbeperking Houtribdijk",
@@ -640,7 +1095,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Schriftelijke vragen CDA gewichtsbeperking Houtribdijk|Schriftelijke vragen · portefeuillehouder Idso Brouwer · afgedaan 2026-11-05"
+      "kw_sig": "4f53cda18c2b|88679a376aef494af5665088e6fc7f81d1363661182fd3bb363e60bf5bca6145|Schriftelijke vragen CDA gewichtsbeperking Houtribdijk|Schriftelijke vragen · portefeuillehouder Idso Brouwer · afgedaan 2026-11-05",
+      "missing_count": 0,
+      "text_hash": "88679a376aef494af5665088e6fc7f81d1363661182fd3bb363e60bf5bca6145",
+      "content_checked": "2026-11-23T11:57:46+00:00"
     },
     "ffb3efa388e6ec414eab07eb16c6a83e9d870d777738a48bae21b04370df1e2f": {
       "title": "Schriftelijke vragen GBD - (Her)inrichtingSchoolzones",
@@ -660,7 +1118,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Schriftelijke vragen GBD - (Her)inrichtingSchoolzones|Schriftelijke vragen · portefeuillehouder M.H. Have · afgedaan 2026-11-05"
+      "kw_sig": "4f53cda18c2b|90da0df835fc890c7869cb6b2970e0971eea31ceba568d932b9dcf1911ec7920|Schriftelijke vragen GBD - (Her)inrichtingSchoolzones|Schriftelijke vragen · portefeuillehouder M.H. Have · afgedaan 2026-11-05",
+      "missing_count": 0,
+      "text_hash": "90da0df835fc890c7869cb6b2970e0971eea31ceba568d932b9dcf1911ec7920",
+      "content_checked": "2026-11-23T11:57:47+00:00"
     },
     "646fd4240ea5c17215a956082f1cc938b92c560679dc504d0618121d7e3f4ae5": {
       "title": "Schriftelijke vragen PDL over kostenverhaal bij nieuwbouwprojecten",
@@ -680,7 +1141,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Schriftelijke vragen PDL over kostenverhaal bij nieuwbouwprojecten|Schriftelijke vragen · portefeuillehouder M.H. Have · afgedaan 2026-10-28"
+      "kw_sig": "4f53cda18c2b|b34c5aaa18002c40a653bd7f84905b7ca4c8dd2153204a4fd983ba5a61d0feac|Schriftelijke vragen PDL over kostenverhaal bij nieuwbouwprojecten|Schriftelijke vragen · portefeuillehouder M.H. Have · afgedaan 2026-10-28",
+      "missing_count": 0,
+      "text_hash": "b34c5aaa18002c40a653bd7f84905b7ca4c8dd2153204a4fd983ba5a61d0feac",
+      "content_checked": "2026-11-23T11:57:55+00:00"
     },
     "ad0545e20a9e0706fdcbff9f8f89e7633a6f562cd786a3b7a54aca661a4b4d30": {
       "title": "Raadsbrief Cliëntgebonden Kosten",
@@ -996,7 +1460,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||10. Ledenbrief VNG - Lbr. 26/044 - Model Algemene plaatselijke verordening (nieuw model, november 2026)|Ingekomen stukken · afgedaan 2026-11-24"
+      "kw_sig": "4f53cda18c2b|6fb98828bf7bf413d053591e8da75af6c86f9925f5cd95d105056c6ffebfdaca|10. Ledenbrief VNG - Lbr. 26/044 - Model Algemene plaatselijke verordening (nieuw model, november 2026)|Ingekomen stukken · afgedaan 2026-11-24",
+      "missing_count": 0,
+      "text_hash": "6fb98828bf7bf413d053591e8da75af6c86f9925f5cd95d105056c6ffebfdaca",
+      "content_checked": "2026-11-23T11:57:48+00:00"
     },
     "c781f57d84f141cd27cb7cd99d41973f3278095ddf6e366a0397bb76e413584b": {
       "title": "Opdracht voor de herijking van het Sociaal Domein Enkhuizen 2026-2040",
@@ -1039,7 +1506,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Toezegging POET-lijsten|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|6463f31824edecead6545946f5e53f08ac54e2adede5853c0453295ceb6441c5|Toezegging POET-lijsten|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "6463f31824edecead6545946f5e53f08ac54e2adede5853c0453295ceb6441c5",
+      "content_checked": "2026-11-23T11:58:08+00:00"
     },
     "7d1719293d787179f49f0b4c77f942a0b5f457710be13d937f2bd982e9dd2160": {
       "title": "Toezegging afschrift bewonersbrief",
@@ -1059,7 +1529,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Toezegging afschrift bewonersbrief|Toezeggingen · afgedaan 2026-10-08"
+      "kw_sig": "4f53cda18c2b|e9066d86fae0cf8f409ce09f9abdcec8671143369f9a440ad358f9077ba1f628|Toezegging afschrift bewonersbrief|Toezeggingen · afgedaan 2026-10-08",
+      "missing_count": 0,
+      "text_hash": "e9066d86fae0cf8f409ce09f9abdcec8671143369f9a440ad358f9077ba1f628",
+      "content_checked": "2026-11-23T11:58:09+00:00"
     },
     "d9753187adbf8ff455a30abcbd5ccc08ba591d0d6da7d06ab9e71ad80a527ea7": {
       "title": "Amendement CDA - Beperking extra OZB-verhoging en zorgvuldige inzet Algemene Reserve",
@@ -1079,7 +1552,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Amendement CDA - Beperking extra OZB-verhoging en zorgvuldige inzet Algemene Reserve|Amendement"
+      "kw_sig": "4f53cda18c2b|d0a118b7bd2e9db946d08229594d65b5f273d0b7f0b538c72531af009b886677|Amendement CDA - Beperking extra OZB-verhoging en zorgvuldige inzet Algemene Reserve|Amendement",
+      "missing_count": 0,
+      "text_hash": "d0a118b7bd2e9db946d08229594d65b5f273d0b7f0b538c72531af009b886677",
+      "content_checked": "2026-11-23T11:57:43+00:00"
     },
     "e07428497916c20595dcb9b96075eaaa0b4bec6523979353058c34ba07d7e023": {
       "title": "Amendement SP - Stadskade",
@@ -1099,7 +1575,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Amendement SP - Stadskade|Amendement · portefeuillehouder H.P.F. Nederpelt · planning 2026-10-27"
+      "kw_sig": "4f53cda18c2b|b3e797c0a230435a91454f72c085e96c704092bef7dd93573976a521d284e9c9|Amendement SP - Stadskade|Amendement · portefeuillehouder H.P.F. Nederpelt · planning 2026-10-27",
+      "missing_count": 0,
+      "text_hash": "b3e797c0a230435a91454f72c085e96c704092bef7dd93573976a521d284e9c9",
+      "content_checked": "2026-11-23T11:58:01+00:00"
     },
     "878e89efcd54ebfc96cbe21e76b68b7e09d3823c1d8847a8ee575b7ff3d7d646": {
       "title": "Amendement SP - kcr2 aangepast",
@@ -1119,7 +1598,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Amendement SP - kcr2 aangepast|Amendement · afgedaan 2026-09-22"
+      "kw_sig": "4f53cda18c2b|8e1626efd9fe1f743087775e68da699e365aae30bac1495884e95f9f4c6ae88d|Amendement SP - kcr2 aangepast|Amendement · afgedaan 2026-09-22",
+      "missing_count": 0,
+      "text_hash": "8e1626efd9fe1f743087775e68da699e365aae30bac1495884e95f9f4c6ae88d",
+      "content_checked": "2026-11-23T11:58:10+00:00"
     },
     "f85abdf25dd95fcfbf6fde82adb9f4e459a4afd68f05a922273ce3336be91417": {
       "title": "Amendement SP - Oprichting en deelname stichting Knooppunt Coördinatie Rijk-Regio’s - ingetrokken",
@@ -1160,7 +1642,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||13. Motie vadovdd SGP - Standpuntbepaling cao-inzet functiewaardering griffie|Motie"
+      "kw_sig": "4f53cda18c2b|3214ac49b9f573d3b24d66eff5e476a4a40c8b2a2c2a3681455a1ed53574fe16|13. Motie vadovdd SGP - Standpuntbepaling cao-inzet functiewaardering griffie|Motie",
+      "missing_count": 0,
+      "text_hash": "3214ac49b9f573d3b24d66eff5e476a4a40c8b2a2c2a3681455a1ed53574fe16",
+      "content_checked": "2026-11-23T11:57:59+00:00"
     },
     "c33a632021116078579b9a5f791c35e781710d23538cd9b055a510b1696fee0f": {
       "title": "13. Motie vadovdd SP - De Toog geen parkeervergunning",
@@ -1180,7 +1665,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||13. Motie vadovdd SP - De Toog geen parkeervergunning|Motie · planning 2026-10-27"
+      "kw_sig": "4f53cda18c2b|67ea70633111256912bf42da946b4c9cc7a35f424fb3f1dd475fe9625638ef63|13. Motie vadovdd SP - De Toog geen parkeervergunning|Motie · planning 2026-10-27",
+      "missing_count": 0,
+      "text_hash": "67ea70633111256912bf42da946b4c9cc7a35f424fb3f1dd475fe9625638ef63",
+      "content_checked": "2026-11-23T11:58:02+00:00"
     },
     "a8bc12ed91969db3aa1a6df016cd92008cd726c96d242f06874d1480dfddd9e5": {
       "title": "13. Motie vadovdd HEA - Herplanting bomen op de Vestingwal",
@@ -1200,7 +1688,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||13. Motie vadovdd HEA - Herplanting bomen op de Vestingwal|Motie · planning 2026-10-27"
+      "kw_sig": "4f53cda18c2b|06d8a19fdad46126e7b3f3140ff1b76f2b581f60fc4a899d9ba5574a8ecf3f22|13. Motie vadovdd HEA - Herplanting bomen op de Vestingwal|Motie · planning 2026-10-27",
+      "missing_count": 0,
+      "text_hash": "06d8a19fdad46126e7b3f3140ff1b76f2b581f60fc4a899d9ba5574a8ecf3f22",
+      "content_checked": "2026-11-23T11:58:03+00:00"
     },
     "aa4102958463b35b521f672bd0df575ddfb535eb033bc31e5459a193b690c8ae": {
       "title": "10. Motie vreemd VVD - Bereikbaarheid Noord-Holland Noord en behoud openstelling Houtribdijk voor vrachtverkeer",
@@ -1220,7 +1711,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||10. Motie vreemd VVD - Bereikbaarheid Noord-Holland Noord en behoud openstelling Houtribdijk voor vrachtverkeer|Motie · afgedaan 2026-09-22"
+      "kw_sig": "4f53cda18c2b|7ce5abcd88465d06759ffb10d2ad20d7caa79b89373713a7eb9c17ae8805734c|10. Motie vreemd VVD - Bereikbaarheid Noord-Holland Noord en behoud openstelling Houtribdijk voor vrachtverkeer|Motie · afgedaan 2026-09-22",
+      "missing_count": 0,
+      "text_hash": "7ce5abcd88465d06759ffb10d2ad20d7caa79b89373713a7eb9c17ae8805734c",
+      "content_checked": "2026-11-23T11:58:10+00:00"
     },
     "953eff91f44db3a51fd8492371a0542faa35dd719e8acd5a3d5907df4df1d1be": {
       "title": "10. Motie vreemd SP - Dakloosheid",
@@ -1240,7 +1734,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||10. Motie vreemd SP - Dakloosheid|Motie · afgedaan 2026-09-22"
+      "kw_sig": "4f53cda18c2b|6e38af39bf6e8f0128884a668acacfe7b1f6a296767f75039c4d0a5d1c8965a3|10. Motie vreemd SP - Dakloosheid|Motie · afgedaan 2026-09-22",
+      "missing_count": 0,
+      "text_hash": "6e38af39bf6e8f0128884a668acacfe7b1f6a296767f75039c4d0a5d1c8965a3",
+      "content_checked": "2026-11-23T11:58:11+00:00"
     },
     "d6ff4d618b99c682efbbf6e272faa6df1a2a69a77cdf12076bd4de177b266e64": {
       "title": "10. Motie vreemd EV - handhaven parkeren op eigen terrein",
@@ -1302,7 +1799,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Technische vragen VVD Raadsvergadering Begroting 2027|Technische vragen · afgedaan 2026-11-06"
+      "kw_sig": "4f53cda18c2b|2d9e4cbfacb14e4ec2ad3fcf4bf33451ad96dc10ad00475978d8949af137843b|Technische vragen VVD Raadsvergadering Begroting 2027|Technische vragen · afgedaan 2026-11-06",
+      "missing_count": 0,
+      "text_hash": "2d9e4cbfacb14e4ec2ad3fcf4bf33451ad96dc10ad00475978d8949af137843b",
+      "content_checked": "2026-11-23T11:57:44+00:00"
     },
     "8917ff85840c8a3176d00fef4629b9272f41446af0f30c8d2fd001fc2fc3ba50": {
       "title": "Technische vragen D66 Raadsvergadering Begroting 2027",
@@ -1322,7 +1822,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Technische vragen D66 Raadsvergadering Begroting 2027|Technische vragen · afgedaan 2026-11-03"
+      "kw_sig": "4f53cda18c2b|45c388a7725549bb9cc1e31e1b65354f7db76b2bd195488aeb167a74ae5d0c05|Technische vragen D66 Raadsvergadering Begroting 2027|Technische vragen · afgedaan 2026-11-03",
+      "missing_count": 0,
+      "text_hash": "45c388a7725549bb9cc1e31e1b65354f7db76b2bd195488aeb167a74ae5d0c05",
+      "content_checked": "2026-11-23T11:57:49+00:00"
     },
     "60de3bdc0ba7abc634272e4ac25eddc8f8b1bbcb17b83c42be65ac0bbac8d837": {
       "title": "Technische vragen CDA Raadsvergadering Begroting 2027",
@@ -1342,7 +1845,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Technische vragen CDA Raadsvergadering Begroting 2027|Technische vragen · afgedaan 2026-11-03"
+      "kw_sig": "4f53cda18c2b|485203568ded116aa459fa0789475e350b24a4a2ad1829752f5bd16d9447ca4f|Technische vragen CDA Raadsvergadering Begroting 2027|Technische vragen · afgedaan 2026-11-03",
+      "missing_count": 0,
+      "text_hash": "485203568ded116aa459fa0789475e350b24a4a2ad1829752f5bd16d9447ca4f",
+      "content_checked": "2026-11-23T11:57:50+00:00"
     },
     "6b1bdbf3275218d7ea90dfd44e0f834c03b1762d4ac1b3006e630a0ce71742d9": {
       "title": "Technische vragen HEA Raadsvergadering Begroting 2027",
@@ -1362,7 +1868,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Technische vragen HEA Raadsvergadering Begroting 2027|Technische vragen · afgedaan 2026-11-03"
+      "kw_sig": "4f53cda18c2b|a85b0f15131236b462b42dab9b0321df45e88efbb7ee78ce25f815e40504723f|Technische vragen HEA Raadsvergadering Begroting 2027|Technische vragen · afgedaan 2026-11-03",
+      "missing_count": 0,
+      "text_hash": "a85b0f15131236b462b42dab9b0321df45e88efbb7ee78ce25f815e40504723f",
+      "content_checked": "2026-11-23T11:57:51+00:00"
     },
     "3fb1afa7b763ae37833366401d0aefe329d1e4190167f6760ca7686ade813d03": {
       "title": "Technische vragen SP Raadsvergadering Begroting 2027",
@@ -1382,7 +1891,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Technische vragen SP Raadsvergadering Begroting 2027|Technische vragen · afgedaan 2026-11-03"
+      "kw_sig": "4f53cda18c2b|990862f5716e084896c0bbf4c0bbd8f0a3f1bc9c2b045b7f8d347a41e526c4e8|Technische vragen SP Raadsvergadering Begroting 2027|Technische vragen · afgedaan 2026-11-03",
+      "missing_count": 0,
+      "text_hash": "990862f5716e084896c0bbf4c0bbd8f0a3f1bc9c2b045b7f8d347a41e526c4e8",
+      "content_checked": "2026-11-23T11:57:51+00:00"
     },
     "c27e64316615bac9e02ccdd6abb9e518b10df5a0b54fc930a276995ddc1d3b67": {
       "title": "Technische vragen EV! Raadsvergadering Begroting 2027",
@@ -1402,7 +1914,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Technische vragen EV! Raadsvergadering Begroting 2027|Technische vragen · afgedaan 2026-11-03"
+      "kw_sig": "4f53cda18c2b|10d5a4f1324d68a255c5a6f7a0970a400a998336e07639c67c0eabb3c1d62a10|Technische vragen EV! Raadsvergadering Begroting 2027|Technische vragen · afgedaan 2026-11-03",
+      "missing_count": 0,
+      "text_hash": "10d5a4f1324d68a255c5a6f7a0970a400a998336e07639c67c0eabb3c1d62a10",
+      "content_checked": "2026-11-23T11:57:52+00:00"
     },
     "1a2ee35247a60f014740d6408779baa879f041fbec48f3539d4e0b7d7971bd2a": {
       "title": "Technische vragen SGP - Project Stadskade",
@@ -1422,7 +1937,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Technische vragen SGP - Project Stadskade|Technische vragen · portefeuillehouder H.P.F. Nederpelt · afgedaan 2026-10-26"
+      "kw_sig": "4f53cda18c2b|fa5463b21ca2dfdf23678f3b0f37a173efd715b5ed55a6798ff9b0a92c188daa|Technische vragen SGP - Project Stadskade|Technische vragen · portefeuillehouder H.P.F. Nederpelt · afgedaan 2026-10-26",
+      "missing_count": 0,
+      "text_hash": "fa5463b21ca2dfdf23678f3b0f37a173efd715b5ed55a6798ff9b0a92c188daa",
+      "content_checked": "2026-11-23T11:58:04+00:00"
     },
     "483045f8455ee1e357a449a587c196bcbf14c506276784014d9265ed358f3fb5": {
       "title": "Technische vragen SP - Woningbouwproject Stadskade vervolg",
@@ -1442,7 +1960,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Technische vragen SP - Woningbouwproject Stadskade vervolg|Technische vragen · portefeuillehouder H.P.F. Nederpelt · afgedaan 2026-10-14"
+      "kw_sig": "4f53cda18c2b|d1b60a7b172917e0d44515735079b6a0a8a00985162bf92af92af511dc7b8ab5|Technische vragen SP - Woningbouwproject Stadskade vervolg|Technische vragen · portefeuillehouder H.P.F. Nederpelt · afgedaan 2026-10-14",
+      "missing_count": 0,
+      "text_hash": "d1b60a7b172917e0d44515735079b6a0a8a00985162bf92af92af511dc7b8ab5",
+      "content_checked": "2026-11-23T11:58:06+00:00"
     },
     "e0ebcad223b55736927054d6851b07944751e70776290bc9e68f832467ead53e": {
       "title": "Technische vragen EV - Stadskade",
@@ -1462,7 +1983,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Technische vragen EV - Stadskade|Technische vragen · portefeuillehouder H.P.F. Nederpelt · afgedaan 2026-10-06"
+      "kw_sig": "4f53cda18c2b|bb1eed3e44e8addd4f6564515011559269730bc91efff69d5f4143b0d9759917|Technische vragen EV - Stadskade|Technische vragen · portefeuillehouder H.P.F. Nederpelt · afgedaan 2026-10-06",
+      "missing_count": 0,
+      "text_hash": "bb1eed3e44e8addd4f6564515011559269730bc91efff69d5f4143b0d9759917",
+      "content_checked": "2026-11-23T11:58:07+00:00"
     },
     "e9dff761949ba9f8425ec5a42c0349ee2dd338d33f26818ebbb679d371c07a48": {
       "title": "Schriftelijke vragen SP - verplaatsing woonwagenkamp",
@@ -1638,7 +2162,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Schriftelijke vragen CDA - verkeersveiligheid|Schriftelijke vragen · afgedaan 2026-11-06"
+      "kw_sig": "4f53cda18c2b|75c885af6b4f16c4a6554f529b712f835d5468b700264fc23567a6f927a23fa3|Schriftelijke vragen CDA - verkeersveiligheid|Schriftelijke vragen · afgedaan 2026-11-06",
+      "missing_count": 0,
+      "text_hash": "75c885af6b4f16c4a6554f529b712f835d5468b700264fc23567a6f927a23fa3",
+      "content_checked": "2026-11-23T11:57:45+00:00"
     },
     "6c24d58ca037e3bd4b375c6e09fea4f5aba340cb9303e5fd1af3d60783788d04": {
       "title": "Schriftelijke vragen D66 - Kostendeling",
@@ -1657,7 +2184,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Schriftelijke vragen D66 - Kostendeling|Schriftelijke vragen"
+      "kw_sig": "4f53cda18c2b|3a29be115738dec45de84ef48a84d9f1dcd4fd77dd48a7bca851ac57971eff5b|Schriftelijke vragen D66 - Kostendeling|Schriftelijke vragen",
+      "missing_count": 0,
+      "text_hash": "3a29be115738dec45de84ef48a84d9f1dcd4fd77dd48a7bca851ac57971eff5b",
+      "content_checked": "2026-11-23T11:57:53+00:00"
     },
     "3ea2bd3b15569f16f9649c5375ac7dfba53b8a6a936946e61541d8e534db0a52": {
       "title": "Schriftelijke vervolgvragen HEA - Hotelaccommodatie binnen horeca categorie 1",
@@ -1677,7 +2207,10 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-23",
       "go_seen": true,
-      "kw_sig": "4f53cda18c2b||Schriftelijke vervolgvragen HEA - Hotelaccommodatie binnen horeca categorie 1|Schriftelijke vragen · portefeuillehouder E.C. Marle · afgedaan 2026-10-29"
+      "kw_sig": "4f53cda18c2b|f0996e2f9e1bbb048bc95b14d9f921abfb7b429014074fcc9f2d59d5b61781c3|Schriftelijke vervolgvragen HEA - Hotelaccommodatie binnen horeca categorie 1|Schriftelijke vragen · portefeuillehouder E.C. Marle · afgedaan 2026-10-29",
+      "missing_count": 0,
+      "text_hash": "f0996e2f9e1bbb048bc95b14d9f921abfb7b429014074fcc9f2d59d5b61781c3",
+      "content_checked": "2026-11-23T11:57:56+00:00"
     },
     "3a9c7f7cd8b74bc5a3e1b4af596a2f7d90a56f28ae00b7ec0cbddfd8f0dfb0c9": {
       "title": "15. Raadsbrief Aanbieden onderzoeksrapport Synarchis met betrekking tot exploitatie Hertenkamp",
@@ -71876,14 +72409,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-23T11:55:02+00:00",
+        "checked": "2026-11-23T11:56:59+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "Laatste 30 dagen: 25 van 25 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-23T11:55:06+00:00",
+        "checked": "2026-11-23T11:57:03+00:00",
         "ok": true,
         "count": 63,
         "new": 0,
@@ -71891,7 +72424,7 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-23T11:55:07+00:00",
+        "checked": "2026-11-23T11:57:05+00:00",
         "ok": true,
         "count": 8,
         "new": 0,
@@ -71900,14 +72433,14 @@
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-23T11:55:08+00:00",
+        "checked": "2026-11-23T11:57:05+00:00",
         "ok": true,
         "count": 100,
         "new": 0,
         "note": "Laatste 30 dagen: 100 van 100 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-23T11:55:08+00:00",
+        "checked": "2026-11-23T11:57:05+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -71915,7 +72448,7 @@
         "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-24 en 2027-01-07, 93 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-23T11:55:17+00:00",
+        "checked": "2026-11-23T11:57:15+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -71923,39 +72456,39 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-23T11:55:18+00:00",
+        "checked": "2026-11-23T11:57:17+00:00",
         "ok": true,
         "count": 16,
-        "new": 1,
+        "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Enkhuizen. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-23T11:55:15+00:00",
-        "ok": false,
-        "count": 52,
-        "new": 52,
-        "error": "Raadsbrief: list index out of range",
-        "note": "Overzichten op gemeenteraad.enkhuizen.nl: raadsbrieven (in de kolom College), schriftelijke en technische vragen, moties, amendementen, toezeggingen en ingekomen stukken. Steeds de 20 laatst bijgewerkte per overzicht."
+        "checked": "2026-11-23T11:57:11+00:00",
+        "ok": true,
+        "count": 53,
+        "new": 1,
+        "error": null,
+        "note": "Overzichten op gemeenteraad.enkhuizen.nl: raadsbrieven (in de kolom College), schriftelijke en technische vragen, moties, amendementen, toezeggingen en ingekomen stukken. Steeds de 10 laatst bijgewerkte per overzicht."
       }
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-23T11:55:19+00:00",
+        "checked": "2026-11-23T11:57:17+00:00",
         "ok": true,
         "count": 53,
         "new": 0,
         "note": "Laatste 30 dagen: 53 van 53 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-23T11:55:23+00:00",
+        "checked": "2026-11-23T11:57:17+00:00",
         "ok": true,
-        "count": 3,
+        "count": 0,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 3 vergaderpagina's bijgewerkt, 15 vergaderingen tussen 2026-09-24 en 2027-01-07, 137 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 15 vergaderingen tussen 2026-09-24 en 2027-01-07, 137 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-23T11:55:31+00:00",
+        "checked": "2026-11-23T11:57:25+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -71963,19 +72496,19 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-23T11:55:33+00:00",
+        "checked": "2026-11-23T11:57:28+00:00",
         "ok": true,
         "count": 9,
         "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Drechterland, Hem, Hoogkarspel, Oosterblokker, Oosterleek, Schellinkhout, Venhuizen, Westwoud, Wijdenes. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-23T11:55:28+00:00",
-        "ok": false,
-        "count": 34,
-        "new": 34,
-        "error": "Raadsbrief: list index out of range; Motie: list index out of range; Amendement: list index out of range; Ingekomen stukken: list index out of range",
-        "note": "Overzichten op gemeenteraad.drechterland.nl: raadsbrieven (in de kolom College), schriftelijke en technische vragen, moties, amendementen, toezeggingen en ingekomen stukken. Steeds de 20 laatst bijgewerkte per overzicht."
+        "checked": "2026-11-23T11:57:23+00:00",
+        "ok": true,
+        "count": 52,
+        "new": 18,
+        "error": null,
+        "note": "Overzichten op gemeenteraad.drechterland.nl: raadsbrieven (in de kolom College), schriftelijke en technische vragen, moties, amendementen, toezeggingen en ingekomen stukken. Steeds de 10 laatst bijgewerkte per overzicht."
       }
     },
     "algemeen": {
@@ -71988,25 +72521,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-23T11:55:33+00:00",
+        "checked": "2026-11-23T11:57:28+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-23T11:56:18+00:00",
+        "checked": "2026-11-23T11:58:11+00:00",
         "ok": true,
         "count": 50,
         "errors": 0,
-        "note": "50 documenten gecontroleerd (0 pdf), 517 gevolgd (alle gemeenten), 118 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "50 documenten gecontroleerd (0 pdf), 536 gevolgd (alle gemeenten), 87 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-23T11:56:18+00:00",
+        "checked": "2026-11-23T11:58:11+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-23T11:56:18+00:00",
+        "checked": "2026-11-23T11:58:11+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
