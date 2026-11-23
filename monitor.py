@@ -78,6 +78,11 @@ GEMEENTEN = {
         'pages': {},
         'domains': ('https://www.enkhuizen.nl/', 'https://gemeenteraad.enkhuizen.nl/'),
         'go': 'https://gemeenteraad.enkhuizen.nl',
+        # Overzichten van raadsinstrumenten (GO. vergaderen). Raadsbrieven = brieven van het college aan de raad.
+        'go_overzichten': {'Raadsbrief': '/Overzichten/Raadsbrief', 'Schriftelijke vragen': '/Overzichten/Schriftelijke-vragen',
+                           'Technische vragen': '/Overzichten/Technische-vragen', 'Motie': '/Overzichten/Motie',
+                           'Amendement': '/Overzichten/Amendement', 'Toezeggingen': '/Overzichten/Toezeggingen',
+                           'Ingekomen stukken': '/Overzichten/Ingekomen-stukken'},
         'news_rss': None,
         'news_cards': 'https://www.enkhuizen.nl/actueel/',
         'college_pdf_page': None,
@@ -93,6 +98,9 @@ GEMEENTEN = {
         'pages': {},
         'domains': ('https://www.drechterland.nl/', 'https://gemeenteraad.drechterland.nl/'),
         'go': 'https://gemeenteraad.drechterland.nl',
+        'go_overzichten': {'Raadsbrief': '/Documenten/Raadsbrieven', 'Schriftelijke vragen': '/Documenten/Schriftelijke-vragen',
+                           'Technische vragen': '/Documenten/Technische-vragen', 'Motie': '/Documenten/Moties',
+                           'Amendement': '/Documenten/Amendementen', 'Ingekomen stukken': '/Documenten/Ingekomen-stukken'},
         'news_rss': None,
         'news_cards': 'https://www.drechterland.nl/actueel/',
         'college_pdf_page': None,
@@ -750,6 +758,91 @@ def go_parse_meeting(page_html, base):
                 soort = ''
             docs.append((did, titel, urllib.parse.urljoin(base, a['href']), soort, punt))
     return punten, docs
+
+def nl_datum_titel(text):
+    """'21 december 2026' -> '2026-12-21'"""
+    return parse_nl_date(text or '') if text else None
+
+def collect_go_overzichten(db, gid):
+    """Overzichten van raadsinstrumenten in GO. vergaderen (raadsbrieven, schriftelijke vragen, moties ...).
+    De pagina laadt de lijst los in (zoals de site zelf doet): ?sorteren=bijgewerkt_aflopend&pagina=1 met X-Requested-With."""
+    cfg = GEMEENTEN[gid]
+    base = cfg['go']
+    added = total = 0
+    errors = []
+    vandaag = datetime.date.today().isoformat()
+    for soort, pad in cfg['go_overzichten'].items():
+        try:
+            r = http_get(base + pad, params={'sorteren': 'bijgewerkt_aflopend', 'pagina': 1}, timeout=40,
+                         headers={**HEADERS, 'X-Requested-With': 'XMLHttpRequest'})
+            r.raise_for_status()
+            page = BeautifulSoup(r.text, 'html.parser')
+            for li in page.select('li.meeting-tool-row'):
+                a = li.select_one('a[href]')
+                naam = li.select_one('.tool-name')
+                if not a or not naam:
+                    continue
+                tag = naam.select_one('.tag')
+                tagtekst = clean(tag.get_text(' ', strip=True)) if tag else ''
+                if tag:
+                    tag.extract()
+                titel = re.sub(r'\s*-\s*$', '', clean(naam.get_text(' ', strip=True)))
+                url = urllib.parse.urljoin(base, a['href'])
+                meta = {}
+                for mi in li.select('.meta-item'):
+                    dt, dd = mi.select_one('dt'), mi.select_one('dd')
+                    if not dd:
+                        continue
+                    sleutel = (dt.get('aria-label') or '') if dt else ''
+                    icon = dt.select_one('[aria-label]') if dt else None
+                    sleutel = (icon.get('aria-label') if icon else '') or clean(dt.get_text(' ', strip=True)) if dt else ''
+                    abbr = dd.select_one('abbr[title]')
+                    meta[sleutel] = abbr['title'] if abbr else clean(dd.get_text(' ', strip=True))
+                gewijzigd = li.select_one('abbr.date.modified[title]')
+                gewijzigd = nl_datum_titel(gewijzigd['title']) if gewijzigd else None
+                planning = nl_datum_titel(meta.get('Planning'))
+                afgedaan_op = nl_datum_titel(meta.get('Afgedaan')) or (nl_datum_titel(tagtekst.split(':', 1)[1]) if tagtekst.startswith('Afgedaan') else None)
+                klassen = li.get('class') or []
+                afgedaan = 'done' in klassen or bool(afgedaan_op)
+                ph = meta.get('Portefeuillehouder(s)')
+                total += 1
+                is_brief = soort == 'Raadsbrief'
+                source = 'Collegebesluiten' if is_brief else DOCS_SOURCE
+                key = make_key('GO-overzicht|' + url)
+                item = db['items'].get(key)
+                if item is None:
+                    item = db['items'][key] = new_item(gid, titel, url, source, excerpt='',
+                                                       kind='raadsbrief' if is_brief else 'raadsinstrument')
+                    added += 1
+                vragen = 'vragen' in soort.casefold()
+                if vragen:
+                    if afgedaan and not item.get('antwoord_datum'):
+                        if item.get('go_seen'):
+                            record_change(item, 'Beantwoord', f'afgedaan {afgedaan_op or vandaag}')
+                        item['antwoord_datum'] = afgedaan_op or vandaag
+                    if not afgedaan and planning and planning < vandaag:
+                        if not item.get('termijn_verlopen') and item.get('go_seen'):
+                            record_change(item, 'Termijn verlopen', f'planning was {planning}, nog niet afgedaan')
+                        item['termijn_verlopen'] = planning
+                    elif afgedaan:
+                        item.pop('termijn_verlopen', None)
+                else:
+                    if 'afgedaan' in item and item['afgedaan'] is False and afgedaan and item.get('go_seen'):
+                        record_change(item, 'Afgedaan', f'{soort.lower()} is afgedaan')
+                    item['afgedaan'] = afgedaan
+                delen = [soort] + ([f'portefeuillehouder {ph}'] if ph else []) \
+                    + ([f'afgedaan {afgedaan_op}'] if afgedaan_op else ([f'planning {planning}'] if planning else []))
+                item.update(title=titel, url=url, gemeente=gid, source=source, rapport=soort,
+                            doc_date=gewijzigd or item.get('doc_date'), doc_date_label='bijgewerkt',
+                            excerpt=' · '.join(delen), last_seen=today(), go_seen=True)
+                status = GO_MOTIE.search(titel + ' ' + tagtekst)
+                if status and soort in ('Motie', 'Amendement'):
+                    item['motie_status'] = status.group(1).capitalize()
+        except Exception as exc:
+            errors.append(f'{soort}: {str(exc)[:60]}')
+    set_status(db, gid, 'Raadsinstrumenten', ok=not errors, count=total, new=added, error='; '.join(errors)[:250] or None,
+               note=f'Overzichten op {base.split("//")[1]}: raadsbrieven (in de kolom College), schriftelijke en technische vragen, '
+                    'moties, amendementen, toezeggingen en ingekomen stukken. Steeds de 20 laatst bijgewerkte per overzicht.')
 
 def collect_go(db, gid):
     cfg = GEMEENTEN[gid]
@@ -1965,6 +2058,8 @@ def main():
             collect_ibabs_reports(db, gid)
         if cfg.get('go'):
             collect_go(db, gid)
+        if cfg.get('go_overzichten'):
+            collect_go_overzichten(db, gid)
         if cfg.get('news_cards'):
             collect_news_cards(db, gid, cfg['news_cards'])
         if cfg['news_rss']:

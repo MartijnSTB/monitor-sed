@@ -690,7 +690,7 @@ function typeInfo(x){
     else if (r && !/raadsportaal/i.test(r)) { label = r; icon = 'doc'; }
     else { label = x.kind === 'raadsdocument' ? 'Vergaderstuk' : 'Raad'; icon = 'raad'; }
   } else if (x.source === 'Collegebesluiten') {
-    label = x.kind === 'besluitenlijst' ? 'Besluitenlijst' : x.kind === 'collegeagenda' ? 'Collegeagenda' : x.kind === 'collegebesluit' ? 'Collegebesluit' : 'College';
+    label = x.kind === 'raadsbrief' ? 'Raadsbrief' : x.kind === 'besluitenlijst' ? 'Besluitenlijst' : x.kind === 'collegeagenda' ? 'Collegeagenda' : x.kind === 'collegebesluit' ? 'Collegebesluit' : 'College';
     icon = 'college'; important = x.kind === 'besluitenlijst';
   } else if (x.source === 'Andere overheden') {
     const inst = x.instantie || '';
@@ -791,7 +791,7 @@ function bronNaam(x){
   const g = 'gemeente ' + DATA.naam;
   if (x.source === 'In de media') return x.media_bron || 'Google Nieuws';
   if (x.source === 'Officiele bekendmakingen (KOOP)') return (x.koop_type ? cap(x.koop_type) + ', ' : '') + 'officiële bekendmaking ' + g;
-  if (x.source === 'Collegebesluiten') return 'College van B&W, ' + g;
+  if (x.source === 'Collegebesluiten') return (x.kind === 'raadsbrief' ? 'Raadsbrief van het college' : 'College van B&W') + ', ' + g;
   if (x.source === 'Raadsstukken' || x.source === 'Raadsportaal')
     return (x.rapport && !/raadsportaal/i.test(x.rapport) ? x.rapport : 'Raadsinformatie') + ', ' + g;
   if (x.source === 'Nieuws') return 'Nieuwsbericht ' + g;
