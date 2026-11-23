@@ -1321,8 +1321,9 @@
       "excerpt": "Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Raadsvoorstel",
       "missing_count": 0,
       "file_hash": "61e5e4edafc08448514dd93c0b6c54e7164f042ce0d96cf41f0dc3f089aa2b22",
-      "content_checked": "2026-11-23T14:17:51+00:00",
-      "kw_sig": "4f53cda18c2b||TEST VOORSTEL 1|Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Raadsvoorstel"
+      "content_checked": "2026-11-23T20:31:14+00:00",
+      "kw_sig": "4f53cda18c2b|64cc44ca6596599e58bb0b85b65e5e81c85d5aa3a485fd68eb12fe4dc19346b9|TEST VOORSTEL 1|Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Raadsvoorstel",
+      "text_hash": "64cc44ca6596599e58bb0b85b65e5e81c85d5aa3a485fd68eb12fe4dc19346b9"
     },
     "c934a15740cc3927256feeb47672e0199127b2aebeee4ffa1de931b68a59707e": {
       "title": "TEST BESLUIT 1",
@@ -1352,8 +1353,9 @@
       "excerpt": "Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Raadsbesluit",
       "missing_count": 0,
       "file_hash": "e0b063977732cfaba5e02ae14bc503a6c1e86ad75b3881fd4a0e12118a0566d2",
-      "content_checked": "2026-11-23T14:17:52+00:00",
-      "kw_sig": "4f53cda18c2b||TEST BESLUIT 1|Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Raadsbesluit"
+      "content_checked": "2026-11-23T20:31:16+00:00",
+      "kw_sig": "4f53cda18c2b|64cc44ca6596599e58bb0b85b65e5e81c85d5aa3a485fd68eb12fe4dc19346b9|TEST BESLUIT 1|Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Raadsbesluit",
+      "text_hash": "64cc44ca6596599e58bb0b85b65e5e81c85d5aa3a485fd68eb12fe4dc19346b9"
     },
     "f96a6624dd2bfbc17f3cbd54718117da0290f7d8c7197ebc77fc66fceab2c00c": {
       "title": "TEST AMENDEMENT",
@@ -1383,8 +1385,9 @@
       "excerpt": "Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Amendement",
       "missing_count": 0,
       "file_hash": "2f2cebbf6703ae29b02b87821884bc002cec511ec65e09833c95fe781b873ed3",
-      "content_checked": "2026-11-23T14:17:52+00:00",
-      "kw_sig": "4f53cda18c2b||TEST AMENDEMENT|Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Amendement"
+      "content_checked": "2026-11-23T20:31:17+00:00",
+      "kw_sig": "4f53cda18c2b|64cc44ca6596599e58bb0b85b65e5e81c85d5aa3a485fd68eb12fe4dc19346b9|TEST AMENDEMENT|Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Amendement",
+      "text_hash": "64cc44ca6596599e58bb0b85b65e5e81c85d5aa3a485fd68eb12fe4dc19346b9"
     },
     "088e61701432a7ccb2ba84e87618ad5afaa178ffec98fc44f61c9df44e287d95": {
       "title": "TEST MOTIE 1",
@@ -1414,8 +1417,9 @@
       "excerpt": "Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Motie",
       "missing_count": 0,
       "file_hash": "60b4208599639efa840f3f807888825baecbbb5b610a9f0126a8e3c1d11b0a5e",
-      "content_checked": "2026-11-23T14:17:53+00:00",
-      "kw_sig": "4f53cda18c2b||TEST MOTIE 1|Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Motie"
+      "content_checked": "2026-11-23T20:31:19+00:00",
+      "kw_sig": "4f53cda18c2b|64cc44ca6596599e58bb0b85b65e5e81c85d5aa3a485fd68eb12fe4dc19346b9|TEST MOTIE 1|Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Motie",
+      "text_hash": "64cc44ca6596599e58bb0b85b65e5e81c85d5aa3a485fd68eb12fe4dc19346b9"
     },
     "b97e4df7f378d31b0eed0e002b7d0c59f29c7b457fb5612f337070d2b115c78e": {
       "title": "TEST VOORSTEL 2",
@@ -1445,8 +1449,9 @@
       "excerpt": "Raadsvergadering 23 november 2026 15:30 · agendapunt 6 Bespreekstuk 2 · Raadsvoorstel",
       "missing_count": 0,
       "file_hash": "d7621e5b71df2d328318acb0fc1805e8e9de0393fe9f51c2ac5a54d5bce29d38",
-      "content_checked": "2026-11-23T14:17:53+00:00",
-      "kw_sig": "4f53cda18c2b||TEST VOORSTEL 2|Raadsvergadering 23 november 2026 15:30 · agendapunt 6 Bespreekstuk 2 · Raadsvoorstel"
+      "content_checked": "2026-11-23T20:31:20+00:00",
+      "kw_sig": "4f53cda18c2b|64cc44ca6596599e58bb0b85b65e5e81c85d5aa3a485fd68eb12fe4dc19346b9|TEST VOORSTEL 2|Raadsvergadering 23 november 2026 15:30 · agendapunt 6 Bespreekstuk 2 · Raadsvoorstel",
+      "text_hash": "64cc44ca6596599e58bb0b85b65e5e81c85d5aa3a485fd68eb12fe4dc19346b9"
     },
     "37bebb060f0b05fb87cda42d49255354e86e273db93c095eb8c8089b2a23edfa": {
       "title": "TEST BESLUIT 2",
@@ -1476,8 +1481,9 @@
       "excerpt": "Raadsvergadering 23 november 2026 15:30 · agendapunt 6 Bespreekstuk 2 · Raadsbesluit",
       "missing_count": 0,
       "file_hash": "e8eeed7a3af688d4e39a1a737a8a465934727f6ee43a8c57a71a490eb500e6cf",
-      "content_checked": "2026-11-23T14:17:54+00:00",
-      "kw_sig": "4f53cda18c2b||TEST BESLUIT 2|Raadsvergadering 23 november 2026 15:30 · agendapunt 6 Bespreekstuk 2 · Raadsbesluit"
+      "content_checked": "2026-11-23T20:31:22+00:00",
+      "kw_sig": "4f53cda18c2b|64cc44ca6596599e58bb0b85b65e5e81c85d5aa3a485fd68eb12fe4dc19346b9|TEST BESLUIT 2|Raadsvergadering 23 november 2026 15:30 · agendapunt 6 Bespreekstuk 2 · Raadsbesluit",
+      "text_hash": "64cc44ca6596599e58bb0b85b65e5e81c85d5aa3a485fd68eb12fe4dc19346b9"
     },
     "97453641ae7c6beedf9eaaa3902f73f0b42c15a231261cd5bf719d24bf499cb2": {
       "title": "TEST MOTIE 2",
@@ -1507,8 +1513,9 @@
       "excerpt": "Raadsvergadering 23 november 2026 15:30 · agendapunt 6 Bespreekstuk 2 · Motie",
       "missing_count": 0,
       "file_hash": "98417023c7596c1a8d53a7a6fa3c46785475fa32601b568525b5a9719b1cc862",
-      "content_checked": "2026-11-23T14:17:54+00:00",
-      "kw_sig": "4f53cda18c2b||TEST MOTIE 2|Raadsvergadering 23 november 2026 15:30 · agendapunt 6 Bespreekstuk 2 · Motie"
+      "content_checked": "2026-11-23T20:31:23+00:00",
+      "kw_sig": "4f53cda18c2b|64cc44ca6596599e58bb0b85b65e5e81c85d5aa3a485fd68eb12fe4dc19346b9|TEST MOTIE 2|Raadsvergadering 23 november 2026 15:30 · agendapunt 6 Bespreekstuk 2 · Motie",
+      "text_hash": "64cc44ca6596599e58bb0b85b65e5e81c85d5aa3a485fd68eb12fe4dc19346b9"
     },
     "0a76f22c8b3c756a9116e99c50425c5d186ec08c1517b9a93c69b9dad0d5043a": {
       "title": "Tijdelijke wegafsluiting",
@@ -73242,14 +73249,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-23T20:15:37+00:00",
+        "checked": "2026-11-23T20:30:52+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "Laatste 30 dagen: 25 van 25 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-23T20:15:40+00:00",
+        "checked": "2026-11-23T20:30:55+00:00",
         "ok": true,
         "count": 64,
         "new": 0,
@@ -73257,29 +73264,29 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-23T20:15:40+00:00",
+        "checked": "2026-11-23T20:30:55+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-23T20:15:41+00:00",
+        "checked": "2026-11-23T20:30:55+00:00",
         "ok": true,
         "count": 100,
         "new": 0,
         "note": "Laatste 30 dagen: 100 van 100 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-23T20:16:00+00:00",
+        "checked": "2026-11-23T20:30:55+00:00",
         "ok": true,
-        "count": 3,
+        "count": 0,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 3 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-24 en 2027-01-07, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-24 en 2027-01-07, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-23T20:16:09+00:00",
+        "checked": "2026-11-23T20:31:04+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -73287,12 +73294,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-23T20:16:09+00:00",
+        "checked": "2026-11-23T20:31:04+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-23T20:16:06+00:00",
+        "checked": "2026-11-23T20:31:01+00:00",
         "ok": true,
         "count": 53,
         "new": 0,
@@ -73302,22 +73309,22 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-23T20:16:10+00:00",
+        "checked": "2026-11-23T20:31:05+00:00",
         "ok": true,
         "count": 53,
         "new": 0,
         "note": "Laatste 30 dagen: 53 van 53 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-23T20:16:36+00:00",
+        "checked": "2026-11-23T20:31:05+00:00",
         "ok": true,
-        "count": 6,
+        "count": 0,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 6 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-24 en 2027-01-07, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-24 en 2027-01-07, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-23T20:16:44+00:00",
+        "checked": "2026-11-23T20:31:13+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -73325,12 +73332,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-23T20:16:44+00:00",
+        "checked": "2026-11-23T20:31:13+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-23T20:16:42+00:00",
+        "checked": "2026-11-23T20:31:10+00:00",
         "ok": true,
         "count": 50,
         "new": 0,
@@ -73348,25 +73355,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-23T20:16:44+00:00",
+        "checked": "2026-11-23T20:31:13+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-23T20:16:44+00:00",
+        "checked": "2026-11-23T20:31:23+00:00",
         "ok": true,
-        "count": 0,
+        "count": 7,
         "errors": 0,
-        "note": "0 documenten gecontroleerd (0 pdf), 544 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "7 documenten gecontroleerd (0 pdf), 544 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-23T20:16:44+00:00",
+        "checked": "2026-11-23T20:31:23+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-23T20:16:44+00:00",
+        "checked": "2026-11-23T20:31:23+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
