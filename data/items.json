@@ -5,6 +5,240 @@
     "stedebroec"
   ],
   "items": {
+    "f2f11808931b7c968178585d23bf291aba777c95cff36b945f38de0194f5d4db": {
+      "title": "Raadsvergadering 23 november 2026 15:30",
+      "url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/15:30",
+      "source": "Raadsportaal",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T14:16:19+00:00",
+      "updated": "2026-11-23T14:16:19+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "",
+      "kind": "vergadering",
+      "doc_date": "2026-11-23",
+      "doc_date_label": "vergaderdatum",
+      "last_seen": "2026-11-23",
+      "kw_sig": "4f53cda18c2b||Raadsvergadering 23 november 2026 15:30|"
+    },
+    "6801da1e32d47ee88128254e3bc907a8ec6690e0017f8289bb1aa0ab51a24309": {
+      "title": "TEST VOORSTEL 1",
+      "url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/15:30/Bespreekstuk-1/TEST-VOORSTEL-1.pdf",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T14:16:19+00:00",
+      "updated": "2026-11-23T14:16:19+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-23",
+          "meeting": "Raadsvergadering 23 november 2026 15:30",
+          "agendapunt": "5 Bespreekstuk 1"
+        }
+      ],
+      "file_url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/15:30/Bespreekstuk-1/TEST-VOORSTEL-1.pdf",
+      "rapport": "Raadsvoorstel",
+      "doc_date": "2026-11-23",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "Raadsvergadering 23 november 2026 15:30",
+      "agendapunt": "5 Bespreekstuk 1",
+      "last_seen": "2026-11-23",
+      "excerpt": "Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Raadsvoorstel",
+      "missing_count": 0,
+      "file_hash": "61e5e4edafc08448514dd93c0b6c54e7164f042ce0d96cf41f0dc3f089aa2b22",
+      "content_checked": "2026-11-23T14:16:34+00:00",
+      "kw_sig": "4f53cda18c2b||TEST VOORSTEL 1|Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Raadsvoorstel"
+    },
+    "c934a15740cc3927256feeb47672e0199127b2aebeee4ffa1de931b68a59707e": {
+      "title": "TEST BESLUIT 1",
+      "url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/15:30/Bespreekstuk-1/TEST-BESLUIT-1.pdf",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T14:16:19+00:00",
+      "updated": "2026-11-23T14:16:19+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-23",
+          "meeting": "Raadsvergadering 23 november 2026 15:30",
+          "agendapunt": "5 Bespreekstuk 1"
+        }
+      ],
+      "file_url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/15:30/Bespreekstuk-1/TEST-BESLUIT-1.pdf",
+      "rapport": "Raadsbesluit",
+      "doc_date": "2026-11-23",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "Raadsvergadering 23 november 2026 15:30",
+      "agendapunt": "5 Bespreekstuk 1",
+      "last_seen": "2026-11-23",
+      "excerpt": "Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Raadsbesluit",
+      "missing_count": 0,
+      "file_hash": "e0b063977732cfaba5e02ae14bc503a6c1e86ad75b3881fd4a0e12118a0566d2",
+      "content_checked": "2026-11-23T14:16:35+00:00",
+      "kw_sig": "4f53cda18c2b||TEST BESLUIT 1|Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Raadsbesluit"
+    },
+    "f96a6624dd2bfbc17f3cbd54718117da0290f7d8c7197ebc77fc66fceab2c00c": {
+      "title": "TEST AMENDEMENT",
+      "url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/15:30/Bespreekstuk-1/TEST-AMENDEMENT.pdf",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T14:16:19+00:00",
+      "updated": "2026-11-23T14:16:19+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-23",
+          "meeting": "Raadsvergadering 23 november 2026 15:30",
+          "agendapunt": "5 Bespreekstuk 1"
+        }
+      ],
+      "file_url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/15:30/Bespreekstuk-1/TEST-AMENDEMENT.pdf",
+      "rapport": "Amendement",
+      "doc_date": "2026-11-23",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "Raadsvergadering 23 november 2026 15:30",
+      "agendapunt": "5 Bespreekstuk 1",
+      "last_seen": "2026-11-23",
+      "excerpt": "Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Amendement",
+      "missing_count": 0,
+      "file_hash": "2f2cebbf6703ae29b02b87821884bc002cec511ec65e09833c95fe781b873ed3",
+      "content_checked": "2026-11-23T14:16:35+00:00",
+      "kw_sig": "4f53cda18c2b||TEST AMENDEMENT|Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Amendement"
+    },
+    "088e61701432a7ccb2ba84e87618ad5afaa178ffec98fc44f61c9df44e287d95": {
+      "title": "TEST MOTIE 1",
+      "url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/15:30/Bespreekstuk-1/TEST-MOTIE-1.pdf",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T14:16:19+00:00",
+      "updated": "2026-11-23T14:16:19+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-23",
+          "meeting": "Raadsvergadering 23 november 2026 15:30",
+          "agendapunt": "5 Bespreekstuk 1"
+        }
+      ],
+      "file_url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/15:30/Bespreekstuk-1/TEST-MOTIE-1.pdf",
+      "rapport": "Motie",
+      "doc_date": "2026-11-23",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "Raadsvergadering 23 november 2026 15:30",
+      "agendapunt": "5 Bespreekstuk 1",
+      "last_seen": "2026-11-23",
+      "excerpt": "Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Motie",
+      "missing_count": 0,
+      "file_hash": "60b4208599639efa840f3f807888825baecbbb5b610a9f0126a8e3c1d11b0a5e",
+      "content_checked": "2026-11-23T14:16:35+00:00",
+      "kw_sig": "4f53cda18c2b||TEST MOTIE 1|Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Motie"
+    },
+    "b97e4df7f378d31b0eed0e002b7d0c59f29c7b457fb5612f337070d2b115c78e": {
+      "title": "TEST VOORSTEL 2",
+      "url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/15:30/Bespreekstuk-2/TEST-VOORSTEL-2.pdf",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T14:16:19+00:00",
+      "updated": "2026-11-23T14:16:19+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-23",
+          "meeting": "Raadsvergadering 23 november 2026 15:30",
+          "agendapunt": "6 Bespreekstuk 2"
+        }
+      ],
+      "file_url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/15:30/Bespreekstuk-2/TEST-VOORSTEL-2.pdf",
+      "rapport": "Raadsvoorstel",
+      "doc_date": "2026-11-23",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "Raadsvergadering 23 november 2026 15:30",
+      "agendapunt": "6 Bespreekstuk 2",
+      "last_seen": "2026-11-23",
+      "excerpt": "Raadsvergadering 23 november 2026 15:30 · agendapunt 6 Bespreekstuk 2 · Raadsvoorstel",
+      "missing_count": 0,
+      "file_hash": "d7621e5b71df2d328318acb0fc1805e8e9de0393fe9f51c2ac5a54d5bce29d38",
+      "content_checked": "2026-11-23T14:16:36+00:00",
+      "kw_sig": "4f53cda18c2b||TEST VOORSTEL 2|Raadsvergadering 23 november 2026 15:30 · agendapunt 6 Bespreekstuk 2 · Raadsvoorstel"
+    },
+    "37bebb060f0b05fb87cda42d49255354e86e273db93c095eb8c8089b2a23edfa": {
+      "title": "TEST BESLUIT 2",
+      "url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/15:30/Bespreekstuk-2/TEST-BESLUIT-2.pdf",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T14:16:19+00:00",
+      "updated": "2026-11-23T14:16:19+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-23",
+          "meeting": "Raadsvergadering 23 november 2026 15:30",
+          "agendapunt": "6 Bespreekstuk 2"
+        }
+      ],
+      "file_url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/15:30/Bespreekstuk-2/TEST-BESLUIT-2.pdf",
+      "rapport": "Raadsbesluit",
+      "doc_date": "2026-11-23",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "Raadsvergadering 23 november 2026 15:30",
+      "agendapunt": "6 Bespreekstuk 2",
+      "last_seen": "2026-11-23",
+      "excerpt": "Raadsvergadering 23 november 2026 15:30 · agendapunt 6 Bespreekstuk 2 · Raadsbesluit",
+      "missing_count": 0,
+      "file_hash": "e8eeed7a3af688d4e39a1a737a8a465934727f6ee43a8c57a71a490eb500e6cf",
+      "content_checked": "2026-11-23T14:16:36+00:00",
+      "kw_sig": "4f53cda18c2b||TEST BESLUIT 2|Raadsvergadering 23 november 2026 15:30 · agendapunt 6 Bespreekstuk 2 · Raadsbesluit"
+    },
+    "97453641ae7c6beedf9eaaa3902f73f0b42c15a231261cd5bf719d24bf499cb2": {
+      "title": "TEST MOTIE 2",
+      "url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/15:30/Bespreekstuk-2/TEST-MOTIE-2.pdf",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-23T14:16:19+00:00",
+      "updated": "2026-11-23T14:16:19+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-23",
+          "meeting": "Raadsvergadering 23 november 2026 15:30",
+          "agendapunt": "6 Bespreekstuk 2"
+        }
+      ],
+      "file_url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/15:30/Bespreekstuk-2/TEST-MOTIE-2.pdf",
+      "rapport": "Motie",
+      "doc_date": "2026-11-23",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "Raadsvergadering 23 november 2026 15:30",
+      "agendapunt": "6 Bespreekstuk 2",
+      "last_seen": "2026-11-23",
+      "excerpt": "Raadsvergadering 23 november 2026 15:30 · agendapunt 6 Bespreekstuk 2 · Motie",
+      "missing_count": 0,
+      "file_hash": "98417023c7596c1a8d53a7a6fa3c46785475fa32601b568525b5a9719b1cc862",
+      "content_checked": "2026-11-23T14:16:37+00:00",
+      "kw_sig": "4f53cda18c2b||TEST MOTIE 2|Raadsvergadering 23 november 2026 15:30 · agendapunt 6 Bespreekstuk 2 · Motie"
+    },
     "0a76f22c8b3c756a9116e99c50425c5d186ec08c1517b9a93c69b9dad0d5043a": {
       "title": "Tijdelijke wegafsluiting",
       "url": "https://www.stedebroec.nl/actueel/tijdelijke-wegafsluiting",
@@ -22519,6 +22753,11 @@
           "date": "2026-11-23",
           "meeting": "Raadsvergadering 23 november 2026 20:00",
           "agendapunt": "5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark"
+        },
+        {
+          "date": "2026-11-23",
+          "meeting": "Raadsvergadering 23 november 2026 20:00",
+          "agendapunt": "6 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark"
         }
       ],
       "file_url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/20:00/Verzoek-tot-inlichting-art-34-RvO-van-alle-gerelateerde-stukken-inzake-het-15-jarig-onderhoud-Dr-Singelenbergpark/Memo-dr-Singelenberpark.pdf",
@@ -22528,11 +22767,11 @@
       "meeting_title": "Raadsvergadering 23 november 2026 20:00",
       "agendapunt": "5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark",
       "last_seen": "2026-11-23",
-      "excerpt": "Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Memo",
+      "excerpt": "Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Memo · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "32ac92e76c9de88bd6125ad43c281772f9b27f7e4fea761add1444026704ca5b",
       "content_checked": "2026-11-23T12:17:13+00:00",
-      "kw_sig": "4f53cda18c2b|32ac92e76c9de88bd6125ad43c281772f9b27f7e4fea761add1444026704ca5b|Memo dr. Singelenberpark|Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Memo"
+      "kw_sig": "4f53cda18c2b|32ac92e76c9de88bd6125ad43c281772f9b27f7e4fea761add1444026704ca5b|Memo dr. Singelenberpark|Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Memo · ook in 1 andere vergadering(en)"
     },
     "59b19c6ca493d5adf6bbd1d23c6e9258bd19dca45e8b041be9c97e609a956daa": {
       "title": "Verdiepende sessie 3 december 2026 20:00",
@@ -39514,6 +39753,11 @@
           "date": "2026-11-23",
           "meeting": "Raadsvergadering 23 november 2026 20:00",
           "agendapunt": "5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark"
+        },
+        {
+          "date": "2026-11-23",
+          "meeting": "Raadsvergadering 23 november 2026 20:00",
+          "agendapunt": "6 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark"
         }
       ],
       "file_url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/20:00/Verzoek-tot-inlichting-art-34-RvO-van-alle-gerelateerde-stukken-inzake-het-15-jarig-onderhoud-Dr-Singelenbergpark/28042026-Email-Politieel-Milieuspecialist-Geanonimiseerd-1.pdf",
@@ -39523,11 +39767,11 @@
       "meeting_title": "Raadsvergadering 23 november 2026 20:00",
       "agendapunt": "5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark",
       "last_seen": "2026-11-23",
-      "excerpt": "Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Overige bijlagen",
+      "excerpt": "Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Overige bijlagen · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "f9beb26fc513a68c3e1a6727ae7017a23ffce88a64ca40752536d47cedcb93fc",
       "content_checked": "2026-11-23T12:16:50+00:00",
-      "kw_sig": "4f53cda18c2b|f9beb26fc513a68c3e1a6727ae7017a23ffce88a64ca40752536d47cedcb93fc|28042026-Email Politieel Milieuspecialist (Geanonimiseerd)|Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Overige bijlagen"
+      "kw_sig": "4f53cda18c2b|f9beb26fc513a68c3e1a6727ae7017a23ffce88a64ca40752536d47cedcb93fc|28042026-Email Politieel Milieuspecialist (Geanonimiseerd)|Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Overige bijlagen · ook in 1 andere vergadering(en)"
     },
     "22e7237dd1c472e4a5e44d161806f69395b624303798e5577edfb7b4d7cce048": {
       "title": "Mail aan griffie m.b.t. verzoek tot inlichtingen (Geanonimiseerd)",
@@ -39545,6 +39789,11 @@
           "date": "2026-11-23",
           "meeting": "Raadsvergadering 23 november 2026 20:00",
           "agendapunt": "5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark"
+        },
+        {
+          "date": "2026-11-23",
+          "meeting": "Raadsvergadering 23 november 2026 20:00",
+          "agendapunt": "6 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark"
         }
       ],
       "file_url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/20:00/Verzoek-tot-inlichting-art-34-RvO-van-alle-gerelateerde-stukken-inzake-het-15-jarig-onderhoud-Dr-Singelenbergpark/Mail-aan-griffie-m-b-t-verzoek-tot-inlichtingen-Geanonimiseerd-1.pdf",
@@ -39554,11 +39803,11 @@
       "meeting_title": "Raadsvergadering 23 november 2026 20:00",
       "agendapunt": "5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark",
       "last_seen": "2026-11-23",
-      "excerpt": "Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Overige bijlagen",
+      "excerpt": "Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Overige bijlagen · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "df9ba9233d7dacf07b6bca3c67c67b5515dd6ed911a227daec5ba9960ef4f375",
       "content_checked": "2026-11-23T12:16:52+00:00",
-      "kw_sig": "4f53cda18c2b|df9ba9233d7dacf07b6bca3c67c67b5515dd6ed911a227daec5ba9960ef4f375|Mail aan griffie m.b.t. verzoek tot inlichtingen (Geanonimiseerd)|Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Overige bijlagen"
+      "kw_sig": "4f53cda18c2b|df9ba9233d7dacf07b6bca3c67c67b5515dd6ed911a227daec5ba9960ef4f375|Mail aan griffie m.b.t. verzoek tot inlichtingen (Geanonimiseerd)|Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Overige bijlagen · ook in 1 andere vergadering(en)"
     },
     "d264f115bf04d02f8201bc68774d038a4b15ef6296455d1b78a476545d75f30b": {
       "title": "Melding ontvangen voor Jan Wouter Heijmanszstraat 9A te Venhuizen (Toepassen van grond of baggerspecie)",
@@ -59457,6 +59706,11 @@
           "date": "2026-11-23",
           "meeting": "Raadsvergadering 23 november 2026 20:00",
           "agendapunt": "5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark"
+        },
+        {
+          "date": "2026-11-23",
+          "meeting": "Raadsvergadering 23 november 2026 20:00",
+          "agendapunt": "6 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark"
         }
       ],
       "file_url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/20:00/Verzoek-tot-inlichting-art-34-RvO-inzake-alle-gerelateerde-stukken-inzake-het-15-jarig-onderhoud-Dr-Singelenbergpark/art-34-RvO-Verzoek-tot-inzage-van-alle-gerelateerde-stukken-inzake-het-15-jarig-onderhoud-Dr-Singelenbergpark-1.pdf",
@@ -59466,11 +59720,11 @@
       "meeting_title": "Raadsvergadering 23 november 2026 20:00",
       "agendapunt": "5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark",
       "last_seen": "2026-11-23",
-      "excerpt": "Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Vragen van raadsleden",
+      "excerpt": "Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Vragen van raadsleden · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "56e3f4f1a61de3cd16cb9d56241faaf649707159396f12af4a15bf09a7a35f3f",
       "content_checked": "2026-11-23T11:41:55+00:00",
-      "kw_sig": "4f53cda18c2b|56e3f4f1a61de3cd16cb9d56241faaf649707159396f12af4a15bf09a7a35f3f|art. 34 RvO Verzoek tot inzage van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark|Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Vragen van raadsleden"
+      "kw_sig": "4f53cda18c2b|56e3f4f1a61de3cd16cb9d56241faaf649707159396f12af4a15bf09a7a35f3f|art. 34 RvO Verzoek tot inzage van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark|Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Vragen van raadsleden · ook in 1 andere vergadering(en)"
     },
     "9eac52e3312ade87983b81f678644a15162e2cb0fed28ceb9590c199b229dc44": {
       "title": "Raadsbrief dr Singelenbergpark",
@@ -59488,6 +59742,11 @@
           "date": "2026-11-23",
           "meeting": "Raadsvergadering 23 november 2026 20:00",
           "agendapunt": "5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark"
+        },
+        {
+          "date": "2026-11-23",
+          "meeting": "Raadsvergadering 23 november 2026 20:00",
+          "agendapunt": "6 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark"
         }
       ],
       "file_url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/20:00/Verzoek-tot-inlichting-art-34-RvO-inzake-alle-gerelateerde-stukken-inzake-het-15-jarig-onderhoud-Dr-Singelenbergpark/Raadsbrief-dr-Singelenbergpark-3.pdf",
@@ -59497,11 +59756,11 @@
       "meeting_title": "Raadsvergadering 23 november 2026 20:00",
       "agendapunt": "5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark",
       "last_seen": "2026-11-23",
-      "excerpt": "Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Raadsbrief",
+      "excerpt": "Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Raadsbrief · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "6c3c5045d7fd554f6b192b3d36563fccae0e0cee351525a3fcd5169bd40c353a",
       "content_checked": "2026-11-23T11:41:56+00:00",
-      "kw_sig": "4f53cda18c2b|6c3c5045d7fd554f6b192b3d36563fccae0e0cee351525a3fcd5169bd40c353a|Raadsbrief dr Singelenbergpark|Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Raadsbrief"
+      "kw_sig": "4f53cda18c2b|6c3c5045d7fd554f6b192b3d36563fccae0e0cee351525a3fcd5169bd40c353a|Raadsbrief dr Singelenbergpark|Raadsvergadering 23 november 2026 20:00 · agendapunt 5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark · Raadsbrief · ook in 1 andere vergadering(en)"
     },
     "8d3bd728b1e808527587f96dcd2c028cfc9965a6c499377eeb0c2363574cdd26": {
       "title": "RV herstel structureel en reëel evenwicht begrotingsevenwicht 2027 (2026-59)",
@@ -59519,6 +59778,11 @@
           "date": "2026-11-23",
           "meeting": "Raadsvergadering 23 november 2026 20:00",
           "agendapunt": "6 Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59)"
+        },
+        {
+          "date": "2026-11-23",
+          "meeting": "Raadsvergadering 23 november 2026 20:00",
+          "agendapunt": "5 Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59)"
         }
       ],
       "file_url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/20:00/Herstel-structureel-en-reeel-begrotingsevenwicht-2027-2026-59/RV-herstel-structureel-en-reeel-evenwicht-begrotingsevenwicht-2027-2026-59.pdf",
@@ -59528,11 +59792,11 @@
       "meeting_title": "Raadsvergadering 23 november 2026 20:00",
       "agendapunt": "6 Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59)",
       "last_seen": "2026-11-23",
-      "excerpt": "Raadsvergadering 23 november 2026 20:00 · agendapunt 6 Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59) · Raadsvoorstel",
+      "excerpt": "Raadsvergadering 23 november 2026 20:00 · agendapunt 6 Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59) · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "b6edeb9935e024930c40a8920035abfa8909d68865911d061a9b4e9cfd53b763",
       "content_checked": "2026-11-23T11:41:58+00:00",
-      "kw_sig": "4f53cda18c2b|b6edeb9935e024930c40a8920035abfa8909d68865911d061a9b4e9cfd53b763|RV herstel structureel en reëel evenwicht begrotingsevenwicht 2027 (2026-59)|Raadsvergadering 23 november 2026 20:00 · agendapunt 6 Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59) · Raadsvoorstel"
+      "kw_sig": "4f53cda18c2b|b6edeb9935e024930c40a8920035abfa8909d68865911d061a9b4e9cfd53b763|RV herstel structureel en reëel evenwicht begrotingsevenwicht 2027 (2026-59)|Raadsvergadering 23 november 2026 20:00 · agendapunt 6 Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59) · Raadsvoorstel · ook in 1 andere vergadering(en)"
     },
     "811620c96194d96bdc61cdd4e52bcfe81678beaa16c13ca52c3dabb5585a49f5": {
       "title": "RB Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59)",
@@ -59550,6 +59814,11 @@
           "date": "2026-11-23",
           "meeting": "Raadsvergadering 23 november 2026 20:00",
           "agendapunt": "6 Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59)"
+        },
+        {
+          "date": "2026-11-23",
+          "meeting": "Raadsvergadering 23 november 2026 20:00",
+          "agendapunt": "5 Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59)"
         }
       ],
       "file_url": "https://gemeenteraad.drechterland.nl/Vergaderingen/Raadsvergadering/2026/23-november/20:00/Herstel-structureel-en-reeel-begrotingsevenwicht-2027-2026-59/RB-Herstel-structureel-en-reeel-begrotingsevenwicht-2027-2026-59.pdf",
@@ -59559,11 +59828,11 @@
       "meeting_title": "Raadsvergadering 23 november 2026 20:00",
       "agendapunt": "6 Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59)",
       "last_seen": "2026-11-23",
-      "excerpt": "Raadsvergadering 23 november 2026 20:00 · agendapunt 6 Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59) · Raadsbesluit",
+      "excerpt": "Raadsvergadering 23 november 2026 20:00 · agendapunt 6 Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59) · Raadsbesluit · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "4807e6e282f30d99b5b57aaa02812c3daa9ee42cd5318be12a7b2c3a50346a6a",
       "content_checked": "2026-11-23T11:41:59+00:00",
-      "kw_sig": "4f53cda18c2b|4807e6e282f30d99b5b57aaa02812c3daa9ee42cd5318be12a7b2c3a50346a6a|RB Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59)|Raadsvergadering 23 november 2026 20:00 · agendapunt 6 Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59) · Raadsbesluit"
+      "kw_sig": "4f53cda18c2b|4807e6e282f30d99b5b57aaa02812c3daa9ee42cd5318be12a7b2c3a50346a6a|RB Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59)|Raadsvergadering 23 november 2026 20:00 · agendapunt 6 Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59) · Raadsbesluit · ook in 1 andere vergadering(en)"
     },
     "7c9ec98d909e956e91935c3eaa4fbc12fed09b7550aef46b3f8981e0dc0f8390": {
       "title": "Raadsvoorstel Rekenkamerrapport huisvesting arbeidsmigranten in de SED gemeenten (2026-49)",
@@ -72416,14 +72685,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-23T14:00:52+00:00",
+        "checked": "2026-11-23T14:15:33+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "Laatste 30 dagen: 25 van 25 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-23T14:00:55+00:00",
+        "checked": "2026-11-23T14:15:36+00:00",
         "ok": true,
         "count": 64,
         "new": 0,
@@ -72431,29 +72700,29 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-23T14:00:55+00:00",
+        "checked": "2026-11-23T14:15:36+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-23T14:00:56+00:00",
+        "checked": "2026-11-23T14:15:37+00:00",
         "ok": true,
         "count": 100,
         "new": 0,
         "note": "Laatste 30 dagen: 100 van 100 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-23T14:00:56+00:00",
+        "checked": "2026-11-23T14:15:54+00:00",
         "ok": true,
-        "count": 0,
+        "count": 3,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-24 en 2027-01-07, 93 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 3 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-24 en 2027-01-07, 93 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-23T14:01:06+00:00",
+        "checked": "2026-11-23T14:16:04+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -72461,12 +72730,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-23T14:01:07+00:00",
-        "ok": false,
-        "error": "Google Nieuws gaf HTTP 429; 2 uur pauze"
+        "checked": "2026-11-23T14:16:04+00:00",
+        "ok": true,
+        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-23T14:01:03+00:00",
+        "checked": "2026-11-23T14:16:00+00:00",
         "ok": true,
         "count": 53,
         "new": 0,
@@ -72476,22 +72745,22 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-23T14:01:07+00:00",
+        "checked": "2026-11-23T14:16:05+00:00",
         "ok": true,
         "count": 53,
         "new": 0,
         "note": "Laatste 30 dagen: 53 van 53 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-23T14:01:07+00:00",
+        "checked": "2026-11-23T14:16:26+00:00",
         "ok": true,
-        "count": 0,
-        "new": 0,
+        "count": 6,
+        "new": 7,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 15 vergaderingen tussen 2026-09-24 en 2027-01-07, 137 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 6 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-24 en 2027-01-07, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-23T14:01:15+00:00",
+        "checked": "2026-11-23T14:16:33+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -72499,12 +72768,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-23T14:01:15+00:00",
+        "checked": "2026-11-23T14:16:33+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-23T14:01:13+00:00",
+        "checked": "2026-11-23T14:16:31+00:00",
         "ok": true,
         "count": 50,
         "new": 0,
@@ -72522,25 +72791,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-23T14:01:24+00:00",
+        "checked": "2026-11-23T14:16:33+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-23T14:01:24+00:00",
+        "checked": "2026-11-23T14:16:37+00:00",
         "ok": true,
-        "count": 0,
+        "count": 7,
         "errors": 0,
-        "note": "0 documenten gecontroleerd (0 pdf), 535 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "7 documenten gecontroleerd (7 pdf), 542 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer. 7 pdf zonder tekst deze run."
       },
       "Trefwoorden": {
-        "checked": "2026-11-23T14:01:24+00:00",
+        "checked": "2026-11-23T14:16:37+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-23T14:01:24+00:00",
+        "checked": "2026-11-23T14:16:37+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -72715,7 +72984,7 @@
         ]
       },
       "/Vergaderingen/Commissie-Bestuur-Openbare-Orde-en-Veiligheid-Erfgoed-Grondgebied-BOEG/2026/30-november/20:00": {
-        "checked": "2026-11-23T13:45:51+00:00",
+        "checked": "2026-11-23T14:15:52+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG",
         "date": "2026-11-30",
@@ -72786,7 +73055,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Commissie-Sociaal-Domein-Financien-Bedrijfsvoering-SFB/2026/01-december/20:00": {
-        "checked": "2026-11-23T13:45:54+00:00",
+        "checked": "2026-11-23T14:15:54+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB",
         "date": "2026-12-01",
@@ -72825,7 +73094,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/24-november/20:00": {
-        "checked": "2026-11-23T13:45:53+00:00",
+        "checked": "2026-11-23T14:15:53+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-11-24",
@@ -72979,7 +73248,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/23-november/20:00": {
-        "checked": "2026-11-23T13:46:21+00:00",
+        "checked": "2026-11-23T14:16:22+00:00",
         "gemeente": "drechterland",
         "type": "Raadsvergadering",
         "date": "2026-11-23",
@@ -72990,8 +73259,8 @@
           "2 Vragenkwartiertje raadsleden; uiterlijk om 10.00 uur op de dag van de vergadering melden bij de griffier",
           "3 Vaststelling besluitenlijsten van de openbare raadsvergaderingen van 26 oktober 2026 en 2 november 2026",
           "4 Vaststelling besluitenlijst Rondetafelgesprekken van 9 november 2026",
-          "5 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark",
-          "6 Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59)",
+          "5 Herstel structureel en reëel begrotingsevenwicht 2027 (2026-59)",
+          "6 Verzoek tot inlichting (art. 34 RvO) van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark",
           "7 Rekenkameronderzoek arbeidsmigranten (2026-49)",
           "8 Participatie plan Hooge Hout (2026-51)",
           "9 Wensen en bedenkingen ontwikkelperspectief NHN (2026-52)",
@@ -73051,7 +73320,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Rondetafelgesprekken/2026/30-november/20:00": {
-        "checked": "2026-11-23T13:46:22+00:00",
+        "checked": "2026-11-23T14:16:23+00:00",
         "gemeente": "drechterland",
         "type": "Rondetafelgesprekken",
         "date": "2026-11-30",
@@ -73091,7 +73360,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/14-december/20:00": {
-        "checked": "2026-11-23T13:46:19+00:00",
+        "checked": "2026-11-23T14:16:20+00:00",
         "gemeente": "drechterland",
         "type": "Raadsvergadering",
         "date": "2026-12-14",
@@ -73100,7 +73369,7 @@
         "agenda": []
       },
       "/Vergaderingen/Themabijeenkomst/2026/03-december/20:00": {
-        "checked": "2026-11-23T13:46:25+00:00",
+        "checked": "2026-11-23T14:16:26+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-12-03",
@@ -73172,18 +73441,36 @@
         ]
       },
       "/Vergaderingen/Verdiepende-sessie/2026/03-december/20:00": {
-        "checked": "2026-11-23T13:46:20+00:00",
+        "checked": "2026-11-23T14:16:21+00:00",
         "gemeente": "drechterland",
         "type": "Verdiepende sessie",
         "date": "2026-12-03",
         "tijd": "20:00",
         "documents": 0,
         "agenda": []
+      },
+      "/Vergaderingen/Raadsvergadering/2026/23-november/15:30": {
+        "checked": "2026-11-23T14:16:19+00:00",
+        "gemeente": "drechterland",
+        "type": "Raadsvergadering",
+        "date": "2026-11-23",
+        "tijd": "15:30",
+        "documents": 7,
+        "agenda": [
+          "1 Opening en vaststelling agenda",
+          "2 Vragenkwartiertje",
+          "3 Vaststelling besluitenlijst van de openbare raadsvergadering",
+          "4 Vaststelling verslag van de Rondetafelgesprekken van",
+          "5 Bespreekstuk 1",
+          "6 Bespreekstuk 2",
+          "7 Hamerstuk 1",
+          "8 Sluiting"
+        ]
       }
     },
     "go_listed": {
-      "enkhuizen": "2026-11-23T13:45:50+00:00",
-      "drechterland": "2026-11-23T13:46:18+00:00"
+      "enkhuizen": "2026-11-23T14:15:51+00:00",
+      "drechterland": "2026-11-23T14:16:18+00:00"
     },
     "elders": {
       "woo": "2026-11-23T14:01:15+00:00"
