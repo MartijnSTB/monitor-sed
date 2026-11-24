@@ -5,6 +5,40 @@
     "stedebroec"
   ],
   "items": {
+    "9a716e7dd209a1ed4bb2b5f8102f9cb3b5fe059e058b5a93b3c6ad97ff9db686": {
+      "title": "16. Brief Ouderennetwerk West-Friesland - overlast bewoner",
+      "url": "https://gemeenteraad.enkhuizen.nl/Overzichten/stukken/16-Brief-Ouderennetwerk-West-Friesland-overlast-bewoner/",
+      "source": "Raadsstukken",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-24T07:30:50+00:00",
+      "updated": "2026-11-24T19:46:36+00:00",
+      "last_change": "2026-11-24T19:46:36+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Ingekomen stukken · afgedaan 2026-12-15",
+      "kind": "raadsinstrument",
+      "afgedaan": true,
+      "rapport": "Ingekomen stukken",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-24",
+      "go_seen": true,
+      "missing_count": 2,
+      "text_hash": "731268b5e4c61f3f7162e41ee025709d5565a1ab45cd31fd97eb4e6f1dd40f6b",
+      "content_checked": "2026-11-24T19:46:36+00:00",
+      "kw_sig": "4f53cda18c2b|731268b5e4c61f3f7162e41ee025709d5565a1ab45cd31fd97eb4e6f1dd40f6b|16. Brief Ouderennetwerk West-Friesland - overlast bewoner|Ingekomen stukken · afgedaan 2026-12-15",
+      "removed": "2026-11-24T19:46:36+00:00",
+      "changes": [
+        {
+          "at": "2026-11-24T19:46:36+00:00",
+          "type": "Niet meer bereikbaar",
+          "summary": "document geeft HTTP 404: verwijderd of verplaatst",
+          "added": [],
+          "removed": []
+        }
+      ],
+      "change_type": "Niet meer bereikbaar"
+    },
     "c49e196bd91c1b6105004d3021ef9f7e9722b026caae81b5e38f907a227ffb15": {
       "title": "6. Informerende brief aan gemeenteraadsleden Westfriesland namens DeSom en WerkSaam",
       "url": "https://gemeenteraad.enkhuizen.nl/Overzichten/stukken/6-Informerende-brief-aan-gemeenteraadsleden-Westfriesland-namens-DeSom-en-WerkSaam/",
@@ -2370,29 +2404,6 @@
       "published_at": "2026-11-24T08:00+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||WIN! Los de Sinterklaas puzzel(s) op en maak kans op te gekke prijzen!|"
-    },
-    "9a716e7dd209a1ed4bb2b5f8102f9cb3b5fe059e058b5a93b3c6ad97ff9db686": {
-      "title": "16. Brief Ouderennetwerk West-Friesland - overlast bewoner",
-      "url": "https://gemeenteraad.enkhuizen.nl/Overzichten/stukken/16-Brief-Ouderennetwerk-West-Friesland-overlast-bewoner/",
-      "source": "Raadsstukken",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-24T07:30:50+00:00",
-      "updated": "2026-11-24T07:30:50+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Ingekomen stukken · afgedaan 2026-12-15",
-      "kind": "raadsinstrument",
-      "afgedaan": true,
-      "rapport": "Ingekomen stukken",
-      "doc_date": "2026-11-24",
-      "doc_date_label": "bijgewerkt",
-      "last_seen": "2026-11-24",
-      "go_seen": true,
-      "missing_count": 1,
-      "text_hash": "731268b5e4c61f3f7162e41ee025709d5565a1ab45cd31fd97eb4e6f1dd40f6b",
-      "content_checked": "2026-11-24T13:31:07+00:00",
-      "kw_sig": "4f53cda18c2b|731268b5e4c61f3f7162e41ee025709d5565a1ab45cd31fd97eb4e6f1dd40f6b|16. Brief Ouderennetwerk West-Friesland - overlast bewoner|Ingekomen stukken · afgedaan 2026-12-15"
     },
     "394a2c97e2bd798d3b4bc57ebe821d79c2ad3529a17e60e92bdf6982f248f277": {
       "title": "Enkhuizen op 28 November 2026 UITagenda Activiteiten",
@@ -22209,7 +22220,7 @@
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 1 december 2026 20:00 · agendapunt 7 Belastingverordeningen 2027 · Raadsbesluit",
       "missing_count": 0,
       "text_hash": "0657f1697815cf0cd1678866ecab1b964601ca1e1de1f4d0fb9e780c4249945e",
-      "content_checked": "2026-11-24T13:31:06+00:00",
+      "content_checked": "2026-11-24T19:46:35+00:00",
       "kw_sig": "4f53cda18c2b|0657f1697815cf0cd1678866ecab1b964601ca1e1de1f4d0fb9e780c4249945e|8. Verordening haven- en liggelden Enkhuizen 2027|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 1 december 2026 20:00 · agendapunt 7 Belastingverordeningen 2027 · Raadsbesluit"
     },
     "ad82a9f102974b43dfc4067dc2d5b59b82bd2e35eb89f9afd3ddfdcd1cda4f13": {
@@ -75416,14 +75427,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-24T19:30:41+00:00",
+        "checked": "2026-11-24T19:45:40+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "Laatste 30 dagen: 25 van 25 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-24T19:30:44+00:00",
+        "checked": "2026-11-24T19:45:42+00:00",
         "ok": true,
         "count": 64,
         "new": 0,
@@ -75431,29 +75442,29 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-24T19:30:44+00:00",
+        "checked": "2026-11-24T19:45:42+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-24T19:30:45+00:00",
+        "checked": "2026-11-24T19:45:43+00:00",
         "ok": true,
         "count": 101,
         "new": 0,
         "note": "Laatste 30 dagen: 101 van 101 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-24T19:30:46+00:00",
+        "checked": "2026-11-24T19:45:59+00:00",
         "ok": true,
-        "count": 1,
+        "count": 3,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 1 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-25 en 2027-01-08, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 3 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-25 en 2027-01-08, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-24T19:30:54+00:00",
+        "checked": "2026-11-24T19:46:07+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -75461,12 +75472,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-24T19:30:54+00:00",
+        "checked": "2026-11-24T19:46:07+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-24T19:30:52+00:00",
+        "checked": "2026-11-24T19:46:05+00:00",
         "ok": true,
         "count": 53,
         "new": 0,
@@ -75476,22 +75487,22 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-24T19:30:55+00:00",
+        "checked": "2026-11-24T19:46:08+00:00",
         "ok": true,
         "count": 53,
         "new": 0,
         "note": "Laatste 30 dagen: 53 van 53 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-24T19:30:57+00:00",
+        "checked": "2026-11-24T19:46:27+00:00",
         "ok": true,
-        "count": 2,
+        "count": 4,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-25 en 2027-01-08, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 4 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-25 en 2027-01-08, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-24T19:31:05+00:00",
+        "checked": "2026-11-24T19:46:34+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -75499,12 +75510,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-24T19:31:05+00:00",
+        "checked": "2026-11-24T19:46:34+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-24T19:31:02+00:00",
+        "checked": "2026-11-24T19:46:32+00:00",
         "ok": true,
         "count": 50,
         "new": 0,
@@ -75522,25 +75533,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-24T19:31:05+00:00",
+        "checked": "2026-11-24T19:46:34+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-24T19:32:05+00:00",
+        "checked": "2026-11-24T19:46:36+00:00",
         "ok": true,
-        "count": 50,
+        "count": 2,
         "errors": 0,
-        "note": "50 documenten gecontroleerd (27 pdf), 573 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "2 documenten gecontroleerd (1 pdf), 573 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-24T19:32:05+00:00",
+        "checked": "2026-11-24T19:46:36+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-24T19:32:05+00:00",
+        "checked": "2026-11-24T19:46:36+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -75715,7 +75726,7 @@
         ]
       },
       "/Vergaderingen/Commissie-Bestuur-Openbare-Orde-en-Veiligheid-Erfgoed-Grondgebied-BOEG/2026/30-november/20:00": {
-        "checked": "2026-11-24T19:15:51+00:00",
+        "checked": "2026-11-24T19:45:57+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG",
         "date": "2026-11-30",
@@ -75786,7 +75797,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Commissie-Sociaal-Domein-Financien-Bedrijfsvoering-SFB/2026/01-december/20:00": {
-        "checked": "2026-11-24T19:15:53+00:00",
+        "checked": "2026-11-24T19:45:59+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB",
         "date": "2026-12-01",
@@ -75825,7 +75836,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/24-november/20:00": {
-        "checked": "2026-11-24T19:15:52+00:00",
+        "checked": "2026-11-24T19:45:58+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-11-24",
@@ -76051,7 +76062,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Rondetafelgesprekken/2026/30-november/20:00": {
-        "checked": "2026-11-24T19:16:20+00:00",
+        "checked": "2026-11-24T19:46:24+00:00",
         "gemeente": "drechterland",
         "type": "Rondetafelgesprekken",
         "date": "2026-11-30",
@@ -76091,7 +76102,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/14-december/20:00": {
-        "checked": "2026-11-24T19:16:18+00:00",
+        "checked": "2026-11-24T19:46:22+00:00",
         "gemeente": "drechterland",
         "type": "Raadsvergadering",
         "date": "2026-12-14",
@@ -76100,7 +76111,7 @@
         "agenda": []
       },
       "/Vergaderingen/Themabijeenkomst/2026/03-december/20:00": {
-        "checked": "2026-11-24T19:16:23+00:00",
+        "checked": "2026-11-24T19:46:27+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-12-03",
@@ -76172,7 +76183,7 @@
         ]
       },
       "/Vergaderingen/Verdiepende-sessie/2026/03-december/20:00": {
-        "checked": "2026-11-24T19:16:19+00:00",
+        "checked": "2026-11-24T19:46:23+00:00",
         "gemeente": "drechterland",
         "type": "Verdiepende sessie",
         "date": "2026-12-03",
@@ -76198,8 +76209,8 @@
       }
     },
     "go_listed": {
-      "enkhuizen": "2026-11-24T19:15:50+00:00",
-      "drechterland": "2026-11-24T19:16:17+00:00"
+      "enkhuizen": "2026-11-24T19:45:56+00:00",
+      "drechterland": "2026-11-24T19:46:21+00:00"
     },
     "elders": {
       "woo": "2026-11-24T19:03:51+00:00"
