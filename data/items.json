@@ -5,6 +5,428 @@
     "stedebroec"
   ],
   "items": {
+    "7d0d8d96b74e81d26e9a033354c0fb37765b66b6fcd901e730ca3e3c2143f976": {
+      "title": "Het college bezoekt Bouw '85",
+      "url": "https://www.drechterland.nl/actueel/het-college-bezoekt-bouw-85",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-25T08:31:07+00:00",
+      "updated": "2026-11-25T08:31:07+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Het college van Drechterland bezoekt regelmatig bedrijven in de gemeente. Dit keer bracht het college een bezoek aan Bouw ‘85 BV in Hem. Deze bedrijfsbezoeken bieden een mooie gelegenheid om kennis te maken met ondernemers en hun verhaal te horen. Bouw ’85 Na een hartelijke en gastvrije ontvangst vertelde directeur…",
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-25T09:22:01+00:00",
+      "last_seen": "2026-11-25",
+      "missing_count": 0,
+      "text_hash": "3c7bcf639efc67e7df825d1f9bf40d18893dd70944a9f903e01161792c2b6e0b",
+      "content_checked": "2026-11-25T08:31:22+00:00",
+      "kw_sig": "4f53cda18c2b|3c7bcf639efc67e7df825d1f9bf40d18893dd70944a9f903e01161792c2b6e0b|Het college bezoekt Bouw '85|Het college van Drechterland bezoekt regelmatig bedrijven in de gemeente. Dit keer bracht het college een bezoek aan Bouw ‘85 BV in Hem. Deze bedrijfsbezoeken bieden een mooie gelegenheid om kennis te maken met ondernemers en hun verhaal te horen. Bouw ’85 Na een hartelijke en gastvrije ontvangst vertelde directeur…"
+    },
+    "6ac82792da9e13c3a718d51ec4e846ed940dc725b7fb17207b7f0d2d8b0e44a1": {
+      "title": "Kennisgeving ontvangst aanvraag Omgevingsvergunning, Blokdijk 3, 1608HH Wijdenes",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-549323.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-25T08:30:59+00:00",
+      "updated": "2026-11-25T08:30:59+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-25",
+      "koop_dates": {
+        "available": "2026-11-25",
+        "issued": null,
+        "date": "2026-11-25"
+      },
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Blokdijk 3, 1608HH Wijdenes",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Betreft: Aanvraag op locatie Blokdijk 3, 1608HH Wijdenes",
+      "published_at_tried": true,
+      "published_at": "2026-11-25T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "geo": [
+        52.661438,
+        5.151662
+      ],
+      "geo_src": "PDOK",
+      "plaats": "Wijdenes",
+      "kw_sig": "4f53cda18c2b||Kennisgeving ontvangst aanvraag Omgevingsvergunning, Blokdijk 3, 1608HH Wijdenes|Betreft: Aanvraag op locatie Blokdijk 3, 1608HH Wijdenes"
+    },
+    "2809365d7c838d84b9836eb1abcc712bb5d13d0e0d5a32db27456ae7fa54620a": {
+      "title": "Besluit buiten behandelingstelling aanvraag, Melkmarkt 4, 1601HC Enkhuizen",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-548818.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-25T08:30:47+00:00",
+      "updated": "2026-11-25T08:30:47+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-25",
+      "koop_dates": {
+        "available": "2026-11-25",
+        "issued": null,
+        "date": "2026-11-25"
+      },
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Melkmarkt 4, 1601HC Enkhuizen",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Betreft: Beschikking buiten behandeling laten op locatie Melkmarkt 4, 1601HC Enkhuizen",
+      "published_at_tried": true,
+      "published_at": "2026-11-25T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "geo": [
+        52.703607,
+        5.289959
+      ],
+      "geo_src": "PDOK",
+      "plaats": "Enkhuizen",
+      "kw_sig": "4f53cda18c2b||Besluit buiten behandelingstelling aanvraag, Melkmarkt 4, 1601HC Enkhuizen|Betreft: Beschikking buiten behandeling laten op locatie Melkmarkt 4, 1601HC Enkhuizen"
+    },
+    "ec5e225a5f8709eaa21b386b846e12c6cf913cc45967af46bbc6d5a4d0618093": {
+      "title": "Kennisgeving besluit op aanvraag, Romeinstraat 4, 1601AX Enkhuizen",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-549550.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-25T08:30:47+00:00",
+      "updated": "2026-11-25T08:30:47+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-25",
+      "geo": [
+        52.702528,
+        5.280309
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-25",
+        "issued": null,
+        "date": "2026-11-25"
+      },
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Romeinstraat 4, 1601AX Enkhuizen",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Betreft: Beschikking op aanvraag op locatie Romeinstraat 4, 1601AX Enkhuizen",
+      "published_at_tried": true,
+      "published_at": "2026-11-25T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Kennisgeving besluit op aanvraag, Romeinstraat 4, 1601AX Enkhuizen|Betreft: Beschikking op aanvraag op locatie Romeinstraat 4, 1601AX Enkhuizen"
+    },
+    "8442cdd0e5b9afc7aac920cec014c15e68426523e4386fdfd5ce7cb16ae92cf4": {
+      "title": "Kennisgeving ontvangst aanvraag Omgevingsvergunning, Semeinszstraat 16, 1601NR Enkhuizen",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-549512.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-25T08:30:47+00:00",
+      "updated": "2026-11-25T08:30:47+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-25",
+      "koop_dates": {
+        "available": "2026-11-25",
+        "issued": null,
+        "date": "2026-11-25"
+      },
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Semeinszstraat 16, 1601NR Enkhuizen",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Betreft: Aanvraag op locatie Semeinszstraat 16, 1601NR Enkhuizen",
+      "published_at_tried": true,
+      "published_at": "2026-11-25T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "geo": [
+        52.704057,
+        5.287532
+      ],
+      "geo_src": "PDOK",
+      "plaats": "Enkhuizen",
+      "kw_sig": "4f53cda18c2b||Kennisgeving ontvangst aanvraag Omgevingsvergunning, Semeinszstraat 16, 1601NR Enkhuizen|Betreft: Aanvraag op locatie Semeinszstraat 16, 1601NR Enkhuizen"
+    },
+    "66989709e0e02800bf77b311de5bc95032e7c40640c12f903378ac49773f14bc": {
+      "title": "Kennisgeving besluit op aanvraag, Vrijdom 15, 1601HM Enkhuizen",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-549715.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-25T08:30:47+00:00",
+      "updated": "2026-11-25T08:30:47+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-25",
+      "koop_dates": {
+        "available": "2026-11-25",
+        "issued": null,
+        "date": "2026-11-25"
+      },
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Vrijdom 15, 1601HM Enkhuizen",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Betreft: Beschikking verlenging beslistermijn op locatie Vrijdom 15, 1601HM Enkhuizen",
+      "published_at_tried": true,
+      "published_at": "2026-11-25T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "geo": [
+        52.702687,
+        5.29174
+      ],
+      "geo_src": "PDOK",
+      "plaats": "Enkhuizen",
+      "kw_sig": "4f53cda18c2b||Kennisgeving besluit op aanvraag, Vrijdom 15, 1601HM Enkhuizen|Betreft: Beschikking verlenging beslistermijn op locatie Vrijdom 15, 1601HM Enkhuizen"
+    },
+    "31a88005392f57b506194964d97c7a8aedcc92ac1c9751008bc782c8a47ebc71": {
+      "title": "Kennisgeving ontvangst aanvraag Omgevingsvergunning, Oosterhavenstraat 51, Enkhuizen",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-548293.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-25T08:30:47+00:00",
+      "updated": "2026-11-25T08:30:47+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-25",
+      "koop_dates": {
+        "available": "2026-11-25",
+        "issued": null,
+        "date": "2026-11-25"
+      },
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Oosterhavenstraat 51, Enkhuizen",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Betreft: Aanvraag op locatie Oosterhavenstraat 51, Enkhuizen",
+      "published_at_tried": true,
+      "published_at": "2026-11-25T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Kennisgeving ontvangst aanvraag Omgevingsvergunning, Oosterhavenstraat 51, Enkhuizen|Betreft: Aanvraag op locatie Oosterhavenstraat 51, Enkhuizen"
+    },
+    "96576d33783a257d90342711458b5015474d0132a38fcb7d38720cd35fc24a52": {
+      "title": "Kennisgeving besluit op aanvraag, achter Wezenland 7 te Enkhuizen",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-548327.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-25T08:30:47+00:00",
+      "updated": "2026-11-25T08:30:47+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-25",
+      "koop_dates": {
+        "available": "2026-11-25",
+        "issued": null,
+        "date": "2026-11-25"
+      },
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "achter Wezenland 7 te Enkhuizen",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Betreft: Beschikking op aanvraag op locatie achter Wezenland 7 te Enkhuizen",
+      "published_at_tried": true,
+      "published_at": "2026-11-25T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Kennisgeving besluit op aanvraag, achter Wezenland 7 te Enkhuizen|Betreft: Beschikking op aanvraag op locatie achter Wezenland 7 te Enkhuizen"
+    },
+    "325dcc58378188563cdfe7c399f2a86636e234cda1e3f3f2f08f38197e83fe1b": {
+      "title": "Kennisgeving ontvangst aanvraag Omgevingsvergunning, Lange Tuinstraat 14, 1601EG Enkhuizen",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-549479.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-25T08:30:47+00:00",
+      "updated": "2026-11-25T08:30:47+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-25",
+      "koop_dates": {
+        "available": "2026-11-25",
+        "issued": null,
+        "date": "2026-11-25"
+      },
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Lange Tuinstraat 14, 1601EG Enkhuizen",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Betreft: Aanvraag op locatie Lange Tuinstraat 14, 1601EG Enkhuizen",
+      "published_at_tried": true,
+      "published_at": "2026-11-25T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "geo": [
+        52.699774,
+        5.282853
+      ],
+      "geo_src": "PDOK",
+      "plaats": "Enkhuizen",
+      "kw_sig": "4f53cda18c2b||Kennisgeving ontvangst aanvraag Omgevingsvergunning, Lange Tuinstraat 14, 1601EG Enkhuizen|Betreft: Aanvraag op locatie Lange Tuinstraat 14, 1601EG Enkhuizen"
+    },
+    "5257b75db57e1603c00a17ad8442f0a17f39b6b9ded91b524e0a0e489099b159": {
+      "title": "Kennisgeving besluit op aanvraag, kadastraal perceel EHZ00, sectie I, nummer 834 te Enkhuizen",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-549650.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-25T08:30:47+00:00",
+      "updated": "2026-11-25T08:30:47+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-25",
+      "geo": [
+        52.691534,
+        5.265761
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-25",
+        "issued": null,
+        "date": "2026-11-25"
+      },
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "kadastraal perceel EHZ00, sectie I, nummer 834 te Enkhuizen",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Betreft: Beschikking verlenging beslistermijn op locatie kadastraal perceel EHZ00, sectie I, nummer 834 te Enkhuizen",
+      "published_at_tried": true,
+      "published_at": "2026-11-25T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Kennisgeving besluit op aanvraag, kadastraal perceel EHZ00, sectie I, nummer 834 te Enkhuizen|Betreft: Beschikking verlenging beslistermijn op locatie kadastraal perceel EHZ00, sectie I, nummer 834 te Enkhuizen"
+    },
+    "672b166c367163609716f9b4c492b04d19db46c581ced8c34519922235f92043": {
+      "title": "Kennisgeving besluit op aanvraag, BMX-baan, Nassaupark te Bovenkarspel",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-548837.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-25T08:30:44+00:00",
+      "updated": "2026-11-25T08:30:44+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-25",
+      "koop_dates": {
+        "available": "2026-11-25",
+        "issued": null,
+        "date": "2026-11-25"
+      },
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "BMX-baan, Nassaupark te Bovenkarspel",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Betreft: Beschikking op aanvraag op locatie BMX-baan, Nassaupark te Bovenkarspel",
+      "published_at_tried": true,
+      "published_at": "2026-11-25T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Kennisgeving besluit op aanvraag, BMX-baan, Nassaupark te Bovenkarspel|Betreft: Beschikking op aanvraag op locatie BMX-baan, Nassaupark te Bovenkarspel"
+    },
+    "24b2cc641a72b26bf71543aa6e1ec53b8a76973ba03ba8621a586192f565bed3": {
+      "title": "Kennisgeving besluit op aanvraag, Zesstedenweg 225 te Grootebroek",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-549806.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-25T08:30:44+00:00",
+      "updated": "2026-11-25T08:30:44+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-25",
+      "koop_dates": {
+        "available": "2026-11-25",
+        "issued": null,
+        "date": "2026-11-25"
+      },
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Zesstedenweg 225 te Grootebroek",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Betreft: Beschikking op aanvraag op locatie Zesstedenweg 225 te Grootebroek",
+      "published_at_tried": true,
+      "published_at": "2026-11-25T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Kennisgeving besluit op aanvraag, Zesstedenweg 225 te Grootebroek|Betreft: Beschikking op aanvraag op locatie Zesstedenweg 225 te Grootebroek"
+    },
+    "4b6100730d9adb2f11ebc6da63e9fbdf6bb76976cb26fe1b4824d8bd8a600e60": {
+      "title": "VERKEERSBESLUIT Opheffen gehandicaptenparkeerplaats op kenteken Hertog Albrechtstraat te Grootebroek",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-550111.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-25T08:30:44+00:00",
+      "updated": "2026-11-25T08:30:44+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-25",
+      "geo": [
+        52.687893,
+        5.234633
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-25",
+        "issued": null,
+        "date": "2026-11-25"
+      },
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "koop_type": "verkeersbesluit of -mededeling",
+      "locatie": "Punt 1",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-25",
+      "published_at_tried": true,
+      "published_at": "2026-11-25T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||VERKEERSBESLUIT Opheffen gehandicaptenparkeerplaats op kenteken Hertog Albrechtstraat te Grootebroek|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-25"
+    },
     "b640048a586006a4d08e58b2e906df73193b18c66b3de79b5d1adaa1cdccf6e3": {
       "title": "Brief ESN - Koeling als integraal onderdeel van het Warmteprogramma",
       "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Brief-ESN-Koeling-als-integraal-onderdeel-van-het-Warmteprogramma/",
@@ -232,7 +654,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "ba925c41eefb297321e00f96e335ffa294485b200518136638f3ac2c3a656b6a",
-      "content_checked": "2026-11-25T02:16:50+00:00",
+      "content_checked": "2026-11-25T08:31:23+00:00",
       "kw_sig": "4f53cda18c2b|ba925c41eefb297321e00f96e335ffa294485b200518136638f3ac2c3a656b6a|Amendement SP Actualisatie Bodemkwaliteitskaart en Handreiking bodembeheer|Amendement · portefeuillehouder H.P.F. Nederpelt",
       "changes": [
         {
@@ -5207,7 +5629,7 @@
       "last_seen": "2026-11-25",
       "missing_count": 0,
       "text_hash": "21fbc9f7ae94ebcccecc23f115288d8d635831852bd18f2540097ae775618407",
-      "content_checked": "2026-11-25T02:16:51+00:00",
+      "content_checked": "2026-11-25T08:31:25+00:00",
       "kw_sig": "4f53cda18c2b|21fbc9f7ae94ebcccecc23f115288d8d635831852bd18f2540097ae775618407|Tijdelijke wegafsluiting|Vanwege asfalteringswerkzaamheden is van maandag 30 november 07.00 uur t/m dinsdag 1 december 17.00 uur de P.J. Jongstraat tussen De Evendeel en Horn tijdelijk afgesloten. Er is in deze periode geen doorgang voor het OV of voetgangers mogelijk. Bij calamiteiten is er wel doorgang voor de hulpdiensten mogelijk."
     },
     "bac008f4e4807a9471464e0a30dbddf4830c3eed8e70f180bb601915df1ee4dc": {
@@ -75774,14 +76196,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-25T08:15:32+00:00",
+        "checked": "2026-11-25T08:30:44+00:00",
         "ok": true,
-        "count": 26,
-        "new": 1,
-        "note": "Laatste 30 dagen: 26 van 26 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "count": 29,
+        "new": 3,
+        "note": "Laatste 30 dagen: 29 van 29 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-25T08:15:36+00:00",
+        "checked": "2026-11-25T08:30:47+00:00",
         "ok": true,
         "count": 64,
         "new": 0,
@@ -75789,29 +76211,29 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-25T08:15:36+00:00",
+        "checked": "2026-11-25T08:30:47+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-25T08:15:38+00:00",
+        "checked": "2026-11-25T08:30:47+00:00",
         "ok": true,
-        "count": 104,
-        "new": 3,
-        "note": "Laatste 30 dagen: 104 van 104 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "count": 112,
+        "new": 8,
+        "note": "Laatste 30 dagen: 112 van 112 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-25T08:15:58+00:00",
+        "checked": "2026-11-25T08:30:49+00:00",
         "ok": true,
-        "count": 2,
+        "count": 1,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-26 en 2027-01-09, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 1 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-26 en 2027-01-09, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-25T08:16:09+00:00",
+        "checked": "2026-11-25T08:30:58+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -75819,12 +76241,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-25T08:16:09+00:00",
+        "checked": "2026-11-25T08:30:58+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-25T08:16:05+00:00",
+        "checked": "2026-11-25T08:30:56+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -75834,38 +76256,38 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-25T08:16:11+00:00",
+        "checked": "2026-11-25T08:30:59+00:00",
         "ok": true,
-        "count": 53,
-        "new": 0,
-        "note": "Laatste 30 dagen: 53 van 53 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "count": 54,
+        "new": 1,
+        "note": "Laatste 30 dagen: 54 van 54 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-25T08:16:31+00:00",
+        "checked": "2026-11-25T08:30:59+00:00",
         "ok": true,
-        "count": 4,
+        "count": 0,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 4 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-26 en 2027-01-09, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-26 en 2027-01-09, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-25T08:16:40+00:00",
+        "checked": "2026-11-25T08:31:07+00:00",
         "ok": true,
-        "count": 65,
-        "new": 0,
+        "count": 66,
+        "new": 1,
         "note": "De Actueel-pagina van drechterland.nl (de nieuwste berichten, met datum). De RSS-feed van de gemeente is leeg.",
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-25T08:16:40+00:00",
+        "checked": "2026-11-25T08:31:07+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-25T08:16:37+00:00",
+        "checked": "2026-11-25T08:31:04+00:00",
         "ok": true,
         "count": 50,
-        "new": 1,
+        "new": 0,
         "error": null,
         "note": "Overzichten op gemeenteraad.drechterland.nl: raadsbrieven (in de kolom College), schriftelijke en technische vragen, moties, amendementen, toezeggingen en ingekomen stukken. Steeds de 10 laatst bijgewerkte per overzicht."
       }
@@ -75880,25 +76302,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-25T08:16:40+00:00",
+        "checked": "2026-11-25T08:31:07+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-25T08:16:47+00:00",
+        "checked": "2026-11-25T08:31:25+00:00",
         "ok": true,
-        "count": 1,
+        "count": 3,
         "errors": 0,
-        "note": "1 documenten gecontroleerd (0 pdf), 575 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "3 documenten gecontroleerd (0 pdf), 576 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-25T08:16:47+00:00",
+        "checked": "2026-11-25T08:31:25+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-25T08:16:47+00:00",
+        "checked": "2026-11-25T08:31:25+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -75933,7 +76355,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/15-december/20:00": {
-        "checked": "2026-11-25T08:00:57+00:00",
+        "checked": "2026-11-25T08:30:49+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-12-15",
