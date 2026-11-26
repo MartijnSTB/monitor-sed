@@ -9557,9 +9557,9 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-24",
       "go_seen": true,
-      "missing_count": 8,
+      "missing_count": 9,
       "text_hash": "c68f5424c5452c5f123ca0df524fd82aa739d9d4156a8e8b41099723286e2131",
-      "content_checked": "2026-11-26T12:01:26+00:00",
+      "content_checked": "2026-11-26T18:20:58+00:00",
       "kw_sig": "4f53cda18c2b|c68f5424c5452c5f123ca0df524fd82aa739d9d4156a8e8b41099723286e2131|14. Brief inwoner gemeente Enkhuizen - Zonnepanelen in de binnenstad|Ingekomen stukken · afgedaan 2026-11-24",
       "removed": "2026-11-24T23:16:34+00:00",
       "changes": [
@@ -11372,7 +11372,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "ab7d6550c54f6ea6ed3586c4c6814eeaafbe40c701c1a6032f4ffef11ad09063",
-      "content_checked": "2026-11-26T12:01:24+00:00",
+      "content_checked": "2026-11-26T18:20:56+00:00",
       "kw_sig": "4f53cda18c2b|ab7d6550c54f6ea6ed3586c4c6814eeaafbe40c701c1a6032f4ffef11ad09063|5. Informerende brief aan gemeenteraadsleden Westfriesland namens DeSom en WerkSaam|Ingekomen stukken · afgedaan 2026-12-15"
     },
     "0b18cd9dfefaf85f60f456930e4a90ef16c2784958b79cdcc6ecc97adf6c3370": {
@@ -11395,7 +11395,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "2e867c9a5c71e4f94a40d300258a331a69063e7dbfa245b39b46a58e71871a76",
-      "content_checked": "2026-11-26T12:01:25+00:00",
+      "content_checked": "2026-11-26T18:20:57+00:00",
       "kw_sig": "4f53cda18c2b|2e867c9a5c71e4f94a40d300258a331a69063e7dbfa245b39b46a58e71871a76|13. WPM notitie - Wanneer krijgt de burger duidelijkheid?|Ingekomen stukken · afgedaan 2026-11-24"
     },
     "edb4d2dda5f45d6c219c582edeb3e2e19328c3111e97b7344f5dbe2104ecd558": {
@@ -11418,7 +11418,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "9a706d82cfc3af8698e74b98f5d10c73937eade49b7f68f302b00886217e5438",
-      "content_checked": "2026-11-26T12:01:25+00:00",
+      "content_checked": "2026-11-26T18:20:57+00:00",
       "kw_sig": "4f53cda18c2b|9a706d82cfc3af8698e74b98f5d10c73937eade49b7f68f302b00886217e5438|6. Raadsbrief Haalbaarheidsonderzoek uitbreiding vaarnetwerk Westfriesland|Raadsbrief · afgedaan 2026-12-15"
     },
     "4de681aa805229d0dc24ecc70a1a24c42c95fe8b1e3e9043a9907b7ec1b5f77e": {
@@ -11441,7 +11441,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "36833d76e8e4f893d60e017fb49df961a872dd9ce947db486c1a766a8b1d75a1",
-      "content_checked": "2026-11-26T12:01:22+00:00",
+      "content_checked": "2026-11-26T18:20:54+00:00",
       "kw_sig": "4f53cda18c2b|36833d76e8e4f893d60e017fb49df961a872dd9ce947db486c1a766a8b1d75a1|Aangenomen Motie vreemd: Controle opgevoerde fatbikes en e-bikes|Ingekomen stukken"
     },
     "be477dcdd85a59d8aef5a49a2529b574b52f9de18d53ff55d1bc2e7dd4647be2": {
@@ -11464,7 +11464,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "78d4ae2e7b1d3d95031f111fd59fcb213151bcd1937d36f2d7efd6d563154ef8",
-      "content_checked": "2026-11-26T12:01:23+00:00",
+      "content_checked": "2026-11-26T18:20:55+00:00",
       "kw_sig": "4f53cda18c2b|78d4ae2e7b1d3d95031f111fd59fcb213151bcd1937d36f2d7efd6d563154ef8|Document Jeugdzorg van Systeem naar Mensen|Ingekomen stukken"
     },
     "47c9cbf7e06510ba029b646a633b75f10224974bdff971fed86df768e80718e6": {
@@ -68207,7 +68207,7 @@
       "excerpt": "Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 2 Participatie plan Hooge Hout (2026-51) · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "14c0866554a5fc0c9feda1b7e39e067acd5424129c9a49cc44988839d79a8205",
-      "content_checked": "2026-11-25T18:16:33+00:00",
+      "content_checked": "2026-11-26T18:20:47+00:00",
       "kw_sig": "4f53cda18c2b|14c0866554a5fc0c9feda1b7e39e067acd5424129c9a49cc44988839d79a8205|RV Participatieplan De Hooge Hout (2026-51)|Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 2 Participatie plan Hooge Hout (2026-51) · Raadsvoorstel · ook in 1 andere vergadering(en)"
     },
     "8d372b76db29922484f8cbde618e9d7adf5adf0ec7614c039f4699c550039cc9": {
@@ -68243,7 +68243,7 @@
       "excerpt": "Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 2 Participatie plan Hooge Hout (2026-51) · Raadsbesluit · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "b345d774283e276d961e9241e9afea24cf49346aeb329abcb70dcee4ce598fb9",
-      "content_checked": "2026-11-25T18:16:34+00:00",
+      "content_checked": "2026-11-26T18:20:48+00:00",
       "kw_sig": "4f53cda18c2b|b345d774283e276d961e9241e9afea24cf49346aeb329abcb70dcee4ce598fb9|RB Participatieplan De Hooge Hout (2026-51)|Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 2 Participatie plan Hooge Hout (2026-51) · Raadsbesluit · ook in 1 andere vergadering(en)"
     },
     "c647ca97b09630097741fa7f828125209b180f2baff792c32a41a263c2e3449e": {
@@ -68279,7 +68279,7 @@
       "excerpt": "Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 2 Participatie plan Hooge Hout (2026-51) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "4b34d12de3fb28d8f97e9db1005559d0751a9e20a975387e440ea199fe244ed0",
-      "content_checked": "2026-11-25T18:16:35+00:00",
+      "content_checked": "2026-11-26T18:20:49+00:00",
       "kw_sig": "4f53cda18c2b|4b34d12de3fb28d8f97e9db1005559d0751a9e20a975387e440ea199fe244ed0|Participatieplan Hooge Hout oktober 2026 (2026-51)|Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 2 Participatie plan Hooge Hout (2026-51) · Overige bijlagen · ook in 1 andere vergadering(en)"
     },
     "867fc9ca38641d01b116414e28358efd465d301242ce92d44fb9321711144730": {
@@ -68315,7 +68315,7 @@
       "excerpt": "Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 2 Participatie plan Hooge Hout (2026-51) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "file_hash": "f2a678c0eef7e5c7e3a8cf777940c12356692d52624d3e3050d0e8f8df981f11",
-      "content_checked": "2026-11-25T18:16:36+00:00",
+      "content_checked": "2026-11-26T18:20:50+00:00",
       "kw_sig": "4f53cda18c2b||Producten HH bevoegd gezag (2026-51)|Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 2 Participatie plan Hooge Hout (2026-51) · Overige bijlagen · ook in 1 andere vergadering(en)"
     },
     "a5236cde67e21c443dcdf9ba3ff5230f5a2ba6897612dbf9d0744bb265d5b1c3": {
@@ -68351,7 +68351,7 @@
       "excerpt": "Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 2 Participatie plan Hooge Hout (2026-51) · Overige bijlagen · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "e05002f1400ed0f20cdaa8f8dda37b642a1fbb77bc1055bf3f9f8b68d02a535d",
-      "content_checked": "2026-11-25T18:16:37+00:00",
+      "content_checked": "2026-11-26T18:20:50+00:00",
       "kw_sig": "4f53cda18c2b|e05002f1400ed0f20cdaa8f8dda37b642a1fbb77bc1055bf3f9f8b68d02a535d|Tijdlijn De Hooge Hout Stationskwartier (2026-51)|Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 2 Participatie plan Hooge Hout (2026-51) · Overige bijlagen · ook in 1 andere vergadering(en)"
     },
     "19fede9c8a36afc4d57ec376c1480e8361c2feef6a75d269f03c55b2969f0d1d": {
@@ -68387,7 +68387,7 @@
       "excerpt": "Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 2 Participatie plan Hooge Hout (2026-51) · Stukken ter kennisname · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "35a4955611d96562842a09c98743bd3c1521170c5950ad63c65eb899411e4837",
-      "content_checked": "2026-11-25T18:16:37+00:00",
+      "content_checked": "2026-11-26T18:20:51+00:00",
       "kw_sig": "4f53cda18c2b|35a4955611d96562842a09c98743bd3c1521170c5950ad63c65eb899411e4837|Inspreken NRD De Hooge Hout Hoogkarspel JAR|Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 2 Participatie plan Hooge Hout (2026-51) · Stukken ter kennisname · ook in 1 andere vergadering(en)"
     },
     "8eac9305af52888496ae1b3bb0c839c92d8461e29bfd1c4c81f25ac900e1d219": {
@@ -68428,7 +68428,7 @@
       "excerpt": "Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 1 Financiële verordening (2026-53) · Raadsvoorstel · ook in 2 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "67ca5326cbb2a008034fef6d571b4aa5bd15e5af56a66380d4c852149c61af53",
-      "content_checked": "2026-11-25T18:16:38+00:00",
+      "content_checked": "2026-11-26T18:20:52+00:00",
       "kw_sig": "4f53cda18c2b|67ca5326cbb2a008034fef6d571b4aa5bd15e5af56a66380d4c852149c61af53|Raadsvoorstel Financiële verordening gemeente Drechterland 2026 (2026-53)|Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 1 Financiële verordening (2026-53) · Raadsvoorstel · ook in 2 andere vergadering(en)"
     },
     "0e83490d3f11ba8f630631ef7eb37313ae46d91269a9a2f9bb2421f283f0d6eb": {
@@ -68469,7 +68469,7 @@
       "excerpt": "Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 1 Financiële verordening (2026-53) · Raadsbesluit · ook in 2 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "0ac26ec2f7f01eb1b60ce604fd15f16ab63ce2a2e376fe2050bd56f9c9f48362",
-      "content_checked": "2026-11-25T18:16:39+00:00",
+      "content_checked": "2026-11-26T18:20:53+00:00",
       "kw_sig": "4f53cda18c2b|0ac26ec2f7f01eb1b60ce604fd15f16ab63ce2a2e376fe2050bd56f9c9f48362|Raadsbesluit Financiële verordening gemeente Drechterland 2026 (2026-53)|Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 1 Financiële verordening (2026-53) · Raadsbesluit · ook in 2 andere vergadering(en)"
     },
     "3a805458dc18a0a71a19c8a06f23dc6638a4f92eddff51f9dd07c1564015761f": {
@@ -68510,7 +68510,7 @@
       "excerpt": "Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 1 Financiële verordening (2026-53) · Overige bijlagen · ook in 2 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "beb7b15a254c5299c501d1ac1d00ddfd2dc58c77ea3bad7edc6509d750bc37a3",
-      "content_checked": "2026-11-25T18:16:40+00:00",
+      "content_checked": "2026-11-26T18:20:53+00:00",
       "kw_sig": "4f53cda18c2b|beb7b15a254c5299c501d1ac1d00ddfd2dc58c77ea3bad7edc6509d750bc37a3|Was-wordt lijst financiële verordening|Rondetafelgesprekken 9 november 2026 20:00 · agendapunt 1 Financiële verordening (2026-53) · Overige bijlagen · ook in 2 andere vergadering(en)"
     },
     "2717689fe6710fe35f3e385db67e7008620fc5d19f9b7c8e17824eefb69a9d91": {
@@ -80070,14 +80070,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T18:15:30+00:00",
+        "checked": "2026-11-26T18:20:28+00:00",
         "ok": true,
         "count": 30,
         "new": 0,
         "note": "Laatste 30 dagen: 30 van 30 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-26T18:15:33+00:00",
+        "checked": "2026-11-26T18:20:30+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -80085,29 +80085,29 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T18:15:33+00:00",
+        "checked": "2026-11-26T18:20:30+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T18:15:34+00:00",
+        "checked": "2026-11-26T18:20:31+00:00",
         "ok": true,
         "count": 115,
         "new": 0,
         "note": "Laatste 30 dagen: 115 van 115 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T18:15:49+00:00",
+        "checked": "2026-11-26T18:20:31+00:00",
         "ok": true,
-        "count": 2,
+        "count": 0,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-27 en 2027-01-10, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-27 en 2027-01-10, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-26T18:15:58+00:00",
+        "checked": "2026-11-26T18:20:39+00:00",
         "ok": true,
         "count": 67,
         "new": 0,
@@ -80115,12 +80115,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T18:15:58+00:00",
+        "checked": "2026-11-26T18:20:39+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-26T18:15:55+00:00",
+        "checked": "2026-11-26T18:20:37+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -80130,22 +80130,22 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T18:15:58+00:00",
+        "checked": "2026-11-26T18:20:39+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
         "note": "Laatste 30 dagen: 54 van 54 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T18:16:17+00:00",
+        "checked": "2026-11-26T18:20:39+00:00",
         "ok": true,
-        "count": 4,
+        "count": 0,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 4 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-27 en 2027-01-10, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-27 en 2027-01-10, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-26T18:16:24+00:00",
+        "checked": "2026-11-26T18:20:46+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -80153,12 +80153,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T18:16:24+00:00",
+        "checked": "2026-11-26T18:20:46+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-26T18:16:22+00:00",
+        "checked": "2026-11-26T18:20:44+00:00",
         "ok": true,
         "count": 50,
         "new": 0,
@@ -80176,25 +80176,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-26T18:16:32+00:00",
+        "checked": "2026-11-26T18:20:46+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-26T18:17:43+00:00",
+        "checked": "2026-11-26T18:20:58+00:00",
         "ok": true,
-        "count": 50,
+        "count": 15,
         "errors": 0,
-        "note": "50 documenten gecontroleerd (28 pdf), 589 gevolgd (alle gemeenten), 6 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer. 6 pdf zonder tekst deze run."
+        "note": "15 documenten gecontroleerd (9 pdf), 589 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer. 1 pdf zonder tekst deze run."
       },
       "Trefwoorden": {
-        "checked": "2026-11-26T18:17:43+00:00",
+        "checked": "2026-11-26T18:20:58+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-26T18:17:43+00:00",
+        "checked": "2026-11-26T18:20:58+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
