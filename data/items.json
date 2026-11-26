@@ -5,6 +5,168 @@
     "stedebroec"
   ],
   "items": {
+    "8bff09e26ede15a33800ad9190e4cbe4a4db64f2216f8205d353f6f5af8ee59e": {
+      "title": "Beleidsregel Wet veilige jaarwisseling gemeente Drechterland",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547624.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-26T08:16:05+00:00",
+      "updated": "2026-11-26T08:16:05+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "beleidsregel",
+      "locatie": null,
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Beleidsregel Wet veilige jaarwisseling gemeente Drechterland|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
+    "48ceeb90b6f95d0488bfc30e11be045a694f12a2b30b262426de6fac2fd1f4a8": {
+      "title": "Beleidsregels zelfbewoningsplicht en anti-speculatiebeding gemeente Drechterland 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-549815.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-26T08:16:05+00:00",
+      "updated": "2026-11-26T08:16:05+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "beleidsregel",
+      "locatie": null,
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Beleidsregels zelfbewoningsplicht en anti-speculatiebeding gemeente Drechterland 2026|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
+    "9d2cd632b75cdae2c9c94c6ed25c481af7529f823ff8f57ada0535f4dc9bf595": {
+      "title": "Kennisgeving ontvangst aanvraag Omgevingsvergunning, Noordergracht 54, 1601PH Enkhuizen",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-550493.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-26T08:15:37+00:00",
+      "updated": "2026-11-26T08:15:37+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Noordergracht 54, 1601PH Enkhuizen",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Betreft: Aanvraag op locatie Noordergracht 54, 1601PH Enkhuizen",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "geo": [
+        52.707443,
+        5.28597
+      ],
+      "geo_src": "PDOK",
+      "plaats": "Enkhuizen",
+      "kw_sig": "4f53cda18c2b||Kennisgeving ontvangst aanvraag Omgevingsvergunning, Noordergracht 54, 1601PH Enkhuizen|Betreft: Aanvraag op locatie Noordergracht 54, 1601PH Enkhuizen"
+    },
+    "f58a6083efeaf4cc731e8eab7bf67662da6798f70e7ea863ca4fedc3613b267e": {
+      "title": "Kennisgeving ontvangst aanvraag Omgevingsvergunning, Westerstraat 234, 1601AR Enkhuizen",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-550584.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-26T08:15:37+00:00",
+      "updated": "2026-11-26T08:15:37+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Westerstraat 234, 1601AR Enkhuizen",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Betreft: Aanvraag op locatie Westerstraat 234, 1601AR Enkhuizen",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "geo": [
+        52.702284,
+        5.280662
+      ],
+      "geo_src": "PDOK",
+      "plaats": "Enkhuizen",
+      "kw_sig": "4f53cda18c2b||Kennisgeving ontvangst aanvraag Omgevingsvergunning, Westerstraat 234, 1601AR Enkhuizen|Betreft: Aanvraag op locatie Westerstraat 234, 1601AR Enkhuizen"
+    },
+    "9f67e8690c021cf5ff8aed8c3dde8d90299956dd51bb72826afd16c83ea7dbb3": {
+      "title": "Beleidsregel Wet veilige jaarwisseling gemeente Stede Broec",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-549339.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-26T08:15:32+00:00",
+      "updated": "2026-11-26T08:15:32+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "beleidsregel",
+      "locatie": null,
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Beleidsregel Wet veilige jaarwisseling gemeente Stede Broec|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
     "a854e1c3031322b294b1844c7764234d1bd56790e212fb5c5a0d8b8211b6e5b5": {
       "title": "Ondernemers in Drechterland in gesprek over netcongestie en energie",
       "url": "https://www.drechterland.nl/actueel/ondernemers-in-drechterland-in-gesprek-over-netcongestie-en-energie",
@@ -15132,7 +15294,7 @@
       "excerpt": "Rondetafelgesprekken 30 november 2026 20:00 · agendapunt 3 Nota grondbeleid (2026-57) · Overige bijlagen",
       "missing_count": 0,
       "text_hash": "ab0840afa737ff70d47e7a6199c1f36bedc9251dd4743c06395bdc112eece06d",
-      "content_checked": "2026-11-26T02:16:35+00:00",
+      "content_checked": "2026-11-26T08:16:40+00:00",
       "kw_sig": "4f53cda18c2b|ab0840afa737ff70d47e7a6199c1f36bedc9251dd4743c06395bdc112eece06d|Was-wordt lijst Nota Grondbeleid Drechterland (2026-57)|Rondetafelgesprekken 30 november 2026 20:00 · agendapunt 3 Nota grondbeleid (2026-57) · Overige bijlagen"
     },
     "2ef8ee8df4c393a311e0653094afcafdd55ec483b29c195530af87d40c269943": {
@@ -15163,7 +15325,7 @@
       "excerpt": "Rondetafelgesprekken 30 november 2026 20:00 · agendapunt 1 Vaststellen najaarsnota 2026 (2026-58) · Raadsvoorstel",
       "missing_count": 0,
       "text_hash": "3b249bc15e44b73e5adf6660d81e950f3139ab231221e20ec834d1dabe25fd5c",
-      "content_checked": "2026-11-26T02:16:37+00:00",
+      "content_checked": "2026-11-26T08:16:41+00:00",
       "kw_sig": "4f53cda18c2b|3b249bc15e44b73e5adf6660d81e950f3139ab231221e20ec834d1dabe25fd5c|RV Najaarsnota 2026 Drechterland (2026-58)|Rondetafelgesprekken 30 november 2026 20:00 · agendapunt 1 Vaststellen najaarsnota 2026 (2026-58) · Raadsvoorstel"
     },
     "8b652b0b4e7935a63e070bb9d5017e2e1b5ce1b5d360a8832c7e47327f12f98f": {
@@ -15194,7 +15356,7 @@
       "excerpt": "Rondetafelgesprekken 30 november 2026 20:00 · agendapunt 1 Vaststellen najaarsnota 2026 (2026-58) · Raadsbesluit",
       "missing_count": 0,
       "text_hash": "a34d3205e13c8b9aae9e3aee5ee4247233edc7d5eedd646bc9af2fe35050e524",
-      "content_checked": "2026-11-26T02:16:37+00:00",
+      "content_checked": "2026-11-26T08:16:42+00:00",
       "kw_sig": "4f53cda18c2b|a34d3205e13c8b9aae9e3aee5ee4247233edc7d5eedd646bc9af2fe35050e524|RB Najaarsnota 2026 Drechterland (2026-58)|Rondetafelgesprekken 30 november 2026 20:00 · agendapunt 1 Vaststellen najaarsnota 2026 (2026-58) · Raadsbesluit"
     },
     "be30b7e5a3d120e7a75b5ece8cdce3eb618d0ab3dfe0f999acf15e092b9c87c3": {
@@ -77788,14 +77950,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T08:03:45+00:00",
+        "checked": "2026-11-26T08:15:32+00:00",
         "ok": true,
-        "count": 29,
-        "new": 0,
-        "note": "Laatste 30 dagen: 29 van 29 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "count": 30,
+        "new": 1,
+        "note": "Laatste 30 dagen: 30 van 30 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-26T08:03:48+00:00",
+        "checked": "2026-11-26T08:15:35+00:00",
         "ok": true,
         "count": 63,
         "new": 0,
@@ -77803,29 +77965,29 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T08:03:48+00:00",
+        "checked": "2026-11-26T08:15:35+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T08:03:49+00:00",
+        "checked": "2026-11-26T08:15:37+00:00",
         "ok": true,
-        "count": 109,
-        "new": 0,
-        "note": "Laatste 30 dagen: 109 van 109 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "count": 111,
+        "new": 2,
+        "note": "Laatste 30 dagen: 111 van 111 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T08:03:52+00:00",
+        "checked": "2026-11-26T08:15:53+00:00",
         "ok": true,
-        "count": 3,
+        "count": 2,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 3 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-27 en 2027-01-10, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-27 en 2027-01-10, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-26T08:04:00+00:00",
+        "checked": "2026-11-26T08:16:03+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -77833,12 +77995,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T08:04:00+00:00",
+        "checked": "2026-11-26T08:16:03+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-26T08:03:57+00:00",
+        "checked": "2026-11-26T08:16:00+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -77848,14 +78010,14 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T08:04:00+00:00",
+        "checked": "2026-11-26T08:16:05+00:00",
         "ok": true,
-        "count": 52,
-        "new": 0,
-        "note": "Laatste 30 dagen: 52 van 52 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "count": 54,
+        "new": 2,
+        "note": "Laatste 30 dagen: 54 van 54 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T08:04:05+00:00",
+        "checked": "2026-11-26T08:16:24+00:00",
         "ok": true,
         "count": 4,
         "new": 0,
@@ -77863,7 +78025,7 @@
         "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 4 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-27 en 2027-01-10, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-26T08:04:12+00:00",
+        "checked": "2026-11-26T08:16:32+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -77871,12 +78033,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T08:04:12+00:00",
+        "checked": "2026-11-26T08:16:32+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-26T08:04:10+00:00",
+        "checked": "2026-11-26T08:16:29+00:00",
         "ok": true,
         "count": 50,
         "new": 0,
@@ -77894,25 +78056,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-26T08:04:12+00:00",
+        "checked": "2026-11-26T08:16:32+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-26T08:04:45+00:00",
+        "checked": "2026-11-26T08:16:42+00:00",
         "ok": true,
-        "count": 26,
+        "count": 3,
         "errors": 0,
-        "note": "26 documenten gecontroleerd (14 pdf), 579 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "3 documenten gecontroleerd (3 pdf), 579 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-26T08:04:45+00:00",
+        "checked": "2026-11-26T08:16:42+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-26T08:04:45+00:00",
+        "checked": "2026-11-26T08:16:42+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -78087,7 +78249,7 @@
         ]
       },
       "/Vergaderingen/Commissie-Bestuur-Openbare-Orde-en-Veiligheid-Erfgoed-Grondgebied-BOEG/2026/30-november/20:00": {
-        "checked": "2026-11-26T07:45:50+00:00",
+        "checked": "2026-11-26T08:15:52+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG",
         "date": "2026-11-30",
@@ -78158,7 +78320,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Commissie-Sociaal-Domein-Financien-Bedrijfsvoering-SFB/2026/01-december/20:00": {
-        "checked": "2026-11-26T07:45:51+00:00",
+        "checked": "2026-11-26T08:15:53+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB",
         "date": "2026-12-01",
@@ -78423,7 +78585,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Rondetafelgesprekken/2026/30-november/20:00": {
-        "checked": "2026-11-26T07:46:14+00:00",
+        "checked": "2026-11-26T08:16:21+00:00",
         "gemeente": "drechterland",
         "type": "Rondetafelgesprekken",
         "date": "2026-11-30",
@@ -78463,7 +78625,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/14-december/20:00": {
-        "checked": "2026-11-26T07:46:12+00:00",
+        "checked": "2026-11-26T08:16:19+00:00",
         "gemeente": "drechterland",
         "type": "Raadsvergadering",
         "date": "2026-12-14",
@@ -78472,7 +78634,7 @@
         "agenda": []
       },
       "/Vergaderingen/Themabijeenkomst/2026/03-december/20:00": {
-        "checked": "2026-11-26T07:46:17+00:00",
+        "checked": "2026-11-26T08:16:24+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-12-03",
@@ -78544,7 +78706,7 @@
         ]
       },
       "/Vergaderingen/Verdiepende-sessie/2026/03-december/20:00": {
-        "checked": "2026-11-26T07:46:13+00:00",
+        "checked": "2026-11-26T08:16:20+00:00",
         "gemeente": "drechterland",
         "type": "Verdiepende sessie",
         "date": "2026-12-03",
@@ -78570,8 +78732,8 @@
       }
     },
     "go_listed": {
-      "enkhuizen": "2026-11-26T07:45:49+00:00",
-      "drechterland": "2026-11-26T07:46:12+00:00"
+      "enkhuizen": "2026-11-26T08:15:51+00:00",
+      "drechterland": "2026-11-26T08:16:18+00:00"
     },
     "elders": {
       "woo": "2026-11-26T07:16:36+00:00"
