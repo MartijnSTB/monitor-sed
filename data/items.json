@@ -5,6 +5,414 @@
     "stedebroec"
   ],
   "items": {
+    "397b9e959d662bd5903aef23d37d0a1176fceb018cb26356d9d98cd9cf5f74e8": {
+      "title": "Heeft u een voorwerp verloren of gevonden?",
+      "url": "https://www.stedebroec.nl/actueel/heeft-u-een-voorwerp-verloren-of-gevonden-4",
+      "source": "Nieuws",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-17T17:53:04+00:00",
+      "updated": "2026-11-26T22:16:53+00:00",
+      "last_change": "2026-11-26T22:16:53+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Bril, tas, fiets of een sieraad kwijt? Iets verliezen is niet fijn, iets terugvinden wel. Heeft u iets gevonden of verloren in onze gemeente? Meld het dan op: www.verlorenofgevonden.nl. Zo is de kans groter dat een voorwerp weer bij de eigenaar terechtkomt. Gevonden voorwerpen inleveren of ophalen Wilt u een gevonden…",
+      "doc_date": "2026-08-05",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-08-05T11:44:58+00:00",
+      "last_seen": "2026-11-26",
+      "kw_sig": "4f53cda18c2b|39e107f29eb1fe8a8ab3acbdf2cc44a85505c3fb413b39870a5ea30950d3c987|Heeft u een voorwerp verloren of gevonden?|Bril, tas, fiets of een sieraad kwijt? Iets verliezen is niet fijn, iets terugvinden wel. Heeft u iets gevonden of verloren in onze gemeente? Meld het dan op: www.verlorenofgevonden.nl. Zo is de kans groter dat een voorwerp weer bij de eigenaar terechtkomt. Gevonden voorwerpen inleveren of ophalen Wilt u een gevonden…",
+      "missing_count": 0,
+      "text_hash": "39e107f29eb1fe8a8ab3acbdf2cc44a85505c3fb413b39870a5ea30950d3c987",
+      "content_checked": "2026-11-26T22:16:53+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T22:16:53+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "8 zin(nen) toegevoegd of aangepast, 9 verwijderd of vervangen",
+          "added": [
+            "De schop de grond in voor de plant-estafette",
+            "26 november 2026",
+            "Lichtpuntjes"
+          ],
+          "removed": [
+            "COA vraagt vergunning aan voor asielopvanglocatie",
+            "12 november 2026",
+            "Gratis woningcheck van de brandweer voor een veiliger thuis"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "4c9f10c1ec5ada7b2a9ca9e9fa53003415522f47a53c33fc6a8beca302d1b8d3": {
+      "title": "Heeft u een voorwerp verloren of gevonden?",
+      "url": "https://www.enkhuizen.nl/actueel/heeft-u-een-voorwerp-verloren-of-gevonden-5",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-26T22:16:51+00:00",
+      "last_change": "2026-11-26T22:16:51+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Bril, tas, fiets of een sieraad kwijt? Iets verliezen is niet fijn, iets terugvinden wel. Heeft u iets gevonden of verloren in onze gemeente? Meld het dan op: www.verlorenofgevonden.nl. Zo is de kans groter dat een voorwerp weer bij de eigenaar terechtkomt. Gevonden voorwerpen inleveren of ophalen Wilt u een gevonden…",
+      "doc_date": "2026-08-05",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-08-05T11:49:47+00:00",
+      "last_seen": "2026-11-26",
+      "kw_sig": "4f53cda18c2b|7634fe16c50900fe8667be27a94cafaad7c071a39d7dc118843ba1a8ad7a8d8d|Heeft u een voorwerp verloren of gevonden?|Bril, tas, fiets of een sieraad kwijt? Iets verliezen is niet fijn, iets terugvinden wel. Heeft u iets gevonden of verloren in onze gemeente? Meld het dan op: www.verlorenofgevonden.nl. Zo is de kans groter dat een voorwerp weer bij de eigenaar terechtkomt. Gevonden voorwerpen inleveren of ophalen Wilt u een gevonden…",
+      "missing_count": 0,
+      "text_hash": "7634fe16c50900fe8667be27a94cafaad7c071a39d7dc118843ba1a8ad7a8d8d",
+      "content_checked": "2026-11-26T22:16:51+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T22:16:51+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "6 zin(nen) toegevoegd of aangepast, 6 verwijderd of vervangen",
+          "added": [
+            "Vaste aanbiedplaatsen oud papier en karton",
+            "26 november 2026",
+            "Parkeergebieden voor betaald parkeren vastgesteld"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026",
+            "Gezocht: stembureauleden en stemmentellers"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "f49df3e560dc6af69cce22161673d0f0ec9035f83494a8057ac871aa6959a86c": {
+      "title": "Heeft u een voorwerp verloren of gevonden?",
+      "url": "https://www.drechterland.nl/actueel/heeft-u-een-voorwerp-verloren-of-gevonden-6",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-26T22:16:50+00:00",
+      "last_change": "2026-11-26T22:16:50+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Bril, tas, fiets of een sieraad kwijt? Iets verliezen is niet fijn, iets terugvinden wel. Heeft u iets gevonden of verloren in onze gemeente? Meld het dan op: www.verlorenofgevonden.nl. Zo is de kans groter dat een voorwerp weer bij de eigenaar terechtkomt. Gevonden voorwerpen inleveren of ophalen Wilt u een gevonden…",
+      "doc_date": "2026-08-05",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-08-05T11:52:23+00:00",
+      "last_seen": "2026-11-26",
+      "kw_sig": "4f53cda18c2b|0fe59fce824b9d1b1511241c827c40e4614e8a7665a2dedaf5c0f74ec386bb7c|Heeft u een voorwerp verloren of gevonden?|Bril, tas, fiets of een sieraad kwijt? Iets verliezen is niet fijn, iets terugvinden wel. Heeft u iets gevonden of verloren in onze gemeente? Meld het dan op: www.verlorenofgevonden.nl. Zo is de kans groter dat een voorwerp weer bij de eigenaar terechtkomt. Gevonden voorwerpen inleveren of ophalen Wilt u een gevonden…",
+      "missing_count": 0,
+      "text_hash": "0fe59fce824b9d1b1511241c827c40e4614e8a7665a2dedaf5c0f74ec386bb7c",
+      "content_checked": "2026-11-26T22:16:50+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T22:16:50+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Het college bezoekt Bouw '85",
+            "25 november 2026",
+            "Beheer voormalige vuilstort Westwoud overgedragen"
+          ],
+          "removed": [
+            "Gratis woningcheck van de brandweer voor een veiliger thuis",
+            "10 november 2026",
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "ef69fd5d7507193b333439e9e50d0a145274116d11bb9d7fb236d623a0386658": {
+      "title": "Welkom in Enkhuizen",
+      "url": "https://www.enkhuizen.nl/actueel/welkom-in-enkhuizen",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-26T22:16:48+00:00",
+      "last_change": "2026-11-26T22:16:48+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Op 5 augustus opende Known-You Seed Europe B.V. officieel de deuren van haar Europese vestiging in Enkhuizen. Burgemeester Hoekstra-Sikkema was aanwezig om het bedrijf namens de gemeente welkom te heten. De burgemeester opende de locatie officieel door een lint door te knippen. Known-You Seed Europe B.V. is een internationaal bedrijf in…",
+      "doc_date": "2026-08-10",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-08-10T10:38:55+00:00",
+      "last_seen": "2026-11-18",
+      "kw_sig": "4f53cda18c2b||Welkom in Enkhuizen|Op 5 augustus opende Known-You Seed Europe B.V. officieel de deuren van haar Europese vestiging in Enkhuizen. Burgemeester Hoekstra-Sikkema was aanwezig om het bedrijf namens de gemeente welkom te heten. De burgemeester opende de locatie officieel door een lint door te knippen. Known-You Seed Europe B.V. is een internationaal bedrijf in…",
+      "missing_count": 2,
+      "content_checked": "2026-11-26T22:16:48+00:00",
+      "removed": "2026-11-26T22:16:48+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T22:16:48+00:00",
+          "type": "Niet meer bereikbaar",
+          "summary": "document geeft HTTP 404: verwijderd of verplaatst",
+          "added": [],
+          "removed": []
+        }
+      ],
+      "change_type": "Niet meer bereikbaar"
+    },
+    "1128be7eb18af6a7c376bdf7307140be65c5ca8cb9d90526713394b6ca16f137": {
+      "title": "Steekincident Prunuslaan",
+      "url": "https://www.enkhuizen.nl/actueel/steekincident-prunuslaan",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-26T22:16:47+00:00",
+      "last_change": "2026-11-26T22:16:47+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Op donderdag 6 augustus 2026 heeft aan de Prunuslaan in Enkhuizen een ernstig steekincident plaatsgevonden. Een dergelijke gebeurtenis raakt allereerst de direct betrokkenen en hun naasten, maar heeft ook gevolgen voor bewoners in de omgeving. Geweld van deze aard maakt veel indruk. Wij begrijpen heel goed dat hierbij allerlei gevoelens…",
+      "doc_date": "2026-08-10",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-08-10T18:11:15+00:00",
+      "last_seen": "2026-11-18",
+      "kw_sig": "4f53cda18c2b||Steekincident Prunuslaan|Op donderdag 6 augustus 2026 heeft aan de Prunuslaan in Enkhuizen een ernstig steekincident plaatsgevonden. Een dergelijke gebeurtenis raakt allereerst de direct betrokkenen en hun naasten, maar heeft ook gevolgen voor bewoners in de omgeving. Geweld van deze aard maakt veel indruk. Wij begrijpen heel goed dat hierbij allerlei gevoelens…",
+      "missing_count": 2,
+      "content_checked": "2026-11-26T22:16:47+00:00",
+      "removed": "2026-11-26T22:16:47+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T22:16:47+00:00",
+          "type": "Niet meer bereikbaar",
+          "summary": "document geeft HTTP 404: verwijderd of verplaatst",
+          "added": [],
+          "removed": []
+        }
+      ],
+      "change_type": "Niet meer bereikbaar"
+    },
+    "45732f3c7abf0a9679f7d5efd61dc6f5461d2ca61d3a73a9347d971fdaf29369": {
+      "title": "25 jaar Huttenbouw Oosterblokker en Blokker",
+      "url": "https://www.drechterland.nl/actueel/een-nieuwe-burgemeester-voor-huttendorp-oosterblokker",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-26T22:16:45+00:00",
+      "last_change": "2026-11-26T22:16:45+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Huttenbouw Oosterblokker en Blokker bestaat 25 jaar. Huttenbouw (Ooster)blokker is onderdeel van Oranjevereniging Blokker-Oosterblokker en bestaat sinds 2000. Al die jaren is voorzitter Ton Steen een onmisbare kracht voor het Huttendorp. Hij zet zich met hart en ziel in voor het huttendorp: hij coördineert activiteiten, houdt overzicht en toezicht en…",
+      "doc_date": "2026-08-10",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-08-10T15:02:52+00:00",
+      "last_seen": "2026-11-18",
+      "kw_sig": "4f53cda18c2b||25 jaar Huttenbouw Oosterblokker en Blokker|Huttenbouw Oosterblokker en Blokker bestaat 25 jaar. Huttenbouw (Ooster)blokker is onderdeel van Oranjevereniging Blokker-Oosterblokker en bestaat sinds 2000. Al die jaren is voorzitter Ton Steen een onmisbare kracht voor het Huttendorp. Hij zet zich met hart en ziel in voor het huttendorp: hij coördineert activiteiten, houdt overzicht en toezicht en…",
+      "missing_count": 2,
+      "content_checked": "2026-11-26T22:16:45+00:00",
+      "removed": "2026-11-26T22:16:45+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T22:16:45+00:00",
+          "type": "Niet meer bereikbaar",
+          "summary": "document geeft HTTP 404: verwijderd of verplaatst",
+          "added": [],
+          "removed": []
+        }
+      ],
+      "change_type": "Niet meer bereikbaar"
+    },
+    "43dc950783ca7fed3bf3c03045f0a515bd65648e2c3193f91e2c43b1d9c3b638": {
+      "title": "Eerder stroomcapaciteit aanvragen: meld je project aan!",
+      "url": "https://www.stedebroec.nl/actueel/stroomcapaciteit-3",
+      "source": "Nieuws",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-17T17:53:04+00:00",
+      "updated": "2026-11-26T22:16:44+00:00",
+      "last_change": "2026-11-26T22:16:44+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Het elektriciteitsnet is overbelast. Daarom komen aanvragen voor nieuwe of zwaardere stroomaansluitingen sinds 1 juli op een wachtlijst. Zodra er weer netcapaciteit beschikbaar is, verdeelt netbeheerder Liander deze op basis van de volgorde op de wachtlijst en het maatschappelijk belang van projecten. Voor woningbouw en onderwijshuisvesting is het mogelijk eerder…",
+      "doc_date": "2026-08-13",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-08-13T12:42:27+00:00",
+      "last_seen": "2026-11-18",
+      "kw_sig": "4f53cda18c2b||Eerder stroomcapaciteit aanvragen: meld je project aan!|Het elektriciteitsnet is overbelast. Daarom komen aanvragen voor nieuwe of zwaardere stroomaansluitingen sinds 1 juli op een wachtlijst. Zodra er weer netcapaciteit beschikbaar is, verdeelt netbeheerder Liander deze op basis van de volgorde op de wachtlijst en het maatschappelijk belang van projecten. Voor woningbouw en onderwijshuisvesting is het mogelijk eerder…",
+      "missing_count": 2,
+      "content_checked": "2026-11-26T22:16:44+00:00",
+      "removed": "2026-11-26T22:16:44+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T22:16:44+00:00",
+          "type": "Niet meer bereikbaar",
+          "summary": "document geeft HTTP 404: verwijderd of verplaatst",
+          "added": [],
+          "removed": []
+        }
+      ],
+      "change_type": "Niet meer bereikbaar"
+    },
+    "2dc38975b5339b097ccadfe6ee0dc542a3477eecf1ac23ff5bbe08836718ea60": {
+      "title": "Eerder stroomcapaciteit aanvragen: meld je project aan!",
+      "url": "https://www.enkhuizen.nl/actueel/stroomcapaciteit",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-26T22:16:41+00:00",
+      "last_change": "2026-11-26T22:16:41+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Het elektriciteitsnet is overbelast. Daarom komen aanvragen voor nieuwe of zwaardere stroomaansluitingen sinds 1 juli op een wachtlijst. Zodra er weer netcapaciteit beschikbaar is, verdeelt netbeheerder Liander deze op basis van de volgorde op de wachtlijst en het maatschappelijk belang van projecten. Voor woningbouw en onderwijshuisvesting is het mogelijk eerder…",
+      "doc_date": "2026-08-13",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-08-13T12:19:04+00:00",
+      "last_seen": "2026-11-18",
+      "kw_sig": "4f53cda18c2b||Eerder stroomcapaciteit aanvragen: meld je project aan!|Het elektriciteitsnet is overbelast. Daarom komen aanvragen voor nieuwe of zwaardere stroomaansluitingen sinds 1 juli op een wachtlijst. Zodra er weer netcapaciteit beschikbaar is, verdeelt netbeheerder Liander deze op basis van de volgorde op de wachtlijst en het maatschappelijk belang van projecten. Voor woningbouw en onderwijshuisvesting is het mogelijk eerder…",
+      "missing_count": 2,
+      "content_checked": "2026-11-26T22:16:41+00:00",
+      "removed": "2026-11-26T22:16:41+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T22:16:41+00:00",
+          "type": "Niet meer bereikbaar",
+          "summary": "document geeft HTTP 404: verwijderd of verplaatst",
+          "added": [],
+          "removed": []
+        }
+      ],
+      "change_type": "Niet meer bereikbaar"
+    },
+    "518d5957b71ed7f9ae1691f0a9a821ede0ea43b68664d3ce0f6a3cec9ae00ffe": {
+      "title": "Eerder stroomcapaciteit aanvragen: meld je project aan!",
+      "url": "https://www.drechterland.nl/actueel/stroomcapaciteit-2",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-26T22:16:39+00:00",
+      "last_change": "2026-11-26T22:16:39+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Het elektriciteitsnet is overbelast. Daarom komen aanvragen voor nieuwe of zwaardere stroomaansluitingen sinds 1 juli op een wachtlijst. Zodra er weer netcapaciteit beschikbaar is, verdeelt netbeheerder Liander deze op basis van de volgorde op de wachtlijst en het maatschappelijk belang van projecten. Voor woningbouw en onderwijshuisvesting is het mogelijk eerder…",
+      "doc_date": "2026-08-13",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-08-13T12:39:24+00:00",
+      "last_seen": "2026-11-18",
+      "kw_sig": "4f53cda18c2b||Eerder stroomcapaciteit aanvragen: meld je project aan!|Het elektriciteitsnet is overbelast. Daarom komen aanvragen voor nieuwe of zwaardere stroomaansluitingen sinds 1 juli op een wachtlijst. Zodra er weer netcapaciteit beschikbaar is, verdeelt netbeheerder Liander deze op basis van de volgorde op de wachtlijst en het maatschappelijk belang van projecten. Voor woningbouw en onderwijshuisvesting is het mogelijk eerder…",
+      "missing_count": 2,
+      "content_checked": "2026-11-26T22:16:39+00:00",
+      "removed": "2026-11-26T22:16:39+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T22:16:39+00:00",
+          "type": "Niet meer bereikbaar",
+          "summary": "document geeft HTTP 404: verwijderd of verplaatst",
+          "added": [],
+          "removed": []
+        }
+      ],
+      "change_type": "Niet meer bereikbaar"
+    },
+    "0f129948f6aa1bbc201bcd199dc6439af5ee6dfc6404bb88909490f1e5d61c0a": {
+      "title": "Check uw vitaliteit met de vitaliteitscheck",
+      "url": "https://www.stedebroec.nl/actueel/check-uw-vitaliteit-met-de-vitaliteitscheck",
+      "source": "Nieuws",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-17T17:53:04+00:00",
+      "updated": "2026-11-26T22:16:36+00:00",
+      "last_change": "2026-11-26T22:16:36+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Wilt u meer inzicht krijgen in uw gezondheid en u vitaler en fitter voelen? Kom dan naar de gratis Vitaliteitscheck in Bovenkarspel. De Vitaliteitscheck geeft u een uitgebreid beeld van uw gezondheid en vitaliteit. Vitaliteitscheck Onder deskundige begeleiding kunt u fitheidstesten doen en uw loopgedrag laten analyseren op de Smartfloor.…",
+      "doc_date": "2026-08-19",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-08-19T11:09:30+00:00",
+      "last_seen": "2026-11-26",
+      "kw_sig": "4f53cda18c2b|5bf29d7fc0c6e51d872fcb0fa31b9607a9e452486a0798d008494e444a89e57b|Check uw vitaliteit met de vitaliteitscheck|Wilt u meer inzicht krijgen in uw gezondheid en u vitaler en fitter voelen? Kom dan naar de gratis Vitaliteitscheck in Bovenkarspel. De Vitaliteitscheck geeft u een uitgebreid beeld van uw gezondheid en vitaliteit. Vitaliteitscheck Onder deskundige begeleiding kunt u fitheidstesten doen en uw loopgedrag laten analyseren op de Smartfloor.…",
+      "missing_count": 0,
+      "text_hash": "5bf29d7fc0c6e51d872fcb0fa31b9607a9e452486a0798d008494e444a89e57b",
+      "content_checked": "2026-11-26T22:16:36+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T22:16:36+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "8 zin(nen) toegevoegd of aangepast, 9 verwijderd of vervangen",
+          "added": [
+            "De schop de grond in voor de plant-estafette",
+            "26 november 2026",
+            "Lichtpuntjes"
+          ],
+          "removed": [
+            "COA vraagt vergunning aan voor asielopvanglocatie",
+            "12 november 2026",
+            "Gratis woningcheck van de brandweer voor een veiliger thuis"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "6ea169825e4539e0bc655e20b537b6e6e952a2baa2dbf77e7602b816ec2d67ed": {
+      "title": "Check uw vitaliteit met de vitaliteitscheck",
+      "url": "https://www.enkhuizen.nl/actueel/check-uw-vitaliteit-met-de-vitaliteitscheck-2",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-26T22:16:35+00:00",
+      "last_change": "2026-11-26T22:16:35+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Wilt u meer inzicht krijgen in uw gezondheid en u vitaler en fitter voelen? Kom dan naar de gratis Vitaliteitscheck in Enkhuizen. De Vitaliteitscheck geeft u een uitgebreid beeld van uw gezondheid en vitaliteit. Vitaliteitscheck Onder deskundige begeleiding kunt u fitheidstesten doen en uw loopgedrag laten analyseren op de Smartfloor.…",
+      "doc_date": "2026-08-19",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-08-19T11:11:43+00:00",
+      "last_seen": "2026-11-26",
+      "kw_sig": "4f53cda18c2b|9e4a77ee28147632516fd480816283139baf1585b87ef614ee90ef0ffa27aba1|Check uw vitaliteit met de vitaliteitscheck|Wilt u meer inzicht krijgen in uw gezondheid en u vitaler en fitter voelen? Kom dan naar de gratis Vitaliteitscheck in Enkhuizen. De Vitaliteitscheck geeft u een uitgebreid beeld van uw gezondheid en vitaliteit. Vitaliteitscheck Onder deskundige begeleiding kunt u fitheidstesten doen en uw loopgedrag laten analyseren op de Smartfloor.…",
+      "missing_count": 0,
+      "text_hash": "9e4a77ee28147632516fd480816283139baf1585b87ef614ee90ef0ffa27aba1",
+      "content_checked": "2026-11-26T22:16:35+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T22:16:35+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "6 zin(nen) toegevoegd of aangepast, 6 verwijderd of vervangen",
+          "added": [
+            "Vaste aanbiedplaatsen oud papier en karton",
+            "26 november 2026",
+            "Parkeergebieden voor betaald parkeren vastgesteld"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026",
+            "Gezocht: stembureauleden en stemmentellers"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "64c0bd7099054c4075056936a91434a80bbe62a2f06b49ced6bb5d8ce60cec58": {
+      "title": "Check uw vitaliteit met de vitaliteitscheck",
+      "url": "https://www.drechterland.nl/actueel/check-uw-vitaliteit-met-de-vitaliteitscheck-3",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-26T22:16:33+00:00",
+      "last_change": "2026-11-26T22:16:33+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Wilt u meer inzicht krijgen in uw gezondheid en u vitaler en fitter voelen? Kom dan naar de gratis Vitaliteitscheck in Hoogkarspel. De Vitaliteitscheck geeft u een uitgebreid beeld van uw gezondheid en vitaliteit. Vitaliteitscheck Onder deskundige begeleiding kunt u fitheidstesten doen en uw loopgedrag laten analyseren op de Smartfloor.…",
+      "doc_date": "2026-08-19",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-08-19T11:14:12+00:00",
+      "last_seen": "2026-11-26",
+      "kw_sig": "4f53cda18c2b|5a47b92efe77f7e35ec89d1f298f3c312d99c9b4b9e1f18d2aa3cd8cbcb04124|Check uw vitaliteit met de vitaliteitscheck|Wilt u meer inzicht krijgen in uw gezondheid en u vitaler en fitter voelen? Kom dan naar de gratis Vitaliteitscheck in Hoogkarspel. De Vitaliteitscheck geeft u een uitgebreid beeld van uw gezondheid en vitaliteit. Vitaliteitscheck Onder deskundige begeleiding kunt u fitheidstesten doen en uw loopgedrag laten analyseren op de Smartfloor.…",
+      "missing_count": 0,
+      "text_hash": "5a47b92efe77f7e35ec89d1f298f3c312d99c9b4b9e1f18d2aa3cd8cbcb04124",
+      "content_checked": "2026-11-26T22:16:33+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T22:16:33+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Het college bezoekt Bouw '85",
+            "25 november 2026",
+            "Beheer voormalige vuilstort Westwoud overgedragen"
+          ],
+          "removed": [
+            "Gratis woningcheck van de brandweer voor een veiliger thuis",
+            "10 november 2026",
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
     "d2a1bcc5278e029d0ebf990ba73a01321f818feb19bc53d3278a89d2279eea58": {
       "title": "Drechterland stelt beleidsregel vast: geen ontheffingen voor F2-vuurwerk tijdens jaarwisseling",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRjVycWg4cFJGc0hnaWhHMUUySTZjbUxOYkltaXRTVWZOSjlaaEQzcFJxRXd4SDhFamI2T0pvWU12NDlMb3RJOVJZakhjMzRRNFhSZ05LM3lTY1Bud1E0VmFpNFdzWUh5VE03RzdLNFRhcktyQUtvbFNyTzY4YzkwaEtMUTNOQkhIQnpEbHVQVmNoNnhWc0o0amp2TEQ0U1VySFNaWE5TYlJ5cVg3T3JhQmVXOHFHSTJ3VEV4TnlpRl9jWmtLbzV0R1lLdnJmMFZZRkpOX2Nrazlic2hERmZORw?oc=5",
@@ -5770,7 +6178,7 @@
       "kw_sig": "4f53cda18c2b||Ruime meerderheid Enkhuizer raad wil vaker updates over gemeentelijke projecten|"
     },
     "909bfb225d72c3f6c7f42fd53afa79337275e3677ddfcbb6fe7ea14d7cbc9b58": {
-      "title": "De krant van deze week staat online! | Al het nieuws uit Stede Broec",
+      "title": "De krant van deze week staat online!",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUxTRG5wbmpTQnBTcGJPQjh5ckVEOEFKbGc2MjJYeFNDOGJHWGRZSkd0SmZVRW5xMkNPTlJtTnBhSjBTRkZ6eGE4b2RVaUJuY2hwM3pPSXFGQm03aDhaWUdUVGNyUENSa3Exb0VtcDVsbGgybWMyR0RUWjF5aVYyekxGSUdpUE9fUTEyWGJhcmk?oc=5",
       "source": "In de media",
       "gemeente": "stedebroec",
@@ -5781,13 +6189,13 @@
       "revisions": 1,
       "kind": "media",
       "media_bron": "Rodi.nl",
-      "media_match": "kop",
+      "media_match": "tekst",
       "last_seen": "2026-11-26",
       "doc_date": "2026-11-26",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-26T16:06+01:00",
+      "published_at": "2026-11-26T22:06+01:00",
       "published_at_source": "Google Nieuws",
-      "kw_sig": "4f53cda18c2b||De krant van deze week staat online! | Al het nieuws uit Stede Broec|"
+      "kw_sig": "4f53cda18c2b||De krant van deze week staat online!|"
     },
     "a1e9ad5a7abd2021fe7f8dfa24aa823b53e76bf8a5db4b6e36295dcef9e91bf9": {
       "title": "De krant van deze week staat online!",
@@ -7063,7 +7471,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "050f373e8c40f0c5d47e0e161da776cf2aed858b78aea8446699963c5671a9e5",
-      "content_checked": "2026-11-26T16:16:29+00:00",
+      "content_checked": "2026-11-26T22:16:54+00:00",
       "kw_sig": "4f53cda18c2b|050f373e8c40f0c5d47e0e161da776cf2aed858b78aea8446699963c5671a9e5|2026-11-25 Schriftelijke vragen SP - Stalling scootmobielen|Schriftelijke vragen · portefeuillehouder M. Ven · planning 2026-12-23",
       "changes": [
         {
@@ -10385,9 +10793,9 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-24",
       "go_seen": true,
-      "missing_count": 9,
+      "missing_count": 10,
       "text_hash": "30ba894dffb0134056be76a4078a7d03cc12a5b0565e5fbe5c83d7af9ac6d8d0",
-      "content_checked": "2026-11-26T16:16:29+00:00",
+      "content_checked": "2026-11-26T22:16:55+00:00",
       "kw_sig": "4f53cda18c2b|30ba894dffb0134056be76a4078a7d03cc12a5b0565e5fbe5c83d7af9ac6d8d0|Brief inwoner Enkhuizen - Komst kinderspeelplaats|Ingekomen stukken · afgedaan 2026-12-15",
       "changes": [
         {
@@ -13583,7 +13991,7 @@
       "excerpt": "Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Raadsvoorstel",
       "missing_count": 0,
       "file_hash": "61e5e4edafc08448514dd93c0b6c54e7164f042ce0d96cf41f0dc3f089aa2b22",
-      "content_checked": "2026-11-26T16:16:31+00:00",
+      "content_checked": "2026-11-26T22:16:57+00:00",
       "kw_sig": "4f53cda18c2b|64cc44ca6596599e58bb0b85b65e5e81c85d5aa3a485fd68eb12fe4dc19346b9|TEST VOORSTEL 1|Raadsvergadering 23 november 2026 15:30 · agendapunt 5 Bespreekstuk 1 · Raadsvoorstel",
       "text_hash": "64cc44ca6596599e58bb0b85b65e5e81c85d5aa3a485fd68eb12fe4dc19346b9"
     },
@@ -66490,84 +66898,6 @@
       "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-02-27",
       "kw_sig": "4f53cda18c2b||Verleende evenementenvergunning Bakkie Paasborrel, 4 april 2026|Officiele bekendmaking; publicatiedatum (KOOP): 2026-02-27"
     },
-    "64c0bd7099054c4075056936a91434a80bbe62a2f06b49ced6bb5d8ce60cec58": {
-      "title": "Check uw vitaliteit met de vitaliteitscheck",
-      "url": "https://www.drechterland.nl/actueel/check-uw-vitaliteit-met-de-vitaliteitscheck-3",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-17T17:53:55+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Wilt u meer inzicht krijgen in uw gezondheid en u vitaler en fitter voelen? Kom dan naar de gratis Vitaliteitscheck in Hoogkarspel. De Vitaliteitscheck geeft u een uitgebreid beeld van uw gezondheid en vitaliteit. Vitaliteitscheck Onder deskundige begeleiding kunt u fitheidstesten doen en uw loopgedrag laten analyseren op de Smartfloor.…",
-      "doc_date": "2026-08-19",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-08-19T11:14:12+00:00",
-      "last_seen": "2026-11-26",
-      "kw_sig": "4f53cda18c2b|c4a9f4d481be51f2b35eba505e48b12c5806b06f56ca00a39f0b54973535a249|Check uw vitaliteit met de vitaliteitscheck|Wilt u meer inzicht krijgen in uw gezondheid en u vitaler en fitter voelen? Kom dan naar de gratis Vitaliteitscheck in Hoogkarspel. De Vitaliteitscheck geeft u een uitgebreid beeld van uw gezondheid en vitaliteit. Vitaliteitscheck Onder deskundige begeleiding kunt u fitheidstesten doen en uw loopgedrag laten analyseren op de Smartfloor.…",
-      "missing_count": 0,
-      "text_hash": "c4a9f4d481be51f2b35eba505e48b12c5806b06f56ca00a39f0b54973535a249",
-      "content_checked": "2026-11-19T22:04:36+00:00"
-    },
-    "518d5957b71ed7f9ae1691f0a9a821ede0ea43b68664d3ce0f6a3cec9ae00ffe": {
-      "title": "Eerder stroomcapaciteit aanvragen: meld je project aan!",
-      "url": "https://www.drechterland.nl/actueel/stroomcapaciteit-2",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-17T17:53:55+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Het elektriciteitsnet is overbelast. Daarom komen aanvragen voor nieuwe of zwaardere stroomaansluitingen sinds 1 juli op een wachtlijst. Zodra er weer netcapaciteit beschikbaar is, verdeelt netbeheerder Liander deze op basis van de volgorde op de wachtlijst en het maatschappelijk belang van projecten. Voor woningbouw en onderwijshuisvesting is het mogelijk eerder…",
-      "doc_date": "2026-08-13",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-08-13T12:39:24+00:00",
-      "last_seen": "2026-11-18",
-      "kw_sig": "4f53cda18c2b||Eerder stroomcapaciteit aanvragen: meld je project aan!|Het elektriciteitsnet is overbelast. Daarom komen aanvragen voor nieuwe of zwaardere stroomaansluitingen sinds 1 juli op een wachtlijst. Zodra er weer netcapaciteit beschikbaar is, verdeelt netbeheerder Liander deze op basis van de volgorde op de wachtlijst en het maatschappelijk belang van projecten. Voor woningbouw en onderwijshuisvesting is het mogelijk eerder…",
-      "missing_count": 1,
-      "content_checked": "2026-11-19T22:04:43+00:00"
-    },
-    "45732f3c7abf0a9679f7d5efd61dc6f5461d2ca61d3a73a9347d971fdaf29369": {
-      "title": "25 jaar Huttenbouw Oosterblokker en Blokker",
-      "url": "https://www.drechterland.nl/actueel/een-nieuwe-burgemeester-voor-huttendorp-oosterblokker",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-17T17:53:55+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Huttenbouw Oosterblokker en Blokker bestaat 25 jaar. Huttenbouw (Ooster)blokker is onderdeel van Oranjevereniging Blokker-Oosterblokker en bestaat sinds 2000. Al die jaren is voorzitter Ton Steen een onmisbare kracht voor het Huttendorp. Hij zet zich met hart en ziel in voor het huttendorp: hij coördineert activiteiten, houdt overzicht en toezicht en…",
-      "doc_date": "2026-08-10",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-08-10T15:02:52+00:00",
-      "last_seen": "2026-11-18",
-      "kw_sig": "4f53cda18c2b||25 jaar Huttenbouw Oosterblokker en Blokker|Huttenbouw Oosterblokker en Blokker bestaat 25 jaar. Huttenbouw (Ooster)blokker is onderdeel van Oranjevereniging Blokker-Oosterblokker en bestaat sinds 2000. Al die jaren is voorzitter Ton Steen een onmisbare kracht voor het Huttendorp. Hij zet zich met hart en ziel in voor het huttendorp: hij coördineert activiteiten, houdt overzicht en toezicht en…",
-      "missing_count": 1,
-      "content_checked": "2026-11-19T22:04:49+00:00"
-    },
-    "f49df3e560dc6af69cce22161673d0f0ec9035f83494a8057ac871aa6959a86c": {
-      "title": "Heeft u een voorwerp verloren of gevonden?",
-      "url": "https://www.drechterland.nl/actueel/heeft-u-een-voorwerp-verloren-of-gevonden-6",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-17T17:53:55+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Bril, tas, fiets of een sieraad kwijt? Iets verliezen is niet fijn, iets terugvinden wel. Heeft u iets gevonden of verloren in onze gemeente? Meld het dan op: www.verlorenofgevonden.nl. Zo is de kans groter dat een voorwerp weer bij de eigenaar terechtkomt. Gevonden voorwerpen inleveren of ophalen Wilt u een gevonden…",
-      "doc_date": "2026-08-05",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-08-05T11:52:23+00:00",
-      "last_seen": "2026-11-26",
-      "kw_sig": "4f53cda18c2b|b41719742896121f9cd25b22d78d62895bc706d9320a1e3c510d26f0e7038ac4|Heeft u een voorwerp verloren of gevonden?|Bril, tas, fiets of een sieraad kwijt? Iets verliezen is niet fijn, iets terugvinden wel. Heeft u iets gevonden of verloren in onze gemeente? Meld het dan op: www.verlorenofgevonden.nl. Zo is de kans groter dat een voorwerp weer bij de eigenaar terechtkomt. Gevonden voorwerpen inleveren of ophalen Wilt u een gevonden…",
-      "missing_count": 0,
-      "text_hash": "b41719742896121f9cd25b22d78d62895bc706d9320a1e3c510d26f0e7038ac4",
-      "content_checked": "2026-11-19T22:04:54+00:00"
-    },
     "40091eab0fd457d1d2aa1ab4cb5e398b0a47d27d7e9aedba06eb32e8cf8c6cc7": {
       "title": "Drechterland vraagt inwoners melding te maken bij vuurwerkoverlast",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOME8yTXRuWXhyUWhibnBrdm04dmxzMGFBUE9FTXRWY2tFWEFfX0pGd2huT3kteGx1dXkwdzJJLXdnQ1BvYkZueE1KakctTDB5N1BPTkY4S1pDelc2YUctbWJoU3FzNjh4UFRLWGk4djVEOWlaN20yY2R5Rk51YV9hc0tHS3JCM0tBbHRaaEhfWnozdDdHWHhWM01KSmJ5R1Z6OTJhUkg5czdod1E?oc=5",
@@ -71957,103 +72287,6 @@
       "publicatie": "Gemeenteblad",
       "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-10-20",
       "kw_sig": "4f53cda18c2b||Evenementenvergunning Wintermakt Hoogkarspel 28 november 2026|Officiele bekendmaking; publicatiedatum (KOOP): 2026-10-20"
-    },
-    "6ea169825e4539e0bc655e20b537b6e6e952a2baa2dbf77e7602b816ec2d67ed": {
-      "title": "Check uw vitaliteit met de vitaliteitscheck",
-      "url": "https://www.enkhuizen.nl/actueel/check-uw-vitaliteit-met-de-vitaliteitscheck-2",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-17T17:53:30+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Wilt u meer inzicht krijgen in uw gezondheid en u vitaler en fitter voelen? Kom dan naar de gratis Vitaliteitscheck in Enkhuizen. De Vitaliteitscheck geeft u een uitgebreid beeld van uw gezondheid en vitaliteit. Vitaliteitscheck Onder deskundige begeleiding kunt u fitheidstesten doen en uw loopgedrag laten analyseren op de Smartfloor.…",
-      "doc_date": "2026-08-19",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-08-19T11:11:43+00:00",
-      "last_seen": "2026-11-26",
-      "kw_sig": "4f53cda18c2b|72b6f247e4f36639e83d61c22ca59bbc541a9d08f6643deec8524b4362ae7b58|Check uw vitaliteit met de vitaliteitscheck|Wilt u meer inzicht krijgen in uw gezondheid en u vitaler en fitter voelen? Kom dan naar de gratis Vitaliteitscheck in Enkhuizen. De Vitaliteitscheck geeft u een uitgebreid beeld van uw gezondheid en vitaliteit. Vitaliteitscheck Onder deskundige begeleiding kunt u fitheidstesten doen en uw loopgedrag laten analyseren op de Smartfloor.…",
-      "missing_count": 0,
-      "text_hash": "72b6f247e4f36639e83d61c22ca59bbc541a9d08f6643deec8524b4362ae7b58",
-      "content_checked": "2026-11-19T22:04:38+00:00"
-    },
-    "2dc38975b5339b097ccadfe6ee0dc542a3477eecf1ac23ff5bbe08836718ea60": {
-      "title": "Eerder stroomcapaciteit aanvragen: meld je project aan!",
-      "url": "https://www.enkhuizen.nl/actueel/stroomcapaciteit",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-17T17:53:30+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Het elektriciteitsnet is overbelast. Daarom komen aanvragen voor nieuwe of zwaardere stroomaansluitingen sinds 1 juli op een wachtlijst. Zodra er weer netcapaciteit beschikbaar is, verdeelt netbeheerder Liander deze op basis van de volgorde op de wachtlijst en het maatschappelijk belang van projecten. Voor woningbouw en onderwijshuisvesting is het mogelijk eerder…",
-      "doc_date": "2026-08-13",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-08-13T12:19:04+00:00",
-      "last_seen": "2026-11-18",
-      "kw_sig": "4f53cda18c2b||Eerder stroomcapaciteit aanvragen: meld je project aan!|Het elektriciteitsnet is overbelast. Daarom komen aanvragen voor nieuwe of zwaardere stroomaansluitingen sinds 1 juli op een wachtlijst. Zodra er weer netcapaciteit beschikbaar is, verdeelt netbeheerder Liander deze op basis van de volgorde op de wachtlijst en het maatschappelijk belang van projecten. Voor woningbouw en onderwijshuisvesting is het mogelijk eerder…",
-      "missing_count": 1,
-      "content_checked": "2026-11-19T22:04:45+00:00"
-    },
-    "1128be7eb18af6a7c376bdf7307140be65c5ca8cb9d90526713394b6ca16f137": {
-      "title": "Steekincident Prunuslaan",
-      "url": "https://www.enkhuizen.nl/actueel/steekincident-prunuslaan",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-17T17:53:30+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Op donderdag 6 augustus 2026 heeft aan de Prunuslaan in Enkhuizen een ernstig steekincident plaatsgevonden. Een dergelijke gebeurtenis raakt allereerst de direct betrokkenen en hun naasten, maar heeft ook gevolgen voor bewoners in de omgeving. Geweld van deze aard maakt veel indruk. Wij begrijpen heel goed dat hierbij allerlei gevoelens…",
-      "doc_date": "2026-08-10",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-08-10T18:11:15+00:00",
-      "last_seen": "2026-11-18",
-      "kw_sig": "4f53cda18c2b||Steekincident Prunuslaan|Op donderdag 6 augustus 2026 heeft aan de Prunuslaan in Enkhuizen een ernstig steekincident plaatsgevonden. Een dergelijke gebeurtenis raakt allereerst de direct betrokkenen en hun naasten, maar heeft ook gevolgen voor bewoners in de omgeving. Geweld van deze aard maakt veel indruk. Wij begrijpen heel goed dat hierbij allerlei gevoelens…",
-      "missing_count": 1,
-      "content_checked": "2026-11-19T22:04:51+00:00"
-    },
-    "ef69fd5d7507193b333439e9e50d0a145274116d11bb9d7fb236d623a0386658": {
-      "title": "Welkom in Enkhuizen",
-      "url": "https://www.enkhuizen.nl/actueel/welkom-in-enkhuizen",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-17T17:53:30+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Op 5 augustus opende Known-You Seed Europe B.V. officieel de deuren van haar Europese vestiging in Enkhuizen. Burgemeester Hoekstra-Sikkema was aanwezig om het bedrijf namens de gemeente welkom te heten. De burgemeester opende de locatie officieel door een lint door te knippen. Known-You Seed Europe B.V. is een internationaal bedrijf in…",
-      "doc_date": "2026-08-10",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-08-10T10:38:55+00:00",
-      "last_seen": "2026-11-18",
-      "kw_sig": "4f53cda18c2b||Welkom in Enkhuizen|Op 5 augustus opende Known-You Seed Europe B.V. officieel de deuren van haar Europese vestiging in Enkhuizen. Burgemeester Hoekstra-Sikkema was aanwezig om het bedrijf namens de gemeente welkom te heten. De burgemeester opende de locatie officieel door een lint door te knippen. Known-You Seed Europe B.V. is een internationaal bedrijf in…",
-      "missing_count": 1,
-      "content_checked": "2026-11-19T22:04:53+00:00"
-    },
-    "4c9f10c1ec5ada7b2a9ca9e9fa53003415522f47a53c33fc6a8beca302d1b8d3": {
-      "title": "Heeft u een voorwerp verloren of gevonden?",
-      "url": "https://www.enkhuizen.nl/actueel/heeft-u-een-voorwerp-verloren-of-gevonden-5",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-17T17:53:30+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Bril, tas, fiets of een sieraad kwijt? Iets verliezen is niet fijn, iets terugvinden wel. Heeft u iets gevonden of verloren in onze gemeente? Meld het dan op: www.verlorenofgevonden.nl. Zo is de kans groter dat een voorwerp weer bij de eigenaar terechtkomt. Gevonden voorwerpen inleveren of ophalen Wilt u een gevonden…",
-      "doc_date": "2026-08-05",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-08-05T11:49:47+00:00",
-      "last_seen": "2026-11-26",
-      "kw_sig": "4f53cda18c2b|366ce67ce3513bfa8c384e531eea1e6b44a75f8b156d214a3e382efaa9a5ab7c|Heeft u een voorwerp verloren of gevonden?|Bril, tas, fiets of een sieraad kwijt? Iets verliezen is niet fijn, iets terugvinden wel. Heeft u iets gevonden of verloren in onze gemeente? Meld het dan op: www.verlorenofgevonden.nl. Zo is de kans groter dat een voorwerp weer bij de eigenaar terechtkomt. Gevonden voorwerpen inleveren of ophalen Wilt u een gevonden…",
-      "missing_count": 0,
-      "text_hash": "366ce67ce3513bfa8c384e531eea1e6b44a75f8b156d214a3e382efaa9a5ab7c",
-      "content_checked": "2026-11-19T22:04:56+00:00"
     },
     "47a69baf73e5a5f4067d9d090dce04a6b62dd1e42a32f7d445545d663f6505cb": {
       "title": "Reddingsbrigade Enkhuizen heft zichzelf op wegens gebrek aan vrijwilligers. Wie moet nu straks het strand van Enkhuizen bewaken?",
@@ -78456,26 +78689,6 @@
       "plaats": "Enkhuizen",
       "kw_sig": "4f53cda18c2b||Kennisgeving besluit op aanvraag, Westeinde 62, 1601BK Enkhuizen|Betreft: Beschikking op aanvraag op locatie Westeinde 62, 1601BK Enkhuizen"
     },
-    "0f129948f6aa1bbc201bcd199dc6439af5ee6dfc6404bb88909490f1e5d61c0a": {
-      "title": "Check uw vitaliteit met de vitaliteitscheck",
-      "url": "https://www.stedebroec.nl/actueel/check-uw-vitaliteit-met-de-vitaliteitscheck",
-      "source": "Nieuws",
-      "gemeente": "stedebroec",
-      "first_seen": "2026-11-17T17:53:04+00:00",
-      "updated": "2026-11-17T17:53:04+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Wilt u meer inzicht krijgen in uw gezondheid en u vitaler en fitter voelen? Kom dan naar de gratis Vitaliteitscheck in Bovenkarspel. De Vitaliteitscheck geeft u een uitgebreid beeld van uw gezondheid en vitaliteit. Vitaliteitscheck Onder deskundige begeleiding kunt u fitheidstesten doen en uw loopgedrag laten analyseren op de Smartfloor.…",
-      "doc_date": "2026-08-19",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-08-19T11:09:30+00:00",
-      "last_seen": "2026-11-26",
-      "kw_sig": "4f53cda18c2b|a81539c391cb00d9db71ead1359c5958c1b6c897e4ee54ba6f0cf898b2a1af19|Check uw vitaliteit met de vitaliteitscheck|Wilt u meer inzicht krijgen in uw gezondheid en u vitaler en fitter voelen? Kom dan naar de gratis Vitaliteitscheck in Bovenkarspel. De Vitaliteitscheck geeft u een uitgebreid beeld van uw gezondheid en vitaliteit. Vitaliteitscheck Onder deskundige begeleiding kunt u fitheidstesten doen en uw loopgedrag laten analyseren op de Smartfloor.…",
-      "missing_count": 0,
-      "text_hash": "a81539c391cb00d9db71ead1359c5958c1b6c897e4ee54ba6f0cf898b2a1af19",
-      "content_checked": "2026-11-19T22:04:40+00:00"
-    },
     "d748b431150efccc88eb21a0cd09cb6029f9fa5be48873cea83b066c25a7086b": {
       "title": "Koninklijke onderscheiding Joost Kok",
       "url": "https://www.stedebroec.nl/actueel/koninklijke-onderscheiding-joost-kok",
@@ -78492,9 +78705,9 @@
       "published_at": "2026-08-17T11:44:14+00:00",
       "last_seen": "2026-11-25",
       "kw_sig": "4f53cda18c2b|35d23a34c1ee9ac57281c8355187c10f85e41dd201127e3a7137d7334d64f1d7|Koninklijke onderscheiding Joost Kok|Joost Kok uit Hoorn is benoemd tot Lid in de Orde van Oranje-Nassau. Burgemeester Jan Nieuwenburg van Hoorn reikte hem het lintje uit tijdens de slotdag van Huttendorp Stede Broec. Namens Stede Broec was loco-burgemeester Thijs Visser aanwezig. Joost Kok werd Koninklijk onderscheiden vanwege zijn vrijwilligerswerk voor diverse organisaties, waaronder…",
-      "missing_count": 0,
+      "missing_count": 1,
       "text_hash": "35d23a34c1ee9ac57281c8355187c10f85e41dd201127e3a7137d7334d64f1d7",
-      "content_checked": "2026-11-19T22:04:41+00:00"
+      "content_checked": "2026-11-26T22:16:38+00:00"
     },
     "871f7dfd176a319a92874ab5fb09a891f1abaac8d428107e3ff1e1b96d9ae7f4": {
       "title": "Cursus reanimatie en AED",
@@ -78512,48 +78725,9 @@
       "published_at": "2026-08-13T14:15:17+00:00",
       "last_seen": "2026-11-21",
       "kw_sig": "4f53cda18c2b|9c19c815d41c6b37d6e6481ae8e80df50624358513113abc36e9e930666ebbf0|Cursus reanimatie en AED|Het kan u zomaar overkomen, iemand in uw omgeving krijgt een hartstilstand. Elke dag sterven in Nederland 35 mensen aan een hartstilstand buiten het ziekenhuis. Bij een hartstilstand is snelle hulp heel belangrijk. De ambulance is niet meteen ter plaatse, directe hulp van omstanders verhoogt de kans op overleven. Voor…",
-      "missing_count": 0,
-      "text_hash": "9c19c815d41c6b37d6e6481ae8e80df50624358513113abc36e9e930666ebbf0",
-      "content_checked": "2026-11-19T22:04:46+00:00"
-    },
-    "43dc950783ca7fed3bf3c03045f0a515bd65648e2c3193f91e2c43b1d9c3b638": {
-      "title": "Eerder stroomcapaciteit aanvragen: meld je project aan!",
-      "url": "https://www.stedebroec.nl/actueel/stroomcapaciteit-3",
-      "source": "Nieuws",
-      "gemeente": "stedebroec",
-      "first_seen": "2026-11-17T17:53:04+00:00",
-      "updated": "2026-11-17T17:53:04+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Het elektriciteitsnet is overbelast. Daarom komen aanvragen voor nieuwe of zwaardere stroomaansluitingen sinds 1 juli op een wachtlijst. Zodra er weer netcapaciteit beschikbaar is, verdeelt netbeheerder Liander deze op basis van de volgorde op de wachtlijst en het maatschappelijk belang van projecten. Voor woningbouw en onderwijshuisvesting is het mogelijk eerder…",
-      "doc_date": "2026-08-13",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-08-13T12:42:27+00:00",
-      "last_seen": "2026-11-18",
-      "kw_sig": "4f53cda18c2b||Eerder stroomcapaciteit aanvragen: meld je project aan!|Het elektriciteitsnet is overbelast. Daarom komen aanvragen voor nieuwe of zwaardere stroomaansluitingen sinds 1 juli op een wachtlijst. Zodra er weer netcapaciteit beschikbaar is, verdeelt netbeheerder Liander deze op basis van de volgorde op de wachtlijst en het maatschappelijk belang van projecten. Voor woningbouw en onderwijshuisvesting is het mogelijk eerder…",
       "missing_count": 1,
-      "content_checked": "2026-11-19T22:04:48+00:00"
-    },
-    "397b9e959d662bd5903aef23d37d0a1176fceb018cb26356d9d98cd9cf5f74e8": {
-      "title": "Heeft u een voorwerp verloren of gevonden?",
-      "url": "https://www.stedebroec.nl/actueel/heeft-u-een-voorwerp-verloren-of-gevonden-4",
-      "source": "Nieuws",
-      "gemeente": "stedebroec",
-      "first_seen": "2026-11-17T17:53:04+00:00",
-      "updated": "2026-11-17T17:53:04+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Bril, tas, fiets of een sieraad kwijt? Iets verliezen is niet fijn, iets terugvinden wel. Heeft u iets gevonden of verloren in onze gemeente? Meld het dan op: www.verlorenofgevonden.nl. Zo is de kans groter dat een voorwerp weer bij de eigenaar terechtkomt. Gevonden voorwerpen inleveren of ophalen Wilt u een gevonden…",
-      "doc_date": "2026-08-05",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-08-05T11:44:58+00:00",
-      "last_seen": "2026-11-26",
-      "kw_sig": "4f53cda18c2b|a60e417facf8d1ae41a375ca48f233fcb32d70de32b56777bf4ec1d41522d57f|Heeft u een voorwerp verloren of gevonden?|Bril, tas, fiets of een sieraad kwijt? Iets verliezen is niet fijn, iets terugvinden wel. Heeft u iets gevonden of verloren in onze gemeente? Meld het dan op: www.verlorenofgevonden.nl. Zo is de kans groter dat een voorwerp weer bij de eigenaar terechtkomt. Gevonden voorwerpen inleveren of ophalen Wilt u een gevonden…",
-      "missing_count": 0,
-      "text_hash": "a60e417facf8d1ae41a375ca48f233fcb32d70de32b56777bf4ec1d41522d57f",
-      "content_checked": "2026-11-19T22:04:58+00:00"
+      "text_hash": "9c19c815d41c6b37d6e6481ae8e80df50624358513113abc36e9e930666ebbf0",
+      "content_checked": "2026-11-26T22:16:42+00:00"
     },
     "fbd6d9657efc266f997a3188b47c3906a4201362b2d91e40a5dcfc039d4c834e": {
       "title": "Film en theatervoorstelling in kader van Orange the World in Hoorn en Bovenkarspel",
@@ -80404,14 +80578,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T22:00:51+00:00",
+        "checked": "2026-11-26T22:15:30+00:00",
         "ok": true,
         "count": 30,
         "new": 0,
         "note": "Laatste 30 dagen: 30 van 30 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-26T22:00:53+00:00",
+        "checked": "2026-11-26T22:15:32+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -80419,29 +80593,31 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T22:00:53+00:00",
+        "checked": "2026-11-26T22:15:34+00:00",
         "ok": true,
-        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
+        "count": 21,
+        "new": 0,
+        "note": "Google Nieuws, artikelen van de laatste 3 dagen over Stede Broec, Bovenkarspel, Grootebroek, Lutjebroek. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T22:00:54+00:00",
+        "checked": "2026-11-26T22:15:35+00:00",
         "ok": true,
         "count": 115,
         "new": 0,
         "note": "Laatste 30 dagen: 115 van 115 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T22:00:55+00:00",
+        "checked": "2026-11-26T22:15:51+00:00",
         "ok": true,
-        "count": 1,
+        "count": 2,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 1 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-27 en 2027-01-10, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-27 en 2027-01-10, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-26T22:01:03+00:00",
+        "checked": "2026-11-26T22:15:59+00:00",
         "ok": true,
         "count": 67,
         "new": 0,
@@ -80449,12 +80625,14 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T22:01:03+00:00",
+        "checked": "2026-11-26T22:16:00+00:00",
         "ok": true,
-        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
+        "count": 29,
+        "new": 0,
+        "note": "Google Nieuws, artikelen van de laatste 3 dagen over Enkhuizen. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-26T22:01:00+00:00",
+        "checked": "2026-11-26T22:15:57+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -80464,22 +80642,22 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T22:01:04+00:00",
+        "checked": "2026-11-26T22:16:01+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
         "note": "Laatste 30 dagen: 54 van 54 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T22:01:04+00:00",
+        "checked": "2026-11-26T22:16:22+00:00",
         "ok": true,
-        "count": 0,
+        "count": 4,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-27 en 2027-01-10, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 4 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-27 en 2027-01-10, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-26T22:01:11+00:00",
+        "checked": "2026-11-26T22:16:29+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -80487,14 +80665,14 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T22:01:14+00:00",
+        "checked": "2026-11-26T22:16:31+00:00",
         "ok": true,
-        "count": 27,
-        "new": 1,
+        "count": 28,
+        "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Drechterland, Hem, Hoogkarspel, Oosterblokker, Oosterleek, Schellinkhout, Venhuizen, Westwoud, Wijdenes. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-26T22:01:09+00:00",
+        "checked": "2026-11-26T22:16:27+00:00",
         "ok": true,
         "count": 50,
         "new": 0,
@@ -80512,25 +80690,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-26T22:01:14+00:00",
+        "checked": "2026-11-26T22:16:31+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-26T22:01:14+00:00",
+        "checked": "2026-11-26T22:16:57+00:00",
         "ok": true,
-        "count": 0,
+        "count": 17,
         "errors": 0,
-        "note": "0 documenten gecontroleerd (0 pdf), 589 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "17 documenten gecontroleerd (0 pdf), 589 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-26T22:01:14+00:00",
+        "checked": "2026-11-26T22:16:57+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-26T22:01:14+00:00",
+        "checked": "2026-11-26T22:16:57+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -80705,7 +80883,7 @@
         ]
       },
       "/Vergaderingen/Commissie-Bestuur-Openbare-Orde-en-Veiligheid-Erfgoed-Grondgebied-BOEG/2026/30-november/20:00": {
-        "checked": "2026-11-26T21:45:50+00:00",
+        "checked": "2026-11-26T22:15:49+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG",
         "date": "2026-11-30",
@@ -80776,7 +80954,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Commissie-Sociaal-Domein-Financien-Bedrijfsvoering-SFB/2026/01-december/20:00": {
-        "checked": "2026-11-26T21:45:51+00:00",
+        "checked": "2026-11-26T22:15:51+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB",
         "date": "2026-12-01",
@@ -81041,7 +81219,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Rondetafelgesprekken/2026/30-november/20:00": {
-        "checked": "2026-11-26T21:46:19+00:00",
+        "checked": "2026-11-26T22:16:19+00:00",
         "gemeente": "drechterland",
         "type": "Rondetafelgesprekken",
         "date": "2026-11-30",
@@ -81081,7 +81259,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/14-december/20:00": {
-        "checked": "2026-11-26T21:46:17+00:00",
+        "checked": "2026-11-26T22:16:17+00:00",
         "gemeente": "drechterland",
         "type": "Raadsvergadering",
         "date": "2026-12-14",
@@ -81090,7 +81268,7 @@
         "agenda": []
       },
       "/Vergaderingen/Themabijeenkomst/2026/03-december/20:00": {
-        "checked": "2026-11-26T21:46:22+00:00",
+        "checked": "2026-11-26T22:16:21+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-12-03",
@@ -81162,7 +81340,7 @@
         ]
       },
       "/Vergaderingen/Verdiepende-sessie/2026/03-december/20:00": {
-        "checked": "2026-11-26T21:46:18+00:00",
+        "checked": "2026-11-26T22:16:18+00:00",
         "gemeente": "drechterland",
         "type": "Verdiepende sessie",
         "date": "2026-12-03",
@@ -81188,8 +81366,8 @@
       }
     },
     "go_listed": {
-      "enkhuizen": "2026-11-26T21:45:49+00:00",
-      "drechterland": "2026-11-26T21:46:17+00:00"
+      "enkhuizen": "2026-11-26T22:15:48+00:00",
+      "drechterland": "2026-11-26T22:16:16+00:00"
     },
     "elders": {
       "woo": "2026-11-26T21:31:04+00:00"
