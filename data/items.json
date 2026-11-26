@@ -1966,7 +1966,7 @@
       "last_seen": "2026-11-26",
       "missing_count": 0,
       "text_hash": "2d33f6cb705c493a1527b587bb72805c9aa04a3044b3fd21c62337e93b7a34a4",
-      "content_checked": "2026-11-26T16:46:38+00:00",
+      "content_checked": "2026-11-26T23:01:27+00:00",
       "kw_sig": "4f53cda18c2b|2d33f6cb705c493a1527b587bb72805c9aa04a3044b3fd21c62337e93b7a34a4|Lichtpuntjes|In de vitrine in het gemeentehuis van Stede Broec is een tentoonstelling te zien van het werk van Inge Leuring. Inge beschildert de binnenkant van schelpen; meestal oesters of Jakobsschelpen. Ze is daar enkele jaren geleden mee begonnen en dankzij haar experimenten met de materialen is haar techniek is in de…",
       "changes": [
         {
@@ -9662,7 +9662,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "6e82584c58b2635c5693416c6cdea052688ff7edde499127d3c1f9b62691d8c3",
-      "content_checked": "2026-11-26T16:46:39+00:00",
+      "content_checked": "2026-11-26T23:01:28+00:00",
       "kw_sig": "4f53cda18c2b|6e82584c58b2635c5693416c6cdea052688ff7edde499127d3c1f9b62691d8c3|Raadsbrief overname sporthal de Banne Venhuizen|Raadsbrief · afgedaan 2026-11-25"
     },
     "3c01772069e610e31237bcee1e98dc6aaa19e42577bc73aeb76bdce83fc141b4": {
@@ -80578,14 +80578,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T22:45:34+00:00",
+        "checked": "2026-11-26T23:00:54+00:00",
         "ok": true,
         "count": 30,
         "new": 0,
         "note": "Laatste 30 dagen: 30 van 30 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-26T22:45:36+00:00",
+        "checked": "2026-11-26T23:00:57+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -80593,7 +80593,7 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T22:45:38+00:00",
+        "checked": "2026-11-26T23:00:58+00:00",
         "ok": true,
         "count": 21,
         "new": 0,
@@ -80602,22 +80602,22 @@
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T22:45:38+00:00",
+        "checked": "2026-11-26T23:01:00+00:00",
         "ok": true,
         "count": 115,
         "new": 0,
         "note": "Laatste 30 dagen: 115 van 115 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T22:45:52+00:00",
+        "checked": "2026-11-26T23:01:01+00:00",
         "ok": true,
-        "count": 2,
+        "count": 1,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-27 en 2027-01-10, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 1 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-27 en 2027-01-10, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-26T22:45:59+00:00",
+        "checked": "2026-11-26T23:01:12+00:00",
         "ok": true,
         "count": 67,
         "new": 0,
@@ -80625,14 +80625,14 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T22:46:01+00:00",
+        "checked": "2026-11-26T23:01:13+00:00",
         "ok": true,
         "count": 29,
         "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Enkhuizen. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-26T22:45:57+00:00",
+        "checked": "2026-11-26T23:01:09+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -80642,22 +80642,22 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T22:46:02+00:00",
+        "checked": "2026-11-26T23:01:15+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
         "note": "Laatste 30 dagen: 54 van 54 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T22:46:19+00:00",
+        "checked": "2026-11-26T23:01:15+00:00",
         "ok": true,
-        "count": 4,
+        "count": 0,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 4 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-27 en 2027-01-10, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-27 en 2027-01-10, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-26T22:46:25+00:00",
+        "checked": "2026-11-26T23:01:23+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -80665,14 +80665,14 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T22:46:28+00:00",
+        "checked": "2026-11-26T23:01:26+00:00",
         "ok": true,
-        "count": 27,
+        "count": 25,
         "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Drechterland, Hem, Hoogkarspel, Oosterblokker, Oosterleek, Schellinkhout, Venhuizen, Westwoud, Wijdenes. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-26T22:46:23+00:00",
+        "checked": "2026-11-26T23:01:21+00:00",
         "ok": true,
         "count": 50,
         "new": 0,
@@ -80690,25 +80690,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-26T22:46:28+00:00",
+        "checked": "2026-11-26T23:01:26+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-26T22:46:29+00:00",
+        "checked": "2026-11-26T23:01:28+00:00",
         "ok": true,
-        "count": 1,
+        "count": 2,
         "errors": 0,
-        "note": "1 documenten gecontroleerd (0 pdf), 589 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "2 documenten gecontroleerd (0 pdf), 589 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-26T22:46:29+00:00",
+        "checked": "2026-11-26T23:01:28+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-26T22:46:29+00:00",
+        "checked": "2026-11-26T23:01:28+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -80743,7 +80743,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/15-december/20:00": {
-        "checked": "2026-11-26T22:30:47+00:00",
+        "checked": "2026-11-26T23:01:01+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-12-15",
