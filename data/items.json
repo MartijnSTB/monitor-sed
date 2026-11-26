@@ -1576,7 +1576,7 @@
       "last_seen": "2026-11-26",
       "missing_count": 0,
       "text_hash": "dde3d5626e9576b26566db40dd091efc2a60d2a2f5d6f8a0a06c27543e4b68a6",
-      "content_checked": "2026-11-26T15:31:13+00:00",
+      "content_checked": "2026-11-26T21:46:34+00:00",
       "kw_sig": "4f53cda18c2b|dde3d5626e9576b26566db40dd091efc2a60d2a2f5d6f8a0a06c27543e4b68a6|Tijdelijke wegafsluiting|Vanwege asfalteringswerkzaamheden is van maandag 30 november 07.00 uur t/m dinsdag 1 december 17.00 uur de P.J. Jongstraat tussen De Evendeel en Horn tijdelijk afgesloten. Er is in deze periode geen doorgang voor het OV of voetgangers mogelijk. Bij calamiteiten is er wel doorgang voor de hulpdiensten mogelijk.",
       "changes": [
         {
@@ -80384,14 +80384,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T21:30:41+00:00",
+        "checked": "2026-11-26T21:45:31+00:00",
         "ok": true,
         "count": 30,
         "new": 0,
         "note": "Laatste 30 dagen: 30 van 30 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-26T21:30:43+00:00",
+        "checked": "2026-11-26T21:45:33+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -80399,29 +80399,29 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T21:30:43+00:00",
+        "checked": "2026-11-26T21:45:33+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T21:30:44+00:00",
+        "checked": "2026-11-26T21:45:34+00:00",
         "ok": true,
         "count": 115,
         "new": 0,
         "note": "Laatste 30 dagen: 115 van 115 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T21:30:45+00:00",
+        "checked": "2026-11-26T21:45:51+00:00",
         "ok": true,
-        "count": 1,
+        "count": 2,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 1 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-27 en 2027-01-10, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-27 en 2027-01-10, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-26T21:30:54+00:00",
+        "checked": "2026-11-26T21:46:00+00:00",
         "ok": true,
         "count": 67,
         "new": 0,
@@ -80429,12 +80429,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T21:30:54+00:00",
+        "checked": "2026-11-26T21:46:00+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-26T21:30:52+00:00",
+        "checked": "2026-11-26T21:45:58+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -80444,22 +80444,22 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T21:30:54+00:00",
+        "checked": "2026-11-26T21:46:01+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
         "note": "Laatste 30 dagen: 54 van 54 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T21:30:57+00:00",
+        "checked": "2026-11-26T21:46:24+00:00",
         "ok": true,
-        "count": 2,
+        "count": 6,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-27 en 2027-01-10, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 6 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-27 en 2027-01-10, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-26T21:31:04+00:00",
+        "checked": "2026-11-26T21:46:32+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -80467,12 +80467,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T21:31:04+00:00",
+        "checked": "2026-11-26T21:46:32+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-26T21:31:02+00:00",
+        "checked": "2026-11-26T21:46:30+00:00",
         "ok": true,
         "count": 50,
         "new": 0,
@@ -80490,25 +80490,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-26T21:31:12+00:00",
+        "checked": "2026-11-26T21:46:32+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-26T21:31:50+00:00",
+        "checked": "2026-11-26T21:46:34+00:00",
         "ok": true,
-        "count": 32,
+        "count": 1,
         "errors": 0,
-        "note": "32 documenten gecontroleerd (18 pdf), 589 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "1 documenten gecontroleerd (0 pdf), 589 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-26T21:31:50+00:00",
+        "checked": "2026-11-26T21:46:34+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-26T21:31:50+00:00",
+        "checked": "2026-11-26T21:46:34+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -80683,7 +80683,7 @@
         ]
       },
       "/Vergaderingen/Commissie-Bestuur-Openbare-Orde-en-Veiligheid-Erfgoed-Grondgebied-BOEG/2026/30-november/20:00": {
-        "checked": "2026-11-26T21:15:49+00:00",
+        "checked": "2026-11-26T21:45:50+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG",
         "date": "2026-11-30",
@@ -80754,7 +80754,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Commissie-Sociaal-Domein-Financien-Bedrijfsvoering-SFB/2026/01-december/20:00": {
-        "checked": "2026-11-26T21:15:50+00:00",
+        "checked": "2026-11-26T21:45:51+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB",
         "date": "2026-12-01",
@@ -80885,7 +80885,7 @@
         ]
       },
       "/Vergaderingen/Themabijeenkomst/2026/01-oktober/21:00": {
-        "checked": "2026-11-26T15:30:58+00:00",
+        "checked": "2026-11-26T21:46:23+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-10-01",
@@ -80894,7 +80894,7 @@
         "agenda": []
       },
       "/Vergaderingen/Themabijeenkomst/2026/29-oktober/20:00": {
-        "checked": "2026-11-26T15:30:59+00:00",
+        "checked": "2026-11-26T21:46:24+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-10-29",
@@ -81019,7 +81019,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Rondetafelgesprekken/2026/30-november/20:00": {
-        "checked": "2026-11-26T21:16:15+00:00",
+        "checked": "2026-11-26T21:46:19+00:00",
         "gemeente": "drechterland",
         "type": "Rondetafelgesprekken",
         "date": "2026-11-30",
@@ -81059,7 +81059,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/14-december/20:00": {
-        "checked": "2026-11-26T21:16:13+00:00",
+        "checked": "2026-11-26T21:46:17+00:00",
         "gemeente": "drechterland",
         "type": "Raadsvergadering",
         "date": "2026-12-14",
@@ -81068,7 +81068,7 @@
         "agenda": []
       },
       "/Vergaderingen/Themabijeenkomst/2026/03-december/20:00": {
-        "checked": "2026-11-26T21:16:18+00:00",
+        "checked": "2026-11-26T21:46:22+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-12-03",
@@ -81140,7 +81140,7 @@
         ]
       },
       "/Vergaderingen/Verdiepende-sessie/2026/03-december/20:00": {
-        "checked": "2026-11-26T21:16:14+00:00",
+        "checked": "2026-11-26T21:46:18+00:00",
         "gemeente": "drechterland",
         "type": "Verdiepende sessie",
         "date": "2026-12-03",
@@ -81166,8 +81166,8 @@
       }
     },
     "go_listed": {
-      "enkhuizen": "2026-11-26T21:15:48+00:00",
-      "drechterland": "2026-11-26T21:16:12+00:00"
+      "enkhuizen": "2026-11-26T21:45:49+00:00",
+      "drechterland": "2026-11-26T21:46:17+00:00"
     },
     "elders": {
       "woo": "2026-11-26T21:31:04+00:00"
