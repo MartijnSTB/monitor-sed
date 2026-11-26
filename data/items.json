@@ -3009,7 +3009,7 @@
       "last_seen": "2026-11-26",
       "missing_count": 0,
       "text_hash": "3c7bcf639efc67e7df825d1f9bf40d18893dd70944a9f903e01161792c2b6e0b",
-      "content_checked": "2026-11-25T20:46:43+00:00",
+      "content_checked": "2026-11-26T03:01:22+00:00",
       "kw_sig": "4f53cda18c2b|3c7bcf639efc67e7df825d1f9bf40d18893dd70944a9f903e01161792c2b6e0b|Het college bezoekt Bouw '85|Het college van Drechterland bezoekt regelmatig bedrijven in de gemeente. Dit keer bracht het college een bezoek aan Bouw ‘85 BV in Hem. Deze bedrijfsbezoeken bieden een mooie gelegenheid om kennis te maken met ondernemers en hun verhaal te horen. Bouw ’85 Na een hartelijke en gastvrije ontvangst vertelde directeur…"
     },
     "6ac82792da9e13c3a718d51ec4e846ed940dc725b7fb17207b7f0d2d8b0e44a1": {
@@ -3434,7 +3434,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "70d36409431951f6c5f1f591c00456ac55b3b18536632883254695d364f15783",
-      "content_checked": "2026-11-25T20:46:41+00:00",
+      "content_checked": "2026-11-26T03:01:20+00:00",
       "kw_sig": "4f53cda18c2b|70d36409431951f6c5f1f591c00456ac55b3b18536632883254695d364f15783|Brief ESN - Koeling als integraal onderdeel van het Warmteprogramma|Ingekomen stukken · afgedaan 2026-11-25"
     },
     "8a21b0ac4fa71f00773233318dd0db65b04f5a26e766d762535acffe64c0ea57": {
@@ -3641,7 +3641,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "ba925c41eefb297321e00f96e335ffa294485b200518136638f3ac2c3a656b6a",
-      "content_checked": "2026-11-25T20:46:44+00:00",
+      "content_checked": "2026-11-26T03:01:23+00:00",
       "kw_sig": "4f53cda18c2b|ba925c41eefb297321e00f96e335ffa294485b200518136638f3ac2c3a656b6a|Amendement SP Actualisatie Bodemkwaliteitskaart en Handreiking bodembeheer|Amendement · portefeuillehouder H.P.F. Nederpelt",
       "changes": [
         {
@@ -8567,7 +8567,7 @@
       "last_seen": "2026-11-26",
       "missing_count": 0,
       "text_hash": "21fbc9f7ae94ebcccecc23f115288d8d635831852bd18f2540097ae775618407",
-      "content_checked": "2026-11-25T21:01:16+00:00",
+      "content_checked": "2026-11-26T03:01:25+00:00",
       "kw_sig": "4f53cda18c2b|21fbc9f7ae94ebcccecc23f115288d8d635831852bd18f2540097ae775618407|Tijdelijke wegafsluiting|Vanwege asfalteringswerkzaamheden is van maandag 30 november 07.00 uur t/m dinsdag 1 december 17.00 uur de P.J. Jongstraat tussen De Evendeel en Horn tijdelijk afgesloten. Er is in deze periode geen doorgang voor het OV of voetgangers mogelijk. Bij calamiteiten is er wel doorgang voor de hulpdiensten mogelijk."
     },
     "bac008f4e4807a9471464e0a30dbddf4830c3eed8e70f180bb601915df1ee4dc": {
@@ -63335,7 +63335,7 @@
       "kind": "vergadering",
       "doc_date": "2026-10-29",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "kw_sig": "4f53cda18c2b||Themabijeenkomst 29 oktober 2026 20:00|"
     },
     "5d69c118e2d763b2627291857704ba7ea1f33d97b66d191a8bbad5314414693d": {
@@ -64517,7 +64517,7 @@
       "kind": "vergadering",
       "doc_date": "2026-10-01",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "kw_sig": "4f53cda18c2b||Themabijeenkomst 1 oktober 2026 21:00|"
     },
     "35db72237893f9fcc54f48585a0cbb36e9ac4fd09850de02379c4bf12df2bec3": {
@@ -77597,14 +77597,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T02:45:32+00:00",
+        "checked": "2026-11-26T03:00:54+00:00",
         "ok": true,
         "count": 29,
         "new": 0,
         "note": "Laatste 30 dagen: 29 van 29 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-26T02:45:34+00:00",
+        "checked": "2026-11-26T03:00:57+00:00",
         "ok": true,
         "count": 63,
         "new": 0,
@@ -77612,29 +77612,29 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T02:45:34+00:00",
+        "checked": "2026-11-26T03:00:57+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T02:45:35+00:00",
+        "checked": "2026-11-26T03:00:58+00:00",
         "ok": true,
         "count": 109,
         "new": 0,
         "note": "Laatste 30 dagen: 109 van 109 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T02:45:50+00:00",
+        "checked": "2026-11-26T03:00:59+00:00",
         "ok": true,
-        "count": 2,
+        "count": 1,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-27 en 2027-01-10, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 1 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-27 en 2027-01-10, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-26T02:45:57+00:00",
+        "checked": "2026-11-26T03:01:08+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -77642,12 +77642,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T02:45:57+00:00",
+        "checked": "2026-11-26T03:01:08+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-26T02:45:55+00:00",
+        "checked": "2026-11-26T03:01:06+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -77657,22 +77657,22 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T02:45:58+00:00",
+        "checked": "2026-11-26T03:01:09+00:00",
         "ok": true,
         "count": 52,
         "new": 0,
         "note": "Laatste 30 dagen: 52 van 52 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T02:46:18+00:00",
+        "checked": "2026-11-26T03:01:11+00:00",
         "ok": true,
-        "count": 6,
+        "count": 2,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 6 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-27 en 2027-01-10, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-27 en 2027-01-10, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-26T02:46:25+00:00",
+        "checked": "2026-11-26T03:01:19+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -77680,12 +77680,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T02:46:25+00:00",
+        "checked": "2026-11-26T03:01:19+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-26T02:46:23+00:00",
+        "checked": "2026-11-26T03:01:17+00:00",
         "ok": true,
         "count": 50,
         "new": 0,
@@ -77703,25 +77703,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-26T02:46:25+00:00",
+        "checked": "2026-11-26T03:01:19+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-26T02:47:05+00:00",
+        "checked": "2026-11-26T03:01:25+00:00",
         "ok": true,
-        "count": 34,
+        "count": 4,
         "errors": 0,
-        "note": "34 documenten gecontroleerd (21 pdf), 579 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "4 documenten gecontroleerd (0 pdf), 579 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-26T02:47:05+00:00",
+        "checked": "2026-11-26T03:01:25+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-26T02:47:05+00:00",
+        "checked": "2026-11-26T03:01:25+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -77756,7 +77756,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/15-december/20:00": {
-        "checked": "2026-11-26T02:30:50+00:00",
+        "checked": "2026-11-26T03:00:59+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-12-15",
@@ -78098,7 +78098,7 @@
         ]
       },
       "/Vergaderingen/Themabijeenkomst/2026/01-oktober/21:00": {
-        "checked": "2026-11-25T20:31:04+00:00",
+        "checked": "2026-11-26T03:01:10+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-10-01",
@@ -78107,7 +78107,7 @@
         "agenda": []
       },
       "/Vergaderingen/Themabijeenkomst/2026/29-oktober/20:00": {
-        "checked": "2026-11-25T20:31:05+00:00",
+        "checked": "2026-11-26T03:01:11+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-10-29",
