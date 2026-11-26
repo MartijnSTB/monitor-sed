@@ -5,6 +5,72 @@
     "stedebroec"
   ],
   "items": {
+    "e005d4255f2c82827ce422770c4228a70780ab59341badb072aee256ed4d1e85": {
+      "title": "Gezocht: stembureauleden en stemmentellers",
+      "url": "https://www.enkhuizen.nl/actueel/gezocht-stembureauleden-en-stemmentellers-2",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-17T17:53:30+00:00",
+      "updated": "2026-11-26T12:31:50+00:00",
+      "last_change": "2026-11-26T12:31:50+00:00",
+      "hash": "",
+      "revisions": 4,
+      "excerpt": "Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
+      "doc_date": "2026-11-05",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-05T12:11:14+00:00",
+      "last_seen": "2026-11-26",
+      "kw_sig": "4f53cda18c2b|d746eaa7739bf8b7f0b393f34c92c6c66e4a6822514b22785fd291a6b5804f8a|Gezocht: stembureauleden en stemmentellers|Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
+      "missing_count": 0,
+      "text_hash": "d746eaa7739bf8b7f0b393f34c92c6c66e4a6822514b22785fd291a6b5804f8a",
+      "content_checked": "2026-11-26T12:31:50+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:15:26+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 25 en 26 november",
+            "18 november 2026",
+            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
+          ],
+          "removed": [
+            "Meer kennis, minder risico: senioren leren online oplichting herkennen",
+            "3 november 2026",
+            "Topprestaties gezocht!"
+          ]
+        },
+        {
+          "at": "2026-11-22T09:36:47+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Parkeergebieden voor betaald parkeren vastgesteld",
+            "20 november 2026",
+            "Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten"
+          ],
+          "removed": [
+            "Groot feest tijdens de Sinterklaasintocht in Enkhuizen",
+            "4 november 2026",
+            "Leer kijken door de ogen van het kind"
+          ]
+        },
+        {
+          "at": "2026-11-26T12:31:50+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Vaste aanbiedplaatsen oud papier en karton",
+            "26 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
     "6b58944051efa005989d31fdcab16247d79037b5587c66bd661960348b4cbc6f": {
       "title": "Drechterland kan omvang bomenkap Singelenbergpark niet verantwoorden: belangrijke documenten ontbreken",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOUcxV1daQ3dsVC1pZWRSYU4yclFZTUp2cHhOQkdaSE1KcWdyZXhBSEduOE53RWdQRkFDSlh1RlctMzRVTmdXN0gzbmlRamY3ajZWeXY4M1VUR3p1UnZ0cUk4X2RpcjV2OWhQekNQV2ozUEJscUltenMtdndEeWdEc3cxMkY5UDNCcUNIamhsRlFqTVk5LTBFYmE2U19VRklnX0E1UU85R2E4ZV9STHFVNmhzT293TUU5QUptelMzQnVhdnJqVkVzeUo3T1QtcFJ0WHpoWl9sQm5WY0xPbFNLX1FMLWY0X0dQajA4?oc=5",
@@ -1433,7 +1499,7 @@
       "hash": "",
       "revisions": 1,
       "kind": "media",
-      "media_bron": "www.rodi.nl",
+      "media_bron": "Rodi.nl",
       "media_match": "kop",
       "last_seen": "2026-11-26",
       "doc_date": "2026-11-25",
@@ -3413,7 +3479,7 @@
       "kw_sig": "4f53cda18c2b|f87e1d618aeb66e01f927c653ba789855ff7472faed46e3dab2c13293cb1a41e|Gezocht: stembureauleden en stemmentellers|Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
       "missing_count": 0,
       "text_hash": "f87e1d618aeb66e01f927c653ba789855ff7472faed46e3dab2c13293cb1a41e",
-      "content_checked": "2026-11-25T12:31:33+00:00",
+      "content_checked": "2026-11-26T12:31:48+00:00",
       "changes": [
         {
           "at": "2026-11-20T11:15:24+00:00",
@@ -3477,7 +3543,7 @@
       "kw_sig": "4f53cda18c2b|be21c6c435927960383ae184ae745f476e433fb1c5208d41ff0c84f1477c81be|Sinterklaas en zijn Pieten komen naar Drechterland|Sinterklaas en zijn Pieten brengen ook dit jaar weer een bezoek aan Drechterland. In verschillende dorpen worden feestelijke intochten georganiseerd. Hieronder vindt u een overzicht van de aankomsttijden en activiteiten. Wijdenes, Oosterleek en Venhuizen Zondag 15 november 2026 Sinterklaas en zijn Pieten arriveren om 10.30 uur per boot in het…",
       "missing_count": 0,
       "text_hash": "be21c6c435927960383ae184ae745f476e433fb1c5208d41ff0c84f1477c81be",
-      "content_checked": "2026-11-25T12:31:31+00:00",
+      "content_checked": "2026-11-26T12:31:45+00:00",
       "changes": [
         {
           "at": "2026-11-20T11:15:22+00:00",
@@ -3541,7 +3607,7 @@
       "kw_sig": "4f53cda18c2b|49a20606ef1fa8b91dd402d71b85ea5529eee3a1d0c78c7601aebf91919c5e83|Sloop voormalig dorpshuis De Dregt|Het voormalige dorpshuis de Dregt in Schellinkhout wordt gesloopt. Op maandag 16 november 2026 starten de sloopwerkzaamheden. Daarmee wordt een volgende stap gezet in de ontwikkeling van deze locatie. Inmiddels is de bouw van de MFA in Schellinkhout afgerond en de ruimte in gebruik genomen. Voorbereiding en sloop Aannemer Vriend…",
       "missing_count": 0,
       "text_hash": "49a20606ef1fa8b91dd402d71b85ea5529eee3a1d0c78c7601aebf91919c5e83",
-      "content_checked": "2026-11-25T12:31:29+00:00",
+      "content_checked": "2026-11-26T12:31:42+00:00",
       "changes": [
         {
           "at": "2026-11-20T11:15:21+00:00",
@@ -3605,7 +3671,7 @@
       "kw_sig": "4f53cda18c2b|12185af2f14ca122b78d49101f18042feea221cad0c2fdfabffda4e6dab806ff|50 jaar weekmarkt Hoogkarspel|De Weekmarkt in Hoogkarspel viert dit jaar een bijzonder jubileum. In 1976 werd de markt officieel door de gemeente ingesteld. Daarmee bestaat de markt formeel 50 jaar. Tegelijkertijd weten veel inwoners dat er ook vóór 1976 al marktactiviteiten plaatsvonden in Hoogkarspel. De geschiedenis van de markt gaat verder terug dan…",
       "missing_count": 0,
       "text_hash": "12185af2f14ca122b78d49101f18042feea221cad0c2fdfabffda4e6dab806ff",
-      "content_checked": "2026-11-25T12:31:27+00:00",
+      "content_checked": "2026-11-26T12:31:38+00:00",
       "changes": [
         {
           "at": "2026-11-20T11:15:19+00:00",
@@ -12690,59 +12756,6 @@
           "removed": [
             "Gezocht: stembureauleden en stemmentellers",
             "5 november 2026",
-            "Leer kijken door de ogen van het kind"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "e005d4255f2c82827ce422770c4228a70780ab59341badb072aee256ed4d1e85": {
-      "title": "Gezocht: stembureauleden en stemmentellers",
-      "url": "https://www.enkhuizen.nl/actueel/gezocht-stembureauleden-en-stemmentellers-2",
-      "source": "Nieuws",
-      "gemeente": "enkhuizen",
-      "first_seen": "2026-11-17T17:53:30+00:00",
-      "updated": "2026-11-22T09:36:47+00:00",
-      "last_change": "2026-11-22T09:36:47+00:00",
-      "hash": "",
-      "revisions": 3,
-      "excerpt": "Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
-      "doc_date": "2026-11-05",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-05T12:11:14+00:00",
-      "last_seen": "2026-11-26",
-      "kw_sig": "4f53cda18c2b|1d915d56b369f1107a64c13abcfb43a26193a776a24c7371c75cb65b7a7d22c0|Gezocht: stembureauleden en stemmentellers|Voor de gecombineerde verkiezingen van Provinciale Staten en het Waterschap op woensdag 17 maart 2027 zoeken wij mensen die het leuk vinden om te helpen op de stembureaus en de centrale teldag. Wij zoeken vooral stemmentellers. Maar ook stembureauleden, plaatsvervangend voorzitters en voorzitters zijn van harte welkom. U kunt helpen…",
-      "missing_count": 0,
-      "text_hash": "1d915d56b369f1107a64c13abcfb43a26193a776a24c7371c75cb65b7a7d22c0",
-      "content_checked": "2026-11-25T12:31:35+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:15:26+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 25 en 26 november",
-            "18 november 2026",
-            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
-          ],
-          "removed": [
-            "Meer kennis, minder risico: senioren leren online oplichting herkennen",
-            "3 november 2026",
-            "Topprestaties gezocht!"
-          ]
-        },
-        {
-          "at": "2026-11-22T09:36:47+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "Parkeergebieden voor betaald parkeren vastgesteld",
-            "20 november 2026",
-            "Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten"
-          ],
-          "removed": [
-            "Groot feest tijdens de Sinterklaasintocht in Enkhuizen",
-            "4 november 2026",
             "Leer kijken door de ogen van het kind"
           ]
         }
@@ -78282,14 +78295,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T12:15:34+00:00",
+        "checked": "2026-11-26T12:30:48+00:00",
         "ok": true,
         "count": 30,
         "new": 0,
         "note": "Laatste 30 dagen: 30 van 30 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-26T12:15:44+00:00",
+        "checked": "2026-11-26T12:30:53+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -78297,7 +78310,7 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T12:15:45+00:00",
+        "checked": "2026-11-26T12:30:55+00:00",
         "ok": true,
         "count": 17,
         "new": 0,
@@ -78306,22 +78319,22 @@
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T12:15:46+00:00",
+        "checked": "2026-11-26T12:30:56+00:00",
         "ok": true,
         "count": 115,
         "new": 0,
         "note": "Laatste 30 dagen: 115 van 115 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T12:16:02+00:00",
+        "checked": "2026-11-26T12:30:57+00:00",
         "ok": true,
-        "count": 2,
+        "count": 1,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-27 en 2027-01-10, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 1 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-27 en 2027-01-10, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-26T12:16:13+00:00",
+        "checked": "2026-11-26T12:31:08+00:00",
         "ok": true,
         "count": 67,
         "new": 0,
@@ -78329,14 +78342,14 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T12:16:14+00:00",
+        "checked": "2026-11-26T12:31:09+00:00",
         "ok": true,
         "count": 33,
-        "new": 2,
+        "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Enkhuizen. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-26T12:16:08+00:00",
+        "checked": "2026-11-26T12:31:03+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -78346,22 +78359,22 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T12:16:15+00:00",
+        "checked": "2026-11-26T12:31:10+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
         "note": "Laatste 30 dagen: 54 van 54 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T12:16:34+00:00",
+        "checked": "2026-11-26T12:31:10+00:00",
         "ok": true,
-        "count": 4,
+        "count": 0,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 4 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-27 en 2027-01-10, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 16 vergaderingen tussen 2026-09-27 en 2027-01-10, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-26T12:16:45+00:00",
+        "checked": "2026-11-26T12:31:21+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -78369,14 +78382,14 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-26T12:16:48+00:00",
+        "checked": "2026-11-26T12:31:24+00:00",
         "ok": true,
         "count": 21,
-        "new": 1,
+        "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Drechterland, Hem, Hoogkarspel, Oosterblokker, Oosterleek, Schellinkhout, Venhuizen, Westwoud, Wijdenes. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-26T12:16:40+00:00",
+        "checked": "2026-11-26T12:31:16+00:00",
         "ok": true,
         "count": 50,
         "new": 0,
@@ -78386,7 +78399,7 @@
     },
     "algemeen": {
       "Woo-publicaties": {
-        "checked": "2026-11-26T11:31:30+00:00",
+        "checked": "2026-11-26T12:31:35+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -78394,25 +78407,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-26T12:16:48+00:00",
+        "checked": "2026-11-26T12:31:35+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-26T12:17:19+00:00",
+        "checked": "2026-11-26T12:31:50+00:00",
         "ok": true,
-        "count": 35,
+        "count": 5,
         "errors": 0,
-        "note": "35 documenten gecontroleerd (0 pdf), 583 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "5 documenten gecontroleerd (0 pdf), 583 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-26T12:17:19+00:00",
+        "checked": "2026-11-26T12:31:50+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-26T12:17:19+00:00",
+        "checked": "2026-11-26T12:31:50+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -78447,7 +78460,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/15-december/20:00": {
-        "checked": "2026-11-26T12:00:59+00:00",
+        "checked": "2026-11-26T12:30:57+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-12-15",
@@ -79074,7 +79087,7 @@
       "drechterland": "2026-11-26T12:16:29+00:00"
     },
     "elders": {
-      "woo": "2026-11-26T11:31:20+00:00"
+      "woo": "2026-11-26T12:31:24+00:00"
     },
     "termijn_v1": true,
     "keywords": {
