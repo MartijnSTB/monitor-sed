@@ -5,6 +5,98 @@
     "stedebroec"
   ],
   "items": {
+    "e61bbfc2395a6e2f88340032d321c835a5338cde5cf3d599a87e31a7bdaff84d": {
+      "title": "Vragen over de doorfietsroute? Kom op 14 november naar het Beursplein.",
+      "url": "https://www.stedebroec.nl/actueel/vragen-over-de-doorfietsroute-kom-op-14-november-naar-het-beursplein",
+      "source": "Nieuws",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-17T17:53:04+00:00",
+      "updated": "2026-11-27T20:01:21+00:00",
+      "last_change": "2026-11-27T20:01:21+00:00",
+      "hash": "",
+      "revisions": 6,
+      "excerpt": "Er komt een regionale doorfietsroute. In onze dorpen willen we daar een veilige en prettige route van maken. De Zesstedenweg en de P.J. Jongstraat zijn drukke straten waar veel auto’s rijden en die verbeterd kunnen worden qua verkeersveiligheid. Daarom werken we aan een ontwerp voor een nieuwe fietsstraat. De fietser…",
+      "doc_date": "2026-11-10",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-10T09:33:28+00:00",
+      "last_seen": "2026-11-27",
+      "kw_sig": "4f53cda18c2b|d14028eaadec98be1e4d509c2db40fe7af449ed0b851e504ab7d1cd03223f2a1|Vragen over de doorfietsroute? Kom op 14 november naar het Beursplein.|Er komt een regionale doorfietsroute. In onze dorpen willen we daar een veilige en prettige route van maken. De Zesstedenweg en de P.J. Jongstraat zijn drukke straten waar veel auto’s rijden en die verbeterd kunnen worden qua verkeersveiligheid. Daarom werken we aan een ontwerp voor een nieuwe fietsstraat. De fietser…",
+      "missing_count": 0,
+      "text_hash": "d14028eaadec98be1e4d509c2db40fe7af449ed0b851e504ab7d1cd03223f2a1",
+      "content_checked": "2026-11-27T20:01:21+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T11:14:52+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "8 zin(nen) toegevoegd of aangepast, 8 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 1 en 2 december",
+            "18 november 2026",
+            "Veilig fietsen met de Doorfietsroute"
+          ],
+          "removed": [
+            "Gezocht: stembureauleden en stemmentellers",
+            "5 november 2026",
+            "Uitnodiging themamiddag over mantelzorg bij Dementie"
+          ]
+        },
+        {
+          "at": "2026-11-22T02:04:42+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Werkzaamheden Broekerhavenweg in Bovenkarspel",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Sinterklaasintocht Bovenkarspel en Lutjebroek",
+            "5 november 2026"
+          ]
+        },
+        {
+          "at": "2026-11-23T18:31:29+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Tijdelijke wegafsluiting",
+            "23 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        },
+        {
+          "at": "2026-11-26T20:01:19+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "De schop de grond in voor de plant-estafette",
+            "26 november 2026",
+            "Lichtpuntjes"
+          ],
+          "removed": [
+            "COA vraagt vergunning aan voor asielopvanglocatie",
+            "12 november 2026",
+            "Gratis woningcheck van de brandweer voor een veiliger thuis"
+          ]
+        },
+        {
+          "at": "2026-11-27T20:01:21+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Vier Little Local regelingen van start",
+            "27 november 2026"
+          ],
+          "removed": [
+            "Voorkom een woninginbraak: maak het inbrekers niet te makkelijk",
+            "13 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
     "52f5bd439371f86439138a00a6208ee4ba0dbd7d76f9d9f7a6e9d7a31d8b4f37": {
       "title": "Vier Little Local regelingen van start",
       "url": "https://www.drechterland.nl/actueel/vier-little-local-regelingen-van-start",
@@ -6990,85 +7082,6 @@
       "published_at": "2026-11-26T00:00+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Drechterland stelt beleidsregel vast: geen ontheffingen voor F2-vuurwerk tijdens jaarwisseling|"
-    },
-    "e61bbfc2395a6e2f88340032d321c835a5338cde5cf3d599a87e31a7bdaff84d": {
-      "title": "Vragen over de doorfietsroute? Kom op 14 november naar het Beursplein.",
-      "url": "https://www.stedebroec.nl/actueel/vragen-over-de-doorfietsroute-kom-op-14-november-naar-het-beursplein",
-      "source": "Nieuws",
-      "gemeente": "stedebroec",
-      "first_seen": "2026-11-17T17:53:04+00:00",
-      "updated": "2026-11-26T20:01:19+00:00",
-      "last_change": "2026-11-26T20:01:19+00:00",
-      "hash": "",
-      "revisions": 5,
-      "excerpt": "Er komt een regionale doorfietsroute. In onze dorpen willen we daar een veilige en prettige route van maken. De Zesstedenweg en de P.J. Jongstraat zijn drukke straten waar veel auto’s rijden en die verbeterd kunnen worden qua verkeersveiligheid. Daarom werken we aan een ontwerp voor een nieuwe fietsstraat. De fietser…",
-      "doc_date": "2026-11-10",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-10T09:33:28+00:00",
-      "last_seen": "2026-11-27",
-      "kw_sig": "4f53cda18c2b|901aec00dca9422d9c7f91d363180b6b59ffffc4fb56ac5e9e4bd5d5131ac05b|Vragen over de doorfietsroute? Kom op 14 november naar het Beursplein.|Er komt een regionale doorfietsroute. In onze dorpen willen we daar een veilige en prettige route van maken. De Zesstedenweg en de P.J. Jongstraat zijn drukke straten waar veel auto’s rijden en die verbeterd kunnen worden qua verkeersveiligheid. Daarom werken we aan een ontwerp voor een nieuwe fietsstraat. De fietser…",
-      "missing_count": 0,
-      "text_hash": "901aec00dca9422d9c7f91d363180b6b59ffffc4fb56ac5e9e4bd5d5131ac05b",
-      "content_checked": "2026-11-26T20:01:19+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T11:14:52+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "8 zin(nen) toegevoegd of aangepast, 8 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 1 en 2 december",
-            "18 november 2026",
-            "Veilig fietsen met de Doorfietsroute"
-          ],
-          "removed": [
-            "Gezocht: stembureauleden en stemmentellers",
-            "5 november 2026",
-            "Uitnodiging themamiddag over mantelzorg bij Dementie"
-          ]
-        },
-        {
-          "at": "2026-11-22T02:04:42+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Werkzaamheden Broekerhavenweg in Bovenkarspel",
-            "20 november 2026"
-          ],
-          "removed": [
-            "Sinterklaasintocht Bovenkarspel en Lutjebroek",
-            "5 november 2026"
-          ]
-        },
-        {
-          "at": "2026-11-23T18:31:29+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Tijdelijke wegafsluiting",
-            "23 november 2026"
-          ],
-          "removed": [
-            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
-            "9 november 2026"
-          ]
-        },
-        {
-          "at": "2026-11-26T20:01:19+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "De schop de grond in voor de plant-estafette",
-            "26 november 2026",
-            "Lichtpuntjes"
-          ],
-          "removed": [
-            "COA vraagt vergunning aan voor asielopvanglocatie",
-            "12 november 2026",
-            "Gratis woningcheck van de brandweer voor een veiliger thuis"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
     },
     "f0cdd13438313b3745aeb75c99bd15479eeb41d9bc396e0613ebbe5c6d1d9abc": {
       "title": "Drechterland stelt beleidsregels vast voor zelfbewoningsplicht en anti-speculatiebeding in 2026",
@@ -82932,14 +82945,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T19:51:48+00:00",
+        "checked": "2026-11-27T20:00:53+00:00",
         "ok": true,
         "count": 33,
         "new": 0,
         "note": "Laatste 30 dagen: 33 van 33 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-27T19:51:51+00:00",
+        "checked": "2026-11-27T20:00:55+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -82947,23 +82960,23 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T19:51:52+00:00",
+        "checked": "2026-11-27T20:00:57+00:00",
         "ok": true,
         "count": 18,
-        "new": 1,
+        "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Stede Broec, Bovenkarspel, Grootebroek, Lutjebroek. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T19:51:53+00:00",
+        "checked": "2026-11-27T20:00:58+00:00",
         "ok": true,
         "count": 116,
         "new": 0,
         "note": "Laatste 30 dagen: 116 van 116 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T19:51:54+00:00",
+        "checked": "2026-11-27T20:00:59+00:00",
         "ok": true,
         "count": 1,
         "new": 0,
@@ -82971,7 +82984,7 @@
         "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 1 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-28 en 2027-01-11, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-27T19:52:04+00:00",
+        "checked": "2026-11-27T20:01:07+00:00",
         "ok": true,
         "count": 67,
         "new": 0,
@@ -82979,14 +82992,14 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T19:52:05+00:00",
+        "checked": "2026-11-27T20:01:09+00:00",
         "ok": true,
         "count": 19,
         "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Enkhuizen. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-27T19:52:01+00:00",
+        "checked": "2026-11-27T20:01:05+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -82996,14 +83009,14 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T19:52:06+00:00",
+        "checked": "2026-11-27T20:01:09+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
         "note": "Laatste 30 dagen: 54 van 54 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T19:52:06+00:00",
+        "checked": "2026-11-27T20:01:09+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -83011,7 +83024,7 @@
         "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-28 en 2027-01-11, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-27T19:52:13+00:00",
+        "checked": "2026-11-27T20:01:17+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -83019,14 +83032,14 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T19:52:16+00:00",
+        "checked": "2026-11-27T20:01:19+00:00",
         "ok": true,
-        "count": 27,
+        "count": 25,
         "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Drechterland, Hem, Hoogkarspel, Oosterblokker, Oosterleek, Schellinkhout, Venhuizen, Westwoud, Wijdenes. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-27T19:52:11+00:00",
+        "checked": "2026-11-27T20:01:14+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -83044,25 +83057,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-27T19:52:16+00:00",
+        "checked": "2026-11-27T20:01:19+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-27T19:52:34+00:00",
+        "checked": "2026-11-27T20:01:21+00:00",
         "ok": true,
-        "count": 17,
+        "count": 1,
         "errors": 0,
-        "note": "17 documenten gecontroleerd (0 pdf), 601 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "1 documenten gecontroleerd (0 pdf), 601 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-27T19:52:34+00:00",
+        "checked": "2026-11-27T20:01:21+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-27T19:52:34+00:00",
+        "checked": "2026-11-27T20:01:21+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -83097,7 +83110,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/15-december/20:00": {
-        "checked": "2026-11-27T19:30:47+00:00",
+        "checked": "2026-11-27T20:00:59+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-12-15",
