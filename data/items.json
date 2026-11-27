@@ -5,6 +5,238 @@
     "stedebroec"
   ],
   "items": {
+    "534d90ccd6b4150a7b5b361675b4b7db4b5c740641f34221401461887528523b": {
+      "title": "Amendement Ontwikkelperspectief NHN GBD, VVD,PDL (aangenomen)",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Amendement-Ontwikkelperspectief-NHN-GBD-VVD-PDL-aangenomen/",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-27T08:31:12+00:00",
+      "updated": "2026-11-27T08:31:12+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Amendement",
+      "kind": "raadsinstrument",
+      "afgedaan": false,
+      "rapport": "Amendement",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-27",
+      "go_seen": true,
+      "motie_status": "Aangenomen",
+      "missing_count": 0,
+      "text_hash": "31721840b990ba1500c57d9fb48b7fcc64f0c16251a387c36ed4d2824c5a6cbf",
+      "content_checked": "2026-11-27T08:31:25+00:00",
+      "kw_sig": "4f53cda18c2b|31721840b990ba1500c57d9fb48b7fcc64f0c16251a387c36ed4d2824c5a6cbf|Amendement Ontwikkelperspectief NHN GBD, VVD,PDL (aangenomen)|Amendement"
+    },
+    "4091bb7b24a31e871abff00ebc0242cc7b56d0076d90d71412dde183a0b2892a": {
+      "title": "Amendement rekenkameronderzoek huisvesting van arbeidsmigranten PDL en CDA (aangenomen)",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Amendement-rekenkameronderzoek-huisvesting-van-arbeidsmigranten-PDL-en-CDA-aangenomen/",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-27T08:31:12+00:00",
+      "updated": "2026-11-27T08:31:12+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Amendement",
+      "kind": "raadsinstrument",
+      "afgedaan": false,
+      "rapport": "Amendement",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-27",
+      "go_seen": true,
+      "motie_status": "Aangenomen",
+      "missing_count": 0,
+      "text_hash": "140423fcb572cea6b19a54809cd618545637c4b5951cbb28807a61ce41286012",
+      "content_checked": "2026-11-27T08:31:26+00:00",
+      "kw_sig": "4f53cda18c2b|140423fcb572cea6b19a54809cd618545637c4b5951cbb28807a61ce41286012|Amendement rekenkameronderzoek huisvesting van arbeidsmigranten PDL en CDA (aangenomen)|Amendement"
+    },
+    "3bcefd9a630a035462c163b50c342877d23dfa7233502e840d9bde9bd3305b32": {
+      "title": "MotieParticipatieZonFeestVakantiedagen PDL, VVD (aangenomen)",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/MotieParticipatieZonFeestVakantiedagen-PDL-VVD-aangenomen/",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-27T08:31:11+00:00",
+      "updated": "2026-11-27T08:31:11+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Motie",
+      "kind": "raadsinstrument",
+      "afgedaan": false,
+      "rapport": "Motie",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-27",
+      "go_seen": true,
+      "motie_status": "Aangenomen",
+      "missing_count": 0,
+      "text_hash": "a6eb52dca0b9bc56b33cc8c16f83a5541ee8a231538ea2a5dd532fafc5e8630a",
+      "content_checked": "2026-11-27T08:31:23+00:00",
+      "kw_sig": "4f53cda18c2b|a6eb52dca0b9bc56b33cc8c16f83a5541ee8a231538ea2a5dd532fafc5e8630a|MotieParticipatieZonFeestVakantiedagen PDL, VVD (aangenomen)|Motie"
+    },
+    "03e36f80be43d4b35a66c2ef63b1d63ce807a86b6475b82b11e0f690ed0e1228": {
+      "title": "Motie Gemeente aan het roer bij participatie De Hooge Hout CDA (verworpen)",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Motie-Gemeente-aan-het-roer-bij-participatie-De-Hooge-Hout-CDA-verworpen/",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-27T08:31:11+00:00",
+      "updated": "2026-11-27T08:31:11+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Motie",
+      "kind": "raadsinstrument",
+      "afgedaan": false,
+      "rapport": "Motie",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-27",
+      "go_seen": true,
+      "motie_status": "Verworpen",
+      "missing_count": 0,
+      "text_hash": "123d87cc03f64ca4d1d2a33e857adcdf090acda92028603b9436e7b13ff870bd",
+      "content_checked": "2026-11-27T08:31:24+00:00",
+      "kw_sig": "4f53cda18c2b|123d87cc03f64ca4d1d2a33e857adcdf090acda92028603b9436e7b13ff870bd|Motie Gemeente aan het roer bij participatie De Hooge Hout CDA (verworpen)|Motie"
+    },
+    "696a75dfda2cbed90398c9d9c37b8f38e309e94f22d308f66fb4ea1753b86f4a": {
+      "title": "Kennisgeving besluit op aanvraag, Sint Janstraat 8, 1601HE Enkhuizen",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-554257.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-27T08:30:49+00:00",
+      "updated": "2026-11-27T08:30:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-27",
+      "koop_dates": {
+        "available": "2026-11-27",
+        "issued": null,
+        "date": "2026-11-27"
+      },
+      "doc_date": "2026-11-27",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Sint Janstraat 8, 1601HE Enkhuizen",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Betreft: Beschikking op aanvraag op locatie Sint Janstraat 8, 1601HE Enkhuizen",
+      "published_at_tried": true,
+      "published_at": "2026-11-27T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "geo": [
+        52.702568,
+        5.291515
+      ],
+      "geo_src": "PDOK",
+      "plaats": "Enkhuizen",
+      "kw_sig": "4f53cda18c2b||Kennisgeving besluit op aanvraag, Sint Janstraat 8, 1601HE Enkhuizen|Betreft: Beschikking op aanvraag op locatie Sint Janstraat 8, 1601HE Enkhuizen"
+    },
+    "294b9c89319969c78f0dc9ee7132fd822a25840ae1c304131aee6be01af4168f": {
+      "title": "Kennisgeving ontvangst aanvraag Omgevingsvergunning, Geerling 9a te Bovenkarspel (SDE02 A 3012)",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-554244.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-27T08:30:45+00:00",
+      "updated": "2026-11-27T08:30:45+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-27",
+      "koop_dates": {
+        "available": "2026-11-27",
+        "issued": null,
+        "date": "2026-11-27"
+      },
+      "doc_date": "2026-11-27",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Geerling 9a te Bovenkarspel (SDE02 A 3012)",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Betreft: Aanvraag op locatie Geerling 9a te Bovenkarspel (SDE02 A 3012)",
+      "published_at_tried": true,
+      "published_at": "2026-11-27T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Kennisgeving ontvangst aanvraag Omgevingsvergunning, Geerling 9a te Bovenkarspel (SDE02 A 3012)|Betreft: Aanvraag op locatie Geerling 9a te Bovenkarspel (SDE02 A 3012)"
+    },
+    "d8e9ec708bb66839bd5f6028c9f88b84da9ef36e0c91e918349ad84249f60d01": {
+      "title": "Kennisgeving ontvangst aanvraag Omgevingsvergunning, Middenweg 12, 1611KP Bovenkarspel",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-554291.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-27T08:30:45+00:00",
+      "updated": "2026-11-27T08:30:45+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-27",
+      "koop_dates": {
+        "available": "2026-11-27",
+        "issued": null,
+        "date": "2026-11-27"
+      },
+      "doc_date": "2026-11-27",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Middenweg 12, 1611KP Bovenkarspel",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Betreft: Aanvraag op locatie Middenweg 12, 1611KP Bovenkarspel",
+      "published_at_tried": true,
+      "published_at": "2026-11-27T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "geo": [
+        52.696093,
+        5.238052
+      ],
+      "geo_src": "PDOK",
+      "plaats": "Bovenkarspel",
+      "kw_sig": "4f53cda18c2b||Kennisgeving ontvangst aanvraag Omgevingsvergunning, Middenweg 12, 1611KP Bovenkarspel|Betreft: Aanvraag op locatie Middenweg 12, 1611KP Bovenkarspel"
+    },
+    "651b990b5d0487632fb3291a67b67e2ed58570768c30f5bc4842f39bba4c07da": {
+      "title": "Bekendmaking vrijgekomen standplaats voor de warenmarkt in Bovenkarspel op donderdag",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-554317.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-27T08:30:45+00:00",
+      "updated": "2026-11-27T08:30:45+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-27",
+      "geo": [
+        52.696257,
+        5.235336
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-27",
+        "issued": null,
+        "date": "2026-11-27"
+      },
+      "doc_date": "2026-11-27",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "koop_type": "andere melding",
+      "locatie": null,
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Vacature voor brood kraam op warenmarkt Bovenkarspel",
+      "published_at_tried": true,
+      "published_at": "2026-11-27T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Bekendmaking vrijgekomen standplaats voor de warenmarkt in Bovenkarspel op donderdag|Vacature voor brood kraam op warenmarkt Bovenkarspel"
+    },
     "abc843f542d4e6091002bce1e9b40e1e7bc2e10ec590922c21c09112609cc849": {
       "title": "Kennisgeving besluit op aanvraag, Jongeweer 2, 1608EJ Wijdenes",
       "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-553525.html",
@@ -6635,7 +6867,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "8121fc19e4f791472f84edc004e455c3eeca977511b48190b9b09070a623a673",
-      "content_checked": "2026-11-27T02:16:50+00:00",
+      "content_checked": "2026-11-27T08:31:27+00:00",
       "kw_sig": "4f53cda18c2b|8121fc19e4f791472f84edc004e455c3eeca977511b48190b9b09070a623a673|17. Ledenbrief VNG - Lbr. 26/049 - Eerste nazending Najaars ALV: 'Samenwerkingsagenda'|Ingekomen stukken · afgedaan 2026-12-15"
     },
     "130f065ce44aaffa97c3fb958c10956c969d1d78ffd2479b84dcf833d1026e80": {
@@ -81102,14 +81334,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T08:15:33+00:00",
+        "checked": "2026-11-27T08:30:45+00:00",
         "ok": true,
-        "count": 30,
-        "new": 0,
-        "note": "Laatste 30 dagen: 30 van 30 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "count": 33,
+        "new": 3,
+        "note": "Laatste 30 dagen: 33 van 33 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-27T08:15:35+00:00",
+        "checked": "2026-11-27T08:30:48+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -81117,29 +81349,29 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T08:15:35+00:00",
+        "checked": "2026-11-27T08:30:48+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T08:15:37+00:00",
+        "checked": "2026-11-27T08:30:49+00:00",
         "ok": true,
-        "count": 115,
+        "count": 116,
         "new": 1,
-        "note": "Laatste 30 dagen: 115 van 115 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "note": "Laatste 30 dagen: 116 van 116 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T08:15:56+00:00",
+        "checked": "2026-11-27T08:30:54+00:00",
         "ok": true,
-        "count": 2,
+        "count": 3,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-28 en 2027-01-11, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 3 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-28 en 2027-01-11, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-27T08:16:07+00:00",
+        "checked": "2026-11-27T08:31:05+00:00",
         "ok": true,
         "count": 67,
         "new": 0,
@@ -81147,12 +81379,14 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T08:16:07+00:00",
+        "checked": "2026-11-27T08:31:06+00:00",
         "ok": true,
-        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
+        "count": 24,
+        "new": 0,
+        "note": "Google Nieuws, artikelen van de laatste 3 dagen over Enkhuizen. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-27T08:16:04+00:00",
+        "checked": "2026-11-27T08:31:01+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -81162,22 +81396,22 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T08:16:08+00:00",
+        "checked": "2026-11-27T08:31:07+00:00",
         "ok": true,
         "count": 54,
-        "new": 2,
+        "new": 0,
         "note": "Laatste 30 dagen: 54 van 54 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T08:16:28+00:00",
+        "checked": "2026-11-27T08:31:07+00:00",
         "ok": true,
-        "count": 4,
+        "count": 0,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 4 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-28 en 2027-01-11, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-28 en 2027-01-11, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-27T08:16:36+00:00",
+        "checked": "2026-11-27T08:31:15+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -81185,15 +81419,15 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T08:16:36+00:00",
-        "ok": true,
-        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
+        "checked": "2026-11-27T08:31:17+00:00",
+        "ok": false,
+        "error": "Google Nieuws gaf HTTP 429; 2 uur pauze"
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-27T08:16:34+00:00",
+        "checked": "2026-11-27T08:31:12+00:00",
         "ok": true,
-        "count": 50,
-        "new": 0,
+        "count": 54,
+        "new": 4,
         "error": null,
         "note": "Overzichten op gemeenteraad.drechterland.nl: raadsbrieven (in de kolom College), schriftelijke en technische vragen, moties, amendementen, toezeggingen en ingekomen stukken. Steeds de 10 laatst bijgewerkte per overzicht."
       }
@@ -81208,25 +81442,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-27T08:16:36+00:00",
+        "checked": "2026-11-27T08:31:17+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-27T08:16:42+00:00",
+        "checked": "2026-11-27T08:31:27+00:00",
         "ok": true,
-        "count": 3,
+        "count": 5,
         "errors": 0,
-        "note": "3 documenten gecontroleerd (3 pdf), 589 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "5 documenten gecontroleerd (0 pdf), 593 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-27T08:16:42+00:00",
+        "checked": "2026-11-27T08:31:27+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-27T08:16:42+00:00",
+        "checked": "2026-11-27T08:31:27+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -81250,7 +81484,7 @@
       }
     },
     "media": {
-      "pause_until": "2026-11-27T08:31:00+00:00"
+      "pause_until": "2026-11-27T10:31:15+00:00"
     },
     "go_meetings": {
       "/Vergaderingen/Raadsvergadering/2026/23-juni/20:00": {
@@ -81261,7 +81495,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/15-december/20:00": {
-        "checked": "2026-11-27T08:00:55+00:00",
+        "checked": "2026-11-27T08:30:51+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-12-15",
@@ -81291,7 +81525,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/27-oktober/20:00": {
-        "checked": "2026-11-27T02:16:08+00:00",
+        "checked": "2026-11-27T08:30:52+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-10-27",
@@ -81343,7 +81577,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Commissie-Sociaal-Domein-Financien-Bedrijfsvoering-SFB/2026/06-oktober/20:00": {
-        "checked": "2026-11-27T02:16:10+00:00",
+        "checked": "2026-11-27T08:30:54+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB",
         "date": "2026-10-06",
