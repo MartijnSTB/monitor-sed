@@ -1551,7 +1551,7 @@
       "last_seen": "2026-11-27",
       "missing_count": 0,
       "text_hash": "039ed486136d55b5b692a96d0e70a8a7fcdfa92722318ca97d410b5cce7b849c",
-      "content_checked": "2026-11-26T21:16:57+00:00",
+      "content_checked": "2026-11-27T03:31:13+00:00",
       "kw_sig": "4f53cda18c2b|039ed486136d55b5b692a96d0e70a8a7fcdfa92722318ca97d410b5cce7b849c|Parkeergebieden voor betaald parkeren vastgesteld|De volgende stap om de binnenstad aantrekkelijk, bereikbaar en leefbaar te houden is gezet. Het college van burgemeester en wethouders heeft de gebieden vastgesteld waar binnenkort betaald parkeren gaat gelden. Ook heeft het college besloten waar extra plaatsen voor vergunninghouders komen. De verwachting is dat betaald parkeren in het eerste…",
       "changes": [
         {
@@ -3548,7 +3548,7 @@
       "last_seen": "2026-11-27",
       "missing_count": 0,
       "text_hash": "200286132815e7f972cab552cb4031fd087e21a26d0b78bd91e588cb0429b82b",
-      "content_checked": "2026-11-26T21:16:58+00:00",
+      "content_checked": "2026-11-27T03:31:15+00:00",
       "kw_sig": "4f53cda18c2b|200286132815e7f972cab552cb4031fd087e21a26d0b78bd91e588cb0429b82b|Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten|Van maandag 23 november tot en met woensdag 2 december 2026 voert aannemer KWS Infra werkzaamheden uit aan de Zuider Kadijk. Het gaat om het gedeelte op de brug tussen de kruising met de Barkas en de kruising met Onder Zeil. De klinkervakken op de brug worden opgebroken en opnieuw…",
       "changes": [
         {
@@ -3584,7 +3584,7 @@
       "last_seen": "2026-11-27",
       "missing_count": 0,
       "text_hash": "a5c2ff6e45763491a4892588d70516683511a2c2cf82372065163512a45cca0e",
-      "content_checked": "2026-11-26T21:16:55+00:00",
+      "content_checked": "2026-11-27T03:31:12+00:00",
       "kw_sig": "4f53cda18c2b|a5c2ff6e45763491a4892588d70516683511a2c2cf82372065163512a45cca0e|Werkzaamheden Broekerhavenweg in Bovenkarspel|Van 23 november tot en met 1 december 2026 voert aannemer KWS herstelwerkzaamheden uit aan verschillende klinkervakken in het asfalt van de Broekerhavenweg in Bovenkarspel. Het gaat om de klinkervakken op de Broekerhavenweg tussen huisnummer 163 t/m huisnummer 241. Weg afgesloten voor doorgaand verkeer Tijdens de werkzaamheden is de Broekerhavenweg…",
       "changes": [
         {
@@ -54804,7 +54804,7 @@
       "kind": "vergadering",
       "doc_date": "2026-10-01",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "kw_sig": "4f53cda18c2b||Themabijeenkomst 1 oktober 2026 20:00|"
     },
     "784578fe4109605022607846e0475255c1cc6b89e2805ca04a58f336809cfd2c": {
@@ -67588,7 +67588,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "2 Vragenkwartiertje",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 2 Vragenkwartiertje · Overige bijlagen",
       "kw_sig": "4f53cda18c2b|8561190f3f63402da4d98507bbacc9a021d1c3dce72eaec0d585739a41e5f6c2|Vragenkwartier 26 oktober 2026 (definitief)|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 2 Vragenkwartiertje · Overige bijlagen",
       "missing_count": 0,
@@ -67619,7 +67619,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "2 Vragenkwartiertje",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 2 Vragenkwartiertje · Overige bijlagen",
       "kw_sig": "4f53cda18c2b||Screentshot 1|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 2 Vragenkwartiertje · Overige bijlagen",
       "missing_count": 0,
@@ -67650,7 +67650,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "2 Vragenkwartiertje",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 2 Vragenkwartiertje · Overige bijlagen",
       "kw_sig": "4f53cda18c2b||Screenshot2|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 2 Vragenkwartiertje · Overige bijlagen",
       "missing_count": 0,
@@ -67681,7 +67681,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "3 Vaststelling besluitenlijst van de openbare raadsvergadering van 21 september 2026",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 3 Vaststelling besluitenlijst van de openbare raadsvergadering van 21 september 2026 · Besluitenlijst",
       "kw_sig": "4f53cda18c2b|d79568ae2173182d8d35b1bba3d3f19c684e8184220056964f3280c6b3af414b|Besluitenlijst openbare raadsvergadering 21 september 2026|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 3 Vaststelling besluitenlijst van de openbare raadsvergadering van 21 september 2026 · Besluitenlijst",
       "missing_count": 0,
@@ -67712,7 +67712,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "4 Vaststelling besluitenlijst Rondetafelgesprekken van 5 oktober 2026",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 4 Vaststelling besluitenlijst Rondetafelgesprekken van 5 oktober 2026 · Besluitenlijst",
       "kw_sig": "4f53cda18c2b|11920958bed5ff605a509d340849ca6c84bf53697a4699983a49b0dc7a936de6|Besluitenlijst Cluster 1 RTG 5 oktober 2026|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 4 Vaststelling besluitenlijst Rondetafelgesprekken van 5 oktober 2026 · Besluitenlijst",
       "missing_count": 0,
@@ -67743,7 +67743,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Raadsvoorstel",
       "kw_sig": "4f53cda18c2b|a290790e785b4c4247b15e82329a2b34679626d2a439a0727940482e82bd7e8e|Raadsvoorstel JGZ-huisvesting GGD HN Drechterland (2026-39)|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Raadsvoorstel",
       "missing_count": 0,
@@ -67774,7 +67774,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Raadsbesluit",
       "kw_sig": "4f53cda18c2b|607a6af45cbeef87c64cd283293596c316c233cd4c6ae8637a03a30d5fa3010c|Raadsbesluit Herhuisvesting GGD-locaties Drechterland (2026-39)|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Raadsbesluit",
       "missing_count": 0,
@@ -67805,7 +67805,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "kw_sig": "4f53cda18c2b|6b17c53c9a40c1798e01a5ccb9f77df55e7b84d6ceeda4e92faec943bf59b306|2. Advies Adviesraad Samenleving Drechterland|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "missing_count": 0,
@@ -67836,7 +67836,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "kw_sig": "4f53cda18c2b|3ad5fc706bcf67e745b84e17b06d11f757fa06d2384856d7a02ecd4c05fa8b66|3. Reactie op Advies van de Adviesraad Samenleving Drechterland|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "missing_count": 0,
@@ -67867,7 +67867,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "kw_sig": "4f53cda18c2b|a0dc050624b934642a4128e6d977a94439ce64c3f0763811ef451ecffd14ff52|4. Rapport peiling inwoners herhuisvesting Drechterland|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "missing_count": 0,
@@ -67898,7 +67898,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "kw_sig": "4f53cda18c2b|0da84baaa10fdc855b7f6043d3abc30b3fb45913c6b44fe7b324476105f9c7ef|5. Programma van Eisen (PvE) GGD HN|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "missing_count": 0,
@@ -67929,7 +67929,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "kw_sig": "4f53cda18c2b|bb86055d149959855f1e41d5617101db397d51f0db671f6aea990684423eb548|6. Memo GGD HN JGZ-Huivesting Vastgoed|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "missing_count": 0,
@@ -67960,7 +67960,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "kw_sig": "4f53cda18c2b|6ebd4197814a833ad57c89939f19735f8534ba4e1740d28301a8cd0cd1ee1c03|7. 20260420 JGZ relatieschema|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "missing_count": 0,
@@ -67991,7 +67991,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "kw_sig": "4f53cda18c2b|7429237133be365b2dd6542124930e2fede45fe62a30453839a032573e48990f|8. Strategisch vastgoedplan|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Overige bijlagen",
       "missing_count": 0,
@@ -68023,7 +68023,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Amendement",
       "kw_sig": "4f53cda18c2b||Amendement CDA - behoud JGZ binnen Drechterland (VERWORPEN)|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Amendement",
       "missing_count": 0,
@@ -68055,7 +68055,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Amendement",
       "kw_sig": "4f53cda18c2b||Amendement VVD PDL SPD - JGZ locaties (AANGENOMEN)|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Amendement",
       "missing_count": 0,
@@ -68087,7 +68087,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Motie",
       "kw_sig": "4f53cda18c2b||Motie VVD PDL SPD - JGZ locaties (AANGENOMEN)|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Motie",
       "missing_count": 0,
@@ -68119,7 +68119,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "5 Herhuisvesting JGZ locaties Drechterland (2026-39)",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Motie",
       "kw_sig": "4f53cda18c2b||Motie GBD - JGZ locaties (VERWORPEN)|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 5 Herhuisvesting JGZ locaties Drechterland (2026-39) · Motie",
       "missing_count": 0,
@@ -68151,7 +68151,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "6 Moties vreemd aan de orde: motie Stikstof",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 6 Moties vreemd aan de orde: motie Stikstof · Motie",
       "kw_sig": "4f53cda18c2b|61c9d247381a0b82adf2fce3e594ba6b0694220a1dd4b33386647aaa4d8b6a72|Definitieve motie Stikstof (INGETROKKEN)|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 6 Moties vreemd aan de orde: motie Stikstof · Motie",
       "missing_count": 0,
@@ -68182,7 +68182,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 26 oktober 2026 20:00",
       "agendapunt": "6 Moties vreemd aan de orde: motie Stikstof",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 26 oktober 2026 20:00 · agendapunt 6 Moties vreemd aan de orde: motie Stikstof · Brief",
       "kw_sig": "4f53cda18c2b|1d638e9ecdf7e6796881d4735717f973ab81aa9502fca425ad0d72e85f2dbd1e|Brf_CDA_Landelijke stikstofaanpak ruimte voor landbouw en natuur|Raadsvergadering 26 oktober 2026 20:00 · agendapunt 6 Moties vreemd aan de orde: motie Stikstof · Brief",
       "missing_count": 0,
@@ -68760,7 +68760,7 @@
       "kind": "vergadering",
       "doc_date": "2026-10-26",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "kw_sig": "4f53cda18c2b||Raadsvergadering 26 oktober 2026 20:00|"
     },
     "672e9bcb31a53ecdb1f54f8147dcd98131559ea64fc8b694aa6c49e85e8e0050": {
@@ -80887,14 +80887,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T03:15:41+00:00",
+        "checked": "2026-11-27T03:30:41+00:00",
         "ok": true,
         "count": 30,
         "new": 0,
         "note": "Laatste 30 dagen: 30 van 30 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-27T03:15:44+00:00",
+        "checked": "2026-11-27T03:30:44+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -80902,31 +80902,31 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T03:15:45+00:00",
+        "checked": "2026-11-27T03:30:45+00:00",
         "ok": true,
-        "count": 21,
+        "count": 20,
         "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Stede Broec, Bovenkarspel, Grootebroek, Lutjebroek. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T03:15:46+00:00",
+        "checked": "2026-11-27T03:30:46+00:00",
         "ok": true,
         "count": 114,
         "new": 0,
         "note": "Laatste 30 dagen: 114 van 114 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T03:16:07+00:00",
+        "checked": "2026-11-27T03:30:47+00:00",
         "ok": true,
-        "count": 2,
+        "count": 1,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-28 en 2027-01-11, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 1 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-28 en 2027-01-11, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-27T03:16:17+00:00",
+        "checked": "2026-11-27T03:30:56+00:00",
         "ok": true,
         "count": 67,
         "new": 0,
@@ -80934,14 +80934,14 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T03:16:18+00:00",
+        "checked": "2026-11-27T03:30:58+00:00",
         "ok": true,
-        "count": 27,
+        "count": 25,
         "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Enkhuizen. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-27T03:16:15+00:00",
+        "checked": "2026-11-27T03:30:54+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -80951,22 +80951,22 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T03:16:20+00:00",
+        "checked": "2026-11-27T03:30:58+00:00",
         "ok": true,
         "count": 52,
         "new": 0,
         "note": "Laatste 30 dagen: 52 van 52 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T03:16:43+00:00",
+        "checked": "2026-11-27T03:31:01+00:00",
         "ok": true,
-        "count": 6,
+        "count": 2,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 6 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-28 en 2027-01-11, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-28 en 2027-01-11, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-27T03:16:51+00:00",
+        "checked": "2026-11-27T03:31:08+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -80974,14 +80974,14 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T03:16:54+00:00",
+        "checked": "2026-11-27T03:31:10+00:00",
         "ok": true,
         "count": 23,
         "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Drechterland, Hem, Hoogkarspel, Oosterblokker, Oosterleek, Schellinkhout, Venhuizen, Westwoud, Wijdenes. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-27T03:16:49+00:00",
+        "checked": "2026-11-27T03:31:05+00:00",
         "ok": true,
         "count": 50,
         "new": 0,
@@ -80999,25 +80999,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-27T03:16:54+00:00",
+        "checked": "2026-11-27T03:31:10+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-27T03:17:38+00:00",
+        "checked": "2026-11-27T03:31:15+00:00",
         "ok": true,
-        "count": 40,
+        "count": 3,
         "errors": 0,
-        "note": "40 documenten gecontroleerd (3 pdf), 589 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "3 documenten gecontroleerd (0 pdf), 589 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-27T03:17:38+00:00",
+        "checked": "2026-11-27T03:31:15+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-27T03:17:38+00:00",
+        "checked": "2026-11-27T03:31:15+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -81052,7 +81052,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/15-december/20:00": {
-        "checked": "2026-11-27T03:01:01+00:00",
+        "checked": "2026-11-27T03:30:47+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-12-15",
@@ -81374,7 +81374,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/26-oktober/20:00": {
-        "checked": "2026-11-26T21:30:57+00:00",
+        "checked": "2026-11-27T03:31:00+00:00",
         "gemeente": "drechterland",
         "type": "Raadsvergadering",
         "date": "2026-10-26",
@@ -81638,7 +81638,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Themabijeenkomst/2026/01-oktober/20:00": {
-        "checked": "2026-11-26T21:30:55+00:00",
+        "checked": "2026-11-27T03:30:59+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-10-01",
