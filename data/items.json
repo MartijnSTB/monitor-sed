@@ -5,6 +5,29 @@
     "stedebroec"
   ],
   "items": {
+    "419f9265ed5e3b3c259aa3d1c0949cea6a7aacf02786ee8f009546afe901e1cd": {
+      "title": "Brief inwoner Hoorn - Verkeersveiligheid Zuiderdijk, oproep tot effectieve maatregelen",
+      "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Brief-inwoner-Hoorn-Verkeersveiligheid-Zuiderdijk-oproep-tot-effectieve-maatregelen/",
+      "source": "Raadsstukken",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-27T08:46:52+00:00",
+      "updated": "2026-11-27T08:46:52+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Ingekomen stukken · afgedaan 2026-11-27",
+      "kind": "raadsinstrument",
+      "afgedaan": true,
+      "rapport": "Ingekomen stukken",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "bijgewerkt",
+      "last_seen": "2026-11-27",
+      "go_seen": true,
+      "missing_count": 0,
+      "text_hash": "8f501690f6c1a2a444ca7f006f0b91b0c93a4f0002ca57159c9a56bf54566a09",
+      "content_checked": "2026-11-27T08:47:07+00:00",
+      "kw_sig": "4f53cda18c2b|8f501690f6c1a2a444ca7f006f0b91b0c93a4f0002ca57159c9a56bf54566a09|Brief inwoner Hoorn - Verkeersveiligheid Zuiderdijk, oproep tot effectieve maatregelen|Ingekomen stukken · afgedaan 2026-11-27"
+    },
     "534d90ccd6b4150a7b5b361675b4b7db4b5c740641f34221401461887528523b": {
       "title": "Amendement Ontwikkelperspectief NHN GBD, VVD,PDL (aangenomen)",
       "url": "https://gemeenteraad.drechterland.nl/Documenten/raadsinstrumenten/Amendement-Ontwikkelperspectief-NHN-GBD-VVD-PDL-aangenomen/",
@@ -4937,7 +4960,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "11fb7fda94ce0ad1ed5401a0f3a77b93b14ecd2346d10c46dfa3cc744a8db6fe",
-      "content_checked": "2026-11-27T02:46:44+00:00",
+      "content_checked": "2026-11-27T08:47:09+00:00",
       "kw_sig": "4f53cda18c2b|11fb7fda94ce0ad1ed5401a0f3a77b93b14ecd2346d10c46dfa3cc744a8db6fe|Platform31 Nieuwsbrief | 26 november 2026|Ingekomen stukken"
     },
     "0ecf1d38bd06501ba88c963e13957f02bc7e0b0279bde985e66603857ac72fa4": {
@@ -4960,7 +4983,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "2181c2869437e59c92545dd6c9d4afbca54ec729111ad1974d283005356bcc1b",
-      "content_checked": "2026-11-27T02:46:45+00:00",
+      "content_checked": "2026-11-27T08:47:10+00:00",
       "kw_sig": "4f53cda18c2b|2181c2869437e59c92545dd6c9d4afbca54ec729111ad1974d283005356bcc1b|Lbr. 26/049 - Eerste nazending Najaars ALV: ‘Samenwerkingsagenda’|Ingekomen stukken"
     },
     "d7f31b1ee478886e5959427b238217c920b6fca85c2002f2dfbde0b0529e1b9b": {
@@ -4982,7 +5005,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "4cb34060bd0e29776c142c8dfa250c7abbfe95c5c5baab168d2f06657e43ee2a",
-      "content_checked": "2026-11-27T02:46:43+00:00",
+      "content_checked": "2026-11-27T08:47:08+00:00",
       "kw_sig": "4f53cda18c2b|4cb34060bd0e29776c142c8dfa250c7abbfe95c5c5baab168d2f06657e43ee2a|Schriftelijke vragen VVD lekkage Westwijzer|Schriftelijke vragen · portefeuillehouder Idso Brouwer, Sjon Wagenaar"
     },
     "5f1fffa616b5c21dc8f7df62ed3f60cdaa475b8d91e2ea8ef5a019b12c5e5369": {
@@ -13937,7 +13960,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "1f923e2576594bc18b45e6c42e0a4215cb81f29777ee580e96ba0b21acebfee5",
-      "content_checked": "2026-11-27T02:46:58+00:00",
+      "content_checked": "2026-11-27T08:47:24+00:00",
       "kw_sig": "4f53cda18c2b|1f923e2576594bc18b45e6c42e0a4215cb81f29777ee580e96ba0b21acebfee5|infographic Gemeenteraden aan zet! Regionale Samenwerking 2026-2027|Ingekomen stukken"
     },
     "8b47d2fe71d44f11f1875b9837e578d8dbdd3219e6017ab18d22b368cf0b730c": {
@@ -29543,7 +29566,7 @@
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 1 december 2026 20:00 · agendapunt 7 Belastingverordeningen 2027 · Raadsstukken",
       "missing_count": 0,
       "text_hash": "f3e48ef5cf6d90c5df70b8893bc42123bdc29429acab089ffbf3c9645f963f72",
-      "content_checked": "2026-11-27T02:46:48+00:00",
+      "content_checked": "2026-11-27T08:47:13+00:00",
       "kw_sig": "4f53cda18c2b|f3e48ef5cf6d90c5df70b8893bc42123bdc29429acab089ffbf3c9645f963f72|9.1 Tarieventabel behorende bij de Legesverordening Enkhuizen 2027|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 1 december 2026 20:00 · agendapunt 7 Belastingverordeningen 2027 · Raadsstukken"
     },
     "f0102029567b9798643bb2bdea0423a5e27ff3f0cbd24db7d32238fb590f5452": {
@@ -29574,7 +29597,7 @@
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 1 december 2026 20:00 · agendapunt 7 Belastingverordeningen 2027 · Raadsbesluit",
       "missing_count": 0,
       "text_hash": "cf539d516fdcbffe3711991485b28814654f7e7a42b9ab27a1ddd90ee04e01ca",
-      "content_checked": "2026-11-27T02:46:49+00:00",
+      "content_checked": "2026-11-27T08:47:14+00:00",
       "kw_sig": "4f53cda18c2b|cf539d516fdcbffe3711991485b28814654f7e7a42b9ab27a1ddd90ee04e01ca|10. Verordening marktgeld Enkhuizen 2027|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 1 december 2026 20:00 · agendapunt 7 Belastingverordeningen 2027 · Raadsbesluit"
     },
     "05796792449aacf3b669b473a6126cce619ad7a60ea37e31cb3f2ace88d931dd": {
@@ -29605,7 +29628,7 @@
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 1 december 2026 20:00 · agendapunt 7 Belastingverordeningen 2027 · Raadsbesluit",
       "missing_count": 0,
       "text_hash": "778b4406dc2ab03062bda648abcc831eb6771c7ab8e86a8781845ca83bdaabba",
-      "content_checked": "2026-11-27T02:46:50+00:00",
+      "content_checked": "2026-11-27T08:47:15+00:00",
       "kw_sig": "4f53cda18c2b|778b4406dc2ab03062bda648abcc831eb6771c7ab8e86a8781845ca83bdaabba|11. Verordening precariobelasting Enkhuizen 2027|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 1 december 2026 20:00 · agendapunt 7 Belastingverordeningen 2027 · Raadsbesluit"
     },
     "e003e88e79b07bd9159d0e50ba3149aec6af3d1e3d0becd94fe653f4036a6fba": {
@@ -29636,7 +29659,7 @@
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 1 december 2026 20:00 · agendapunt 7 Belastingverordeningen 2027 · Raadsbesluit",
       "missing_count": 0,
       "text_hash": "b51a8199bc8f893e473fc1d110075cde7bb37b086636ce18d5a6b7e2f02183a1",
-      "content_checked": "2026-11-27T02:46:51+00:00",
+      "content_checked": "2026-11-27T08:47:16+00:00",
       "kw_sig": "4f53cda18c2b|b51a8199bc8f893e473fc1d110075cde7bb37b086636ce18d5a6b7e2f02183a1|12. Verordening toeristenbelasting Enkhuizen 2027|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 1 december 2026 20:00 · agendapunt 7 Belastingverordeningen 2027 · Raadsbesluit"
     },
     "94d72232dc1de04fc94979b0ed9c6702da05a74e4d416ce091d1b82132937734": {
@@ -29667,7 +29690,7 @@
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 1 december 2026 20:00 · agendapunt 7 Belastingverordeningen 2027 · Raadsbesluit",
       "missing_count": 0,
       "text_hash": "7dd8b15d049c7694110e0a73e817025ba9c084d0b6c9d58e792ebd2e60487f67",
-      "content_checked": "2026-11-27T02:46:52+00:00",
+      "content_checked": "2026-11-27T08:47:17+00:00",
       "kw_sig": "4f53cda18c2b|7dd8b15d049c7694110e0a73e817025ba9c084d0b6c9d58e792ebd2e60487f67|13. Verordening vermakelijkhedenretributie Enkhuizen 2027|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 1 december 2026 20:00 · agendapunt 7 Belastingverordeningen 2027 · Raadsbesluit"
     },
     "82e001f618c7c35ff950fd34bebfe388029660f92516abee59f47efb7ab97ecf": {
@@ -29698,7 +29721,7 @@
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 1 december 2026 20:00 · agendapunt 7 Belastingverordeningen 2027 · Raadsbesluit",
       "missing_count": 0,
       "text_hash": "9e4a67674e6033c03a83439b1e2eff40f78033bfb444bdac6b3326aeecf9a22d",
-      "content_checked": "2026-11-27T02:46:53+00:00",
+      "content_checked": "2026-11-27T08:47:19+00:00",
       "kw_sig": "4f53cda18c2b|9e4a67674e6033c03a83439b1e2eff40f78033bfb444bdac6b3326aeecf9a22d|14. Verordening Parkeerbelasting 2027|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 1 december 2026 20:00 · agendapunt 7 Belastingverordeningen 2027 · Raadsbesluit"
     },
     "3d088d22ef8e75d37f038497d7f038098ae37c3f3389904d370ce5256650d258": {
@@ -29729,7 +29752,7 @@
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 1 december 2026 20:00 · agendapunt 7 Belastingverordeningen 2027 · Raadsstukken",
       "missing_count": 0,
       "text_hash": "39ce7eecbf4eab98d10cf74f91d003252c8d6d17f02218d919a750d60dce1460",
-      "content_checked": "2026-11-27T02:46:54+00:00",
+      "content_checked": "2026-11-27T08:47:20+00:00",
       "kw_sig": "4f53cda18c2b|39ce7eecbf4eab98d10cf74f91d003252c8d6d17f02218d919a750d60dce1460|was-wordt-tabel wijzigingen belastingverordeningen|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 1 december 2026 20:00 · agendapunt 7 Belastingverordeningen 2027 · Raadsstukken"
     },
     "c4ea57160f29cdc858000b006e7a182a17652a3e52d99d56b0f489c735b8ac40": {
@@ -29800,7 +29823,7 @@
       "excerpt": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 6 Wijzigingsvoorstel Parkeerverordening 2026 · Raadsvoorstel",
       "missing_count": 0,
       "text_hash": "26af10eda2e408b71bdca089492d7b2bddacc5aee36fb8cbf47b2a36e4536ea9",
-      "content_checked": "2026-11-27T02:46:56+00:00",
+      "content_checked": "2026-11-27T08:47:21+00:00",
       "kw_sig": "4f53cda18c2b|26af10eda2e408b71bdca089492d7b2bddacc5aee36fb8cbf47b2a36e4536ea9|Wijzigingsvoorstel Parkeerverordening 2026 - raadsVOORSTEL|Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 6 Wijzigingsvoorstel Parkeerverordening 2026 · Raadsvoorstel"
     },
     "7ef4bb2e6aeb81839aa816ec7fc9cc714bc0adbda8691c9ce8861a16386eeeed": {
@@ -29831,7 +29854,7 @@
       "excerpt": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 6 Wijzigingsvoorstel Parkeerverordening 2026 · Raadsbesluit",
       "missing_count": 0,
       "text_hash": "4be6e1ea57f6cf2850b87796eca7c2d50fb9dac7543ba83ce4e0067dad251ac2",
-      "content_checked": "2026-11-27T02:46:57+00:00",
+      "content_checked": "2026-11-27T08:47:23+00:00",
       "kw_sig": "4f53cda18c2b|4be6e1ea57f6cf2850b87796eca7c2d50fb9dac7543ba83ce4e0067dad251ac2|Wijzigingsvoorstel Parkeerverordening 2026 - raadsBESLUIT|Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 6 Wijzigingsvoorstel Parkeerverordening 2026 · Raadsbesluit"
     },
     "cbc325408c4b4546dd5a3fb5281aa8a0ceb2ffc0ec1f366acfa65a756b112c0f": {
@@ -29862,7 +29885,7 @@
       "excerpt": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 6 Wijzigingsvoorstel Parkeerverordening 2026 · Raadsstukken",
       "missing_count": 0,
       "text_hash": "6319e1294cd69f8f682c9dad720b0ff715e1814943cdc191199c957c423ba43c",
-      "content_checked": "2026-11-27T02:46:59+00:00",
+      "content_checked": "2026-11-27T08:47:25+00:00",
       "kw_sig": "4f53cda18c2b|6319e1294cd69f8f682c9dad720b0ff715e1814943cdc191199c957c423ba43c|Bijlage 1. Parkeerverordening Enkhuizen na wijziging 2026|Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 6 Wijzigingsvoorstel Parkeerverordening 2026 · Raadsstukken"
     },
     "85eebe563bc1a2ca746cd9adf977340d6460554067fa568acf5d0a7bbf6de4e5": {
@@ -29893,7 +29916,7 @@
       "excerpt": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 7 Lidmaatschap SHPV · Raadsvoorstel",
       "missing_count": 0,
       "text_hash": "b282868236775492f7f40258e264da2635bef6df0831924195bcd505c128f6d7",
-      "content_checked": "2026-11-27T02:47:00+00:00",
+      "content_checked": "2026-11-27T08:47:26+00:00",
       "kw_sig": "4f53cda18c2b|b282868236775492f7f40258e264da2635bef6df0831924195bcd505c128f6d7|Lidmaatschap ServiceHuis Parkeer- en Verblijfsrechten - raadsVOORSTEL|Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 7 Lidmaatschap SHPV · Raadsvoorstel"
     },
     "b505b84e4eac9d30ad5f972d986b7a916b988907cc538bb3baf09dda93013f9a": {
@@ -29924,7 +29947,7 @@
       "excerpt": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 7 Lidmaatschap SHPV · Raadsvoorstel",
       "missing_count": 0,
       "text_hash": "e30878e19c8a65d093f78ea533da300e60cdaed6e9a78733bc72807998253aed",
-      "content_checked": "2026-11-27T02:47:01+00:00",
+      "content_checked": "2026-11-27T08:47:27+00:00",
       "kw_sig": "4f53cda18c2b|e30878e19c8a65d093f78ea533da300e60cdaed6e9a78733bc72807998253aed|Lidmaatschap ServiceHuis Parkeer-en Verblijfsrechten - raadsBESLUIT|Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 7 Lidmaatschap SHPV · Raadsvoorstel"
     },
     "0ab3a2f2ddc2c89ce8db14e4b426628b2121511028c2325dbc4509e52847abb0": {
@@ -29955,7 +29978,7 @@
       "excerpt": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 7 Lidmaatschap SHPV · Raadsstukken",
       "missing_count": 0,
       "text_hash": "fea05623fe3d1229c21691097c682f6946ace1b262ba508af662a7ab88b21656",
-      "content_checked": "2026-11-27T02:47:02+00:00",
+      "content_checked": "2026-11-27T08:47:29+00:00",
       "kw_sig": "4f53cda18c2b|fea05623fe3d1229c21691097c682f6946ace1b262ba508af662a7ab88b21656|Bijlage 1. Besluit tot lidmaatschap SHPV gemeente Enkhuizen|Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 7 Lidmaatschap SHPV · Raadsstukken"
     },
     "c20c47fac791207c4351b1cf1fcf8a1b05a6b3a2e1bf6f5411c0508b090961ae": {
@@ -29986,7 +30009,7 @@
       "excerpt": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 7 Lidmaatschap SHPV · Raadsstukken",
       "missing_count": 0,
       "text_hash": "31a15307c71c8fbdcf4c887c384e0a0a3b9a257f8e1b534af4c752dcf9a8588b",
-      "content_checked": "2026-11-27T02:47:03+00:00",
+      "content_checked": "2026-11-27T08:47:30+00:00",
       "kw_sig": "4f53cda18c2b|31a15307c71c8fbdcf4c887c384e0a0a3b9a257f8e1b534af4c752dcf9a8588b|Bijlage 2. Aansluitovereenkomst SHPV gemeente Enkhuizen|Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 7 Lidmaatschap SHPV · Raadsstukken"
     },
     "097c28337a6339ca49eca68cf36d8c078917f09d6152e6991a93ceba89588772": {
@@ -30017,7 +30040,7 @@
       "excerpt": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 8 Wensen en bedenkingen Ontwikkelperspectief Noord-Holland Noord · Raadsvoorstel",
       "missing_count": 0,
       "text_hash": "b86b7b39ee3b5261c44aacdc9a9a9ec65ac2294d22e0cbb4e4d09b19fc58f662",
-      "content_checked": "2026-11-27T02:47:05+00:00",
+      "content_checked": "2026-11-27T08:47:31+00:00",
       "kw_sig": "4f53cda18c2b|b86b7b39ee3b5261c44aacdc9a9a9ec65ac2294d22e0cbb4e4d09b19fc58f662|Wensen en bedenkingen Ontwikkelperspectief NHN - raadsVOORSTEL|Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 8 Wensen en bedenkingen Ontwikkelperspectief Noord-Holland Noord · Raadsvoorstel"
     },
     "15fd9396fcd1b841bcfeebf1cb54e17fdf8865b26524514046b9e489ba0ce426": {
@@ -30048,7 +30071,7 @@
       "excerpt": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 8 Wensen en bedenkingen Ontwikkelperspectief Noord-Holland Noord · Raadsbesluit",
       "missing_count": 0,
       "text_hash": "6e11640f550d0fc785bef08ae34dda0e17cc855433ae20766731e255c448f788",
-      "content_checked": "2026-11-27T02:47:06+00:00",
+      "content_checked": "2026-11-27T08:47:32+00:00",
       "kw_sig": "4f53cda18c2b|6e11640f550d0fc785bef08ae34dda0e17cc855433ae20766731e255c448f788|Wensen en bedenkingen Ontwikkelperspectief NHN - raadsBESLUIT|Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG 30 november 2026 20:00 · agendapunt 8 Wensen en bedenkingen Ontwikkelperspectief Noord-Holland Noord · Raadsbesluit"
     },
     "917a37cde9e1665b7b4911ae30838450312c5af2ceebfe946a02f2e8a9fd9f17": {
@@ -81334,14 +81357,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T08:30:45+00:00",
+        "checked": "2026-11-27T08:45:42+00:00",
         "ok": true,
         "count": 33,
-        "new": 3,
+        "new": 0,
         "note": "Laatste 30 dagen: 33 van 33 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-27T08:30:48+00:00",
+        "checked": "2026-11-27T08:45:44+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -81349,29 +81372,29 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T08:30:48+00:00",
+        "checked": "2026-11-27T08:45:44+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T08:30:49+00:00",
+        "checked": "2026-11-27T08:45:46+00:00",
         "ok": true,
         "count": 116,
-        "new": 1,
+        "new": 0,
         "note": "Laatste 30 dagen: 116 van 116 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T08:30:54+00:00",
+        "checked": "2026-11-27T08:46:11+00:00",
         "ok": true,
-        "count": 3,
+        "count": 5,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 3 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-28 en 2027-01-11, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 5 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-28 en 2027-01-11, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-27T08:31:05+00:00",
+        "checked": "2026-11-27T08:46:21+00:00",
         "ok": true,
         "count": 67,
         "new": 0,
@@ -81379,14 +81402,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T08:31:06+00:00",
+        "checked": "2026-11-27T08:46:21+00:00",
         "ok": true,
-        "count": 24,
-        "new": 0,
-        "note": "Google Nieuws, artikelen van de laatste 3 dagen over Enkhuizen. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
+        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-27T08:31:01+00:00",
+        "checked": "2026-11-27T08:46:19+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -81396,22 +81417,22 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T08:31:07+00:00",
+        "checked": "2026-11-27T08:46:23+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
         "note": "Laatste 30 dagen: 54 van 54 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T08:31:07+00:00",
+        "checked": "2026-11-27T08:46:46+00:00",
         "ok": true,
-        "count": 0,
+        "count": 6,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-28 en 2027-01-11, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 6 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-28 en 2027-01-11, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-27T08:31:15+00:00",
+        "checked": "2026-11-27T08:46:55+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -81419,22 +81440,22 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T08:31:17+00:00",
-        "ok": false,
-        "error": "Google Nieuws gaf HTTP 429; 2 uur pauze"
+        "checked": "2026-11-27T08:46:55+00:00",
+        "ok": true,
+        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-27T08:31:12+00:00",
+        "checked": "2026-11-27T08:46:52+00:00",
         "ok": true,
         "count": 54,
-        "new": 4,
+        "new": 1,
         "error": null,
         "note": "Overzichten op gemeenteraad.drechterland.nl: raadsbrieven (in de kolom College), schriftelijke en technische vragen, moties, amendementen, toezeggingen en ingekomen stukken. Steeds de 10 laatst bijgewerkte per overzicht."
       }
     },
     "algemeen": {
       "Woo-publicaties": {
-        "checked": "2026-11-27T07:31:34+00:00",
+        "checked": "2026-11-27T08:47:06+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -81442,25 +81463,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-27T08:31:17+00:00",
+        "checked": "2026-11-27T08:47:06+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-27T08:31:27+00:00",
+        "checked": "2026-11-27T08:47:32+00:00",
         "ok": true,
-        "count": 5,
+        "count": 21,
         "errors": 0,
-        "note": "5 documenten gecontroleerd (0 pdf), 593 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "21 documenten gecontroleerd (16 pdf), 594 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-27T08:31:27+00:00",
+        "checked": "2026-11-27T08:47:32+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-27T08:31:27+00:00",
+        "checked": "2026-11-27T08:47:33+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -81596,7 +81617,7 @@
         ]
       },
       "/Vergaderingen/Raadsvergadering/2026/10-november/16:00": {
-        "checked": "2026-11-27T02:45:57+00:00",
+        "checked": "2026-11-27T08:46:08+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-11-10",
@@ -81635,7 +81656,7 @@
         ]
       },
       "/Vergaderingen/Commissie-Bestuur-Openbare-Orde-en-Veiligheid-Erfgoed-Grondgebied-BOEG/2026/30-november/20:00": {
-        "checked": "2026-11-27T08:15:55+00:00",
+        "checked": "2026-11-27T08:46:05+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG",
         "date": "2026-11-30",
@@ -81654,7 +81675,7 @@
         ]
       },
       "/Vergaderingen/Presidium/2026/17-november/20:00": {
-        "checked": "2026-11-27T02:45:59+00:00",
+        "checked": "2026-11-27T08:46:10+00:00",
         "gemeente": "enkhuizen",
         "type": "Presidium",
         "date": "2026-11-17",
@@ -81681,7 +81702,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Commissie-Bestuur-Openbare-Orde-en-Veiligheid-Erfgoed-Grondgebied-BOEG/2026/05-oktober/20:00": {
-        "checked": "2026-11-27T02:45:58+00:00",
+        "checked": "2026-11-27T08:46:09+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG",
         "date": "2026-10-05",
@@ -81706,7 +81727,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Commissie-Sociaal-Domein-Financien-Bedrijfsvoering-SFB/2026/01-december/20:00": {
-        "checked": "2026-11-27T08:15:56+00:00",
+        "checked": "2026-11-27T08:46:06+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB",
         "date": "2026-12-01",
@@ -81879,7 +81900,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Rondetafelgesprekken/2026/05-oktober/20:00": {
-        "checked": "2026-11-27T02:46:31+00:00",
+        "checked": "2026-11-27T08:46:45+00:00",
         "gemeente": "drechterland",
         "type": "Rondetafelgesprekken",
         "date": "2026-10-05",
@@ -81943,7 +81964,7 @@
         ]
       },
       "/Vergaderingen/Raadsvergadering/2026/02-november/16:30": {
-        "checked": "2026-11-27T02:46:33+00:00",
+        "checked": "2026-11-27T08:46:46+00:00",
         "gemeente": "drechterland",
         "type": "Raadsvergadering",
         "date": "2026-11-02",
@@ -81971,7 +81992,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Rondetafelgesprekken/2026/30-november/20:00": {
-        "checked": "2026-11-27T08:16:25+00:00",
+        "checked": "2026-11-27T08:46:41+00:00",
         "gemeente": "drechterland",
         "type": "Rondetafelgesprekken",
         "date": "2026-11-30",
@@ -82011,7 +82032,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/14-december/20:00": {
-        "checked": "2026-11-27T08:16:23+00:00",
+        "checked": "2026-11-27T08:46:39+00:00",
         "gemeente": "drechterland",
         "type": "Raadsvergadering",
         "date": "2026-12-14",
@@ -82020,7 +82041,7 @@
         "agenda": []
       },
       "/Vergaderingen/Themabijeenkomst/2026/03-december/20:00": {
-        "checked": "2026-11-27T08:16:28+00:00",
+        "checked": "2026-11-27T08:46:44+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-12-03",
@@ -82092,7 +82113,7 @@
         ]
       },
       "/Vergaderingen/Verdiepende-sessie/2026/03-december/20:00": {
-        "checked": "2026-11-27T08:16:24+00:00",
+        "checked": "2026-11-27T08:46:40+00:00",
         "gemeente": "drechterland",
         "type": "Verdiepende sessie",
         "date": "2026-12-03",
@@ -82120,11 +82141,11 @@
       }
     },
     "go_listed": {
-      "enkhuizen": "2026-11-27T08:15:54+00:00",
-      "drechterland": "2026-11-27T08:16:22+00:00"
+      "enkhuizen": "2026-11-27T08:46:04+00:00",
+      "drechterland": "2026-11-27T08:46:38+00:00"
     },
     "elders": {
-      "woo": "2026-11-27T07:31:23+00:00"
+      "woo": "2026-11-27T08:46:55+00:00"
     },
     "termijn_v1": true,
     "keywords": {
