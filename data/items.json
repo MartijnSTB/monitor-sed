@@ -5,6 +5,85 @@
     "stedebroec"
   ],
   "items": {
+    "f2102da0436d720da06af6ee92ef4003e9694f50fe5162013402707e9b28636b": {
+      "title": "Gratis woningcheck van de brandweer voor een veiliger thuis",
+      "url": "https://www.drechterland.nl/actueel/gratis-woningcheck-van-de-brandweer-voor-een-veiliger-thuis",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-27T19:31:08+00:00",
+      "last_change": "2026-11-27T19:31:08+00:00",
+      "hash": "",
+      "revisions": 5,
+      "excerpt": "Heeft u voldoende werkende rookmelders in huis? Weet u wat u moet doen bij een vlam in de pan? En bent u zich bewust van de risico’s van een cv-ketel of houtkachel? Tijdens een gratis woningcheck helpt de brandweer u om uw woning brandveiliger te maken. Brandpreventieweken: extra aandacht voor…",
+      "doc_date": "2026-11-10",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-10T09:41:21+00:00",
+      "last_seen": "2026-11-27",
+      "kw_sig": "4f53cda18c2b|7ddd5b543e7ee455cf5460a0ba7ed5e7021af744ac7504f6a918a951b4fd4040|Gratis woningcheck van de brandweer voor een veiliger thuis|Heeft u voldoende werkende rookmelders in huis? Weet u wat u moet doen bij een vlam in de pan? En bent u zich bewust van de risico’s van een cv-ketel of houtkachel? Tijdens een gratis woningcheck helpt de brandweer u om uw woning brandveiliger te maken. Brandpreventieweken: extra aandacht voor…",
+      "missing_count": 0,
+      "text_hash": "7ddd5b543e7ee455cf5460a0ba7ed5e7021af744ac7504f6a918a951b4fd4040",
+      "content_checked": "2026-11-27T19:31:08+00:00",
+      "changes": [
+        {
+          "at": "2026-11-20T02:59:42+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Onderhoud systeem burgerzaken op 1 en 2 december",
+            "18 november 2026",
+            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
+          ],
+          "removed": [
+            "Sloop voormalig dorpshuis De Dregt",
+            "6 november 2026",
+            "Sinterklaas en zijn Pieten komen naar Drechterland"
+          ]
+        },
+        {
+          "at": "2026-11-22T02:03:54+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Beheer voormalige vuilstort Westwoud overgedragen",
+            "20 november 2026"
+          ],
+          "removed": [
+            "50 jaar weekmarkt Hoogkarspel",
+            "6 november 2026"
+          ]
+        },
+        {
+          "at": "2026-11-25T19:16:35+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Het college bezoekt Bouw '85",
+            "25 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        },
+        {
+          "at": "2026-11-27T19:31:08+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Wegafsluiting Dorpsweg Schellinkhout",
+            "27 november 2026",
+            "Vier Little Local regelingen van start"
+          ],
+          "removed": [
+            "Voorkom een woninginbraak: maak het inbrekers niet te makkelijk",
+            "13 november 2026",
+            "COA vraagt vergunning aan voor asielopvanglocatie"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
     "d514dcbad405aec017e7f66b5d22e9c31f509e98a83365ba0372d136841239ab": {
       "title": "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
       "url": "https://www.stedebroec.nl/actueel/gratis-kennismakingsclinic-frame-schaatsen-in-hoorn",
@@ -10533,9 +10612,9 @@
       "media_bron": "Rodi.nl",
       "media_match": "tekst",
       "last_seen": "2026-11-27",
-      "doc_date": "2026-11-26",
+      "doc_date": "2026-11-27",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-26T22:05+01:00",
+      "published_at": "2026-11-27T03:28+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||De krant van deze week staat online!|"
     },
@@ -11807,70 +11886,6 @@
           "removed": [
             "2025-12-31 schriftelijke vragen SP-Enkhuizen - rapport bodemzorg",
             "PDF, 29,67 KB"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "f2102da0436d720da06af6ee92ef4003e9694f50fe5162013402707e9b28636b": {
-      "title": "Gratis woningcheck van de brandweer voor een veiliger thuis",
-      "url": "https://www.drechterland.nl/actueel/gratis-woningcheck-van-de-brandweer-voor-een-veiliger-thuis",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-25T19:16:35+00:00",
-      "last_change": "2026-11-25T19:16:35+00:00",
-      "hash": "",
-      "revisions": 4,
-      "excerpt": "Heeft u voldoende werkende rookmelders in huis? Weet u wat u moet doen bij een vlam in de pan? En bent u zich bewust van de risico’s van een cv-ketel of houtkachel? Tijdens een gratis woningcheck helpt de brandweer u om uw woning brandveiliger te maken. Brandpreventieweken: extra aandacht voor…",
-      "doc_date": "2026-11-10",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-10T09:41:21+00:00",
-      "last_seen": "2026-11-27",
-      "kw_sig": "4f53cda18c2b|1651c83246c5f597d2231cadee2a0dc2ca6acece1dcd30f0fc2ae0fdc8495577|Gratis woningcheck van de brandweer voor een veiliger thuis|Heeft u voldoende werkende rookmelders in huis? Weet u wat u moet doen bij een vlam in de pan? En bent u zich bewust van de risico’s van een cv-ketel of houtkachel? Tijdens een gratis woningcheck helpt de brandweer u om uw woning brandveiliger te maken. Brandpreventieweken: extra aandacht voor…",
-      "missing_count": 0,
-      "text_hash": "1651c83246c5f597d2231cadee2a0dc2ca6acece1dcd30f0fc2ae0fdc8495577",
-      "content_checked": "2026-11-26T19:16:38+00:00",
-      "changes": [
-        {
-          "at": "2026-11-20T02:59:42+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "Onderhoud systeem burgerzaken op 1 en 2 december",
-            "18 november 2026",
-            "Anonieme tips cruciaal bij aanpak illegale vuurwerkhandel"
-          ],
-          "removed": [
-            "Sloop voormalig dorpshuis De Dregt",
-            "6 november 2026",
-            "Sinterklaas en zijn Pieten komen naar Drechterland"
-          ]
-        },
-        {
-          "at": "2026-11-22T02:03:54+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Beheer voormalige vuilstort Westwoud overgedragen",
-            "20 november 2026"
-          ],
-          "removed": [
-            "50 jaar weekmarkt Hoogkarspel",
-            "6 november 2026"
-          ]
-        },
-        {
-          "at": "2026-11-25T19:16:35+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Het college bezoekt Bouw '85",
-            "25 november 2026"
-          ],
-          "removed": [
-            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
-            "9 november 2026"
           ]
         }
       ],
@@ -82835,14 +82850,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T19:15:32+00:00",
+        "checked": "2026-11-27T19:30:43+00:00",
         "ok": true,
         "count": 33,
         "new": 0,
         "note": "Laatste 30 dagen: 33 van 33 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-27T19:15:35+00:00",
+        "checked": "2026-11-27T19:30:46+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -82850,29 +82865,29 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T19:15:35+00:00",
+        "checked": "2026-11-27T19:30:46+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T19:15:36+00:00",
+        "checked": "2026-11-27T19:30:46+00:00",
         "ok": true,
         "count": 116,
         "new": 0,
         "note": "Laatste 30 dagen: 116 van 116 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T19:15:53+00:00",
+        "checked": "2026-11-27T19:30:47+00:00",
         "ok": true,
-        "count": 2,
+        "count": 1,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-28 en 2027-01-11, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 1 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-28 en 2027-01-11, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-27T19:16:02+00:00",
+        "checked": "2026-11-27T19:30:56+00:00",
         "ok": true,
         "count": 67,
         "new": 0,
@@ -82880,12 +82895,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T19:16:02+00:00",
+        "checked": "2026-11-27T19:30:56+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-27T19:15:59+00:00",
+        "checked": "2026-11-27T19:30:54+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -82895,22 +82910,22 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T19:16:04+00:00",
+        "checked": "2026-11-27T19:30:57+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
         "note": "Laatste 30 dagen: 54 van 54 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T19:16:21+00:00",
+        "checked": "2026-11-27T19:30:57+00:00",
         "ok": true,
-        "count": 4,
+        "count": 0,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 4 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-28 en 2027-01-11, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-28 en 2027-01-11, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-27T19:16:28+00:00",
+        "checked": "2026-11-27T19:31:04+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -82918,12 +82933,14 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T19:16:28+00:00",
+        "checked": "2026-11-27T19:31:07+00:00",
         "ok": true,
-        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
+        "count": 27,
+        "new": 0,
+        "note": "Google Nieuws, artikelen van de laatste 3 dagen over Drechterland, Hem, Hoogkarspel, Oosterblokker, Oosterleek, Schellinkhout, Venhuizen, Westwoud, Wijdenes. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-27T19:16:26+00:00",
+        "checked": "2026-11-27T19:31:01+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -82941,25 +82958,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-27T19:16:28+00:00",
+        "checked": "2026-11-27T19:31:07+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-27T19:16:34+00:00",
+        "checked": "2026-11-27T19:31:08+00:00",
         "ok": true,
-        "count": 4,
+        "count": 1,
         "errors": 0,
-        "note": "4 documenten gecontroleerd (0 pdf), 601 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "1 documenten gecontroleerd (0 pdf), 601 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-27T19:16:34+00:00",
+        "checked": "2026-11-27T19:31:08+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-27T19:16:34+00:00",
+        "checked": "2026-11-27T19:31:08+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -82994,7 +83011,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/15-december/20:00": {
-        "checked": "2026-11-27T19:02:47+00:00",
+        "checked": "2026-11-27T19:30:47+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-12-15",
