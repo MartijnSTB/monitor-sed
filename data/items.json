@@ -5,6 +5,246 @@
     "stedebroec"
   ],
   "items": {
+    "52f5bd439371f86439138a00a6208ee4ba0dbd7d76f9d9f7a6e9d7a31d8b4f37": {
+      "title": "Vier Little Local regelingen van start",
+      "url": "https://www.drechterland.nl/actueel/vier-little-local-regelingen-van-start",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-27T13:46:40+00:00",
+      "updated": "2026-11-27T13:46:40+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "De Little Local-regeling Regio Deal Noord-Holland Noord zorgt ervoor dat kleinschalige, lokale initiatieven kunnen uitgroeien tot projecten met zichtbare impact voor de regio. Het project ging eerder dit jaar van start, en tot 30 september konden de aanvragen worden ingediend. Inmiddels zijn de aanvragen beoordeeld en kunnen tientallen lokale initiatieven…",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-27T14:45:05+00:00",
+      "last_seen": "2026-11-27",
+      "missing_count": 0,
+      "text_hash": "a22260dd0365a680dc69ba96701f4190273d63061076046462978fee434d43d2",
+      "content_checked": "2026-11-27T13:46:48+00:00",
+      "kw_sig": "4f53cda18c2b|a22260dd0365a680dc69ba96701f4190273d63061076046462978fee434d43d2|Vier Little Local regelingen van start|De Little Local-regeling Regio Deal Noord-Holland Noord zorgt ervoor dat kleinschalige, lokale initiatieven kunnen uitgroeien tot projecten met zichtbare impact voor de regio. Het project ging eerder dit jaar van start, en tot 30 september konden de aanvragen worden ingediend. Inmiddels zijn de aanvragen beoordeeld en kunnen tientallen lokale initiatieven…"
+    },
+    "1aac8255e6c079cc54aeeef6d98ee1b4793b2c7b0c80dc8c728f53a9e023133b": {
+      "title": "Treinreizigers opgelet: Werkzaamheden aan spoor zorgen voor hinder tussen Amsterdam en Enkhuizen",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdkJPc3hieFVCeTg4cm9XXzhZSlpwV2dWQmI0elpsdTNOU2xjLUNRSDFzTVBkbzhwbFNZb1l2N0x4bkd2ZVVpc2Jzbl9JM1kwMXdkQVBZb2oyal9tYVlsbkNieE1HUWZMbHIwYnI5SXotVWhUWEthb2lVaFZPYjZCQlhWQUp5ckNFdlA1XzFWQVAzZThmaF9rWldVUURoWi1ZQzNicmF3QnZoNnV4TDNvWXp2N2x0dE5MNWZ1UFZPd0JUMTBKeGpyZzhTYkVOSUNiRFBZdFdlalJQZw?oc=5",
+      "source": "In de media",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-27T13:46:40+00:00",
+      "updated": "2026-11-27T13:46:40+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Rodi.nl",
+      "media_match": "tekst",
+      "last_seen": "2026-11-27",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-27T13:05+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Treinreizigers opgelet: Werkzaamheden aan spoor zorgen voor hinder tussen Amsterdam en Enkhuizen|"
+    },
+    "700c7a921f1f6c6419e30399b3da075ac16645dcfb106bc54e1c5076079c9b86": {
+      "title": "Ontvangst aanvraag omgevingsvergunning voor tijdelijk plaatsen woonunit aan Lageweg 1A in Schellinkhout",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQUNzTGNuMFEzNVp3X1FtamhVXzJPY0dDQk5aMGlOT0tJYXpPdk9WTkNLQW5qMjJ5SmlnYUxrWDA0MnJHZnJTOFp5eGlTY2FWOXBNWEhUZ1lUVkJ6NWxTNzlfdlpFdURNUnNwdHhKWjJid2xRZDhEYUhGNFUwYWlEWmlEWGN1ZmFRZnRqa3EzTEI4eU9ONlBNbGgtTjBCSjVKSklHN2x6d2dkWk13UUQ3QnVtS0hvZVpDQWNSYXRoaWdOaWVxam5WdHJ5VE5OS2J2cTJsblBYbW5rSHFqRWd5b3hwdWNKblYyUjhKTUV3?oc=5",
+      "source": "In de media",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-27T13:46:40+00:00",
+      "updated": "2026-11-27T13:46:40+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "OnsWestfriesland",
+      "media_match": "kop",
+      "last_seen": "2026-11-27",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-27T00:00+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Ontvangst aanvraag omgevingsvergunning voor tijdelijk plaatsen woonunit aan Lageweg 1A in Schellinkhout|"
+    },
+    "88ea9099aa777b1ff2e3974e09f32c967af9e542d4358fa3c252061620751f7c": {
+      "title": "Ontvangst aanvraag omgevingsvergunning voor plaatsen energieopslagsysteem aan Blokdijk 3 in Wijdenes",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWUxjYmxkNExCVWx5cE50M2U3aDk5cjlBa2QwcU5UNXFreElrWjJFYWw3eVdqOGJmXzdaOWJLV0c2WmFwcG0xMEFmaHRJNWdzU1MycTVZbnoybDV5M0ZlUkxKZDhnNF9MMXFQc1J3N01LS1V0TTJaTG5oc21UMkEwRDduNnk5YTVXd2U0ak44elI5VFpJTlV2V2RjbEVLTmxvUHJCaVp2S2doZGw0b19NZ1NwWDlpMnlqY09Kc2NjMGZ4cTR6aTRueThzS2RGQnctc3N5NG02NXhtUU1lMVFwTjI5Z091amxiZ0E?oc=5",
+      "source": "In de media",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-27T13:46:40+00:00",
+      "updated": "2026-11-27T13:46:40+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "OnsWestfriesland",
+      "media_match": "kop",
+      "last_seen": "2026-11-27",
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-25T00:00+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Ontvangst aanvraag omgevingsvergunning voor plaatsen energieopslagsysteem aan Blokdijk 3 in Wijdenes|"
+    },
+    "820a795fd8fbf3388f62ed722b54a3399d97d2f768e310bc7f5df0380dd4ac18": {
+      "title": "Beslistermijn aanvraag voor aanleggen of veranderen van uitweg aan Jongeweer 2 in Wijdenes verlengd",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdnQyY0I0Qmc1NThsUGdSX19QMWJxWU5DRXNiblpkU1BfU2tORUlINVlsamYwRjR2TlZpMU9wekRCSHE0MXlrT2pkcl9NWndVZ0EtTjFYVFJnWVM5Zk1RSUZDY3oweGI1aUw0TThuN2Jrd3FsZUhqdWxZRFhlV0VJeWllSGdEWUtqS3B5VEtkYlR5WmZKWlR6X2pIQV9PR3VPLTJqRzhNcERBS2RrYUptNEt0TzAwekFIeWxCZS1KTGE0VG1YS2d5VHdSUGhacTVrbVZHb3doLUdzaGRTNThzdGdXcDdTRjAy?oc=5",
+      "source": "In de media",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-27T13:46:40+00:00",
+      "updated": "2026-11-27T13:46:40+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "OnsWestfriesland",
+      "media_match": "kop",
+      "last_seen": "2026-11-27",
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-25T09:00+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Beslistermijn aanvraag voor aanleggen of veranderen van uitweg aan Jongeweer 2 in Wijdenes verlengd|"
+    },
+    "8df8216f1b9f6a74fdc6792c5cd4cbca78c18a25ebeefd25d9a5ee98cfba2061": {
+      "title": "Dit weekend geen treinen tussen Hoorn en Enkhuizen door werkzaamheden: NS zet bussen in",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWHVoekhfTmluWUcwRkJlQmFveWxDTW1yaHlPeWFnbndURTUyY3hMNENubnp0cEdlMTAxbEZIZ2Mxa2s4UHU5Y3BSMWF4d2gxODh5VGM0TDJqUnZNVHh4cHdhaGt4ZzZBdWNQNE5PdEhHa2VEejFkNFY1TlE1WFJYdjgya0RydWF4ZG9LTVdFc1cyQ3NrTlhsMExnTjdYa0l5X2ZrUlEwSUN6MW05SVFXMy1IaEFCeUlNNEJyN09EY0F0aG5HM2VYdmlyakpYSXNz?oc=5",
+      "source": "In de media",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-27T13:46:10+00:00",
+      "updated": "2026-11-27T13:46:10+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "OnsWestfriesland",
+      "media_match": "kop",
+      "last_seen": "2026-11-27",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-27T13:31+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Dit weekend geen treinen tussen Hoorn en Enkhuizen door werkzaamheden: NS zet bussen in|"
+    },
+    "1ff08a4fc7ce044ab6760bb0ce30c0a5188f9267131fbd851489a84312714d9d": {
+      "title": "Treinreizigers opgelet: Werkzaamheden aan spoor zorgen voor hinder tussen Amsterdam en Enkhuizen",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdkJPc3hieFVCeTg4cm9XXzhZSlpwV2dWQmI0elpsdTNOU2xjLUNRSDFzTVBkbzhwbFNZb1l2N0x4bkd2ZVVpc2Jzbl9JM1kwMXdkQVBZb2oyal9tYVlsbkNieE1HUWZMbHIwYnI5SXotVWhUWEthb2lVaFZPYjZCQlhWQUp5ckNFdlA1XzFWQVAzZThmaF9rWldVUURoWi1ZQzNicmF3QnZoNnV4TDNvWXp2N2x0dE5MNWZ1UFZPd0JUMTBKeGpyZzhTYkVOSUNiRFBZdFdlalJQZw?oc=5",
+      "source": "In de media",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-27T13:46:10+00:00",
+      "updated": "2026-11-27T13:46:10+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Rodi.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-27",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-27T13:05+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Treinreizigers opgelet: Werkzaamheden aan spoor zorgen voor hinder tussen Amsterdam en Enkhuizen|"
+    },
+    "38b86b8b7398d83f14e3e73968b85ac44596690d3b4dc79881f15f2e8092d579": {
+      "title": "Vergunning verleend voor verplaatsen van HWA aan Sint Janstraat 8 in Enkhuizen",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUms1QS1JME40VEFYdVB5VjJ2Z3hhMG4yaWJSUVlwdzhtMVl3cDhzYXR2eTA3WjVrdm9rVmVQLVdDN3VnTjc4R1AzRXBWRzAxYTg3cUFyR2JMd2prZmFEdmZWMWxMOWkzTHdkdW1PNkdHeF8xYlNCRnhIdW1Fa0VudXF6aEhqYlZsQnUxeTZ4SEtLSWU3bzlMeXhwQXgzUzJ0N1pSeE5kbWV3WTdfazF3aXlCUURFWWZZVnhNVnhxYno0b0NWNXJiQw?oc=5",
+      "source": "In de media",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-27T13:46:10+00:00",
+      "updated": "2026-11-27T13:46:10+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "OnsWestfriesland",
+      "media_match": "kop",
+      "last_seen": "2026-11-27",
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-25T09:00+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Vergunning verleend voor verplaatsen van HWA aan Sint Janstraat 8 in Enkhuizen|"
+    },
+    "b83df1ade0fa3bee88762ee666c538b0fcb7642dd29955faf5d2ca177cf1d241": {
+      "title": "Inwoners van Enkhuizen krijgen Nederlandse nationaliteit in het stadhuis",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNekVkX2hidHRIMmxiR2wtSG5CLU03RVR6SnNmalV5SU1OUVAyYlRCSVRNbFFNOWpTdEtidFQwMExwNG9uYXJxQ1hWU2hOSGUxaEI5LUJjUmZuZUJ2QlljTDl4SFZBY0FjUHJKMTYyNnhkYV9QQnZnN0haS20zMGx4Q3VDZnZyLVZGQV9ZRk1kNk9OYjVldVJPaTZBNFdRTnNFdnNMeXNMUjBsTHNkeEhZ?oc=5",
+      "source": "In de media",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-27T13:46:10+00:00",
+      "updated": "2026-11-27T13:46:10+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "AD.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-27",
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Inwoners van Enkhuizen krijgen Nederlandse nationaliteit in het stadhuis|"
+    },
+    "16149a1954cd507a8950bd6fb53a266a04ede4e6ef734f2737a321d4b31f6c79": {
+      "title": "Aanvraag ontvangen voor legalisatie van zonnepanelen aan Semeinszstraat 16 in Enkhuizen",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdE9pNmJhZ0lVa0pPaUo3U3lobTRSVFFiZXFqZXNIcER0VEN0ZTEzem5NNnRBQnN2QUNwVHg1SDVBMk1GNGNDNTRpRnpWNVdJZjhEaU5hQ1ZoVzlKdUhESENHMDJwUXZBcFRVckUxeUhpVUVwdVppcnVkVEVnTHYwTGFhTmw0TUl2UHg3ek9hTnA1MFg4c3dwb2ZrMzh3X0sxNEdZb1lHclVQYmFyRTE1QkxYQzc1VkdPNV9jenAwM1dOajhaaXVBdnc2QnVXWk5ZODVnMQ?oc=5",
+      "source": "In de media",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-27T13:46:10+00:00",
+      "updated": "2026-11-27T13:46:10+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "OnsWestfriesland",
+      "media_match": "kop",
+      "last_seen": "2026-11-27",
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-25T00:00+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Aanvraag ontvangen voor legalisatie van zonnepanelen aan Semeinszstraat 16 in Enkhuizen|"
+    },
+    "5b1b5dddab91edac55cfda21d5dd73aeafea1e332b56cfa414da6cbf57a0cf4e": {
+      "title": "Vier Little Local regelingen van start",
+      "url": "https://www.enkhuizen.nl/actueel/vier-little-local-regelingen-van-start",
+      "source": "Nieuws",
+      "gemeente": "enkhuizen",
+      "first_seen": "2026-11-27T13:46:09+00:00",
+      "updated": "2026-11-27T13:46:09+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "De Little Local-regeling Regio Deal Noord-Holland Noord zorgt ervoor dat kleinschalige, lokale initiatieven kunnen uitgroeien tot projecten met zichtbare impact voor de regio. Het project ging eerder dit jaar van start, en tot 30 september konden de aanvragen worden ingediend. Inmiddels zijn de aanvragen beoordeeld en kunnen tientallen lokale initiatieven…",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-27T14:45:05+00:00",
+      "last_seen": "2026-11-27",
+      "missing_count": 0,
+      "text_hash": "63868bcecd475ce72b73b705912aba73437361cadd6ccdb2460270b8af6c393f",
+      "content_checked": "2026-11-27T13:46:46+00:00",
+      "kw_sig": "4f53cda18c2b|63868bcecd475ce72b73b705912aba73437361cadd6ccdb2460270b8af6c393f|Vier Little Local regelingen van start|De Little Local-regeling Regio Deal Noord-Holland Noord zorgt ervoor dat kleinschalige, lokale initiatieven kunnen uitgroeien tot projecten met zichtbare impact voor de regio. Het project ging eerder dit jaar van start, en tot 30 september konden de aanvragen worden ingediend. Inmiddels zijn de aanvragen beoordeeld en kunnen tientallen lokale initiatieven…"
+    },
+    "af9b07519257ca6dd64f362a3bb27f7e1d854128bc0c757f73891961cf89789c": {
+      "title": "Vier Little Local regelingen van start",
+      "url": "https://www.stedebroec.nl/actueel/vier-little-local-regelingen-van-start",
+      "source": "Nieuws",
+      "gemeente": "stedebroec",
+      "first_seen": "2026-11-27T13:45:37+00:00",
+      "updated": "2026-11-27T13:45:37+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "De Little Local-regeling Regio Deal Noord-Holland Noord zorgt ervoor dat kleinschalige, lokale initiatieven kunnen uitgroeien tot projecten met zichtbare impact voor de regio. Het project ging eerder dit jaar van start, en tot 30 september konden de aanvragen worden ingediend. Inmiddels zijn de aanvragen beoordeeld en kunnen tientallen lokale initiatieven…",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-27T14:45:05+00:00",
+      "last_seen": "2026-11-27",
+      "missing_count": 0,
+      "text_hash": "f593b1d4bce6e28c367d491b425b471855d6defbdce24afb9423d6a6efeb69bb",
+      "content_checked": "2026-11-27T13:46:45+00:00",
+      "kw_sig": "4f53cda18c2b|f593b1d4bce6e28c367d491b425b471855d6defbdce24afb9423d6a6efeb69bb|Vier Little Local regelingen van start|De Little Local-regeling Regio Deal Noord-Holland Noord zorgt ervoor dat kleinschalige, lokale initiatieven kunnen uitgroeien tot projecten met zichtbare impact voor de regio. Het project ging eerder dit jaar van start, en tot 30 september konden de aanvragen worden ingediend. Inmiddels zijn de aanvragen beoordeeld en kunnen tientallen lokale initiatieven…"
+    },
     "9bf55d0204a1d8505087d8eb67044bf1c362b0e51425fd243334edc827dd5074": {
       "title": "2026-11-27 Technische vragen SP - Najaarsnota 2026",
       "url": "https://gemeenteraad.enkhuizen.nl/Overzichten/stukken/2026-11-27-Technische-vragen-SP-Najaarsnota-2026/",
@@ -7154,7 +7394,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "2e7ab0dcaa80f7c9c9fdc8e74226f3b028f3ba57f8e87baebb320e0f4f4fd0bf",
-      "content_checked": "2026-11-27T07:31:49+00:00",
+      "content_checked": "2026-11-27T13:47:03+00:00",
       "kw_sig": "4f53cda18c2b|2e7ab0dcaa80f7c9c9fdc8e74226f3b028f3ba57f8e87baebb320e0f4f4fd0bf|16. Brief ESN - Koeling als integraal onderdeel van het Warmteprogramma|Ingekomen stukken · afgedaan 2026-12-15"
     },
     "f668cea2724341b150ac68592e77af25421ffab94912cd6bc6f1777fa151ed54": {
@@ -13506,7 +13746,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "d60634829eeaf42a822f0988847583feed781dab0d22390f4eb954aaa01da7c3",
-      "content_checked": "2026-11-27T07:31:50+00:00",
+      "content_checked": "2026-11-27T13:47:04+00:00",
       "kw_sig": "4f53cda18c2b|d60634829eeaf42a822f0988847583feed781dab0d22390f4eb954aaa01da7c3|Schriftelijke vragen SGP - Achterstand publicatie openbare besluitenlijsten college van B&W|Schriftelijke vragen · portefeuillehouder J. Hoekstra-Sikkema · planning 2026-12-22"
     },
     "7bed6adf89ae62609db90b179b3107baaad0d96b349811f245d66bbeee1b3c0b": {
@@ -14264,7 +14504,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "a21e109b649dd57d4d18eb1fa27974257c210030137047b3fcd1693a1ae06f39",
-      "content_checked": "2026-11-27T07:31:42+00:00",
+      "content_checked": "2026-11-27T13:46:56+00:00",
       "kw_sig": "4f53cda18c2b|a21e109b649dd57d4d18eb1fa27974257c210030137047b3fcd1693a1ae06f39|16. Brief inwoner gemeente Enkhuizen - Zonnepanelen in de binnenstad|Ingekomen stukken · afgedaan 2026-11-24"
     },
     "4fb6b0d695dc500f5f3a8cac9c8faee0f6cc46a6baefc4363db4c1ffd7f187a7": {
@@ -14287,7 +14527,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "19a738dfca5b30dc03428a53bde220ea65efb1adfd344ffc9cfd4aa817e3952f",
-      "content_checked": "2026-11-27T07:31:43+00:00",
+      "content_checked": "2026-11-27T13:46:57+00:00",
       "kw_sig": "4f53cda18c2b|19a738dfca5b30dc03428a53bde220ea65efb1adfd344ffc9cfd4aa817e3952f|15. Brief Regionale werkgroep van raadsleden in Noord Holland-Noord - aanmelden werkgroep|Ingekomen stukken · afgedaan 2026-12-15"
     },
     "d57c4c014ce1e02c070630351a440e5a08135687c585f67a31990af6ad0eff42": {
@@ -14310,7 +14550,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "a4fbce9c2a32da3b72bfcae7ac6cfafb26a0acdc9bc182193f179ea0577945ec",
-      "content_checked": "2026-11-27T07:31:44+00:00",
+      "content_checked": "2026-11-27T13:46:58+00:00",
       "kw_sig": "4f53cda18c2b|a4fbce9c2a32da3b72bfcae7ac6cfafb26a0acdc9bc182193f179ea0577945ec|19. Brief Ouderennetwerk West-Friesland - overlast bewoner|Ingekomen stukken · afgedaan 2026-12-15"
     },
     "648d32b24ebc778039e6edf924474ebe84b673a875356b2b3ecb4879291b9dea": {
@@ -14333,7 +14573,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "320118f2d4c56874a7fa630e56bd2de5cdb9e239e1492b732a6f26af0cc28493",
-      "content_checked": "2026-11-27T07:31:45+00:00",
+      "content_checked": "2026-11-27T13:46:59+00:00",
       "kw_sig": "4f53cda18c2b|320118f2d4c56874a7fa630e56bd2de5cdb9e239e1492b732a6f26af0cc28493|20. Brief inwoner Enkhuizen - Komst kinderspeelplaats|Ingekomen stukken · afgedaan 2026-12-15"
     },
     "339bedc15c1a141f4c6655fa405f50de959774fb0dcf803054f16172e4c2c87c": {
@@ -14356,7 +14596,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "32383b5f4dc1c07860291e0dd08e4bc0ee8272b32669cbcf388071cdc920afa2",
-      "content_checked": "2026-11-27T07:31:46+00:00",
+      "content_checked": "2026-11-27T13:47:00+00:00",
       "kw_sig": "4f53cda18c2b|32383b5f4dc1c07860291e0dd08e4bc0ee8272b32669cbcf388071cdc920afa2|13. Ledenbrief VNG - Lbr. 26/048 - Controleer begrenzing stedelijke ecosystemen en ondersteuning gemeenten|Ingekomen stukken · afgedaan 2026-12-15"
     },
     "594c767f661c78f26a0856a5968063837bb0391c60a418a053589aadcfff659b": {
@@ -14379,7 +14619,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "e68e68843506ab352cc0c014f1e4cac322c6a58e7bf73c2d50bc72d0b02ae984",
-      "content_checked": "2026-11-27T07:31:47+00:00",
+      "content_checked": "2026-11-27T13:47:01+00:00",
       "kw_sig": "4f53cda18c2b|e68e68843506ab352cc0c014f1e4cac322c6a58e7bf73c2d50bc72d0b02ae984|12. Brief Stichting Arbeidsmigratie werkt - Publicatie Arbeidsmigratie Werkt|Ingekomen stukken · afgedaan 2026-12-15"
     },
     "27515833e0050dd7f132cddc8f1b6e7a838ad409a8448efc4d1eae27f45c9b5f": {
@@ -14402,7 +14642,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "e47e65bea45d799df2994966d2ab99041e3273fd8e18231dd03c662960c77d31",
-      "content_checked": "2026-11-27T07:31:35+00:00",
+      "content_checked": "2026-11-27T13:46:49+00:00",
       "kw_sig": "4f53cda18c2b|e47e65bea45d799df2994966d2ab99041e3273fd8e18231dd03c662960c77d31|14. Raadsbrief Aanbieden onderzoeksrapport Synarchis met betrekking tot exploitatie Hertenkamp|Raadsbrief · afgedaan 2026-12-15"
     },
     "4494f209b1af9308d558b1831d4ebef523fb6da88c1e4eacda2fdb02332472bf": {
@@ -14425,7 +14665,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "8947f8bc52cf5789db6c4b5745ded5419f9675ede089a8e50887e1fd76377340",
-      "content_checked": "2026-11-27T07:31:36+00:00",
+      "content_checked": "2026-11-27T13:46:51+00:00",
       "kw_sig": "4f53cda18c2b|8947f8bc52cf5789db6c4b5745ded5419f9675ede089a8e50887e1fd76377340|11. Raadsbrief voortgang project Gommerwijk West|Raadsbrief · afgedaan 2026-12-15"
     },
     "f99039ce890d3cf081bb27821f5b1d3a40e46e8af6b7c10dc7353b4037f2e7ba": {
@@ -14448,7 +14688,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "d7e0db834d1780b95ba14767bdc5e7c070cb10762aa7cc7372c1d1589411e34d",
-      "content_checked": "2026-11-27T07:31:37+00:00",
+      "content_checked": "2026-11-27T13:46:52+00:00",
       "kw_sig": "4f53cda18c2b|d7e0db834d1780b95ba14767bdc5e7c070cb10762aa7cc7372c1d1589411e34d|10. Raadsbrief Spreekuur WerkSaam Enkhuizen|Raadsbrief · afgedaan 2026-12-15"
     },
     "92f3593033db08f5d50b3d7c6fe74cdad18453c9417ac06ca37a0ccb9c2fabe6": {
@@ -14471,7 +14711,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "01a9cb60d5136de36c285fabe24c46cab6fbeb2ec936193bdf4d56cbf4d69c83",
-      "content_checked": "2026-11-27T07:31:38+00:00",
+      "content_checked": "2026-11-27T13:46:53+00:00",
       "kw_sig": "4f53cda18c2b|01a9cb60d5136de36c285fabe24c46cab6fbeb2ec936193bdf4d56cbf4d69c83|9. Raadsbrief Energiebesparingsakkoord|Raadsbrief · afgedaan 2026-12-15"
     },
     "37d5a4f634a9d99c7cda5cfde049ad548e7357022afc7a66f1b0242ab6c89ccb": {
@@ -14494,7 +14734,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "d7b2c6437fb29df45b1a0d64c9c76bdcca349a4f6ada4287559f4a8d24c18786",
-      "content_checked": "2026-11-27T07:31:40+00:00",
+      "content_checked": "2026-11-27T13:46:54+00:00",
       "kw_sig": "4f53cda18c2b|d7b2c6437fb29df45b1a0d64c9c76bdcca349a4f6ada4287559f4a8d24c18786|8. Raadsbrief Energiebesparing Schepenwijk en Krabbersplaat|Raadsbrief · afgedaan 2026-12-15"
     },
     "e291de25c40dc6f93dbd012e4cafe4651ac38444a657448604ac3a0238e8d14a": {
@@ -14517,7 +14757,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "7325af895c6d434a87c6e269f0d5e4928d63e2b6d8db399e3119cd5a0aecb600",
-      "content_checked": "2026-11-27T07:31:41+00:00",
+      "content_checked": "2026-11-27T13:46:55+00:00",
       "kw_sig": "4f53cda18c2b|7325af895c6d434a87c6e269f0d5e4928d63e2b6d8db399e3119cd5a0aecb600|7. Raadsbrief bepaling betaald parkeergebieden|Raadsbrief · afgedaan 2026-12-15"
     },
     "9949f6b6a388ecf669e125024c1b0e4ddbdd4396301d157aa2201bcb40778e6d": {
@@ -81518,57 +81758,59 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T13:30:48+00:00",
+        "checked": "2026-11-27T13:45:35+00:00",
         "ok": true,
         "count": 33,
         "new": 0,
         "note": "Laatste 30 dagen: 33 van 33 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-27T13:30:50+00:00",
+        "checked": "2026-11-27T13:45:37+00:00",
         "ok": true,
-        "count": 64,
-        "new": 0,
+        "count": 65,
+        "new": 1,
         "note": "De Actueel-pagina van stedebroec.nl (de nieuwste berichten, met datum). De RSS-feed van de gemeente is leeg.",
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T13:30:50+00:00",
+        "checked": "2026-11-27T13:45:37+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T13:30:51+00:00",
+        "checked": "2026-11-27T13:45:38+00:00",
         "ok": true,
         "count": 116,
         "new": 0,
         "note": "Laatste 30 dagen: 116 van 116 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T13:30:52+00:00",
+        "checked": "2026-11-27T13:45:59+00:00",
         "ok": true,
-        "count": 1,
+        "count": 3,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 1 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-28 en 2027-01-11, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 3 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-28 en 2027-01-11, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-27T13:31:03+00:00",
+        "checked": "2026-11-27T13:46:09+00:00",
         "ok": true,
-        "count": 66,
-        "new": 0,
+        "count": 67,
+        "new": 1,
         "note": "De Actueel-pagina van enkhuizen.nl (de nieuwste berichten, met datum). De RSS-feed van de gemeente is leeg.",
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T13:31:03+00:00",
+        "checked": "2026-11-27T13:46:11+00:00",
         "ok": true,
-        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
+        "count": 25,
+        "new": 5,
+        "note": "Google Nieuws, artikelen van de laatste 3 dagen over Enkhuizen. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-27T13:30:59+00:00",
+        "checked": "2026-11-27T13:46:07+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -81578,35 +81820,37 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T13:31:04+00:00",
+        "checked": "2026-11-27T13:46:12+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
         "note": "Laatste 30 dagen: 54 van 54 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T13:31:04+00:00",
+        "checked": "2026-11-27T13:46:32+00:00",
         "ok": true,
-        "count": 0,
+        "count": 4,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-28 en 2027-01-11, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 4 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-28 en 2027-01-11, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-27T13:31:11+00:00",
+        "checked": "2026-11-27T13:46:40+00:00",
         "ok": true,
-        "count": 65,
-        "new": 0,
+        "count": 66,
+        "new": 1,
         "note": "De Actueel-pagina van drechterland.nl (de nieuwste berichten, met datum). De RSS-feed van de gemeente is leeg.",
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T13:31:11+00:00",
+        "checked": "2026-11-27T13:46:43+00:00",
         "ok": true,
-        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
+        "count": 27,
+        "new": 4,
+        "note": "Google Nieuws, artikelen van de laatste 3 dagen over Drechterland, Hem, Hoogkarspel, Oosterblokker, Oosterleek, Schellinkhout, Venhuizen, Westwoud, Wijdenes. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-27T13:31:09+00:00",
+        "checked": "2026-11-27T13:46:38+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -81624,25 +81868,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-27T13:31:19+00:00",
+        "checked": "2026-11-27T13:46:43+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-27T13:31:19+00:00",
+        "checked": "2026-11-27T13:47:04+00:00",
         "ok": true,
-        "count": 0,
+        "count": 17,
         "errors": 0,
-        "note": "0 documenten gecontroleerd (0 pdf), 597 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "17 documenten gecontroleerd (0 pdf), 600 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-27T13:31:19+00:00",
+        "checked": "2026-11-27T13:47:04+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-27T13:31:19+00:00",
+        "checked": "2026-11-27T13:47:04+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -81817,7 +82061,7 @@
         ]
       },
       "/Vergaderingen/Commissie-Bestuur-Openbare-Orde-en-Veiligheid-Erfgoed-Grondgebied-BOEG/2026/30-november/20:00": {
-        "checked": "2026-11-27T13:15:57+00:00",
+        "checked": "2026-11-27T13:45:56+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG",
         "date": "2026-11-30",
@@ -81888,7 +82132,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Commissie-Sociaal-Domein-Financien-Bedrijfsvoering-SFB/2026/01-december/20:00": {
-        "checked": "2026-11-27T13:15:58+00:00",
+        "checked": "2026-11-27T13:45:58+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB",
         "date": "2026-12-01",
@@ -81927,7 +82171,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/24-november/20:00": {
-        "checked": "2026-11-27T07:31:02+00:00",
+        "checked": "2026-11-27T13:45:59+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-11-24",
@@ -82153,7 +82397,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Rondetafelgesprekken/2026/30-november/20:00": {
-        "checked": "2026-11-27T13:16:23+00:00",
+        "checked": "2026-11-27T13:46:29+00:00",
         "gemeente": "drechterland",
         "type": "Rondetafelgesprekken",
         "date": "2026-11-30",
@@ -82193,7 +82437,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/14-december/20:00": {
-        "checked": "2026-11-27T13:16:21+00:00",
+        "checked": "2026-11-27T13:46:27+00:00",
         "gemeente": "drechterland",
         "type": "Raadsvergadering",
         "date": "2026-12-14",
@@ -82202,7 +82446,7 @@
         "agenda": []
       },
       "/Vergaderingen/Themabijeenkomst/2026/03-december/20:00": {
-        "checked": "2026-11-27T13:16:26+00:00",
+        "checked": "2026-11-27T13:46:32+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-12-03",
@@ -82274,7 +82518,7 @@
         ]
       },
       "/Vergaderingen/Verdiepende-sessie/2026/03-december/20:00": {
-        "checked": "2026-11-27T13:16:22+00:00",
+        "checked": "2026-11-27T13:46:28+00:00",
         "gemeente": "drechterland",
         "type": "Verdiepende sessie",
         "date": "2026-12-03",
@@ -82302,8 +82546,8 @@
       }
     },
     "go_listed": {
-      "enkhuizen": "2026-11-27T13:15:56+00:00",
-      "drechterland": "2026-11-27T13:16:21+00:00"
+      "enkhuizen": "2026-11-27T13:45:55+00:00",
+      "drechterland": "2026-11-27T13:46:26+00:00"
     },
     "elders": {
       "woo": "2026-11-27T13:31:11+00:00"
