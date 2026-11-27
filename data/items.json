@@ -6118,7 +6118,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "8121fc19e4f791472f84edc004e455c3eeca977511b48190b9b09070a623a673",
-      "content_checked": "2026-11-26T20:16:42+00:00",
+      "content_checked": "2026-11-27T02:16:50+00:00",
       "kw_sig": "4f53cda18c2b|8121fc19e4f791472f84edc004e455c3eeca977511b48190b9b09070a623a673|17. Ledenbrief VNG - Lbr. 26/049 - Eerste nazending Najaars ALV: 'Samenwerkingsagenda'|Ingekomen stukken · afgedaan 2026-12-15"
     },
     "130f065ce44aaffa97c3fb958c10956c969d1d78ffd2479b84dcf833d1026e80": {
@@ -9109,7 +9109,7 @@
       "kind": "media",
       "media_bron": "Rodi.nl",
       "media_match": "tekst",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "doc_date": "2026-11-25",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-25T11:33+01:00",
@@ -13081,7 +13081,7 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "tekst",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "doc_date": "2026-11-24",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-24T15:55+01:00",
@@ -64316,7 +64316,7 @@
       "kind": "vergadering",
       "doc_date": "2026-10-06",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "kw_sig": "4f53cda18c2b||Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00|"
     },
     "2ce65ee2b43cdd3dbab7dbb9a9280927f61ba855811431c9f404c68a0002bb37": {
@@ -72991,7 +72991,7 @@
       "kind": "vergadering",
       "doc_date": "2026-10-27",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "kw_sig": "4f53cda18c2b||Raadsvergadering 27 oktober 2026 20:00|"
     },
     "081918731cd0e2ee86e7c06104717037940a5f9a4fb8ce59e5637db55b7e177f": {
@@ -73018,7 +73018,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "4 Vaststelling van de besluitenlijst gemeenteraad 22 september 2026",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 4 Vaststelling van de besluitenlijst gemeenteraad 22 september 2026 · Besluitenlijst",
       "kw_sig": "4f53cda18c2b|bfef49696c4bb14cb921f77700615fd6a05465c8bd07d6a8c5672a1fe88efe87|2026-09-22 Besluitenlijst raad|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 4 Vaststelling van de besluitenlijst gemeenteraad 22 september 2026 · Besluitenlijst",
       "missing_count": 0,
@@ -73049,7 +73049,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "5 Ingekomen stukken",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 5 Ingekomen stukken · Raadsbesluit",
       "kw_sig": "4f53cda18c2b|0ec76b4bba03bcfb0c0144fcedcdd01912f189992abea31ed4929cb1e2fbc0a8|Ingekomen stukken 27 oktober 2026 - raadsBESLUIT|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 5 Ingekomen stukken · Raadsbesluit",
       "missing_count": 0,
@@ -73085,7 +73085,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|1ed3167d7d750e74fb64b40c3039438e77873eb3119f70e4d8fab1a28b661f62|Woningbouwproject Stadskade Enkhuizen - raadsVOORSTEL.|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -73121,7 +73121,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Raadsbesluit · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|dbea06b4d08850254d4df2916087500dfbad99819dcde77866b4b4056571b482|Woningbouwproject Stadskade Enkhuizen - raadsBESLUIT|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Raadsbesluit · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -73157,7 +73157,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b||Bijlage 1 TAM-omgevingsplan Hfdst 22a - De Stadskade_vaststelling_3|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -73193,7 +73193,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|fc42f0ba1fb393c919e87d34c89d1eee4a99d2cb2c115749fd64316252c692ca|Bijlage 2 Zienswijzennota|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -73229,7 +73229,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|16f23d14251f3948b2c1d49c4a04032c07cff6ea2c45d920e54c0acf5f4d7bd3|Bijlage 3 ambtshalve correcties tov ontwerp|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -73265,7 +73265,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|ab9b64ce7a043a01efe1740bc687fa906890d2aebf21a3546812d78dce880cdd|Bijlage 4 Participatierapport|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -73301,7 +73301,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "6 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|e73386d246d6ecb92b628a3ca4bf58b77099109d9c3c5b957dc9d35bee8435d2|Bijlage 5 Bezonningsstudie|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 6 Woningbouwproject Stadskade · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -73332,7 +73332,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "9 Woningbouwproject Stadskade",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 9 Woningbouwproject Stadskade · Amendement",
       "kw_sig": "4f53cda18c2b|c2316148580c0f0de6023a21295cbde60ac246cdc82d9ff241c4474589903f82|2026-10-26 Amendement SP - Stadskade|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 9 Woningbouwproject Stadskade · Amendement",
       "missing_count": 0,
@@ -73363,7 +73363,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsvoorstel",
       "kw_sig": "4f53cda18c2b|1358387867857b55c61a963384bdb533cd4516254baf6097a0d373d7a19dbbb3|Benoeming lid RvT Present - raadsVOORSTEL|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsvoorstel",
       "missing_count": 0,
@@ -73394,7 +73394,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsbesluit",
       "kw_sig": "4f53cda18c2b|acea2bf04cd8b1b86da4224d87e4fd0e80f1e296a4aff7b35740cc9bd7b6b40c|Benoeming lid RvT Present - raadsBESLUIT|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsbesluit",
       "missing_count": 0,
@@ -73425,7 +73425,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsstukken",
       "kw_sig": "4f53cda18c2b||Bijlage 1 Voordracht benoeming lid RvT Present|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsstukken",
       "missing_count": 0,
@@ -73456,7 +73456,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsstukken",
       "kw_sig": "4f53cda18c2b|8221b46c62e0a394cc748a76b512916b1e7049f37cf0cbe5f9452c8edf6e69d4|Bijlage 2 Profiel lid Raad van Toezicht Stichting Openbaar Onderwijs Present|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 10 Benoeming lid Raad van Toezicht Stichting Openbaar Onderwijs Present · Raadsstukken",
       "missing_count": 0,
@@ -73492,7 +73492,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "7 Financiële verordening",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|ec8896aeb22fa05750855d3ea9c289866d5352684b68ef22545dbb5045157821|Financiële verordening gemeente Enkhuizen 2026 - raadsVOORSTEL|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -73528,7 +73528,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "7 Financiële verordening",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Raadsbesluit · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|a171b7b19d81c7a6617d0b9fb8254fbb934f5bd97b79c978b02daa1147cb8065|Financiële verordening gemeente Enkhuizen 2026 - raadsBESLUIT|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Raadsbesluit · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -73564,7 +73564,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "7 Financiële verordening",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|61327ec31410fe2c1c0f6f23ad6960d0c669bced027efb108534ba81c310485c|Bijlage 1 Financiële verordening gemeente Enkhuizen 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 7 Financiële verordening · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -73600,7 +73600,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|e4726185d6d02b8c38680ccc5076b20b4ad77d39162c03be3d00ff4e7098727d|Raadsvoorstel activabeleid 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsvoorstel · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -73636,7 +73636,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsbesluit · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|973cc8d2234f1e3f29cf82f1b366f873ec7e5744a7a7d3d670db9ca9682a5ead|Raadsbesluit Activabeleid 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsbesluit · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -73672,7 +73672,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|d544483898937ef80aebf5f0928dc19db736c6b204f65a6359228bdb9c77d386|Bijlage 1 Nota Activabeleid 2026 Enkhuizen|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -73708,7 +73708,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Bijlage · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|022b14b0620ab1909c40d776ceac83609ccb37f2901f4521b88e7fbce1f7b0b2|Bijlage 2 bij Activanota 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Bijlage · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -73744,7 +73744,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsstukken · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|224716fba0ebbceb9565d8458bda09e24786135edf4857c9dd1b537c45c71906|Addendum activabeleid 2026 voor commissie en raadsvergadering 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsstukken · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -73780,7 +73780,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00",
       "agendapunt": "8 Activabeleid 2026",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsstukken · ook in 1 andere vergadering(en)",
       "kw_sig": "4f53cda18c2b|a91a312860405a320322ed30725e1c1ac4199f5a4e5d60796e5f14f2e7c1fe79|Addendum Bijlage 2 bij Activanota 2026|Commissie Sociaal Domein Financien Bedrijfsvoering SFB 6 oktober 2026 20:00 · agendapunt 8 Activabeleid 2026 · Raadsstukken · ook in 1 andere vergadering(en)",
       "missing_count": 0,
@@ -73811,7 +73811,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "13 Motie vreemd aan de orde van de dag",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "kw_sig": "4f53cda18c2b|2b401d16069a5e274bb963803ef9c50fee6fdb87bed0593d944e52620b0d042a|2026-10-26 Motie Vreemd HEA - Herplanting bomen op de Vestingwal|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "missing_count": 0,
@@ -73842,7 +73842,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "13 Motie vreemd aan de orde van de dag",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "kw_sig": "4f53cda18c2b|93c86ed0f9e4daed5bc165565b1627cc9c9742c0fa0fb7a5d1112d3daa7347cc|2026-10-26 Motie Vreemd SP - De toog geen parkeervergunning|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "missing_count": 0,
@@ -73873,7 +73873,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Raadsvergadering 27 oktober 2026 20:00",
       "agendapunt": "13 Motie vreemd aan de orde van de dag",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "excerpt": "Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "kw_sig": "4f53cda18c2b|90e9d8407f3b1a6b388047805bfffc60bc812d2b6540312ce7154e6fd685271b|2026-10-27 Motie Vreemd SGP - Standpuntbepaling cao-inzet functiewaardering griffie|Raadsvergadering 27 oktober 2026 20:00 · agendapunt 13 Motie vreemd aan de orde van de dag · Motie",
       "missing_count": 0,
@@ -80887,14 +80887,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T02:00:53+00:00",
+        "checked": "2026-11-27T02:15:43+00:00",
         "ok": true,
         "count": 30,
         "new": 0,
         "note": "Laatste 30 dagen: 30 van 30 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-27T02:00:56+00:00",
+        "checked": "2026-11-27T02:15:45+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -80902,7 +80902,7 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T02:00:57+00:00",
+        "checked": "2026-11-27T02:15:46+00:00",
         "ok": true,
         "count": 21,
         "new": 0,
@@ -80911,22 +80911,22 @@
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T02:00:58+00:00",
+        "checked": "2026-11-27T02:15:48+00:00",
         "ok": true,
         "count": 114,
         "new": 0,
         "note": "Laatste 30 dagen: 114 van 114 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T02:01:01+00:00",
+        "checked": "2026-11-27T02:16:10+00:00",
         "ok": true,
-        "count": 1,
+        "count": 4,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 1 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-28 en 2027-01-11, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 4 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-28 en 2027-01-11, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-27T02:01:26+00:00",
+        "checked": "2026-11-27T02:16:18+00:00",
         "ok": true,
         "count": 67,
         "new": 0,
@@ -80934,14 +80934,14 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T02:01:27+00:00",
+        "checked": "2026-11-27T02:16:20+00:00",
         "ok": true,
-        "count": 25,
+        "count": 27,
         "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Enkhuizen. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-27T02:01:23+00:00",
+        "checked": "2026-11-27T02:16:16+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -80951,22 +80951,22 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T02:01:28+00:00",
+        "checked": "2026-11-27T02:16:20+00:00",
         "ok": true,
         "count": 52,
         "new": 0,
         "note": "Laatste 30 dagen: 52 van 52 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T02:01:28+00:00",
+        "checked": "2026-11-27T02:16:39+00:00",
         "ok": true,
-        "count": 0,
+        "count": 4,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-28 en 2027-01-11, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 4 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-28 en 2027-01-11, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-27T02:01:52+00:00",
+        "checked": "2026-11-27T02:16:46+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -80974,14 +80974,14 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-27T02:01:55+00:00",
+        "checked": "2026-11-27T02:16:48+00:00",
         "ok": true,
-        "count": 26,
+        "count": 27,
         "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Drechterland, Hem, Hoogkarspel, Oosterblokker, Oosterleek, Schellinkhout, Venhuizen, Westwoud, Wijdenes. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-27T02:01:49+00:00",
+        "checked": "2026-11-27T02:16:44+00:00",
         "ok": true,
         "count": 50,
         "new": 0,
@@ -80999,25 +80999,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-27T02:01:55+00:00",
+        "checked": "2026-11-27T02:16:48+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-27T02:01:59+00:00",
+        "checked": "2026-11-27T02:16:50+00:00",
         "ok": true,
-        "count": 3,
+        "count": 1,
         "errors": 0,
-        "note": "3 documenten gecontroleerd (3 pdf), 589 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "1 documenten gecontroleerd (0 pdf), 589 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-27T02:01:59+00:00",
+        "checked": "2026-11-27T02:16:50+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-27T02:01:59+00:00",
+        "checked": "2026-11-27T02:16:50+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -81082,7 +81082,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/27-oktober/20:00": {
-        "checked": "2026-11-26T20:15:51+00:00",
+        "checked": "2026-11-27T02:16:08+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-10-27",
@@ -81134,7 +81134,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Commissie-Sociaal-Domein-Financien-Bedrijfsvoering-SFB/2026/06-oktober/20:00": {
-        "checked": "2026-11-26T20:15:52+00:00",
+        "checked": "2026-11-27T02:16:10+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB",
         "date": "2026-10-06",
@@ -81192,7 +81192,7 @@
         ]
       },
       "/Vergaderingen/Commissie-Bestuur-Openbare-Orde-en-Veiligheid-Erfgoed-Grondgebied-BOEG/2026/30-november/20:00": {
-        "checked": "2026-11-27T01:45:54+00:00",
+        "checked": "2026-11-27T02:16:06+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG",
         "date": "2026-11-30",
@@ -81263,7 +81263,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Commissie-Sociaal-Domein-Financien-Bedrijfsvoering-SFB/2026/01-december/20:00": {
-        "checked": "2026-11-27T01:45:55+00:00",
+        "checked": "2026-11-27T02:16:07+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB",
         "date": "2026-12-01",
@@ -81528,7 +81528,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Rondetafelgesprekken/2026/30-november/20:00": {
-        "checked": "2026-11-27T01:46:25+00:00",
+        "checked": "2026-11-27T02:16:36+00:00",
         "gemeente": "drechterland",
         "type": "Rondetafelgesprekken",
         "date": "2026-11-30",
@@ -81568,7 +81568,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/14-december/20:00": {
-        "checked": "2026-11-27T01:46:23+00:00",
+        "checked": "2026-11-27T02:16:34+00:00",
         "gemeente": "drechterland",
         "type": "Raadsvergadering",
         "date": "2026-12-14",
@@ -81577,7 +81577,7 @@
         "agenda": []
       },
       "/Vergaderingen/Themabijeenkomst/2026/03-december/20:00": {
-        "checked": "2026-11-27T01:46:28+00:00",
+        "checked": "2026-11-27T02:16:39+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-12-03",
@@ -81649,7 +81649,7 @@
         ]
       },
       "/Vergaderingen/Verdiepende-sessie/2026/03-december/20:00": {
-        "checked": "2026-11-27T01:46:24+00:00",
+        "checked": "2026-11-27T02:16:35+00:00",
         "gemeente": "drechterland",
         "type": "Verdiepende sessie",
         "date": "2026-12-03",
@@ -81677,8 +81677,8 @@
       }
     },
     "go_listed": {
-      "enkhuizen": "2026-11-27T01:45:53+00:00",
-      "drechterland": "2026-11-27T01:46:22+00:00"
+      "enkhuizen": "2026-11-27T02:16:04+00:00",
+      "drechterland": "2026-11-27T02:16:33+00:00"
     },
     "elders": {
       "woo": "2026-11-27T01:53:40+00:00"
