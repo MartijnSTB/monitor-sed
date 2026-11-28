@@ -5,6 +5,70 @@
     "stedebroec"
   ],
   "items": {
+    "4098d270d88f6ef927a23af75776877788d97da5f5cbc280a0a520f9e8a36dd7": {
+      "title": "Free Your Mindz",
+      "url": "https://www.drechterland.nl/actueel/free-your-mintz",
+      "source": "Nieuws",
+      "gemeente": "drechterland",
+      "first_seen": "2026-11-17T17:53:55+00:00",
+      "updated": "2026-11-28T04:16:45+00:00",
+      "last_change": "2026-11-28T04:16:45+00:00",
+      "hash": "",
+      "revisions": 4,
+      "excerpt": "Ben je bezig met school, studie, werk of de vraag wat je later wilt doen? En wil je meer inzicht krijgen in jezelf, meer zelfvertrouwen opbouwen of beter leren omgaan met druk en verwachtingen? Dan is Free Your Mindz misschien iets voor jou. Gratis programma voor jongeren en jongvolwassenen: ontdek…",
+      "doc_date": "2026-10-05",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-05T10:46:42+00:00",
+      "last_seen": "2026-11-28",
+      "kw_sig": "4f53cda18c2b|fdea2e47b0d53262d943bfa92479024f803de0cab1db9581d4f46b41a7723678|Free Your Mindz|Ben je bezig met school, studie, werk of de vraag wat je later wilt doen? En wil je meer inzicht krijgen in jezelf, meer zelfvertrouwen opbouwen of beter leren omgaan met druk en verwachtingen? Dan is Free Your Mindz misschien iets voor jou. Gratis programma voor jongeren en jongvolwassenen: ontdek…",
+      "missing_count": 0,
+      "text_hash": "fdea2e47b0d53262d943bfa92479024f803de0cab1db9581d4f46b41a7723678",
+      "content_checked": "2026-11-28T04:16:45+00:00",
+      "changes": [
+        {
+          "at": "2026-11-21T08:10:38+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Beheer voormalige vuilstort Westwoud overgedragen",
+            "20 november 2026"
+          ],
+          "removed": [
+            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
+            "9 november 2026"
+          ]
+        },
+        {
+          "at": "2026-11-26T04:16:29+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Het college bezoekt Bouw '85",
+            "25 november 2026"
+          ],
+          "removed": [
+            "Gratis woningcheck van de brandweer voor een veiliger thuis",
+            "10 november 2026"
+          ]
+        },
+        {
+          "at": "2026-11-28T04:16:45+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "4 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Wegafsluiting Dorpsweg Schellinkhout",
+            "27 november 2026",
+            "Vier Little Local regelingen van start"
+          ],
+          "removed": [
+            "Voorkom een woninginbraak: maak het inbrekers niet te makkelijk",
+            "13 november 2026",
+            "COA vraagt vergunning aan voor asielopvanglocatie"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
     "76aa254ca0932d0f6f32cd74a3a772ef79e13d925482d8f44c2188e95c04b2cf": {
       "title": "Nieuwe duofiets voor bewoners van het Thomashuis",
       "url": "https://www.drechterland.nl/actueel/nieuwe-duofiets-voor-bewoners-van-het-thomashuis",
@@ -5767,7 +5831,7 @@
       "last_seen": "2026-11-28",
       "missing_count": 0,
       "text_hash": "0df3cad3b79a298cdceb28bc2239f47d71f8d0b8af628c16418050d79dd2aa9a",
-      "content_checked": "2026-11-27T22:16:35+00:00",
+      "content_checked": "2026-11-28T04:17:19+00:00",
       "kw_sig": "4f53cda18c2b|0df3cad3b79a298cdceb28bc2239f47d71f8d0b8af628c16418050d79dd2aa9a|Werkzaamheden Zuider Kadijk: weg tijdelijk afgesloten|Van maandag 23 november tot en met woensdag 2 december 2026 voert aannemer KWS Infra werkzaamheden uit aan de Zuider Kadijk. Het gaat om het gedeelte op de brug tussen de kruising met de Barkas en de kruising met Onder Zeil. De klinkervakken op de brug worden opgebroken en opnieuw…",
       "changes": [
         {
@@ -5816,7 +5880,7 @@
       "last_seen": "2026-11-28",
       "missing_count": 0,
       "text_hash": "3552f7be53874a4b2b2f1c945004bda0909d051ce30a632189183365202abc8d",
-      "content_checked": "2026-11-27T22:16:33+00:00",
+      "content_checked": "2026-11-28T04:17:17+00:00",
       "kw_sig": "4f53cda18c2b|3552f7be53874a4b2b2f1c945004bda0909d051ce30a632189183365202abc8d|Parkeergebieden voor betaald parkeren vastgesteld|De volgende stap om de binnenstad aantrekkelijk, bereikbaar en leefbaar te houden is gezet. Het college van burgemeester en wethouders heeft de gebieden vastgesteld waar binnenkort betaald parkeren gaat gelden. Ook heeft het college besloten waar extra plaatsen voor vergunninghouders komen. De verwachting is dat betaald parkeren in het eerste…",
       "changes": [
         {
@@ -5875,7 +5939,7 @@
       "last_seen": "2026-11-28",
       "missing_count": 0,
       "text_hash": "86ee0eafe54a9b180b10b042bdf0e060856b309c9cf491ad0fc2ee7221f5233d",
-      "content_checked": "2026-11-27T22:16:32+00:00",
+      "content_checked": "2026-11-28T04:17:16+00:00",
       "kw_sig": "4f53cda18c2b|86ee0eafe54a9b180b10b042bdf0e060856b309c9cf491ad0fc2ee7221f5233d|Werkzaamheden Broekerhavenweg in Bovenkarspel|Van 23 november tot en met 1 december 2026 voert aannemer KWS herstelwerkzaamheden uit aan verschillende klinkervakken in het asfalt van de Broekerhavenweg in Bovenkarspel. Het gaat om de klinkervakken op de Broekerhavenweg tussen huisnummer 163 t/m huisnummer 241. Weg afgesloten voor doorgaand verkeer Tijdens de werkzaamheden is de Broekerhavenweg…",
       "changes": [
         {
@@ -12383,55 +12447,6 @@
       ],
       "change_type": "Tekst gewijzigd"
     },
-    "4098d270d88f6ef927a23af75776877788d97da5f5cbc280a0a520f9e8a36dd7": {
-      "title": "Free Your Mindz",
-      "url": "https://www.drechterland.nl/actueel/free-your-mintz",
-      "source": "Nieuws",
-      "gemeente": "drechterland",
-      "first_seen": "2026-11-17T17:53:55+00:00",
-      "updated": "2026-11-26T04:16:29+00:00",
-      "last_change": "2026-11-26T04:16:29+00:00",
-      "hash": "",
-      "revisions": 3,
-      "excerpt": "Ben je bezig met school, studie, werk of de vraag wat je later wilt doen? En wil je meer inzicht krijgen in jezelf, meer zelfvertrouwen opbouwen of beter leren omgaan met druk en verwachtingen? Dan is Free Your Mindz misschien iets voor jou. Gratis programma voor jongeren en jongvolwassenen: ontdek…",
-      "doc_date": "2026-10-05",
-      "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-05T10:46:42+00:00",
-      "last_seen": "2026-11-28",
-      "kw_sig": "4f53cda18c2b|c5e4a4785ebec1d47280a3ca13fa71cddd4c9e87a4f996289362f087fe3f1d46|Free Your Mindz|Ben je bezig met school, studie, werk of de vraag wat je later wilt doen? En wil je meer inzicht krijgen in jezelf, meer zelfvertrouwen opbouwen of beter leren omgaan met druk en verwachtingen? Dan is Free Your Mindz misschien iets voor jou. Gratis programma voor jongeren en jongvolwassenen: ontdek…",
-      "missing_count": 0,
-      "text_hash": "c5e4a4785ebec1d47280a3ca13fa71cddd4c9e87a4f996289362f087fe3f1d46",
-      "content_checked": "2026-11-27T04:16:43+00:00",
-      "changes": [
-        {
-          "at": "2026-11-21T08:10:38+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Beheer voormalige vuilstort Westwoud overgedragen",
-            "20 november 2026"
-          ],
-          "removed": [
-            "Gratis kennismakingsclinic Frame Schaatsen in Hoorn",
-            "9 november 2026"
-          ]
-        },
-        {
-          "at": "2026-11-26T04:16:29+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Het college bezoekt Bouw '85",
-            "25 november 2026"
-          ],
-          "removed": [
-            "Gratis woningcheck van de brandweer voor een veiliger thuis",
-            "10 november 2026"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
     "b592e9953316bb9b670d82979b6ebde52ba2af0715264a3701c5279f0ff66fab": {
       "title": "De 7 vragen: Annemieke Hageman",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXRteVBVSkRRNTQ1d2NQR0NPZlc3QnJyUWoxLWZVa21VTl9UVmJQY1pCUnRNV0M4ZjdKQWI5NVRFSmFvLTdCZGtBOWpUZ20yTFFTSWpld0Vpd3pJb2czQXoweHBPekxTZHQtN2tSMml0Z09zRG83dVl4M0dWRlltZGdB?oc=5",
@@ -14865,9 +14880,9 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-24",
       "go_seen": true,
-      "missing_count": 14,
+      "missing_count": 15,
       "text_hash": "abbec47f58f3152e23862594ca475954a76b1dc1fab9001c28f10f74a8149acd",
-      "content_checked": "2026-11-27T22:01:31+00:00",
+      "content_checked": "2026-11-28T04:16:56+00:00",
       "kw_sig": "4f53cda18c2b|abbec47f58f3152e23862594ca475954a76b1dc1fab9001c28f10f74a8149acd|6. Informerende brief aan gemeenteraadsleden Westfriesland namens DeSom en WerkSaam|Ingekomen stukken · afgedaan 2026-12-15",
       "removed": "2026-11-24T19:16:49+00:00",
       "changes": [
@@ -14899,9 +14914,9 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-24",
       "go_seen": true,
-      "missing_count": 14,
+      "missing_count": 15,
       "text_hash": "14a8db07fcc9b6f62879d8ab8aec79fe20dee968141416fa1069b91e76d9fa26",
-      "content_checked": "2026-11-27T22:01:33+00:00",
+      "content_checked": "2026-11-28T04:16:57+00:00",
       "kw_sig": "4f53cda18c2b|14a8db07fcc9b6f62879d8ab8aec79fe20dee968141416fa1069b91e76d9fa26|5. WPM notitie - Wanneer krijgt de burger duidelijkheid?|Ingekomen stukken · afgedaan 2026-11-24",
       "removed": "2026-11-24T19:16:49+00:00",
       "changes": [
@@ -14933,9 +14948,9 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-24",
       "go_seen": true,
-      "missing_count": 14,
+      "missing_count": 15,
       "text_hash": "36cbb1cce1f026a3aa5e5826685db5351b451ccc6ef776bb41ee47419c462e70",
-      "content_checked": "2026-11-27T22:01:29+00:00",
+      "content_checked": "2026-11-28T04:16:54+00:00",
       "kw_sig": "4f53cda18c2b|36cbb1cce1f026a3aa5e5826685db5351b451ccc6ef776bb41ee47419c462e70|13. Brief Stichting Arbeidsmigratie werkt - Publicatie Arbeidsmigratie Werkt|Ingekomen stukken · afgedaan 2026-12-15",
       "removed": "2026-11-24T19:16:48+00:00",
       "changes": [
@@ -14967,9 +14982,9 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-24",
       "go_seen": true,
-      "missing_count": 14,
+      "missing_count": 15,
       "text_hash": "a72a9cff117efca0c16e8b003b637ec588cdba0b0f54e8a85cd7b5f614262816",
-      "content_checked": "2026-11-27T22:01:27+00:00",
+      "content_checked": "2026-11-28T04:16:53+00:00",
       "kw_sig": "4f53cda18c2b|a72a9cff117efca0c16e8b003b637ec588cdba0b0f54e8a85cd7b5f614262816|14. Ledenbrief VNG - Lbr. 26/048 - Controleer begrenzing stedelijke ecosystemen en ondersteuning gemeenten|Ingekomen stukken · afgedaan 2026-12-15",
       "removed": "2026-11-24T19:16:47+00:00",
       "changes": [
@@ -15001,9 +15016,9 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-24",
       "go_seen": true,
-      "missing_count": 14,
+      "missing_count": 15,
       "text_hash": "582b8f1ec251d0a76424a2f74d9ec0c708fc8bc3993b31178425b78cfcb69e4e",
-      "content_checked": "2026-11-27T22:01:24+00:00",
+      "content_checked": "2026-11-28T04:16:50+00:00",
       "kw_sig": "4f53cda18c2b|582b8f1ec251d0a76424a2f74d9ec0c708fc8bc3993b31178425b78cfcb69e4e|5. WPM-notitie_ wanneer krijgt de burger duidelijkheid|Ingekomen stukken · afgedaan 2026-12-15",
       "removed": "2026-11-24T19:16:44+00:00",
       "changes": [
@@ -15035,9 +15050,9 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-24",
       "go_seen": true,
-      "missing_count": 14,
+      "missing_count": 15,
       "text_hash": "413536b6b73c6411daf2c9535a89ac8b9bf7b84d78fd69556807a66ac0102dd7",
-      "content_checked": "2026-11-27T22:01:22+00:00",
+      "content_checked": "2026-11-28T04:16:48+00:00",
       "kw_sig": "4f53cda18c2b|413536b6b73c6411daf2c9535a89ac8b9bf7b84d78fd69556807a66ac0102dd7|10. Raadsbrief Energiebesparingsakkoord|Raadsbrief · afgedaan 2026-12-15",
       "removed": "2026-11-24T19:16:43+00:00",
       "changes": [
@@ -15069,9 +15084,9 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-24",
       "go_seen": true,
-      "missing_count": 14,
+      "missing_count": 15,
       "text_hash": "3e29cb7b3d4879547b26b85e2ff6e2d05ca045922e80a7a47fd1b34bace98451",
-      "content_checked": "2026-11-27T22:01:25+00:00",
+      "content_checked": "2026-11-28T04:16:51+00:00",
       "kw_sig": "4f53cda18c2b|3e29cb7b3d4879547b26b85e2ff6e2d05ca045922e80a7a47fd1b34bace98451|9. Raadsbrief Energiebesparing Schepenwijk en Krabbersplaat|Raadsbrief · afgedaan 2026-12-15",
       "removed": "2026-11-24T19:16:43+00:00",
       "changes": [
@@ -15103,9 +15118,9 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-24",
       "go_seen": true,
-      "missing_count": 14,
+      "missing_count": 15,
       "text_hash": "db1fa58735a9e9453fc5463e688bd72426b1f52822b5141c74017e7923e95963",
-      "content_checked": "2026-11-27T22:01:20+00:00",
+      "content_checked": "2026-11-28T04:16:47+00:00",
       "kw_sig": "4f53cda18c2b|db1fa58735a9e9453fc5463e688bd72426b1f52822b5141c74017e7923e95963|11. Raadsbrief Spreekuur WerkSaam Enkhuizen|Raadsbrief · afgedaan 2026-12-15",
       "removed": "2026-11-24T19:16:42+00:00",
       "changes": [
@@ -15137,9 +15152,9 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-24",
       "go_seen": true,
-      "missing_count": 14,
+      "missing_count": 15,
       "text_hash": "8efe707849645fcc9b84a3f340f782c59175f7cba8af656d7d415b39604c1ea3",
-      "content_checked": "2026-11-27T22:01:23+00:00",
+      "content_checked": "2026-11-28T04:16:49+00:00",
       "kw_sig": "4f53cda18c2b|8efe707849645fcc9b84a3f340f782c59175f7cba8af656d7d415b39604c1ea3|12. Raadsbrief voortgang project Gommerwijk West|Raadsbrief · afgedaan 2026-12-15",
       "removed": "2026-11-24T19:16:41+00:00",
       "changes": [
@@ -15205,9 +15220,9 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-24",
       "go_seen": true,
-      "missing_count": 14,
+      "missing_count": 15,
       "text_hash": "db007d531eef084261b8bad69d305c05bfa03865c2b58e61d29afeef5f57094e",
-      "content_checked": "2026-11-27T22:01:21+00:00",
+      "content_checked": "2026-11-28T04:16:47+00:00",
       "kw_sig": "4f53cda18c2b|db007d531eef084261b8bad69d305c05bfa03865c2b58e61d29afeef5f57094e|8. Raadsbrief bepaling betaald parkeergebieden|Raadsbrief · afgedaan 2026-12-15",
       "removed": "2026-11-24T19:16:40+00:00",
       "changes": [
@@ -15239,9 +15254,9 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-24",
       "go_seen": true,
-      "missing_count": 14,
+      "missing_count": 15,
       "text_hash": "0e09161d2aa1c164178941ccc83448d582cd34ee8da35c03f9d2fcce5b214004",
-      "content_checked": "2026-11-27T22:01:19+00:00",
+      "content_checked": "2026-11-28T04:16:46+00:00",
       "kw_sig": "4f53cda18c2b|0e09161d2aa1c164178941ccc83448d582cd34ee8da35c03f9d2fcce5b214004|15. Raadsbrief Aanbieden onderzoeksrapport Synarchis met betrekking tot exploitatie Hertenkamp|Raadsbrief · afgedaan 2026-12-15",
       "removed": "2026-11-24T19:16:39+00:00",
       "changes": [
@@ -16795,7 +16810,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "7750352a7f237896a50f3e34a373852dc4bcec5a654bddf098d9fc7affe55d54",
-      "content_checked": "2026-11-27T22:01:46+00:00",
+      "content_checked": "2026-11-28T04:17:08+00:00",
       "kw_sig": "4f53cda18c2b|7750352a7f237896a50f3e34a373852dc4bcec5a654bddf098d9fc7affe55d54|Art. 34 RvO Verzoek tot inzage van alle gerelateerde stukken inzake het 15 jarig onderhoud Dr. Singelenbergpark|Schriftelijke vragen · portefeuillehouder Sjon Wagenaar · planning 2026-11-23",
       "changes": [
         {
@@ -17604,7 +17619,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "39db2bab7aae45e47a13b8695bd8fa4914cc888b619505bafc74efc76a827f1f",
-      "content_checked": "2026-11-27T22:01:45+00:00",
+      "content_checked": "2026-11-28T04:17:07+00:00",
       "kw_sig": "4f53cda18c2b|39db2bab7aae45e47a13b8695bd8fa4914cc888b619505bafc74efc76a827f1f|Motie \"een aanval op één is een aanval op allen\"|Ingekomen stukken"
     },
     "d69f90faa1f18fc0d196806ca93eab243e789be576fe1ce39eefd30aeec88ea7": {
@@ -17627,7 +17642,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "fbe2df48e21f25938c7de360ed22a11642a82c0934283c65d285c4a2cdedbfc0",
-      "content_checked": "2026-11-27T22:01:47+00:00",
+      "content_checked": "2026-11-28T04:17:09+00:00",
       "kw_sig": "4f53cda18c2b|fbe2df48e21f25938c7de360ed22a11642a82c0934283c65d285c4a2cdedbfc0|Mail inzake nieuwbouwplan Zuidereiland Zuiderdracht|Ingekomen stukken"
     },
     "ec119fe4789aee6a505fb6dcf95da874b88f94e370227d8f9e1ef5cd3784d173": {
@@ -17650,7 +17665,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "1c85512bb02a7164a1627ea9f2a24b2df5a6782dcad222fec4e7bb640d42fa6d",
-      "content_checked": "2026-11-27T22:01:48+00:00",
+      "content_checked": "2026-11-28T04:17:10+00:00",
       "kw_sig": "4f53cda18c2b|1c85512bb02a7164a1627ea9f2a24b2df5a6782dcad222fec4e7bb640d42fa6d|Slimme Logistiek - Sterke Gemeente Transport en Logistiek Nederland|Ingekomen stukken"
     },
     "5fe6c51bf0394071188a28b1732d66737b78ea2680c854ac0c9d07f59f9d12c9": {
@@ -17814,7 +17829,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "65094a5020c33384822747141bef1243868d0677010d855d1560766d4e3a709e",
-      "content_checked": "2026-11-27T22:01:49+00:00",
+      "content_checked": "2026-11-28T04:17:11+00:00",
       "kw_sig": "4f53cda18c2b|65094a5020c33384822747141bef1243868d0677010d855d1560766d4e3a709e|Raadsbrief Beantwoording raadsvragen CDA over de Nieuweweg|Raadsbrief"
     },
     "fc8d0ef85e2caab320d9c99722940b27925791b0cde03963656605657955e155": {
@@ -18090,7 +18105,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "2a562cab24559e06a0155bdd5334dadb49ae6b370f0ef52c5cb98b832a1d21c8",
-      "content_checked": "2026-11-27T22:01:34+00:00",
+      "content_checked": "2026-11-28T04:16:58+00:00",
       "kw_sig": "4f53cda18c2b|2a562cab24559e06a0155bdd5334dadb49ae6b370f0ef52c5cb98b832a1d21c8|Beantwoording toezeggingen inzake status, planning en het budget van de herinrichting van de Nieuweweg.|Ingekomen stukken · portefeuillehouder Idso Brouwer · afgedaan 2026-11-19"
     },
     "4ff8061308435a8dcfad0f3d15fe69ef05ca4fa81d8ecf5bc1b78680cedbbd95": {
@@ -18113,7 +18128,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "b2bc6f0b91e14ba627f87da40eabb4f65587e787a6b0f5fccc8a57af381c4ca6",
-      "content_checked": "2026-11-27T22:01:37+00:00",
+      "content_checked": "2026-11-28T04:17:01+00:00",
       "kw_sig": "4f53cda18c2b|b2bc6f0b91e14ba627f87da40eabb4f65587e787a6b0f5fccc8a57af381c4ca6|Voorgenomen verkeersmaatregelen Dorpsweg Schellinkhout|Ingekomen stukken"
     },
     "685eada83fe0a6b0c84dce1b85c59c417d5ee0b895221f1c387b8bf2a2724dcb": {
@@ -18458,7 +18473,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "6feea50283b63cf9816b5e488db74509720e3987f816b11ed7e26120a9808eba",
-      "content_checked": "2026-11-27T22:01:41+00:00",
+      "content_checked": "2026-11-28T04:17:04+00:00",
       "kw_sig": "4f53cda18c2b|6feea50283b63cf9816b5e488db74509720e3987f816b11ed7e26120a9808eba|Schriftelijke vragen GBD - Aanvullende vragen (her)inrichtingSchoolzones|Schriftelijke vragen · portefeuillehouder M.H. Have · planning 2026-12-16"
     },
     "af853011d0374e6b1f1d8c753aa49a32457792ad8871c267e9c7e3169d46f204": {
@@ -18481,7 +18496,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "11bf4d135d2ae969656ca48ec38e531a0b12b7fa992e40d579a0a3132121b20f",
-      "content_checked": "2026-11-27T22:01:43+00:00",
+      "content_checked": "2026-11-28T04:17:06+00:00",
       "kw_sig": "4f53cda18c2b|11bf4d135d2ae969656ca48ec38e531a0b12b7fa992e40d579a0a3132121b20f|Schriftelijke vragen CDA Drechterland Nieuweweg|Schriftelijke vragen · portefeuillehouder Idso Brouwer · afgedaan 2026-11-17"
     },
     "767d4ce6076180c4149bc5c53195595c55fb53e2f3211572216f44a6fac2ec37": {
@@ -18641,7 +18656,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "e264eb577067eec9add12425b0071adf3314e2b9553178a8ded0854ee8fc3d82",
-      "content_checked": "2026-11-27T22:01:38+00:00",
+      "content_checked": "2026-11-28T04:17:02+00:00",
       "kw_sig": "4f53cda18c2b|e264eb577067eec9add12425b0071adf3314e2b9553178a8ded0854ee8fc3d82|Raadsbrief Cliëntgebonden Kosten|Raadsbrief · afgedaan 2026-11-18"
     },
     "f95d6e711205ad6b0518aa125bf7a970f7e79fb1d1a4eb84684721e6aee63d64": {
@@ -18664,7 +18679,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "806fc9933e61cf6dc30aaad9e21eb2af35aac4b225aa8cf5402f6a6938d8b9ad",
-      "content_checked": "2026-11-27T22:01:39+00:00",
+      "content_checked": "2026-11-28T04:17:02+00:00",
       "kw_sig": "4f53cda18c2b|806fc9933e61cf6dc30aaad9e21eb2af35aac4b225aa8cf5402f6a6938d8b9ad|Raadsbrief toewijzing nieuwbouwwoningen Molenhof en Laloe|Raadsbrief · afgedaan 2026-11-18"
     },
     "ca3189e86e6c70b4353515e016f823897227d38d8061670a642d455dd3597c47": {
@@ -18687,7 +18702,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "ccfea0d6ad8e691eaa4ba0387ff5313cff44aa9cf7a2197c1e7439733af2af82",
-      "content_checked": "2026-11-27T22:01:40+00:00",
+      "content_checked": "2026-11-28T04:17:03+00:00",
       "kw_sig": "4f53cda18c2b|ccfea0d6ad8e691eaa4ba0387ff5313cff44aa9cf7a2197c1e7439733af2af82|Raadsbrief stand van zaken Multifunctionele Accommodaties Westwoud en Schellinkhout|Raadsbrief · afgedaan 2026-11-18"
     },
     "119736999d6e489c316d53d176ae55603157646508f6ed7e06a0d26df84c322b": {
@@ -18730,7 +18745,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "beb92bacbb4db01a53e0d40b5caf372fe7af51868f19ac6be4ed13a99bb01473",
-      "content_checked": "2026-11-27T22:01:35+00:00",
+      "content_checked": "2026-11-28T04:16:59+00:00",
       "kw_sig": "4f53cda18c2b|beb92bacbb4db01a53e0d40b5caf372fe7af51868f19ac6be4ed13a99bb01473|4. Ledenbrief VNG - Lbr. 26/047 - Uitnodiging Najaars ALV 11 december 2026|Ingekomen stukken · afgedaan 2026-12-15"
     },
     "07e2b7b0f4ad9ce3d9c2b2df309c6d1075827e527ff64a4a849b3b0193b00310": {
@@ -18753,7 +18768,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "f6fa3d5908c09e9bff2c3629da75cfc5dee109a32446f4e39f801b484c8d12df",
-      "content_checked": "2026-11-27T22:01:36+00:00",
+      "content_checked": "2026-11-28T04:17:00+00:00",
       "kw_sig": "4f53cda18c2b|f6fa3d5908c09e9bff2c3629da75cfc5dee109a32446f4e39f801b484c8d12df|2 . Ledenbrief VNG - Lbr. 26/046 - Model beleidsregels schuldhulpverlening|Ingekomen stukken · afgedaan 2026-12-15"
     },
     "24b2a7a3c79c177fe76492c905de4154a9d377c251927adbfab20e7b79317274": {
@@ -18776,7 +18791,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "049f6ac7e806ddee08391b4d27e1a42f5db498e06f9f54a685594f38b14a60cc",
-      "content_checked": "2026-11-27T22:01:42+00:00",
+      "content_checked": "2026-11-28T04:17:05+00:00",
       "kw_sig": "4f53cda18c2b|049f6ac7e806ddee08391b4d27e1a42f5db498e06f9f54a685594f38b14a60cc|1. Brief Westfriesland - Agrarische sector stikstofmaatregelen Westfriesland|Ingekomen stukken · afgedaan 2026-12-15"
     },
     "321fc9eeaff3653ea27bf94c1094205123c96c7982f79aff1492ab69ce14fa0b": {
@@ -19374,7 +19389,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "9e4d965e8046d661ae94a787cb2480aa2e716b3a32cd1e095b50bb871f5a7957",
-      "content_checked": "2026-11-27T22:01:30+00:00",
+      "content_checked": "2026-11-28T04:16:55+00:00",
       "kw_sig": "4f53cda18c2b|9e4d965e8046d661ae94a787cb2480aa2e716b3a32cd1e095b50bb871f5a7957|Schriftelijke vragen SGP - Parkeerbeleid|Schriftelijke vragen · afgedaan 2026-11-19"
     },
     "c05e4e831cbae78568645295220c6d0b839cca3d14297863a4363ddd04267654": {
@@ -19396,7 +19411,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "2911c34d4fc3def494617eb1b5c96e1b4be4ab16faa4fa68d46e35f86d05c125",
-      "content_checked": "2026-11-27T22:01:32+00:00",
+      "content_checked": "2026-11-28T04:16:56+00:00",
       "kw_sig": "4f53cda18c2b|2911c34d4fc3def494617eb1b5c96e1b4be4ab16faa4fa68d46e35f86d05c125|Schriftelijke vragen HEA - WMO afspraken en evaluatie|Schriftelijke vragen · portefeuillehouder M. Ven · planning 2026-12-17"
     },
     "e995e96c6d73f1f85123d732b0e15f1d7b88f0a88c20bffebc6af02b6458aed7": {
@@ -19419,7 +19434,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "c954fcd65081e49c846953d249b5344bdcf628669968b7d1f50356ce5bf4eeb0",
-      "content_checked": "2026-11-27T22:01:44+00:00",
+      "content_checked": "2026-11-28T04:17:07+00:00",
       "kw_sig": "4f53cda18c2b|c954fcd65081e49c846953d249b5344bdcf628669968b7d1f50356ce5bf4eeb0|Schriftelijke vragen CDA Hitteplan en beschikbaar maken koelteplekken in Enkhuizen bij extreme hitte (code rood)|Schriftelijke vragen · afgedaan 2026-11-13"
     },
     "3e332e8881b6619e0ff46315bb7da5ec3d0c1180cf5560ea87b8e17951c8d936": {
@@ -19576,7 +19591,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "aa41717c0652cd8b4a04ee6c503ca3a2b823e9f82f16217c2d761e3d8b3c18ff",
-      "content_checked": "2026-11-27T22:01:26+00:00",
+      "content_checked": "2026-11-28T04:16:52+00:00",
       "kw_sig": "4f53cda18c2b|aa41717c0652cd8b4a04ee6c503ca3a2b823e9f82f16217c2d761e3d8b3c18ff|3. Raadsbrief - vervolg CUP-proces|Raadsbrief · afgedaan 2026-12-15"
     },
     "60a8fa2827a558ddc410f1fc986b6736f53ce01c8dbb0bac2fcd251b4a994b6b": {
@@ -22397,7 +22412,7 @@
       "excerpt": "Rondetafelgesprekken 30 november 2026 20:00 · agendapunt 2 Vaststellen belastingverordeningen 2026 (2026-55) · Verordening",
       "missing_count": 0,
       "text_hash": "6506ce3bad8318c2bc950292a4e98c0841146d4b039ae3758430ae7efe3313b2",
-      "content_checked": "2026-11-27T22:01:50+00:00",
+      "content_checked": "2026-11-28T04:17:12+00:00",
       "kw_sig": "4f53cda18c2b|6506ce3bad8318c2bc950292a4e98c0841146d4b039ae3758430ae7efe3313b2|8. Legesverordening Drechterland 2027|Rondetafelgesprekken 30 november 2026 20:00 · agendapunt 2 Vaststellen belastingverordeningen 2026 (2026-55) · Verordening"
     },
     "9478e7265880b4e1442aa4a3e6370199b4169e92d9c22ce93a442891ff41ff07": {
@@ -22428,7 +22443,7 @@
       "excerpt": "Rondetafelgesprekken 30 november 2026 20:00 · agendapunt 2 Vaststellen belastingverordeningen 2026 (2026-55) · Verordening",
       "missing_count": 0,
       "text_hash": "df95287c61e70f8f814d4a5bd533d16d358d6b270c2187faf88fa3a9f4fdcc83",
-      "content_checked": "2026-11-27T22:01:53+00:00",
+      "content_checked": "2026-11-28T04:17:13+00:00",
       "kw_sig": "4f53cda18c2b|df95287c61e70f8f814d4a5bd533d16d358d6b270c2187faf88fa3a9f4fdcc83|8.1 Tarieventabel behorende bij de legesverordening Drechterland 2027|Rondetafelgesprekken 30 november 2026 20:00 · agendapunt 2 Vaststellen belastingverordeningen 2026 (2026-55) · Verordening"
     },
     "9f8c2eba3c8fe8812102df864707c5985dd8f979989c1c6816faf003b6542a7b": {
@@ -22459,7 +22474,7 @@
       "excerpt": "Rondetafelgesprekken 30 november 2026 20:00 · agendapunt 2 Vaststellen belastingverordeningen 2026 (2026-55) · Verordening",
       "missing_count": 0,
       "text_hash": "816d5a05f57bb8b4a1f7458e050d40a10c2a7f0cc68c3ac1ec7805cf706f9267",
-      "content_checked": "2026-11-27T22:01:54+00:00",
+      "content_checked": "2026-11-28T04:17:14+00:00",
       "kw_sig": "4f53cda18c2b|816d5a05f57bb8b4a1f7458e050d40a10c2a7f0cc68c3ac1ec7805cf706f9267|8.2 Overzicht wijzigingen Legestabel 2027|Rondetafelgesprekken 30 november 2026 20:00 · agendapunt 2 Vaststellen belastingverordeningen 2026 (2026-55) · Verordening"
     },
     "03d46c44058917b0dbfbb7b768333f6fe0d3f117b15be67e7a978b95bbe1c095": {
@@ -57322,7 +57337,7 @@
       "kind": "vergadering",
       "doc_date": "2026-10-01",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "kw_sig": "4f53cda18c2b||Themabijeenkomst 1 oktober 2026 20:00|"
     },
     "784578fe4109605022607846e0475255c1cc6b89e2805ca04a58f336809cfd2c": {
@@ -83405,14 +83420,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-28T04:00:51+00:00",
+        "checked": "2026-11-28T04:15:37+00:00",
         "ok": true,
         "count": 33,
         "new": 0,
         "note": "Laatste 30 dagen: 33 van 33 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-28T04:00:54+00:00",
+        "checked": "2026-11-28T04:15:39+00:00",
         "ok": true,
         "count": 65,
         "new": 0,
@@ -83420,29 +83435,29 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-28T04:00:54+00:00",
+        "checked": "2026-11-28T04:15:39+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-28T04:00:55+00:00",
+        "checked": "2026-11-28T04:15:40+00:00",
         "ok": true,
         "count": 108,
         "new": 0,
         "note": "Laatste 30 dagen: 108 van 108 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-28T04:00:56+00:00",
+        "checked": "2026-11-28T04:15:57+00:00",
         "ok": true,
-        "count": 1,
+        "count": 2,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 1 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-29 en 2027-01-12, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-29 en 2027-01-12, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-28T04:01:07+00:00",
+        "checked": "2026-11-28T04:16:06+00:00",
         "ok": true,
         "count": 67,
         "new": 0,
@@ -83450,12 +83465,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-28T04:01:07+00:00",
+        "checked": "2026-11-28T04:16:06+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-28T04:01:04+00:00",
+        "checked": "2026-11-28T04:16:04+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -83465,22 +83480,22 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-28T04:01:07+00:00",
+        "checked": "2026-11-28T04:16:07+00:00",
         "ok": true,
         "count": 52,
         "new": 0,
         "note": "Laatste 30 dagen: 52 van 52 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-28T04:01:10+00:00",
+        "checked": "2026-11-28T04:16:26+00:00",
         "ok": true,
-        "count": 2,
+        "count": 5,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-29 en 2027-01-12, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 5 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-29 en 2027-01-12, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-28T04:01:18+00:00",
+        "checked": "2026-11-28T04:16:33+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -83488,12 +83503,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-28T04:01:18+00:00",
+        "checked": "2026-11-28T04:16:33+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-28T04:01:16+00:00",
+        "checked": "2026-11-28T04:16:30+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -83503,7 +83518,7 @@
     },
     "algemeen": {
       "Woo-publicaties": {
-        "checked": "2026-11-28T03:16:32+00:00",
+        "checked": "2026-11-28T04:16:43+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -83511,25 +83526,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-28T04:01:18+00:00",
+        "checked": "2026-11-28T04:16:43+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-28T04:02:01+00:00",
+        "checked": "2026-11-28T04:17:19+00:00",
         "ok": true,
-        "count": 36,
+        "count": 37,
         "errors": 0,
-        "note": "36 documenten gecontroleerd (22 pdf), 601 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "37 documenten gecontroleerd (3 pdf), 601 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-28T04:02:01+00:00",
+        "checked": "2026-11-28T04:17:19+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-28T04:02:01+00:00",
+        "checked": "2026-11-28T04:17:19+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -83704,7 +83719,7 @@
         ]
       },
       "/Vergaderingen/Commissie-Bestuur-Openbare-Orde-en-Veiligheid-Erfgoed-Grondgebied-BOEG/2026/30-november/20:00": {
-        "checked": "2026-11-28T03:45:49+00:00",
+        "checked": "2026-11-28T04:15:56+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Bestuur Openbare Orde en Veiligheid Erfgoed Grondgebied BOEG",
         "date": "2026-11-30",
@@ -83775,7 +83790,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Commissie-Sociaal-Domein-Financien-Bedrijfsvoering-SFB/2026/01-december/20:00": {
-        "checked": "2026-11-28T03:45:50+00:00",
+        "checked": "2026-11-28T04:15:57+00:00",
         "gemeente": "enkhuizen",
         "type": "Commissie Sociaal Domein Financien Bedrijfsvoering SFB",
         "date": "2026-12-01",
@@ -84040,7 +84055,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Rondetafelgesprekken/2026/30-november/20:00": {
-        "checked": "2026-11-28T03:46:15+00:00",
+        "checked": "2026-11-28T04:16:22+00:00",
         "gemeente": "drechterland",
         "type": "Rondetafelgesprekken",
         "date": "2026-11-30",
@@ -84080,7 +84095,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/14-december/20:00": {
-        "checked": "2026-11-28T03:46:13+00:00",
+        "checked": "2026-11-28T04:16:20+00:00",
         "gemeente": "drechterland",
         "type": "Raadsvergadering",
         "date": "2026-12-14",
@@ -84089,7 +84104,7 @@
         "agenda": []
       },
       "/Vergaderingen/Themabijeenkomst/2026/03-december/20:00": {
-        "checked": "2026-11-28T03:46:18+00:00",
+        "checked": "2026-11-28T04:16:25+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-12-03",
@@ -84150,7 +84165,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Themabijeenkomst/2026/01-oktober/20:00": {
-        "checked": "2026-11-27T22:01:08+00:00",
+        "checked": "2026-11-28T04:16:26+00:00",
         "gemeente": "drechterland",
         "type": "Themabijeenkomst",
         "date": "2026-10-01",
@@ -84161,7 +84176,7 @@
         ]
       },
       "/Vergaderingen/Verdiepende-sessie/2026/03-december/20:00": {
-        "checked": "2026-11-28T03:46:14+00:00",
+        "checked": "2026-11-28T04:16:21+00:00",
         "gemeente": "drechterland",
         "type": "Verdiepende sessie",
         "date": "2026-12-03",
@@ -84189,11 +84204,11 @@
       }
     },
     "go_listed": {
-      "enkhuizen": "2026-11-28T03:45:48+00:00",
-      "drechterland": "2026-11-28T03:46:13+00:00"
+      "enkhuizen": "2026-11-28T04:15:55+00:00",
+      "drechterland": "2026-11-28T04:16:20+00:00"
     },
     "elders": {
-      "woo": "2026-11-28T03:16:25+00:00"
+      "woo": "2026-11-28T04:16:33+00:00"
     },
     "termijn_v1": true,
     "keywords": {
