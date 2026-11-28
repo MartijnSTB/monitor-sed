@@ -5502,7 +5502,7 @@
       "last_seen": "2026-11-28",
       "missing_count": 0,
       "text_hash": "684fe5ba4f3b3e4782d241bdbb7c3fdc1224ba62713163de857209d5151ba6db",
-      "content_checked": "2026-11-28T06:31:18+00:00",
+      "content_checked": "2026-11-28T12:31:34+00:00",
       "kw_sig": "4f53cda18c2b|684fe5ba4f3b3e4782d241bdbb7c3fdc1224ba62713163de857209d5151ba6db|De schop de grond in voor de plant-estafette|Op dinsdag 22 november vond de GroenSpoor plant-estafette plaats. Dit jaar gingen we aan de slag in Grootebroek. De leerlingen van groep 3-4 van de Gideonschool en leerlingen van Vonk hebben aan de Burg. JN Stuifberglaan een vogelbosje met heesters geplant. En daar zijn bijen, vlinders en vogels erg blij…",
       "changes": [
         {
@@ -14889,9 +14889,9 @@
       "doc_date_label": "bijgewerkt",
       "last_seen": "2026-11-24",
       "go_seen": true,
-      "missing_count": 15,
+      "missing_count": 16,
       "text_hash": "287bcec90c7f4299665b463efa34c8a4f92e61dccd6891e6090809ffc95de2d7",
-      "content_checked": "2026-11-28T06:31:19+00:00",
+      "content_checked": "2026-11-28T12:31:35+00:00",
       "kw_sig": "4f53cda18c2b|287bcec90c7f4299665b463efa34c8a4f92e61dccd6891e6090809ffc95de2d7|17. Brief inwoner Enkhuizen - Komst kinderspeelplaats|Ingekomen stukken · afgedaan 2026-12-15",
       "removed": "2026-11-24T21:46:42+00:00",
       "changes": [
@@ -15905,7 +15905,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "033f3b8533319048531b5a8f7d0e3e338f2cf8557754be5f15440ae10c2fe628",
-      "content_checked": "2026-11-28T06:31:22+00:00",
+      "content_checked": "2026-11-28T12:31:38+00:00",
       "kw_sig": "4f53cda18c2b|033f3b8533319048531b5a8f7d0e3e338f2cf8557754be5f15440ae10c2fe628|Brief inzake voorgenomen verkeersbeperkende maatregelen op de Dorpsweg te Schellinkhout.|Ingekomen stukken"
     },
     "6a19920d545395e9961c636156c005a93bd642b3c18effa555628a08e9833f25": {
@@ -15928,7 +15928,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "d88ca1d00ad2cff0f3a964c36089c4b710effd9e908d7b41fbd4ce6f1506b214",
-      "content_checked": "2026-11-28T06:31:20+00:00",
+      "content_checked": "2026-11-28T12:31:36+00:00",
       "kw_sig": "4f53cda18c2b|d88ca1d00ad2cff0f3a964c36089c4b710effd9e908d7b41fbd4ce6f1506b214|Mail inzake Woningbouwontwikkeling Zuiderdracht|Ingekomen stukken"
     },
     "2c67c7c9ba6d03ca3ca51499d923818926466c7037d0fecaf416735ec7bf6506": {
@@ -15951,7 +15951,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "7f6be0b02bc9a258ba81bed4505044bbd5358227b65e283f3c3a8763ef1b7b4d",
-      "content_checked": "2026-11-28T06:31:22+00:00",
+      "content_checked": "2026-11-28T12:31:39+00:00",
       "kw_sig": "4f53cda18c2b|7f6be0b02bc9a258ba81bed4505044bbd5358227b65e283f3c3a8763ef1b7b4d|De Politieke schoolkrant, editie december|Ingekomen stukken"
     },
     "32bb47c8afd3da9a6a1377e95d699945b525ec0684e9583574c4d8fcda0ab706": {
@@ -15974,7 +15974,7 @@
       "go_seen": true,
       "missing_count": 0,
       "text_hash": "88f1c0254bb3697388f92adb1acc3e856934f6d002a3e593f9560e7e85b3f89c",
-      "content_checked": "2026-11-28T06:31:21+00:00",
+      "content_checked": "2026-11-28T12:31:37+00:00",
       "kw_sig": "4f53cda18c2b|88f1c0254bb3697388f92adb1acc3e856934f6d002a3e593f9560e7e85b3f89c|Toekomst van de zorg - lezing met Tommie Niessen op 11 december 2026|Ingekomen stukken"
     },
     "b01857f7c44333891243f89b70885773727537628590507f2433aaa5a0479270": {
@@ -18677,7 +18677,7 @@
       "kw_sig": "4f53cda18c2b|b45ddcf6d2a02ece9fa348a698d7c24145c63dfd1e2e0aad93f90f33ab237c8b|Schriftelijke vragen CDA – Overlast en vernielingen Hoogkarspel|Schriftelijke vragen · portefeuillehouder Bram Diepstraten",
       "missing_count": 0,
       "text_hash": "b45ddcf6d2a02ece9fa348a698d7c24145c63dfd1e2e0aad93f90f33ab237c8b",
-      "content_checked": "2026-11-27T12:31:14+00:00"
+      "content_checked": "2026-11-28T12:31:23+00:00"
     },
     "d5f594db4c9ad443d162137095be5f6f12e1d9f484dbd2c524f0417d14010ac8": {
       "title": "PDL Schriftelijke vragen betreffende het rooien van het Voedselbos in Schellinkhout.",
@@ -18700,7 +18700,7 @@
       "kw_sig": "4f53cda18c2b|e76b9288126336bff41d6402f6b3a0acc55f92219795e071c6018bc23193696b|PDL Schriftelijke vragen betreffende het rooien van het Voedselbos in Schellinkhout.|Schriftelijke vragen · portefeuillehouder Sjon Wagenaar · afgedaan 2026-11-06",
       "missing_count": 0,
       "text_hash": "e76b9288126336bff41d6402f6b3a0acc55f92219795e071c6018bc23193696b",
-      "content_checked": "2026-11-27T12:31:15+00:00"
+      "content_checked": "2026-11-28T12:31:24+00:00"
     },
     "36f14c65a0823398b99add882815e42c0d253cc5449ffa3da73f6055365322e9": {
       "title": "Schriftelijke vragen VVD Verkeerssituatie bij de Westwijzer",
@@ -18723,7 +18723,7 @@
       "kw_sig": "4f53cda18c2b|fe33782e67a9961f7799e9f6ecbfc20ab0c644c3cb0ca7ae188b12030b084d08|Schriftelijke vragen VVD Verkeerssituatie bij de Westwijzer|Schriftelijke vragen · portefeuillehouder M.H. Have · afgedaan 2026-11-05",
       "missing_count": 0,
       "text_hash": "fe33782e67a9961f7799e9f6ecbfc20ab0c644c3cb0ca7ae188b12030b084d08",
-      "content_checked": "2026-11-27T12:31:19+00:00"
+      "content_checked": "2026-11-28T12:31:29+00:00"
     },
     "80e929d57d7287b8cda916d1a426712bf2fa861db5c5c9f83ca1a45920bcba11": {
       "title": "Schriftelijke vragen CDA gewichtsbeperking Houtribdijk",
@@ -18746,7 +18746,7 @@
       "kw_sig": "4f53cda18c2b|88679a376aef494af5665088e6fc7f81d1363661182fd3bb363e60bf5bca6145|Schriftelijke vragen CDA gewichtsbeperking Houtribdijk|Schriftelijke vragen · portefeuillehouder Idso Brouwer · afgedaan 2026-11-05",
       "missing_count": 0,
       "text_hash": "88679a376aef494af5665088e6fc7f81d1363661182fd3bb363e60bf5bca6145",
-      "content_checked": "2026-11-27T12:31:20+00:00"
+      "content_checked": "2026-11-28T12:31:30+00:00"
     },
     "ffb3efa388e6ec414eab07eb16c6a83e9d870d777738a48bae21b04370df1e2f": {
       "title": "Schriftelijke vragen GBD - (Her)inrichtingSchoolzones",
@@ -18769,7 +18769,7 @@
       "kw_sig": "4f53cda18c2b|90da0df835fc890c7869cb6b2970e0971eea31ceba568d932b9dcf1911ec7920|Schriftelijke vragen GBD - (Her)inrichtingSchoolzones|Schriftelijke vragen · portefeuillehouder M.H. Have · afgedaan 2026-11-05",
       "missing_count": 0,
       "text_hash": "90da0df835fc890c7869cb6b2970e0971eea31ceba568d932b9dcf1911ec7920",
-      "content_checked": "2026-11-27T12:31:21+00:00"
+      "content_checked": "2026-11-28T12:31:31+00:00"
     },
     "646fd4240ea5c17215a956082f1cc938b92c560679dc504d0618121d7e3f4ae5": {
       "title": "Schriftelijke vragen PDL over kostenverhaal bij nieuwbouwprojecten",
@@ -18996,7 +18996,7 @@
       "kw_sig": "4f53cda18c2b|6fb98828bf7bf413d053591e8da75af6c86f9925f5cd95d105056c6ffebfdaca|10. Ledenbrief VNG - Lbr. 26/044 - Model Algemene plaatselijke verordening (nieuw model, november 2026)|Ingekomen stukken · afgedaan 2026-11-24",
       "missing_count": 0,
       "text_hash": "6fb98828bf7bf413d053591e8da75af6c86f9925f5cd95d105056c6ffebfdaca",
-      "content_checked": "2026-11-27T12:31:22+00:00"
+      "content_checked": "2026-11-28T12:31:32+00:00"
     },
     "c781f57d84f141cd27cb7cd99d41973f3278095ddf6e366a0397bb76e413584b": {
       "title": "Opdracht voor de herijking van het Sociaal Domein Enkhuizen 2026-2040",
@@ -19088,7 +19088,7 @@
       "kw_sig": "4f53cda18c2b|d0a118b7bd2e9db946d08229594d65b5f273d0b7f0b538c72531af009b886677|Amendement CDA - Beperking extra OZB-verhoging en zorgvuldige inzet Algemene Reserve|Amendement",
       "missing_count": 0,
       "text_hash": "d0a118b7bd2e9db946d08229594d65b5f273d0b7f0b538c72531af009b886677",
-      "content_checked": "2026-11-27T12:31:16+00:00"
+      "content_checked": "2026-11-28T12:31:25+00:00"
     },
     "e07428497916c20595dcb9b96075eaaa0b4bec6523979353058c34ba07d7e023": {
       "title": "Amendement SP - Stadskade",
@@ -19319,7 +19319,7 @@
       "kw_sig": "4f53cda18c2b|2d9e4cbfacb14e4ec2ad3fcf4bf33451ad96dc10ad00475978d8949af137843b|Technische vragen VVD Raadsvergadering Begroting 2027|Technische vragen · afgedaan 2026-11-06",
       "missing_count": 0,
       "text_hash": "2d9e4cbfacb14e4ec2ad3fcf4bf33451ad96dc10ad00475978d8949af137843b",
-      "content_checked": "2026-11-27T12:31:17+00:00"
+      "content_checked": "2026-11-28T12:31:27+00:00"
     },
     "8917ff85840c8a3176d00fef4629b9272f41446af0f30c8d2fd001fc2fc3ba50": {
       "title": "Technische vragen D66 Raadsvergadering Begroting 2027",
@@ -19682,7 +19682,7 @@
       "kw_sig": "4f53cda18c2b|75c885af6b4f16c4a6554f529b712f835d5468b700264fc23567a6f927a23fa3|Schriftelijke vragen CDA - verkeersveiligheid|Schriftelijke vragen · afgedaan 2026-11-06",
       "missing_count": 0,
       "text_hash": "75c885af6b4f16c4a6554f529b712f835d5468b700264fc23567a6f927a23fa3",
-      "content_checked": "2026-11-27T12:31:18+00:00"
+      "content_checked": "2026-11-28T12:31:28+00:00"
     },
     "6c24d58ca037e3bd4b375c6e09fea4f5aba340cb9303e5fd1af3d60783788d04": {
       "title": "Schriftelijke vragen D66 - Kostendeling",
@@ -83578,14 +83578,14 @@
   "status": {
     "stedebroec": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-28T12:15:32+00:00",
+        "checked": "2026-11-28T12:30:51+00:00",
         "ok": true,
         "count": 33,
         "new": 0,
         "note": "Laatste 30 dagen: 33 van 33 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Nieuws": {
-        "checked": "2026-11-28T12:15:34+00:00",
+        "checked": "2026-11-28T12:30:53+00:00",
         "ok": true,
         "count": 64,
         "new": 0,
@@ -83593,29 +83593,29 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-28T12:15:34+00:00",
+        "checked": "2026-11-28T12:30:53+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "enkhuizen": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-28T12:15:35+00:00",
+        "checked": "2026-11-28T12:30:54+00:00",
         "ok": true,
         "count": 108,
         "new": 0,
         "note": "Laatste 30 dagen: 108 van 108 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-28T12:15:53+00:00",
+        "checked": "2026-11-28T12:30:56+00:00",
         "ok": true,
-        "count": 2,
+        "count": 1,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 2 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-29 en 2027-01-12, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.enkhuizen.nl (GO. vergaderen). 1 vergaderpagina's bijgewerkt, 9 vergaderingen tussen 2026-09-29 en 2027-01-12, 95 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-28T12:16:03+00:00",
+        "checked": "2026-11-28T12:31:06+00:00",
         "ok": true,
         "count": 67,
         "new": 0,
@@ -83623,12 +83623,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-28T12:16:03+00:00",
-        "ok": true,
-        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
+        "checked": "2026-11-28T12:31:13+00:00",
+        "ok": false,
+        "error": "Google Nieuws gaf HTTP 503; 2 uur pauze"
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-28T12:16:00+00:00",
+        "checked": "2026-11-28T12:31:04+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -83638,22 +83638,22 @@
     },
     "drechterland": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-28T12:16:05+00:00",
+        "checked": "2026-11-28T12:31:14+00:00",
         "ok": true,
         "count": 52,
         "new": 0,
         "note": "Laatste 30 dagen: 52 van 52 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-28T12:16:23+00:00",
+        "checked": "2026-11-28T12:31:14+00:00",
         "ok": true,
-        "count": 4,
+        "count": 0,
         "new": 0,
         "error": null,
-        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 4 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-29 en 2027-01-12, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
+        "note": "gemeenteraad.drechterland.nl (GO. vergaderen). 0 vergaderpagina's bijgewerkt, 17 vergaderingen tussen 2026-09-29 en 2027-01-12, 144 documenten bekend. Komende drie weken elk half uur, de rest elke 6 uur."
       },
       "Nieuws": {
-        "checked": "2026-11-28T12:16:31+00:00",
+        "checked": "2026-11-28T12:31:22+00:00",
         "ok": true,
         "count": 66,
         "new": 0,
@@ -83661,12 +83661,12 @@
         "error": null
       },
       "In de media": {
-        "checked": "2026-11-28T12:16:31+00:00",
+        "checked": "2026-11-28T12:31:22+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       },
       "Raadsinstrumenten": {
-        "checked": "2026-11-28T12:16:29+00:00",
+        "checked": "2026-11-28T12:31:20+00:00",
         "ok": true,
         "count": 54,
         "new": 0,
@@ -83684,25 +83684,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-28T12:16:31+00:00",
+        "checked": "2026-11-28T12:31:22+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-28T12:16:33+00:00",
+        "checked": "2026-11-28T12:31:39+00:00",
         "ok": true,
-        "count": 2,
+        "count": 15,
         "errors": 0,
-        "note": "2 documenten gecontroleerd (0 pdf), 601 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "15 documenten gecontroleerd (0 pdf), 601 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-28T12:16:33+00:00",
+        "checked": "2026-11-28T12:31:39+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-28T12:16:33+00:00",
+        "checked": "2026-11-28T12:31:39+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -83726,7 +83726,7 @@
       }
     },
     "media": {
-      "pause_until": "2026-11-28T12:31:01+00:00"
+      "pause_until": "2026-11-28T14:31:06+00:00"
     },
     "go_meetings": {
       "/Vergaderingen/Raadsvergadering/2026/23-juni/20:00": {
@@ -83737,7 +83737,7 @@
         "tijd": "20:00"
       },
       "/Vergaderingen/Raadsvergadering/2026/15-december/20:00": {
-        "checked": "2026-11-28T12:00:58+00:00",
+        "checked": "2026-11-28T12:30:56+00:00",
         "gemeente": "enkhuizen",
         "type": "Raadsvergadering",
         "date": "2026-12-15",
